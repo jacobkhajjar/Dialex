@@ -25,7 +25,6 @@ def guess_lexical_sets(word, phones, verbose):
             next = None
             last = True
             
-
         # begin logic based on CMU ARPA
         match vowel.arpa:
     
@@ -84,7 +83,7 @@ def guess_lexical_sets(word, phones, verbose):
                 if vowel.is_stressed:
                     vowel.lexical_set = "STRUT"
                 else:
-                    vowel.lexical_set = "commA/STRUT"
+                    vowel.lexical_set = "commA"
             
             # THOUGHT/CLOTH/NORTH/FORCE -
             case "AO":
@@ -135,7 +134,7 @@ def guess_lexical_sets(word, phones, verbose):
                 elif vowel.is_stressed:
                     vowel.lexical_set = "DRESS"
                 else:
-                    vowel.lexical_set = "commA/DRESS"
+                    vowel.lexical_set = "commA"
             
             # NURSE/LETTER - COMPLETE
             case "ER":
@@ -156,13 +155,13 @@ def guess_lexical_sets(word, phones, verbose):
                     else:
                         vowel.lexical_set = "KIT"
                 else:
-                    vowel.lexical_set = "commA/KIT"
+                    vowel.lexical_set = "commA"
 
             # FLEECE / happY / commA / NEAR - assumes NEAR is never unstressed and FLEECE + R is always NEAR
             case "IY":
                 if not vowel.is_stressed:
                     if first:
-                        vowel.lexical_set = "commA/FLEECE"
+                        vowel.lexical_set = "commA"
                     else:
                         vowel.lexical_set = "happY"
                 elif next and next.arpa == "R":
@@ -187,7 +186,7 @@ def guess_lexical_sets(word, phones, verbose):
                 elif vowel.is_stressed:
                     vowel.lexical_set = "FOOT"
                 else:
-                    vowel.lexical_set = "commA/FOOT"
+                    vowel.lexical_set = "commA"
 
             # GOOSE/CURE - assumes GOOSE + R is always CURE
             case "UW":
@@ -196,7 +195,7 @@ def guess_lexical_sets(word, phones, verbose):
                 elif vowel.is_stressed:
                     vowel.lexical_set = "GOOSE"
                 else:
-                    vowel.lexical_set = "commA/GOOSE"
+                    vowel.lexical_set = "commA"
 
 def check_uk_dict(word, phones, vowel, next, verbose):
     if verbose:
@@ -225,17 +224,17 @@ def check_uk_dict(word, phones, vowel, next, verbose):
             case "AA":
                 if lexical_set == "ambiguous":
                     return "ambiguous LOT or PALM"
+                possible_lot = False
+                possible_palm = False
                 for transcription in transcriptions:
-                    if "OX" in transcription and "AA" not in transcription:
-                        if lexical_set == "LOT":
-                            continue
-                        lexical_set += "LOT"
-                    elif "AA" in transcription and "OX" not in transcription:
-                        if lexical_set == "PALM":
-                            continue
-                        lexical_set += "PALM"
-                if lexical_set == "PALM" or lexical_set == "LOT":
-                    return lexical_set
+                    if any('OX' in t for t in transcription):
+                        possible_lot = True
+                    if any('AA' in t for t in transcription):
+                        possible_palm = True
+                if possible_lot and not possible_palm:
+                    return "LOT"
+                elif possible_palm and not possible_lot:
+                    return "PALM"
                 else:
                     return "ambiguous LOT or PALM"
                 
@@ -243,33 +242,41 @@ def check_uk_dict(word, phones, vowel, next, verbose):
             case "AE":
                 if lexical_set == "ambiguous":
                     return "ambiguous TRAP or BATH"
+                possible_trap = False
+                possible_bath = False
                 for transcription in transcriptions:
-                    if "AE" in transcription and "AA" not in transcription:
-                        lexical_set = "TRAP"
-                        continue
-                    elif "AA" in transcription and "AE" not in transcription:
-                        return "BATH"
-                if lexical_set == "TRAP":
-                    return lexical_set
+                    if any('AE' in t for t in transcription):
+                        possible_trap = True
+                    if any('AA' in t for t in transcription):
+                        possible_bath = True
+                if possible_trap and not possible_bath:
+                    return "TRAP"
+                elif possible_bath and not possible_trap:
+                    return "BATH"
                 else:
                     return "ambiguous TRAP or BATH"
                 
+            # split THOUGHT/CLOTH/NORTH/FORCE
             case "AO":
                 if lexical_set == "ambiguous":
                     return "not in dict" # tries more spelling logic
-                
-                    # split THOUGHT/CLOTH/NORTH/FORCE
+                possible_thought = False
+                possible_cloth = False
                 for transcription in transcriptions:
-                    if "AO" in transcription and "OX" not in transcription:
-                        if next and next.arpa == "R":
-                            return north_or_force(word, phones, vowel, next)
-                        return "THOUGHT"
-                    elif "OX" in transcription and "AO" not in transcription:
-                        return "CLOTH"
-                    elif next and next.arpa != "R":
-                        return "ambiguous THOUGHT or CLOTH"
-                    else:
-                        return "ambiguous THOUGHT or CLOTH or NORTH or FORCE"
+                    if any('AO' in t for t in transcription):
+                        possible_thought = True
+                    if any('OX' in t for t in transcription):
+                        possible_cloth = True
+                if possible_thought and not possible_cloth:
+                    if next and next.arpa == "R":
+                        return north_or_force(word, phones, vowel, next)
+                    return "THOUGHT"
+                elif possible_cloth and not possible_thought:
+                    return "CLOTH"
+                elif next and next.arpa != "R":
+                    return "ambiguous THOUGHT or CLOTH"
+                else:
+                    return "ambiguous THOUGHT or CLOTH or NORTH or FORCE"
                     
 def north_or_force(word, phones, vowel, next):
     

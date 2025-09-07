@@ -15,17 +15,3 @@ class Vowel(Phone):
         if not self.is_stressed:
             return self.fx.lower()
         return self.fx
-
-def classify_vowel(token):
-    arpa = token[:2] # removes stress int
-    fx = globals()[(f"fx_{arpa}")] # creates fx_ variable
-
-    # check if stressed (default is True)
-    if "0" in token:
-        is_stressed = False
-    else:
-        is_stressed = True
-    
-    vowel = Vowel(arpa, fx, is_stressed)
-
-    return vowel

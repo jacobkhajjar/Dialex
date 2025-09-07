@@ -24,31 +24,3 @@ class Consonant(Phone):
         super().__init__(arpa, fx)
         self.is_voiced = is_voiced
         self.action = action
-
-def classify_consonant(token):
-    arpa = token
-    fx = globals()[(f"fx_{arpa}")] # creates fx_ variable
-
-    # check if voiced
-    if arpa in unvoiced:
-        is_voiced = False
-    else:
-        is_voiced = True
-
-    # assign action
-    if arpa in stops:
-        action = Action.STOP
-    elif arpa in fricatives:
-        action = Action.FRICATIVE
-    elif arpa in nasals:
-        action = Action.NASAL
-    elif arpa in affricates:
-        action = Action.AFFRICATE
-    elif arpa in liquids:
-        action = Action.LIQUID
-    elif arpa in semivowels:
-        action = Action.SEMIVOWEL
-
-    consonant = Consonant(arpa, fx, is_voiced, action)
-   
-    return consonant

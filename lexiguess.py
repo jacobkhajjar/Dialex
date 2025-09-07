@@ -60,6 +60,7 @@ def main():
 
         # loop for each homonym found in dict
         homonyms = 0
+
         while homonyms < len(tokens):
             if verbose:
                 print(f"CMU entry found: {tokens[homonyms]}\n")
@@ -72,6 +73,7 @@ def main():
 
             # guess lexical sets
             if not override:
+                lexical_sets = []
                 guess_lexical_sets(word, phones, verbose)
             
             transcription = ""
