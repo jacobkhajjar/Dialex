@@ -1,0 +1,6321 @@
+a-bomb : FACE ; LOT
+a-level : DRESS ; FACE
+aachen : PALM
+aardvark : START
+aaron : SQUARE
+abandon : TRAP ; COMMA
+abba : TRAP ; COMMA
+abbatial : FACE
+abbey : TRAP ; HAPPY
+abdominal : TRAP ; LOT ; KIT
+abduct : TRAP ; STRUT
+abdullah : TRAP ; GOOSE
+abel : FACE
+abercrombie : TRAP ; LOT ; HAPPY ; LETTER
+aberdeen : TRAP ; FLEECE ; LETTER
+abernathy : TRAP ; LETTER ; HAPPY
+abidjan : FLEECE ; TRAP ; PALM
+abigail : FACE ; KIT ; TRAP
+ability : COMMA ; KIT ; HAPPY
+abkhaz : PALM
+ablation : TRAP ; FACE
+able : FACE
+ableism : FACE ; KIT
+ablution : GOOSE
+abnormal : TRAP ; NORTH
+abode : GOAT ; COMMA
+abort : NORTH
+abortion : NORTH
+about : MOUTH
+above : STRUT ; COMMA
+aboyne : CHOICE
+abraham : TRAP ; FACE
+abrasion : FACE
+abroad : COMMA ; THOUGHT
+abs : TRAP
+abscission : TRAP ; KIT
+absence : TRAP
+absent : COMMA ; TRAP
+absentia : TRAP ; DRESS
+absolute : TRAP ; GOOSE ; (COMMA)
+absolutely : TRAP ; GOOSE ; HAPPY
+absorb : NORTH
+absorbent : NORTH
+absorptivity : NORTH ; KIT ; HAPPY
+abuse : GOOSE ; COMMA
+abusive : GOOSE ; KIT
+abuzz : STRUT
+acacia : FACE
+academe : FLEECE ; TRAP
+academy : TRAP ; HAPPY ; COMMA
+acapulco : FOOT ; GOAT ; TRAP
+accept : DRESS ; COMMA
+acceptable : COMMA ; DRESS
+access : DRESS ; TRAP
+accessary : COMMA ; DRESS ; HAPPY
+accessibility : KIT ; HAPPY ; DRESS
+accessible : DRESS ; COMMA
+accessory : LETTER ; COMMA DRESS HAPPY
+acciaccatura : COMMA ; TRAP ; CURE
+acclaim : FACE
+accolade : FACE ; TRAP
+accommodation : COMMA ; LOT ; FACE
+accomplished : COMMA ; LOT ; KIT
+accord : NORTH
+accordance : COMMA ; NORTH
+according : COMMA ; NORTH ; KIT
+accost : CLOTH
+account : MOUTH ; COMMA
+accountant : COMMA ; MOUTH
+accumululated : GOOSE ; FACE
+accuracy : FOOT ; TRAP ; HAPPY
+accurist : FOOT ; TRAP ; KIT
+accusation : FOOT ; TRAP ; FACE
+accuse : GOOSE
+accused : COMMA ; GOOSE
+ace : FACE
+acheulian : COMMA ; GOOSE
+achievable : COMMA ; FLEECE
+achieve : COMMA ; FLEECE
+achievement : COMMA ; FLEECE
+achieving : COMMA ; FLEECE ; KIT
+achoo : COMMA ; GOOSE
+ackee : HAPPY
+acorn : NORTH ; FACE
+acoustic : GOOSE ; KIT
+acoustician : GOOSE ; TRAP ; KIT
+acre : FACE
+across : CLOTH ; COMMA
+act : TRAP
+action : TRAP
+activate : KIT ; TRAP ; FACE
+activity : KIT ; TRAP ; HAPPY
+actual : GOOSE ; TRAP
+actually : TRAP ; (COMMA) ; HAPPY ; (GOOSE)
+acumen : FOOT ; TRAP
+acupressure : DRESS ; GOOSE ; LETTER ; TRAP
+acupuncture : STRUT ; FOOT ; TRAP ; LETTER
+acute : GOOSE
+ad : TRAP
+adam : TRAP
+adaptation : TRAP ; FACE
+adaptive : TRAP ; COMMA ; KIT
+add : TRAP
+addict : KIT ; TRAP
+addicts : TRAP ; KIT
+addition : KIT
+additional : KIT ; COMMA
+address : DRESS ; COMMA
+adelaide : FACE ; TRAP
+adelphi : HAPPY ; DRESS
+adenosine : (KIT) ; (FLEECE) ; DRESS
+adhere : NEAR ; TRAP
+adhering : NEAR ; TRAP
+adjacency : COMMA ; FACE ; HAPPY
+adjacent : COMMA ; FACE
+adjoining : COMMA ; CHOICE ; KIT
+adjoins : COMMA ; CHOICE
+adjourn : COMMA ; FORCE
+adjourned : COMMA ; FORCE
+adjournment : COMMA ; FORCE
+adjudged : STRUT ; COMMA
+adjudication : COMMA ; GOOSE ; KIT ; FACE
+adjudications : COMMA ; GOOSE ; KIT ; FACE
+adjunct : STRUT ; TRAP
+adjunction : COMMA ; STRUT ; TRAP
+adjunctive : COMMA ; TRAP ; STRUT ; KIT
+adjust : COMMA ; STRUT
+adjustable : COMMA ; STRUT
+adjuster : COMMA ; STRUT ; LETTER
+administration : COMMA ; TRAP ; KIT ; FACE
+admission : COMMA ; TRAP ; KIT
+admit : KIT
+admits : COMMA ; KIT
+adobe : GOAT ; COMMA ; HAPPY
+adopt : LOT
+adorable : FORCE ; COMMA
+adore : FORCE ; COMMA
+adorn : NORTH
+adrian : FACE ; FLEECE?
+advanced : COMMA ; BATH
+advantage : BATH ; COMMA
+advantageous : FACE ; TRAP 
+adventure : LETTER ; COMMA ; DRESS
+advert : NURSE ; TRAP
+advertise : PRICE ; TRAP ; LETTER
+advertised : LETTER ; TRAP ; PRICE
+advertisement : NURSE/LETTER ; TRAP ; PRICE/KIT
+advertiser : LETTER ; TRAP ; PRICE
+advertising : TRAP ; LETTER ; PRICE ; KIT
+advice : PRICE ; COMMA
+advisor : PRICE ; LETTER ; COMMA
+aegean : NEAR
+aegis : FLEECE ; KIT
+aegisthus : (FLEECE) ; KIT
+aemilius : FLEECE
+aerial : SQUARE ; FLEECE
+aerofoil : CHOICE ; SQUARE ; GOAT
+aeroplane : FACE ; SQUARE ; GOAT
+aerospace : GOAT ; SQUARE ; FACE
+aertex : SQUARE ; DRESS
+aether : LETTER ; FLEECE
+affair : SQUARE
+affairs : SQUARE ; COMMA
+affect : COMMA ; DRESS
+affected : COMMA ; DRESS
+affection : COMMA ; DRESS
+affectionate : COMMA ; DRESS
+affective : COMMA ; DRESS ; KIT
+affiliate : COMMA ; KIT ; FACE
+affiliated : KIT ; COMMA ; FACE
+affinity : COMMA ; KIT ; HAPPY
+affleck : TRAP ; DRESS
+affluenza : COMMA ; TRAP ; GOOSE ; DRESS
+afford : FORCE ; COMMA
+affordable : COMMA ; FORCE
+affranchises : COMMA ; TRAP ; PRICE
+affricative : TRAP ; KIT
+afghan : TRAP
+afghanistan : TRAP ; PALM ; KIT
+afield : COMMA ; FLEECE
+afire : COMMA ; PRICE
+afocal : FACE ; GOAT
+afoot : FOOT ; COMMA
+aforementioned : FORCE ; DRESS ; TRAP
+afraid : FACE ; COMMA
+afresh : COMMA ; DRESS
+africa : TRAP ; COMMA ; KIT
+afrikaans : PALM ; TRAP ; KIT
+afro-wig : GOAT ; TRAP ; KIT
+after : BATH ; LETTER
+afterlife : PRICE ; BATH ; LETTER
+aftermath : TRAP ; LETTER ; BATH
+afternoon : LETTER ; BATH ; GOOSE
+aftershave : FACE ; BATH ; LETTER
+afterthought : THOUGHT ; LETTER ; BATH
+afterwards : LETTER ; BATH
+again : (DRESS) ; COMMA ; (FACE)
+against : (DRESS) ; COMMA ; (FACE)
+agatha : COMMA ; TRAP
+agave : COMMA ; FACE
+age : FACE
+ageing : FACE ; KIT
+agency : FACE ; HAPPY
+agenda : COMMA ; DRESS
+agent : FACE
+agential : FACE ; DRESS
+ageusia : FACE ; GOOSE ; FLEECE
+agfa : COMMA ; TRAP
+aggiornamento : COMMA ; DRESS ; GOAT ; CURE
+aggressive : COMMA ; DRESS ; KIT
+aggressively : COMMA ; DRESS ; KIT ; HAPPY
+aggressor : COMMA ; DRESS ; LETTER
+aggrieved : COMMA ; FLEECE
+agile : TRAP ; PRICE
+agility : COMMA ; KIT ; HAPPY
+agincourt : FORCE ; TRAP ; KIT
+ago : GOAT ; COMMA
+agony : TRAP ; HAPPY
+agra : PALM ; TRAP
+agranulocytosis : COMMA ; TRAP ; GOAT ; PRICE ; KIT
+agrapha : COMMA ; TRAP
+agrarianism : COMMA ; SQUARE ; KIT
+agree : COMMA ; FLEECE
+agreeable : COMMA ; FLEECE
+agreed : FLEECE ; COMMA
+agreeing : FLEECE ; KIT
+agreement : FLEECE
+agricola : COMMA ; KIT
+agriculture : TRAP ; STRUT ; KIT ; LETTER
+agrippa : COMMA ; KIT
+agronomist : COMMA ; LOT ; KIT
+agronomy : COMMA ; LOT ; HAPPY
+aground : COMMA ; MOUTH
+aguecheek : FLEECE ; GOOSE
+ah : PALM
+aha : PALM
+ahead : DRESS
+ahmed : DRESS ; PALM
+ahoy : CHOICE
+aiden : FACE
+aids : FACE
+aiken : FACE
+aikido : FLEECE ; PRICE ; GOAT
+aileen : (FLEECE) ; PRICE
+ailing : FACE ; KIT
+aim : FACE
+aimee : FACE ; HAPPY
+air : SQUARE
+air-bladder : SQUARE ; TRAP ; LETTER
+air-cooled : SQUARE ; GOOSE
+air-minded : SQUARE ; PRICE
+air-pump : STRUT ; SQUARE
+air-raid : FACE ; SQUARE
+air-shaft : SQUARE ; BATH
+air-to-air : SQUARE
+airbag : TRAP ; SQUARE
+airbed : SQUARE ; DRESS
+airbnb : SQUARE ; FLEECE
+airborne : SQUARE ; FORCE
+airbrush : STRUT ; SQUARE
+airbus : STRUT ; SQUARE
+aircraft : BATH ; SQUARE
+aircrew : SQUARE ; GOOSE
+airdrie : SQUARE ; FLEECE
+airdrop : SQUARE ; LOT
+airedale : SQUARE ; FACE
+airfare : SQUARE
+airfares : SQUARE
+airfield : SQUARE ; FLEECE
+airflow : SQUARE ; GOAT
+airframe : SQUARE ; FACE
+airing : SQUARE ; KIT
+airlifted : SQUARE ; KIT
+airline : SQUARE ; PRICE
+airliner : SQUARE ; PRICE ; LETTER
+airmail : SQUARE ; FACE
+airman : SQUARE
+airplane : SQUARE ; FACE
+airpocalypse : SQUARE ; LOT ; KIT
+airport : SQUARE ; FORCE
+airscrew : SQUARE ; GOOSE
+airship : SQUARE ; KIT
+airshow : SQUARE ; GOAT
+airsickness : SQUARE ; KIT
+airspace : SQUARE ; FACE
+airspeed : FLEECE ; SQUARE
+airstream : FLEECE ; SQUARE
+airstrip : SQUARE ; KIT
+airway : SQUARE ; FACE
+airy : SQUARE ; HAPPY
+aisha : COMMA ; (TRAP) ; (PALM) ; (FACE) ; (PRICE) ; (FLEECE)
+aiwa : PRICE ; COMMA
+ajaccio : TRAP ; FLEECE ; GOAT
+ajar : COMMA ; START
+ajax : TRAP ; FACE
+akela : PALM ; FLEECE
+al : TRAP
+alabama : COMMA ; TRAP
+alack : COMMA ; TRAP
+alamein : FACE ; TRAP
+alan : TRAP
+alarm : START ; COMMA
+alaska : COMMA ; TRAP
+alba : COMMA ; (TRAP)
+album : TRAP
+albumin : FOOT ; KIT ; TRAP
+alcatraz : TRAP
+alcohol : LOT ; TRAP
+aldershot : LOT ; LETTER ; TRAP
+ale : FACE
+aleph : DRESS ; TRAP
+alert : COMMA ; NURSE
+alex : TRAP
+alexander : TRAP ; BATH ; LETTER
+alexandra : BATH ; COMMA ; TRAP
+alexis : COMMA ; DRESS ; KIT
+alfalfa : COMMA ; TRAP
+alfie : HAPPY ; TRAP
+algarve : TRAP ; START
+algeria : TRAP ; NEAR ; HAPPY
+algorithm : KIT ; TRAP
+alhambra : TRAP ; COMMA
+alibaba : PALM ; TRAP ; FLEECE
+alicia : COMMA ; FLEECE
+alien : FACE
+alight : PRICE ; COMMA
+align : PRICE
+alive : PRICE ; COMMA
+alix : TRAP : KIT
+all : THOUGHT
+all-round : MOUTH ; THOUGHT
+allardyce : PRICE ; TRAP
+allege : DRESS
+alleged : COMMA ; DRESS
+allegiance : FLEECE
+allergic : NURSE ; KIT
+allergy : LETTER ; TRAP ; HAPPY 
+alliance : COMMA ; PRICE
+allow : COMMA ; MOUTH
+allowable : MOUTH
+allowance : MOUTH ; COMMA
+allowed : MOUTH
+allowing : COMMA ; MOUTH ; KIT
+allows : MOUTH ; COMMA
+alloy : CHOICE ; TRAP
+alloys : CHOICE ; TRAP
+allure : CURE ; TRAP
+almost : GOAT ; THOUGHT
+alnmouth : MOUTH/COMMA  ; TRAP
+alone : GOAT ; COMMA
+along : COMMA ; LOT
+alongside : PRICE ; COMMA ; LOT
+alopecia : COMMA ; TRAP ; GOAT ; FLEECE
+alpha : COMMA ; TRAP
+alphabet : DRESS ; TRAP
+already : DRESS ; THOUGHT ; HAPPY
+alsace : TRAP
+alsager : FACE ; TRAP ; LETTER
+also : THOUGHT ; GOAT
+also-ran : GOAT ; THOUGHT ; TRAP
+altamira : BATH ; TRAP ; PRICE
+altazimuth : BATH ; TRAP ; KIT
+altdorfer : NORTH ; TRAP ; LETTER
+alter : THOUGHT ; LETTER
+alternate : THOUGHT ; LETTER
+alternates : LETTER ; THOUGHT
+alternative : LOT ; NURSE ; KIT
+althorp : NORTH ; THOUGHT
+although : THOUGHT ; GOAT
+altissimo : BATH ; KIT ; GOAT
+altitude : GOOSE ; BATH ; KIT
+altkirch : NEAR ; BATH
+alto : BATH ; GOAT
+altocumulus : BATH ; GOAT ; GOOSE 
+altogether : DRESS ; THOUGHT ; LETTER
+altoona : BATH ; GOOSE
+altruism : BATH ; GOOSE ; KIT
+aluminum : GOOSE ; KIT
+alumni : PRICE ; COMMA ; STRUT
+alva : COMMA ; TRAP
+always : FACE ; THOUGHT
+am : TRAP ; COMMA
+amahl : PALM
+amanda : COMMA ; TRAP
+amaurosis : NORTH ; TRAP ; GOAT ; KIT
+amaze : FACE
+amazed : COMMA ; FACE
+amazing : COMMA ; FACE ; KIT
+amazingly : COMMA ; FACE ; KIT ; HAPPY
+amazon : TRAP ; COMMA ; LOT
+ambiguous : GOOSE ; TRAP ; KIT
+ambitious : TRAP ; KIT
+amelia : COMMA ; FLEECE
+amended : COMMA ; DRESS
+amendment : COMMA ; DRESS
+amenities : COMMA ; DRESS ; KIT
+america : DRESS ; COMMA ; KIT
+americana : COMMA ; DRESS ; KIT ; BATH
+amid : KIT ; COMMA
+amidst : COMMA ; KIT
+amiga : COMMA ; FLEECE
+amigo : FLEECE ; COMMA
+amin : PALM ; KIT
+amine : FACE ; FLEECE
+amino : COMMA ; FLEECE ; GOAT
+amirite : PRICE ; TRAP
+amish : PALM ; KIT
+ammonium : COMMA ; GOAT ; HAPPY
+ammunition : FOOT ; TRAP ; KIT
+amoeba : FLEECE ; COMMA
+among : STRUT ; COMMA
+amongst : COMMA ; STRUT
+amoral : FACE ; FORCE
+amos : FACE ; CLOTH
+amount : MOUTH ; COMMA
+amour : CURE
+ampere : SQUARE ; TRAP
+amplifier : PRICE ; TRAP ; KIT ; LETTER
+amused : COMMA ; GOOSE
+amusement : GOOSE ; COMMA
+amusing : COMMA ; GOOSE ; KIT
+amy : FACE ; HAPPY
+an : TRAP ; COMMA
+anaheim : PRICE ; TRAP
+analog : LOT ; TRAP
+analogue : LOT ; TRAP
+analysis : KIT ; TRAP ; COMMA
+anaphors : NORTH ; TRAP
+anatomy : COMMA ; TRAP ; HAPPY
+ancient : FACE
+and : TRAP ; COMMA
+anderson : LETTER ; TRAP
+andorra : COMMA ; NORTH ; TRAP
+andover : GOAT ; TRAP ; LETTER
+andrew : GOOSE ; TRAP
+android : TRAP ; CHOICE
+andy : HAPPY ; TRAP
+anemia : COMMA ; FLEECE
+angel : FACE
+angela : COMMA ; TRAP
+angelina : COMMA ; TRAP ; FLEECE
+anger : TRAP ; LETTER
+angie : HAPPY ; TRAP
+angiers : NEAR ; TRAP
+angiogram : GOAT ; TRAP ; FLEECE
+anglepoise : CHOICE ; TRAP
+anglesey : HAPPY ; TRAP
+anglia : TRAP ; HAPPY
+anglo-saxon : GOAT ; TRAP
+angola : TRAP ; GOAT ; COMMA
+angora : FORCE ; TRAP
+angry : TRAP ; HAPPY
+anguilla : TRAP ; COMMA ; KIT
+aniseed : FLEECE ; TRAP
+anita : FLEECE ; COMMA
+anna : COMMA ; TRAP
+annette : COMMA ; DRESS
+annex : COMMA ; DRESS
+annie : HAPPY ; TRAP
+anniversary : NURSE ; TRAP ; KIT ; HAPPY
+announced : MOUTH ; COMMA
+announcement : COMMA ; MOUTH
+annoy : CHOICE
+annoyed : CHOICE
+annoying : COMMA ; CHOICE ; COMMA
+annual : GOOSE ; TRAP
+annunziata : FOOT ; TRAP ; STRUT
+anon : COMMA ; LOT
+anonymous : COMMA ; LOT ; KIT
+anonymously : COMMA ; LOT ; KIT ; HAPPY
+another : STRUT ; LETTER ; COMMA
+antarctica : COMMA ; START ; KIT
+anteater : FLEECE ; TRAP ; LETTER
+anteriority : NEAR ; TRAP ; NORTH ; KIT ; HAPPY
+anther : LETTER ; TRAP
+anthropomorphic : NORTH ; TRAP ; KIT
+anti-aircraft : SQUARE ; TRAP ; FLEECE ; BATH
+antibes : FLEECE ; LOT
+antibodies : LOT ; TRAP ; FLEECE
+antifa : COMMA ; (FLEECE)
+antigua : FLEECE ; COMMA
+antilles : TRAP ; KIT ; FLEECE
+antinovel : LOT ; TRAP ; KIT
+antique : FLEECE ; TRAP
+antiscorbutic : NORTH ; TRAP ; FLEECE ; GOOSE ; KIT
+antistrophe : HAPPY ; TRAP ; KIT
+anxiety : TRAP ; PRICE ; HAPPY
+any : DRESS ; HAPPY
+anybody : LOT ; HAPPY ; DRESS
+anyhow : MOUTH ; DRESS ; HAPPY
+anymore : FORCE ; DRESS ; HAPPY
+anyone : STRUT ; HAPPY ; DRESS
+anytime : PRICE ; DRESS ; HAPPY
+anyway : HAPPY ; DRESS ; FACE
+anywhere : SQUARE ; HAPPY ; DRESS
+aoife : COMMA ; FLEECE
+apache : TRAP ; HAPPY
+apart : START ; COMMA
+apartment : COMMA ; START
+apatow : MOUTH ; TRAP
+ape : FACE
+apeldoorn : FORCE ; TRAP
+aperiodic : NEAR ; FACE ; FLEECE ; LOT ; KIT
+aperiodicity : NEAR ; FACE ; FLEECE ; KIT ; HAPPY
+apex : FACE ; DRESS
+aphid : FACE
+aphonia : FACE ; GOAT ; HAPPY
+apia : PALM ; FLEECE
+apiece : COMMA ; FLEECE
+apocrypha : COMMA ; LOT
+apogee : HAPPY ; TRAP
+apologia : GOAT ; TRAP ; HAPPY
+apology : COMMA ; LOT ; HAPPY
+apostrophe : HAPPY ; LOT ; HAPPY
+appalled : THOUGHT ; COMMA
+appaloosa : COMMA ; TRAP ; GOOSE
+apparently : TRAP ; COMMA ; HAPPY
+appeal : COMMA ; FLEECE
+appear : NEAR ; COMMA
+appearance : COMMA ; NEAR 
+appeared : COMMA; NEAR
+appearing : COMMA ; NEAR
+appears : COMMA ; NEAR
+appetite : TRAP ; COMMA ; PRICE
+applause : COMMA ; THOUGHT
+apple : TRAP
+appliance : COMMA ; PRICE 
+application : TRAP ; FACE ; COMMA
+apply : PRICE ; COMMA
+appoint : COMMA ; CHOICE
+appointed : COMMA ; CHOICE
+appraisal : COMMA ; FACE
+apprentice : COMMA ; DRESS 
+approach : GOAT ; COMMA
+appropriate : GOAT ; COMMA
+approval : COMMA ; GOOSE
+approximate : COMMA ; LOT 
+apps : TRAP
+apraxia : FACE ; TRAP ; FLEECE 
+april : FACE ; KIT/COMMA
+apron : FACE 
+aqaba : COMMA ; (BATH)
+aqua : TRAP ; COMMA
+aqualung : TRAP ; COMMA ; STRUT
+aquanaut : TRAP ; THOUGHT
+arab : TRAP ; COMMA
+arabian : FACE ; FLEECE 
+araucania : TRAP ; THOUGHT ; FACE ; FLEECE 
+arbitrage : START ; KIT ; PALM
+arbitrageur : START ; KIT ; PALM ; LETTER 
+arbitrament : START ; KIT 
+arbitrary : START ; KIT ; (SQUARE) ; HAPPY
+arboreal : START ; NORTH ; FLEECE 
+arboretum : START ; FLEECE ; 
+arbuthnot : STRUT ; START
+arbutus : START ; GOOSE 
+arch : START
+archangel : START ; FACE
+archbishop : START ; KIT 
+archbishopric : START ; KIT 
+archduchess : START ; STRUT ; DRESS
+archenemy : START ; DRESS ; HAPPY
+archer : START ; LETTER 
+archery : START ; NURSE ; HAPPY
+archibald : START ; KIT ; THOUGHT
+archie : START ; HAPPY
+architecture : START ; KIT ; DRESS ; LETTER
+architrave : START ; KIT ; FACE
+archival : START ; PRICE
+archive : START ; PRICE
+archway : START ; FACE
+arden : START 
+area : SQUARE ; COMMA 
+areas : SQUARE ; COMMA
+arena : FLEECE ; COMMA
+aretha : FLEECE ; COMMA
+argentina : START ; FLEECE ; COMMA
+argentine : START ; PRICE
+argento : START ; GOAT 
+argillaceous : START ; KIT ; FACE 
+arginine : START ; PRICE/FLEECE
+argos : START ; (LOT) ; (GOAT)
+arguable : START ; GOOSE
+argue : GOOSE ; START
+argued : GOOSE ; START
+argues : GOOSE ; START
+argument : FOOT ; START
+argus : START 
+ariel : SQUARE ; FLEECE
+arithmetic : KIT 
+arkell : START 
+arlene : START ; (FLEECE)
+arlette : START ; DRESS 
+arm : START
+armada : PALM ; START
+armagh : PALM ; START
+armando : START ; BATH 
+armchair : START ; SQUARE 
+armchairs : START ; SQUARE
+armenia : START ; FLEECE 
+armor : START ; LETTER
+armrest : START ; DRESS
+army : START ; HAPPY
+arnold : START
+around : MOUTH
+arpeggios : START ; DRESS ; FLEECE ; GOAT
+arrearage : NEAR
+arrival : PRICE
+arrowroot : TRAP ; GOAT ; GOOSE
+arrowsmith : TRAP ; GOAT ; KIT
+arrowwood : TRAP ; GOAT ; FOOT
+arse : START
+arsenal : START
+arsenic : START ; KIT 
+arson : START 
+arthralgia : START ; THOUGHT ; FLEECE
+arthritic : START ; KIT
+arthropod : START ; LOT
+arthropoda : START ; LOT
+arthropodus : START ; LOT
+arthrous : START
+arthur : START ; LETTER
+arthurian : START ; NURSE ; FLEECE
+article : KIT ; START
+articulated : START ; KIT ; GOOSE ; FACE
+artist : KIT ; START 
+artistic : START ; KIT
+arts : START
+aruba : COMMA ; GOOSE
+as : TRAP ; COMMA
+ascot : TRAP ; LOT
+asda : TRAP ; COMMA
+ashamedly : COMMA ; FACE 
+ashanti : COMMA ; PALM/TRAP ; HAPPY
+ashbourne : TRAP ; FORCE ; CURE
+ashburton : TRAP ; NURSE 
+ashes : TRAP
+ashkenazi : TRAP ; PALM
+ashley : TRAP ; HAPPY
+ashmolean : TRAP ; GOAT ; FLEECE
+ashore : COMMA ; FORCE
+ashton : TRAP 
+ashtoreth : TRAP ; DRESS 
+asia : FACE ; COMMA
+aside : PRICE ; COMMA
+ask : BATH
+askance : BATH
+aspartame : TRAP ; LETTER ; FACE
+aspirations : TRAP;  KIT ; COMMA ; FACE
+ass : TRAP
+assassin : COMMA ; TRAP ; KIT 
+assault : THOUGHT ; COMMA
+assembly : COMMA ; DRESS ; HAPPY
+assess : COMMA ; DRESS
+assessment : COMMA ; DRESS
+asset : DRESS ; TRAP
+assign : PRICE
+assignee : PRICE ; HAPPY
+assignment : PRICE
+assist : COMMA ; KIT 
+assistance : COMMA ; KIT
+assistant : COMMA ; KIT
+assisted : COMMA ; KIT 
+associate : COMMA ; (GOAT) ; FLEECE ; (FACE)
+associated : COMMA ; (GOAT) ; FLEECE ; FACE
+association : FACE ; GOAT ; COMMA ; FLEECE
+assort : NORTH
+assume : GOOSE ; COMMA
+assurance : COMMA ; CURE 
+assure : COMMA ; CURE 
+assured : CURE ; COMMA
+assuredly : COMMA ; CURE
+assuredness : COMMA ; CURE 
+aston : TRAP
+astonishing : COMMA ; LOT ; KIT 
+astoria : FORCE ; COMMA ; FLEECE 
+astra : TRAP ; COMMA
+astrolabe : TRAP ; FACE
+astronaut : TRAP ; THOUGHT
+asylum : COMMA ; PRICE 
+asynchronous : FACE ; KIT ; STRUT 
+at : TRAP ; COMMA 
+at-home : COMMA ; GOAT
+
+atari : START ; HAPPY
+ate : PALM
+atheist : FACE ; FLEECE ; KIT
+athena : COMMA ; FLEECE 
+athenaeum : TRAP ; FLEECE 
+athenian : COMMA ; FLEECE 
+athens : TRAP
+athey : HAPPY ; (FACE) ; TRAP
+athirst : COMMA ; NURSE
+athlete : TRAP ; FLEECE
+athletics : DRESS ; TRAP ; KIT
+athlone : TRAP ; GOAT
+athwart : COMMA ; NORTH
+atlanta : COMMA ; BATH 
+atlantic : COMMA ; BATH
+atmosphere : TRAP ; NEAR
+atmospheres : TRAP ; NEAR
+attach : TRAP
+attached : COMMA ; TRAP
+attack : TRAP ; COMMA
+attempt : DRESS ; COMMA
+attend : COMMA ; DRESS
+attendance : COMMA ; DRESS
+attendee : COMMA ; DRESS ; HAPPY
+attention : COMMA ; DRESS
+attire : COMMA ; PRICE ; LETTER
+attitude : TRAP ; KIT ; GOOSE 
+attorney : COMMA ; NURSE ; HAPPY
+attract : COMMA ; TRAP
+attraction : COMMA ; TRAP 
+attribute : KIT ; TRAP ; GOOSE ; COMMA
+atwater : THOUGHT ; LETTER 
+atwood : FOOT
+aubade : PALM
+aubrey : THOUGHT ; HAPPY 
+aubrietia : THOUGHT ; FLEECE 
+auburn : THOUGHT ; NURSE
+auckland : THOUGHT
+auction : THOUGHT
+audacious : THOUGHT ; FACE
+audaciously : THOUGHT ; FACE ; HAPPY
+audacity : THOUGHT ; TRAP ; KIT ; HAPPY 
+auden : THOUGHT 
+audi : MOUTH ; HAPPY
+audible : THOUGHT
+audience : THOUGHT ; FLEECE
+audio : THOUGHT ; FLEECE ; GOAT
+audiobook : THOUGHT ; FLEECE ; GOAT; FOOT
+audiology : THOUGHT ; FLEECE ; LOT ; HAPPY
+audit : THOUGHT ; KIT 
+audition : THOUGHT ; KIT
+auditorium : THOUGHT ; KIT; FORCE ; FLEECE
+audrey : THOUGH ; HAPPY
+audubon : THOUGHT
+auger : THOUGHT ; LETTER 
+aught : THOUGHT
+augment : THOUGHT
+augmented : THOUGHT
+auguries : THOUGHT ; FLEECE
+augury : THOUGHT ; HAPPY 
+august : STRUT ; THOUGHT ; COMMA
+augusta : THOUGHT ; STRUT
+augustina : THOUGHT ; STRUT ; FLEECE 
+augustine : THOUGHT ; FLEECE 
+augustinian : THOUGHT ; KIT ; HAPPY
+augustus : THOUGHT ; STRUT 
+aumerle : THOUGHT ; NURSE
+auntie : BATH; HAPPY
+aura : NORTH ; COMMA
+aural : NORTH
+aurelia : NORTH ; FLEECE
+aurelian : NORTH ; FLEECE
+aurelius : NORTH ; FLEECE ; STRUT
+aureola : NORTH ; FLEECE ; GOAT 
+auricular : NORTH ; KIT ; GOOSE ; LETTER
+auriferous : NORTH ; KIT ; NURSE
+auriga : PRICE ; NORTH 
+aurora : NORTH ; FORCE
+auschwitz : MOUTH ; KIT
+auspices : THOUGHT ; KIT 
+auspicious : THOUGHT ; KIT 
+aussie : CLOTH ; HAPPY
+austen : CLOTH
+austere : THOUGHT ; NEAR
+austerity : THOUGHT ; KIT ; HAPPY
+austin : CLOTH ; KIT 
+australasia : COMMA ; CLOTH ; FACE; FLEECE 
+australia : FACE ; CLOTH; FLEECE
+austria : CLOTH ; FLEECE 
+austro-hungarian : CLOTH ; GOAT; STRUT ; SQUARE ; HAPPY
+authentic : THOUGHT ; DRESS ; KIT
+authentication : THOUGHT; DRESS ; KIT ; FACE 
+author : THOUGHT ; LETTER
+authorial : FORCE ; FLEECE
+authoritarian : (THOUGHT) ; FORCE ; SQUARE ; FLEECE 
+authoritative : (THOUGHT) ; FORCE ; FACE 
+authority : THOUGHT ; (CLOTH) ; FORCE ; HAPPY
+autism : THOUGHT ; KIT
+autistic : THOUGHT ; KIT 
+auto : THOUGHT ; GOAT
+autobahn : THOUGHT ; GOAT ; PALM
+autochanger : THOUGHT ; GOAT ; FACE ; LETTER
+autoclave : THOUGHT ; GOAT ; FACE
+autograph : THOUGHT ; GOAT ; BATH
+autogyros : THOUGHT ; GOAT ; PRICE
+autoharp : THOUGHT ; GOAT ; START
+autologous : THOUGHT ; GOAT 
+automatic : THOUGHT ; GOAT ; TRAP 
+autopilot : THOUGHT ; GOAT ; PRICE
+autoroute : THOUGHT ; GOAT ; GOOSE/MOUTH
+autos : THOUGHT ; GOAT
+autumn : THOUGHT ; (STRUT)
+auvergne : GOAT : NURSE
+auxiliary : THOUGHT ; KIT ; HAPPY
+ava : FACE 
+avail : COMMA ; FACE
+availability : COMMA ; FACE ; KIT ; HAPPY
+available : FACE ; COMMA
+availing : FACE; COMMA 
+avalon : TRAP ; LOT
+avast : COMMA ; BATH
+avatar : TRAP ; START
+avaunt : THOUGHT
+avenge : COMMA; DRESS
+avenger : COMMA ; DRESS ; LETTER 
+aventurine : COMMA ; DRESS ; NURSE ; FLEECE
+avenue : TRAP ; GOOSE
+avenues : TRAP ; GOOSE
+aver : COMMA ; LETTER 
+average : TRAP ; NURSE 
+averse : COMMA ; NURSE 
+aversion : COMMA ; NURSE 
+avert : COMMA ; NURSE
+avesta : COMMA ; DRESS 
+avestan : COMMA ; DRESS
+aviation : FACE ; FLEECE 
+avis : FACE ; KIT
+aviva : COMMA ; FLEECE 
+avoca : COMMA ; GOAT
+avocado : PALM ; GOAT
+avoid : CHOICE ; COMMA
+avoidable : COMMA ; CHOICE
+avoidance : CHOICE ; COMMA
+avowed : COMMA ; MOUTH 
+avulsion : COMMA ; STRUT
+avuncular : COMMA ; STRUT 
+awacs : FACE
+await : FACE
+awaited : COMMA ; FACE 
+awards : COMMA ; NORTH
+aware : SQUARE ; COMMA
+away : COMMA ; FACE 
+awe-inspiring : THOUGHT ; KIT ; PRICE
+awesome : THOUGHT
+awestruck : STRUT ; THOUGHT
+awful : THOUGHT
+awkward : THOUGHT ; LETTER
+awning : THOUGHT
+awol : FACE; THOUGHT
+aylesbury : FACE ; HAPPY
+ayrshire : SQUARE ; NEAR/LETTER
+ayrton : SQUARE 
+azala : COMMA ; FACE 
+azalea : COMMA ; FACE 
+azaleas : COMMA ; FACE 
+azania : COMMA ; FACE
+azathioprine : COMMA ; PRICE ; FLEECE
+azaziel : COMMA ; FACE
+azerbaijan : TRAP ; PALM ; PRICE ; LETTER
+azeri : COMMA ; SQUARE ; HAPPY 
+azeris : COMMA ; SQUARE ; HAPPY 
+azithromycin : COMMA ; KIT ; GOAT ; PRICE 
+aziz : COMMA ; FLEECE 
+azote : COMMA/FACE  ; GOAT
+azotic : COMMA/FACE ; GOAT; KIT
+azov : TRAP ; LOT
+aztec : TRAP 
+azure : TRAP ; LETTER/CURE
+baa : PALM
+babe : FACE
+babushka : GOOSE
+baby : FACE ; HAPPY
+baby-talk : FACE ; HAPPY ; THOUGHT
+babysitting : FACE ; HAPPY ; KIT
+back : TRAP 
+back-formation : TRAP ; NORTH ; FACE
+backdoor : TRAP ; FORCE
+background : TRAP ; MOUTH
+backhouse : TRAP ; MOUTH
+backlash : TRAP
+backstreet : TRAP ; FLEECE
+backup : TRAP ; STRUT
+bacon : FACE
+bad : TRAP
+badass : TRAP
+badawi : PALM ; HAPPY 
+baden-powell : FACE ; MOUTH
+badge : TRAP
+badinage : TRAP ; PALM 
+badmouth : TRAP ; MOUTH
+bag : TRAP
+baggie : TRAP ; HAPPY
+bah : PALM
+bahamas : PALM
+bahasa : PALM
+bahia : PALM/TRAP ; FLEECE
+baht : PALM
+bail : FACE
+bailey : FACE ; HAPPY
+baird : SQUARE
+bairns : SQUARE
+bait : FACE
+baja : PALM ; FACE
+bajan : FACE ; PALM
+baker : FACE ; LETTER
+bakery : FACE ; LETTER ; HAPPY
+baking : FACE ; KIT 
+balaclava : TRAP ; PALM
+balance-sheet : TRAP ; FLEECE
+baldwin : THOUGHT ; KIT
+bale : FACE
+balenciaga : PALM ; FLEECE ; DRESS 
+balfor : TRAP ; LETTER
+bali : PALM ; HAPPY
+balk : THOUGHT
+ball : THOUGHT
+ballerina : TRAP ; FLEECE
+balloon : GOOSE ; COMMA
+ballpoint : THOUGHT ; CHOICE
+ballroom : THOUGHT ; GOOSE
+balmoral : TRAP ; NORTH/CLOTH
+bamforth : TRAP ; FORCE
+banana : BATH
+bandolier : GOAT ; NEAR
+bandung : TRAP ; COMMA
+bang : TRAP
+banger : TRAP ; LETTER
+bangkok : TRAP ; LOT 
+bangladeshi : TRAP ; DRESS ; HAPPY
+bank : TRAP
+bank-draft : TRAP ; BATH
+bankrupt : TRAP ; STRUT
+banshee : TRAP ; HAPPY
+baobab : FACE ; TRAP
+bar : START
+barack : PALM
+barbadian : START ; FACE ; HAPPY
+barbados : FACE ; START ; (LOT)
+barbara : START ; COMMA
+barbarian : START ; SQUARE ; HAPPY
+barbarity : START ; HAPPY 
+barbecue : GOOSE ; START 
+barbecued : GOOSE ; START
+barber : START ; LETTER 
+barbershop : START ; LETTER ; LOT
+barbican : START 
+barbie : START ; HAPPY
+barbiturates : START ; CURE 
+barbour : START ; LETTER 
+barbuda : START ; GOOSE ; COMMA
+barcelona : GOAT ; START ; COMMA
+barcode : START ; GOAT
+bardot : START ; GOAT
+bare : SQUARE
+barefaced : SQUARE ; FACE
+barefacedly : SQUARE ; FACE
+barefoot : SQUARE ; FOOT
+barelegged : SQUARE ; DRESS
+barely : SQUARE ; HAPPY 
+barenboim : SQUARE ; CHOICE
+bareness : SQUARE
+bares : SQUARE
+barf : START
+barfly : START ; HAPPY 
+barford : START ; LETTER 
+bargain : START 
+barge : START
+bargoed : START ; GOAT 
+baring : SQUARE ; KIT 
+barkley : START ; HAPPY 
+barley : START ; HAPPY 
+barlow : START ; GOAT 
+barn : START
+barnard : START
+barnes : START
+barnett : START
+barney : START ; HAPPY 
+baron : SQUARE/TRAP
+barr : START
+barrage : START ; (TRAP)
+barrow-man : TRAP ; GOAT
+barrymore : SQUARE/TRAP ; HAPPY ; FORCE
+barsham : START
+bartholomew : START ; GOOSE ; LOT
+barwise : START ; PRICE
+base : FACE
+baseball : FACE ; THOUGHT
+based : FACE
+basel : PALM
+bash : TRAP
+basic : FACE ; KIT
+basil : TRAP/FACE ; KIT 
+basinger : KIT ; LETTER
+basingstoke : FACE ; KIT ; GOAT
+basis : FACE ; KIT 
+basket : BATH
+basketball : THOUGHT ; BATH
+basking : BATH ; KIT
+basso : PALM
+basta : PALM
+batch : TRAP
+bath : BATH
+bath-chair : BATH ; SQUARE
+bather : FACE ; LETTER 
+bathgate : BATH ; FACE
+bathhouse : BATH ; MOUTH 
+bathing : (FACE) ; KIT
+bathing-costume : FACE ; KIT ; CLOTH ; GOOSE 
+bathing-suit : FACE ; KIT ; GOOSE
+batho : FACE ; GOAT 
+bathrobe : BATH ; GOAT 
+bathroom : GOOSE ; BATH
+baths : BATH
+bathtub : STRUT ; BATH
+bathurst : TRAP ; NURSE 
+bathyscaphe : BATH ; FACE/TRAP 
+bathyspheres ; BATH ; NEAR
+batman : TRAP
+battersea : TRAP ; NURSE ; HAPPY
+battle : TRAP
+bauble : THOUGHT
+bavaria : SQUARE ; HAPPY
+bay-wreath : FACE ; FLEECE 
+bayberry : DRESS ; FACE ; HAPPY
+bayswater : FACE ; THOUGHT ; LETTER 
+baywatch : FACE ; LOT
+baz : TRAP
+bazaar : START
+bazooka : GOOSE
+be : FLEECE
+bea : FLEECE
+beach : FLEECE
+beachy : FLEECE ; HAPPY
+beadle : FLEECE
+beads : FLEECE
+beagle : FLEECE
+beak : FLEECE
+beaker : FLEECE ; LETTER
+beam : FLEECE
+bean : FLEECE
+bean-bag : TRAP ; FLEECE
+beanie : HAPPY ; FLEECE
+beanstalk : THOUGHT ; FLEECE
+bear : SQUARE
+bearable : SQUARE ; STRUT
+beard : NEAR
+bearer : SQUARE ; LETTER
+bearing : SQUARE ; KIT
+bears : SQUARE
+bearskin : SQUARE ; KIT
+bearsted : SQUARE ; DRESS
+beat : FLEECE
+beatles : FLEECE
+beau : GOAT
+beaufort : GOAT ; NORTH
+beaujolais : GOAT ; FACE
+beaumont : GOAT ; LOT
+beauregard : GOAT ; START
+beautiful : KIT ; GOOSE ;  FOOT
+beauty : GOOSE ; HAPPY
+beauty-parlour : START ; GOOSE ; HAPPY ; LETTER
+bebo : FLEECE ; GOAT
+became : FACE ; COMMA
+because : KIT ; (COMMA) ; (STRUT)
+become : STRUT ; COMMA
+bed : DRESS
+bed-bug : STRUT ; DRESS
+bedroom : GOOSE ; DRESS
+bedspread : DRESS
+bedwarmer : NORTH ; DRESS ; LETTER
+bee : FLEECE
+beech : FLEECE
+beecher : FLEECE
+beefeater : FLEECE ; LETTER
+beefsteak : FACE ; FLEECE
+beehive : PRICE ; FLEECE
+been : (KIT) ; (FLEECE)
+beer : NEAR
+beersheba : NEAR ; FLEECE
+beery : NEAR ; HAPPY
+beetle : FLEECE
+beetroot : GOOSE ; FLEECE
+befits : KIT ; COMMA
+before : (KIT) ; FORCE ; COMMA
+beforehand : FORCE ; TRAP
+beginning : COMMA ; KIT
+begrudge : STRUT
+begrudgingly : STRUT ; KIT ; HAPPY
+behalf : BATH
+behave : FACE
+behaviour : FACE ; LETTER
+behind : PRICE ; KIT/FLEECE
+beige : FACE
+beijing : FACE ; KIT
+being : FLEECE ; KIT
+beirut : FACE ; GOOSE
+beleaguered : FLEECE ; LETTER
+belfast : BATH ; DRESS
+belgrave : FACE ; DRESS
+believe : (COMMA) ; FLEECE
+belike : PRICE ; COMMA
+bella : COMMA ; DRESS
+bellflower : MOUTH L DRESS ; LETTER
+bellows : GOAT ; DRESS
+bellwether : DRESS ; LETTER
+belong : CLOTH
+beloved : STRUT ; COMMA/FLEECE
+below : GOAT ; COMMA
+beluga : GOOSE ; COMMA
+belushi : HAPPY ; GOOSE
+belvedere : NEAR ; DRESS
+bemba : COMMA ; DRESS
+benares : START ; DRESS
+benchmark : START ; DRESS
+benedictine : FLEECE ; DRESS ; KIT
+benefits : KIT ; DRESS
+benelux : STRUT ; DRESS
+bengali : DRESS ; PALM ; HAPPY
+benghazi : PALM ; DRESS ; HAPPY
+benidorm : NORTH ; DRESS ; KIT
+benign : PRICE
+benignly : PRICE ; HAPPY
+beograd : GOAT ; DRESS ; TRAP
+bere : NEAR
+bergamot : NURSE ; GOAT ; LOT
+bergen : NURSE
+bergerac : NURSE ; TRAP
+bering : SQUARE ; KIT
+berkeley : NURSE ; HAPPY
+berlioz : SQUARE ; HAPPY ; GOAT
+bermuda : LETTER ; GOOSE
+bernard : LETTER ; NURSE/START
+berry : DRESS ; HAPPY
+berth : NURSE
+bertha : COMMA ; NURSE
+beseech : FLEECE
+best : DRESS
+best-selling : DRESS ; KIT
+beta : COMMA ; FACE
+betcha : COMMA ; DRESS
+beth : DRESS
+bethesda : DRESS
+bethlehem : DRESS
+bethnal : DRESS
+beto : DRESS ; GOAT
+betroth : GOAT
+better : DRESS ; LETTER
+between : FLEECE ; COMMA
+beulah : GOOSE
+beware : SQUARE ; (COMMA)
+beyfus : FACE
+beyond : LOT ; CLOTH
+bezel : DRESS
+bhaji : PALM ; HAPPY
+bhutan : GOOSE ; PALM
+bianca : COMMA ; FLEECE ; BATH
+bible : PRICE
+biceps : DRESS ; PRICE
+bickersteth : DRESS ; KIT ; LETTER
+bicycle : PRICE ; KIT
+bid : KIT
+bidet : FACE
+bieber : LETTER ; FLEECE
+bier : NEAR
+big : KIT
+bigger : LETTER ; KIT
+biggest : COMMA ; KIT
+biggie : HAPPY ; KIT
+bigmouth : MOUTH ; KIT
+bike : PRICE
+biker : PRICE ; LETTER
+bikini : FLEECE ; HAPPY
+bilharzia : START ; HAPPY ; KIT
+billboard : FORCE ; KIT
+billionaire : SQUARE ; KIT
+binaural : NORTH ; PRICE
+biodiversity : GOAT ; (PRICE) ; NURSE ; KIT ; HAPPY
+biofuels : GOAT ; PRICE ; GOOSE
+biography : HAPPY ; COMMA ; PRICE ; LOT ; TRAP
+biology : HAPPY ; COMMA ; LOT
+biomass : TRAP ; GOAT ; PRICE
+biophysics : GOAT ; PRICE ; KIT
+biopic : GOAT ; PRICE ; KIT
+biorhythm : KIT ; GOAT ; PRICE
+biosphere : NEAR ; PRICE ; GOAT
+biotechnology : GOAT ; PRICE ; DRESS ; LOT
+biowaste : GOAT ; PRICE ; FACE
+bipolar : PRICE ; GOAT ; LETTER
+birch : NURSE
+bird : NURSE
+birdbath : BATH ; NURSE
+birdie : HAPPY ; NURSE
+birdwatcher : LOT ; NURSE
+birmingham : LETTER ; COMMA ; NURSE ; (TRAP) ; KIT
+birth : NURSE
+birthday : NURSE ; FACE
+birther : LETTER ; NURSE
+birthmark : NURSE ; START
+birthrate : NURSE ; FACE
+birthright : NURSE ; PRICE
+birthstone : NURSE ; GOAT
+bissau : MOUTH
+bit : KIT
+bitch : KIT
+bites : PRICE
+bithynia : PRICE ; FLEECE
+bittersweet : FLEECE ; LETTER ; KIT
+biunique : PRICE ; GOOSE ; FLEECE
+biuniqueness : PRICE ; GOOSE ; FLEECE
+biweekly : PRICE ; FLEECE ; HAPPY
+biz : KIT
+bizarre : KIT ; START
+blabbermouth : MOUTH ; TRAP ; LETTER
+black : TRAP
+blackadder : TRAP ; LETTER
+blades : FACE
+blah : PALM
+blair : SQUARE
+blaire : SQUARE
+blairgowrie : MOUTH ; SQUARE ; HAPPY
+blake : FACE
+blame : FACE
+blamed : FACE
+blast : BATH
+blather : TRAP ; LETTER
+blawith : FACE
+blaydon : FACE
+blazer : FACE ; LETTER
+bleach : FLEECE
+bleak : FLEECE
+bleary : NEAR ; HAPPY
+blimey : HAPPY ; PRICE
+blithely : PRICE ; HAPPY
+blithering : KIT ; LETTER ; KIT
+blithesome : PRICE ; STRUT
+blitzkrieg : FLEECE ; KIT
+blockbuster : STRUT ; LOT ; LETTER
+blocking : LOT ; KIT
+bloemfontein : FACE ; GOOSE ; LOT
+blog : LOT ; CLOTH
+blogger : LETTER ; LOT/CLOTH
+blogosphere : LOT ; NEAR
+blood : STRUT
+blood-bath : BATH ; STRUT
+blood-poisoning : CHOICE; STRUT ; KIT
+blood-pressure : DRESS ; LETTER ; STRUT
+blood-transfusion : GOOSE ; STRUT ; TRAP
+blood-type : PRICE ; STRUT
+bloodbaths : BATH ; STRUT
+bloodhound : STRUT ; MOUTH
+bloom : GOOSE
+bloor : CURE
+blotchy : LOT ; HAPPY
+blouse : MOUTH
+blow : GOAT
+blowfish : GOAT ; KIT
+blowfly : GOAT ; PRICE
+blown : GOAT
+blows : GOAT
+blowtorch : FORCE ; GOAT
+bludgeoned : STRUT
+blue : GOOSE
+bluebeard : NEAR ; GOOSE
+bluebells : GOOSE ; DRESS
+blueberry : GOOSE ; DRESS ; HAPPY
+blues : GOOSE
+bluetooth : GOOSE
+blumenthal : PALM ; GOOSE ; DRESS
+blur : NURSE
+blurred : NURSE
+blurring : NURSE ; KIT
+blurry : NURSE ; HAPPY
+blush : STRUT
+blusher : STRUT ; LETTER
+blythe : PRICE
+bmw : DRESS ; FLEECE ; STRUT ; GOOSE
+boa : PALM ; GOAT
+boar : FORCE
+board : FORCE
+boarder : FORCE ; LETTER
+boarding : FORCE ; KIT
+boardwalk : THOUGHT ; FORCE
+boas : TRAP ; COMMA
+boat : GOAT
+boateng : DRESS ; GOAT
+boaz : TRAP ; GOAT
+bob : LOT
+bobby : HAPPY ; LOT
+boccaccio : PALM ; HAPPY ; GOAT
+bodega : GOAT ; COMMA ; FACE
+bodge : LOT
+bodhran : PALM ; LOT
+bodied : LOT ; FLEECE
+body : HAPPY ; LOT
+body-builder : LOT ; HAPPY ; KIT ; LETTER
+body-snatchers : TRAP ; LOT ; HAPPY ; LETTER
+bodywork : HAPPY ; LOT ; NURSE
+bog : CLOTH
+bogey : HAPPY ; GOAT
+boil : CHOICE
+boiler : CHOICE ; LETTER
+boing : CHOICE
+boink : CHOICE
+boise : CHOICE
+bolitho : PRICE ; GOAT
+bollywood : FOOT ; HAPPY ; LOT
+bolshie : HAPPY ; GOAT
+bolt : GOAT
+bolton : GOAT
+bombardier : NEAR ; START
+bombing : LOT ; KIT
+bombshell : DRESS ; LOT
+bonanza : COMMA ; TRAP
+bonding : LOT ; KIT
+bonfire : PRICE ; LOT
+bonnie : LOT ; HAPPY
+boo : GOOSE
+boo-boo : GOOSE
+boogie : GOOSE ; HAPPY
+boojum : GOOSE
+book : FOOT
+book-club : STRUT ; FOOT
+booker : LETTER ; FOOT
+bookkeeping : FLEECE ; FOOT ; KIT
+bookmark : FOOT ; START
+bookshop : LOT ; FOOT
+bookstore : FORCE ; FOOT
+boom : GOOSE
+boong : FOOT
+boor : FORCE ; CURE
+boorish : FORCE ; CURE ; KIT
+boorishly : FORCE ; CURE ; KIT ; HAPPY
+boorishness : FORCE ; CURE ; KIT
+boors : CURE
+boost : GOOSE
+boot-camp : TRAP ; GOOSE
+booths : GOOSE
+bootleg : DRESS ; GOOSE
+boots : GOOSE
+booty : GOOSE ; HAPPY
+booze : GOOSE
+borax : FORCE ; TRAP
+bordeaux : GOAT ; NORTH
+bore : FORCE
+bored : FORCE
+bork : NORTH
+born : NORTH
+borne : FORCE
+borneo : FORCE ; FLEECE ; GOAT
+boron : FORCE
+borough : STRUT ; (COMMA) ; GOAT
+borrow : (CLOTH) ; GOAT
+borrowed : GOAT ; CLOTH
+borzois : CHOICE ; CURE
+bosch : LOT
+bosom : FOOT
+boston : CLOTH
+bosworth : LOT ; LETTER
+botch : LOT
+both : GOAT
+botham : GOAT
+bother : LOT ; LETTER
+botheration : LOT ; LETTER ; FACE
+bothering : LOT ; LETTER ; KIT
+bothers : LOT ; LETTER
+botswana : LOT ; PALM
+botulism : LOT ; GOOSE ; KIT
+bouffant : GOOSE ; LOT
+bougainvillea : GOOSE ; KIT ; HAPPY
+bougie : GOOSE ; HAPPY
+boulogne : CHOICE ; (GOOSE) ; (FOOT)
+bouquet : GOOSE ; FACE
+bourbon : CURE
+bourdain : FACE ; FORCE ; CURE
+bourdon : CURE
+bourgeois : CURE ; TRAP
+bourgeoisie : CURE ; TRAP ; HAPPY
+bourgeouisie : PALM ; NORTH ; HAPPY
+bourn : CURE
+bourne : CURE
+bournemouth : FORCE ; MOUTH/COMMA
+bourse : CURE
+boursin : CURE ; KIT
+bout : MOUTH
+boutique : FLEECE ; GOOSE
+bouzouki : GOOSE ; HAPPY
+bow : MOUTH/GOAT
+bow-wow : MOUTH (GOAT)
+bowater : GOAT/MOUTH ; THOUGHT ; LETTER
+bowden : GOAT
+bowel : MOUTH
+bower : MOUTH ; LETTER
+bowery : MOUTH ; LETTER ; HAPPY
+bowes : GOAT
+bowker : MOUTH ; LETTER
+bowman : GOAT
+bowra : MOUTH
+bows : GOAT ; MOUTH
+bowsaw : GOAT ; THOUGHT
+bowser : MOUTH ; LETTER
+bowshot : GOAT ; LOT
+bowstring : GOAT ; KIT
+bowyer : LETTER ; GOAT
+boxing-gloves : STRUT ; LOT ; KIT
+boxing-match : TRAP ; LOT ; KIT
+boy : CHOICE
+boyce : CHOICE
+boycott : LOT ; CHOICE
+boyd : CHOICE
+boyega : COMMA ; CHOICE ; FACE
+boyfriend : DRESS ; CHOICE
+boyle : CHOICE
+bra : PALM
+brad : TRAP
+bradley : TRAP ; HAPPY
+brady : FACE ; HAPPY
+braemar : FACE ‘ LETTER
+braggadocio : GOAT ; TRAP  ; FLEECE
+brahmanic : PALM ; TRAP ; KIT
+brahmin : PALM ; KIT
+braille : FACE
+brain : FACE
+braintree : HAPPY ; FACE
+brake : FACE
+brass : BATH
+brasserie : BATH ; NEAR ; HAPPY
+bravado : PALM ; GOAT
+brave : FACE
+bravo : PALM ; GOAT
+brawny : THOUGHT ; HAPPY
+brazen : FACE
+brazil : COMMA ; KIT
+breach : FLEECE
+breadbasket : DRESS ; BATH
+breadcrumbs : DRESS ; STRUT
+breadstuffs : DRESS ; STRUT
+break : FACE
+break-in : FACE ; KIT
+break-up : STRUT ; FACE
+breakdown : FACE ; MOUTH
+breakers : FACE ; LETTER
+breakthrough : FACE ; GOOSE
+breakwater : FACE ; THOUGHT ; LETTER 
+bream : FLEECE
+brearley : NEAR ; HAPPY 
+breastfeeding : DRESS ; FLEECE 
+breath : DRESS
+breathtaking : DRESS ; FACE
+breech : FLEECE
+brereton : SQUARE
+brett : DRESS
+breughel : CHOICE
+brewer : GOOSE ; LETTER 
+brewery : GOOSE ; NURSE ; HAPPY 
+brezhnev : DRESS
+brian : PRICE 
+bride : PRICE
+bridegroom : PRICE ; GOOSE
+bridesmaids : PRICE ; FACE
+bridge : KIT
+bridgwater : KIT ; THOUGHT ; LETTER
+bridle-path : PRICE ; BATH
+bridle-paths : PRICE ; BATH
+brie : FLEECE
+brierley : NEAR ; HAPPY
+brigadier : NEAR ; LETTER
+bright : PRICE
+brigitte : KIT
+britney : KIT ; HAPPY
+broach : GOAT
+broad : THOUGHT
+broadband : THOUGHT
+broadcast : THOUGHT ; BATH
+broadminded : THOUGHT ; PRICE
+broadmoor : THOUGHT ; FORCE/CURE
+broadsheet : THOUGHT ; FLEECE
+broadsword : THOUGHT ; NURSE
+brogues : GOAT
+broke : GOAT
+broken : GOAT
+bromsgrove : GOAT
+brontosaurus : LOT ; NORTH
+brooch : GOAT
+brood-mares : GOOSE ; SQUARE
+brook : FOOT
+brooklyn : FOOT
+brophy : GOAT ; HAPPY
+broth : CLOTH
+brother : STRUT ; LETTER
+brother-in-law : STRUT ; LETTER ; THOUGHT
+brotherhood : STRUT ; LETTER ; FOOT
+brought : THOUGHT
+brow : MOUTH
+browbeaten : MOUTH ; FLEECE
+brown : MOUTH
+brownie : MOUTH ; HAPPY
+browse : MOUTH
+browser : MOUTH ; LETTER
+broxbourne : LOT / FORCE
+bruges : GOOSE
+bruise : GOOSE
+brummie : STRUT ; HAPPY
+brunette : GOOSE ; DRESS
+bruno : GOOSE ; GOAT
+brush : STRUT
+brush-up : STRUT
+brussels : STRUT
+brutal : GOOSE
+bubblegum : STRUT
+buchanan : GOOSE ; TRAP
+buckingham : STRUT 
+buckwheat : STRUT ; FLEECE
+bucolic : GOOSE ; LOT 
+bud : STRUT
+buddha : FOOT
+buddy : STRUT ; HAPPY 
+budget : STRUT
+budgetary : STRUT ; HAPPY 
+budgie : HAPPY
+budgies : STRUT ; HAPPY 
+budweiser : STRUT ; PRICE ; LETTER
+buff : STRUT
+buffalo : STRUT ; GOAT
+buffer : STRUT ; LETTER
+buffet : STRUT ; FACE
+bug : STRUT
+buganda : GOOSE
+bugatti : GOOSE ; TRAP ; HAPPY
+buggy : STRUT ; HAPPY
+bugle : GOOSE
+bugler : GOOSE ; LETTER 
+build-up : KIT ; STRUT
+building : KIT
+built-up : KIT ; STRUT
+bukowski : MOUTH ; HAPPY
+bulgarian : SQUARE ; FLEECE
+bulk : STRUT
+bull : FOOT
+bulldog : FOOT ; CLOTH
+bulletin : KIT ; STRUT/FOOT
+bullets : FOOT
+bulrush : FOOT ; STRUT
+bulwer : FOOT ; LETTER
+bumblebee : STRUT ; HAPPY
+bump : STRUT
+bundist : FOOT ; KIT
+bungalow : STRUT ; GOAT
+bungalows : STRUT ; GOAT
+bungee : STRUT ; HAPPY
+bunk : STRUT
+burbank : NURSE ; TRAP
+burberry : NURSE ; HAPPY
+burch : NURSE
+burden : NURSE
+bureau : CURE ; GOAT
+burette : CURE ; DRESS
+burford : NURSE ; LETTER
+burger : LETTER ; NURSE
+burgess : NURSE ; DRESS
+burgh : NURSE
+burglar : NURSE ; LETTER 
+burglary : NURSE ; LETTER ; HAPPY
+burgoyne : NURSE ; CHOICE
+burgundy : NURSE ; HAPPY 
+burke : NURSE
+burley : NURSE ; HAPPY
+burlington : NURSE ; KIT
+burma : COMMA ; NURSE
+burning : NURSE
+burns : NURSE
+burpee : NURSE ; HAPPY
+burro : FOOT ; GOAT
+burrows : STRUT ; GOAT
+burry : NURSE ; HAPPY
+burton : NURSE
+burundi : NURSE ; FOOT ; HAPPY
+burwell : NURSE
+bus : STRUT
+busby : STRUT ; HAPPY 
+buscemi : GOOSE ; HAPPY
+bused : STRUT
+bush : FOOT
+bushcraft : FOOT ; BATH
+bushey : FOOT ; HAPPY
+bushido : FOOT ; FLEECE ; GOAT 
+bushnell : FOOT
+bushy : FOOT ; HAPPY
+business : KIT ; COMMA
+bust : STRUT
+busy : KIT ; HAPPY
+but : STRUT ; COMMA
+butch : FOOT
+butcher : FOOT ; LETTER 
+butchery : FOOT ; LETTER ; HAPPY 
+butler : STRUT ; LETTER 
+butt : STRUT
+butter : STRUT ; LETTER 
+buttercup : STRUT ; LETTER ;  STRUT 
+butterfly : STRUT ; PRICE ; LETTER
+butterscotch : STRUT ; LETTER ; LOT
+butterworth : STRUT ; LETTER ; NURSE 
+button : STRUT
+buy : PRICE
+buyer : PRICE ; LETTER 
+buzz : STRUT
+buzzard : STRUT ; LETTER
+buzzer : STRUT ; LETTER 
+buzzing : STRUT
+by : PRICE
+by-paths : PRICE ; BATH
+by-product : LOT ; PRICE
+by-your-leave : PRICE ; FORCE ; FLEECE
+byfleet : FLEECE ; PRICE
+bygone : PRICE ; CLOTH
+bylaws : PRICE ; THOUGHT
+bypass : PRICE ; BATH
+byroad : PRICE ; GOAT
+byron : PRICE
+byway : PRICE ; FACE 
+byword : PRICE ; NURSE
+cab : TRAP
+cabdriver : TRAP ; PRICE ; LETTER 
+cabinet : TRAP ; DRESS
+cable : FACE
+cache : TRAP
+cadaver : BATH ; LETTER 
+cadillac : TRAP ; KIT
+caesura : FACE ; CURE
+caffeine : TRAP ; FLEECE
+cage : FACE
+cagey : FACE ; HAPPY
+caiman : FACE
+caird : SQUARE
+cairn : SQUARE
+cairngorm : SQUARE ; NORTH
+cairns : SQUARE
+cairo : PRICE ; GOAT
+caister : FACE ; LETTER 
+caithness : FACE ; KIT
+cake : FACE
+cakewalk : FACE ; THOUGHT
+calculate : TRAP ; FOOT ; FACE
+calder : LETTER
+caleb : FACE ; DRESS
+calendar : TRAP ; LETTER
+calf : BATH
+calf-love : BATH ; STRUT
+california : TRAP ; NORTH
+call : THOUGHT
+caltrop : BATH ; LOT 
+calve : BATH
+calves : BATH
+camberwell : TRAP ; LETTER ; DRESS
+cambodia : TRAP ; GOAT ; HAPPY
+camborne : TRAP ; FORCE
+cambourne : TRAP ; FORCE
+cambridge : FACE ; KIT
+camcorder : TRAP ; NORTH ; LETTER
+came : FACE
+camera : TRAP ; COMMA
+cameron : TRAP ; COMMA ; (LETTER)
+cameroon : TRAP ; LETTER ; GOOSE
+camouflage : TRAP ; PALM ; COMMA
+campaign : TRAP ; FACE
+campbell : TRAP
+campfire : TRAP ; PRICE
+camping : TRAP
+campsite : TRAP ; PRICE
+can : TRAP ; COMMA
+canada : TRAP ; COMMA
+canary : SQUARE ; HAPPY
+cancer : TRAP ; LETTER
+cannot : (TRAP) ; LOT
+canoeing : GOOSE
+cantata : PALM
+canterbury : BATH ; LETTER ; HAPPY
+cantors : BATH ;  NORTH
+cap : TRAP
+capable : FACE
+capacity : TRAP ; KIT
+cape : FACE
+capital : KIT ; TRAP
+capitol : TRAP
+capped : TRAP
+cappuccino : COMMA ; FLEECE ; GOAT
+captain : TRAP
+captcha : TRAP ; COMMA
+capture : TRAP ; LETTER
+capuche : GOOSE
+capuchin : GOOSE 
+car : START
+car-ferry : DRESS ; START ; HAPPY
+carbon : START
+carbonic : START ; LOT 
+carboxyl : START ; LOT
+carbuncle : START ; STRUT 
+carburetor : START ; LETTER ; (FACE)
+carcinogen : START ; KIT 
+card : START
+card-carrying : START ; TRAP ; HAPPY
+cardboard : START ; FORCE
+cardiff : START ; KIT
+cardigan : START ; KIT
+cardiovascular : GOAT ; START ; BATH
+cardsharper : START ; LETTER
+care : SQUARE
+cared : SQUARE
+career : NEAR ; LETTER ; COMMA
+careers : NEAR ; LETTER 
+carefree : SQUARE ; FLEECE
+careful : SQUARE ; STRUT
+carefulness : SQUARE ; STRUT
+careladen : SQUARE ; FACE 
+careless : SQUARE 
+carelessly : SQUARE ; HAPPY
+caremark : SQUARE ; START
+carer : SQUARE ; LETTER
+caretaker : FACE ; SQUARE ; LETTER
+careworn : SQUARE ; FORCE
+carey : SQUARE ; HAPPY
+carfare : START ; SQUARE
+carfax : START
+cargo : START ; GOAT 
+caribbean : FLEECE ; NEAR ; (TRAP)
+caricature : (CURE) ; COMMA ; TRAP 
+caricatured : CURE
+caring : SQUARE
+carla : START
+carleen : START ; FLEECE
+carlos : LOT ; START
+carlton : START
+carmaker : START ; FACE
+carmen : START
+carmichael : START ; PRICE
+carnaby : START ; HAPPY
+carnation : START ; FACE
+carnegie : (DRESS) ; START ; (FACE) ; HAPPY
+carney : START
+carnival : START
+carnivorous : START ; KIT
+carol : TRAP
+caroline : TRAP ; PRICE
+carp : START
+carpathian : FACE ; START
+carpenter : START ; LETTER
+carpet : START
+carpology : START ; LOT ; HAPPY
+carr : START
+carriage : TRAP
+carrie : TRAP ; HAPPY
+carrier-bag : TRAP ; LETTER
+carrier-bags : LETTER ; TRAP
+carruthers : TRAP ; STRUT ; LETTERS
+carry : TRAP ; HAPPY 
+carry-on : TRAP ; HAPPY ;  LOT
+carson : START
+carstairs : SQUARE
+cart : START
+carthage : START
+carthew : START ; GOOSE
+carthusian : START ; GOOSE 
+cartoon : GOOSE ; START
+cartouche : START ; GOOSE
+carvery : START ; LETTER ; HAPPY
+carving : START
+carving-fork : START ; NORTH
+carving-knife : START ; PRICE
+cary : SQUARE ; HAPPY
+carzey : START ; HAPPY
+casa : PALM
+cascade : TRAP
+case : FACE
+cash : TRAP
+cashier : TRAP ; NEAR
+cashmere : TRAP ; NEAR
+casino : FLEECE ; GOAT
+cask : BATH
+casket : BATH
+cassava : PALM
+cassie : TRAP ; HAPPY
+cassis : TRAP
+cast : BATH
+cast-iron : BATH ; PRICE
+castile : TRAP ; FLEECE
+casting : BATH
+castle : BATH
+castleford : BATH ; LETTER
+casual : TRAP ; GOOSE
+casually : TRAP ; GOOSE ; HAPPY
+casualty : TRAP ; GOOSE ; HAPPY
+cat : TRAP
+catacomb : TRAP ; GOOSE
+catalogue : TRAP ; LOT
+catalpa : TRAP ;  COMMA
+catapult : TRAP ; STRUT
+catastrophe : TRAP ; HAPPY
+catch : TRAP
+catch-as-catch-can : TRAP
+catch-up : TRAP ; STRUP
+cate : FACE
+categorically : CLOTH/FORCE ; TRAP ; HAPPY
+category : TRAP ; LETTER ; COMMA
+caterham : FACE ; LETTER
+caterpillar : TRAP ; LETTER ; KIT
+catfood : TRAP ; GOOSE
+cathay : TRAP ; FACE
+cathcart : TRAP ; START
+cathedral : COMMA ; FLEECE 
+catherine : TRAP ; KIT
+catheter : TRAP ; LETTER
+catholic : TRAP ; KIT
+cathy : TRAP ; HAPPY
+catwalk : TRAP ;  THOUGHT
+caucasian : FACE ; THOUGHT
+caucasus : THOUGHT
+caught : THOUGHT
+cauliflower : THOUGHT ; MOUTH
+causal : THOUGHT
+causality : THOUGHT ; HAPPY
+causation : THOUGHT ; FACE
+cause : THOUGHT
+caustic : THOUGHT ; KIT 
+causticity : THOUGHT ; KIT ; HAPPY
+caution : THOUGHT
+cautioned : THOUGHT
+cavalier : TRAP; NEAR
+cave : FACE
+cavendish : TRAP ; KIT
+cavill : TRAP 
+cavity : TRAP ; HAPPY
+cawdor : THOUGHT ; NORTH
+cawood : FACE ; FOOT
+cayman : FACE
+celeb : COMMA ; DRESS
+celebrate : DRESS ; FACE
+celebrity : KIT ; DRESS
+celina : COMMA ; FLEECE
+cellophane : FACE ; DRESS ; (GOAT)
+censorious : FORCE ; FLEECE ; STRUT
+censure : LETTER
+centaurus : NORTH
+centaury : NORTH ; HAPPY
+center : DRESS ; LETTER
+centilitre : DRESS ; FLEECE
+centime : DRESS ; FLEECE
+centimetre : DRESS ; FLEECE
+centre : DRESS
+centrifugal : DRESS ; GOOSE
+centrifugation : DRESS ; FOOT ; FACE
+centrifuge : DRESS ; GOOSE
+century : DRESS ; LETTER ; COMMA
+cephalothorax : GOAT
+ceremony : DRESS ; HAPPY
+certain : NURSE
+certainly : NURSE ; HAPPY 
+certificate : KIT ; NURSE 
+cha-cha : PALM
+chaff : BATH
+chafing : FACE
+chain : FACE
+chainsaws : FACE ; THOUGHT
+chair : SQUARE
+chair-lift : SQUARE ; KIT
+chairman : SQUARE
+chairmen : SQUARE
+chairs : SQUARE
+chairwoman : SQUARE ; FOOT
+chalets : FACE
+chalk : THOUGHT
+challenge : TRAP
+chambers : FACE ; LETTER
+champagne : TRAP ; FACE
+champion : TRAP
+championship : TRAP ; KIT 
+chandelier : TRAP ; NEAR
+change : FACE
+character : TRAP ; COMMA ; LETTER
+charcoal : START ; GOAT
+charge : START
+charger : START ; LETTER
+charity : TRAP ; HAPPY
+charles : START
+charlie : START ; HAPPY
+charlotte : START ; COMMA
+charm : START
+charmaine : START ; FACE
+charming : START
+chart : START
+charwoman : START ; FOOT
+chas : TRAP
+chase : FACE
+chassis : HAPPY
+chauffeur : GOAT ; NURSE
+cheadle : FLEECE
+cheap : FLEECE
+cheapside : FLEECE ; PRICE
+cheat : FLEECE 
+check : DRESS
+checkout : DRESS ; MOUTH 
+checkpoint : DRESS ; CHOICE
+cheeky : FLEECE ; HAPPY
+cheer : NEAR
+cheerful : NEAR
+cheering : NEAR
+cheerleader : NEAR ; LETTER
+cheers : NEAR
+cheery : NEAR ; HAPPY
+chef : DRESS
+chekhov : DRESS ; LOT
+chelsea : DRESS ; HAPPY
+chemolysis : FLEECE ; GOAT ; PRICE 
+cherwell : START
+cheshire : DRESS ; LETTER
+chesterfield : DRESS ; LETTER ; FLEECE
+chestnut : DRESS ; STRUT
+chewing-gum : GOOSE ; STRUT
+chewy : GOOSE ; HAPPY 
+chi : FLEECE
+chi-chi : FLEECE ; HAPPY
+chia : NEAR
+chic : FLEECE
+chicago : PALM ; GOAT
+chickadee : KIT ; HAPPY
+chickpea : KIT ; HAPPY
+chiffchaff : KIT ; TRAP
+child : PRICE
+child-bearing : PRICE ; SQUARE
+children : KIT ; (COMMA)
+chili : KIT ;  HAPPY
+china : PRICE ; COMMA
+chinese : PRICE ; FLEECE 
+chipmunk : KIT ; STRUT
+chippewa : KIT ;  PALM
+chiropractic : PRICE ; GOAT ; TRAP
+chit-chat : KIT ; TRAP
+chocho : GOAT
+chocolate : CLOTH
+chocolatey : CLOTH ; HAPPY
+choice : CHOICE
+cholesterol : LOT ; DRESS
+choose : GOOSE
+choral : FORCE
+chorale : PALM
+chord : NORTH
+chose : GOAT
+chosen : GOAT
+chow-chow : MOUTH
+christmas : COMMA ; KIT
+christopher : LETTER ; COMMA ; KIT
+chrome : GOAT
+chronograph : BATH ; GOAT
+chronological : LOT ; KIT
+chugalug : STRUT
+chukchee : HAPPY ; STRUT
+chunky : STRUT ; HAPPY
+church : NURSE
+churchill : NURSE ; KIT
+churro : GOOSE ; GOAT
+chutzpa : FOOT ; COMMA
+chuvash : TRAP ; GOOSE
+chuzzlewit : STRUT ; KIT
+ciao : MOUTH
+ciba : COMMA ; FLEECE
+cigarette : KIT ; DRESS
+ciggie : HAPPY ; KIT
+cimetidine : PRICE ; DRESS ; KIT
+cinema : PALM ; KIT
+cinquefoils : CHOICE ; KIT
+circa : COMMA ; NURSE
+circle : NURSE
+circuit : NURSE ; KIT
+circumcision : KIT ; STRUT ; NURSE
+circumstances : NURSE ; STRUT ; BATH
+circumstantial : BATH ; NURSE ; STRUT
+circumstantiate : BATH ; NURSE ; STRUT ; TRAP ; HAPPY ; FACE
+circus : NURSE
+cither : LETTER ; KIT
+citizen : KIT
+city : KIT ; HAPPY
+ciudad : FLEECE GOOSE PALM/TRAP
+civil : KIT
+clad : TRAP
+claims : FACE
+clair : SQUARE
+claire : SQUARE
+clairvoyant : SQUARE ; CHOICE
+clara : SQUARE ; COMMA ; START
+clare : SQUARE
+claremont : SQUARE ; LOT
+clark : START
+clarkson : START
+clash : TRAP
+class : BATH
+classic : TRAP ; KIT
+classical : TRAP ; KIT
+classified : TRAP ; PRICE ; KIT
+clause : THOUGHT
+clavier : NEAR
+clawback : THOUGHT ; TRAP
+claws : THOUGHT
+claydon : FACE
+claypan : FACE ; TRAP
+clean : FLEECE
+cleancut : FLEECE ; STRUT
+clear : NEAR
+clear-cut : NEAR ; STRUT
+clear-sighted : NEAR ; PRICE
+clearcole : NEAR ; GOAT
+cleared : NEAR
+clearer : NEAR ; LETTER
+clearest : NEAR
+clearly : NEAR ; HAPPY
+clearness : NEAR
+clearwater : NEAR ; THOUGHT ; LETTER
+clearway : NEAR ; FACE
+cleethorpe : NORTH ; FLEECE
+clegg : DRESS
+clerestories : NEAR ; FORCE ; HAPPY
+click : KIT
+climate : PRICE
+climbing : PRICE ; KIT
+clingy : HAPPY ; KIT
+clip : KIT
+clip-joint : CHOICE ; KIT
+clique : FLEECE
+clive : PRICE
+clock-tower : MOUTH ; LOT ; LETTER
+clock-watching : LOT ; KIT
+clogs : CLOTH
+clooney : GOOSE ; HAPPY
+close-up : STRUT ; GOAT
+closed-door : FORCE ; GOAT
+closer : LETTER ; GOAT
+closing : GOAT ; KIT
+closure : LETTER ; GOAT
+closures : GOAT ; LETTER
+clothe : GOAT
+clothes : GOAT
+clothes-hangers : GOAT ; TRAP ; LETTER
+clothing : GOAT ; KIT
+cloture : GOAT ; LETTER
+cloud : MOUTH
+clough : STRUT
+cloys : CHOICE
+club : STRUT
+clung : STRUT
+clutch : STRUT
+co-op : LOT
+co-respondent : GOAT ; LOT 
+co-star : START ; GOAT
+co-starring : GOAT ; START ; KIT
+co-worker : GOAT ; LETTER ; NURSE
+coach : GOAT
+coachella : GOAT ; DRESS
+coalbunker : STRUT ; GOAT ; LETTER
+coalseam : FLEECE ; GOAT
+coarse-grained : FORCE ; FACE
+coarsely : FORCE ; HAPPY
+coarsen : FORCE
+coarseness : FORCE
+coarser : FORCE ; LETTER
+coast : GOAT
+coat-hanger : TRAP ; LETTER ; GOAT
+coauthor : LETTER ; GOAT ; THOUGHT
+cobalt : LOT ; GOAT
+cobweb : DRESS ; LOT
+coca-cola : GOAT ; COMMA
+cocaine : FACE ; GOAT
+cochin : GOAT ; HAPPY
+cockroach : GOAT ; LOT
+coco : GOAT
+cocoa : GOAT
+coconut : STRUT ; GOAT
+code : GOAT
+coffee : CLOTH ; HAPPY
+coffee-house : MOUTH ; GOAT ; HAPPY
+coffer : CLOTH ; LETTER
+coffey : HAPPY ; CLOTH
+coffin : CLOTH ; KIT
+cogency : GOAT ; happy
+cogent : GOAT
+cognitive : LOT ; KIT
+cohabitation : TRAP ; GOAT ; KIT ; FACE
+cohere : NEAR ; GOAT
+cohosh : LOT ; GOAT
+coiffure : PALM ; CURE
+coil : CHOICE
+coin : CHOICE
+coir : CHOICE
+cold : GOAT
+coldstream : FLEECE ; GOAT
+coleraine : FACE ; GOAT
+coliseum : NEAR ; KIT
+collaborative : TRAP ; KIT
+colleague : FLEECE ; LOT
+collection : COMMA ; DRESS
+college : KIT ; LOT
+collegiate : FLEECE
+collision : KIT
+collywobbles : LOT ; HAPPY
+colne : GOAT
+colney : GOAT ; HAPPY
+colon : GOAT
+color : LETTER
+colorado : PALM ; LOT ; GOAT
+colorful : LETTER ; FOOT ; STRUT
+colour : STRUT ; LETTER
+coloured : STRUT ; LETTER
+colourful : LETTER ; STRUT ; FOOT
+columba : COMMA ; STRUT
+colyer : LETTER ; LOT
+combat : TRAP ; LOT
+combinatorial : FORCE ; LOT ; HAPPY ; KIT
+combine : PRICE
+combos : GOAT ; LOT
+come : STRUT
+come-hither : KIT ; STRUT ; LETTER
+comedy : HAPPY ; COMMA ; LOT
+comey : HAPPY ; LOT
+comfort : STRUT ; LETTER
+comfortable : STRUT ; LOT ; KIT
+coming-out : MOUTH
+comment : DRESS ; LOT
+commenting : LOT ; DRESS ; KIT
+commercial : NURSE
+commie : HAPPY ; LOT
+commission : KIT
+commissioner : LETTER ; KIT
+committee : HAPPY ; KIT
+commonly : LOT ; HAPPY
+commonwealth : DRESS ; LOT
+commune : GOOSE ; LOT
+communication : GOOSE ; KIT ; FACE
+communist : FOOT ; LOT ; KIT
+community : COMMA ; GOOSE ; KIT ; HAPPY
+commuter : GOOSE ; LETTER
+comorbid : NORTH ; GOAT ; KIT
+companies : COMMA ; STRUT ; HAPPY
+company : STRUT ; HAPPY
+compaq : LOT ; TRAP
+compare : SQUARE
+compared : SQUARE
+compares : SQUARE
+comparing : SQUARE ; KIT
+compeer : NEAR ; LOT
+compensation : DRESS ; LOT ; FACE
+compere : SQUARE ; LOT
+competition : KIT ; COMMA ; LOT
+complaints : FACE
+complete : COMMA ; FLEECE
+complex : DRESS ; LOT
+compliments : LOT ; KIT
+components : GOAT
+composer : LETTER ; GOAT
+composure : GOAT ; LETTER
+computer : GOOSE ; COMMA ; LETTER
+concave : FACE ; LOT
+concept : DRESS ; LOT
+concern : NURSE
+concert : LETTER ; LOT
+concerted : NURSE
+concertgebouw : MOUTH ; NURSE ; LOT
+concerto : SQUARE ; GOAT
+conchie : HAPPY ; LOT
+concierge : SQUARE ; LOT ; HAPPY
+conclude : GOOSE
+conclusion : GOOSE
+concord : NORTH ; LOT
+concorde : NORTH ; FORCE ; LOT
+concrete : FLEECE ; LOT
+concubine : FOOT ; LOT ; PRICE
+concupsicent : GOOSE ; KIT
+condemnation : DRESS ; LOT ; FACE
+condition : KIT
+conditions : KIT
+condors : NORTH ; LOT
+condos : GOAT ; LOT
+conference : LETTER ; COMMA ; LOT
+confession : DRESS
+confetti : HAPPY ; DRESS
+confirm : NURSE
+confirmation : LETTER ; LOT ; FACE
+confrere : SQUARE
+confuse : GOOSE
+confusion : GOOSE
+conga : COMMA ; LOT
+congee : HAPPY ; LOT
+congrats : COMMA ; TRAP
+congratulations : TRAP ; GOOSE ; FACE
+conjunctiva : STRUT ; LOT ; PRICE
+connect : DRESS
+connectivity : KIT ; (LOT) ; DRESS ; HAPPY
+connelly : COMMA ; HAPPY
+connemara : START ; LOT
+conquistadors : NORTH ; LOT ; FLEECE
+conrad : TRAP ; LOT
+conroy : CHOICE ; LOT
+consecutive : FOOT ; DRESS ; KIT
+conservation : LETTER ; LOT ; FACE
+conservative : NURSE ; KIT
+conservatory : NURSE ; NORTH ; HAPPY
+consider : KIT ; LETTER
+consignment : PRICE
+console : GOAT ; LOT
+consort : NORTH ; FORCE ; LOT
+consortium : NORTH ; HAPPY
+conspiracy : KIT ; HAPPY
+constant : LOT
+constituency : KIT ; GOOSE ; HAPPY
+constitute : GOOSE ; LOT ; KIT
+constitutionality : GOOSE ; LOT ; KIT ; HAPPY
+construct : STRUT ; LOT
+construction : STRUT
+consubstantial : BATH ; STRUT ; TRAP ; LOT
+consubstantiality : BATH ; STRUT ; HAPPY ; TRAP ; KIT
+consultancy : STRUT ; HAPPY
+consultant : STRUT ; LOT
+consumer : GOOSE ; LETTER
+contact : TRAP ; LOT
+contain : FACE
+continual : GOOSE ; KIT
+continue : GOOSE ; COMMA ; KIT
+continued : GOOSE ; KIT
+continues : GOOSE ; KIT
+continuing : GOOSE ; KIT
+contort : NORTH ; LOT
+contortion : NORTH
+contour : CURE ; (FORCE)
+contoured : CURE ; LOT
+contouring : CURE ; LOT ; KIT
+contours : CURE ; LOT
+contract : TRAP ; LOT
+contralto : BATH ; LOT ; GOAT
+contrary : SQUARE ; HAPPY
+contrast : BATH ; LOT
+contribution : GOOSE ; LOT ; KIT
+contributor : KIT ; FOOT ; LETTER
+control : GOAT
+controversial : COMMA ; NURSE
+controversially : NURSE ; HAPPY
+controversy : LETTER ; HAPPY
+contusion : GOOSE
+convenient : FLEECE
+conversation : LETTER ; FACE
+conversion : NURSE
+convertible : NURSE ; KIT
+convolution : GOOSE ; LOT 
+cooch : GOOSE
+cook : FOOT
+cookbook : FOOT
+cooke : FOOT
+cookie : HAPPY ; FOOT
+cookies : FOOT ; HAPPY
+cool : GOOSE
+coolabah : PALM ; GOOSE
+cooling-tower : MOUTH ; GOOSE ; KIT ; LETTER
+cooper : GOOSE ; LETTER
+cope : GOAT
+copenhagen : FACE ; GOAT
+copy : HAPPY ; LOT
+copyright : LOT ; PRICE ; HAPPY
+coral : (CLOTH)
+corby : NORTH ; HAPPY
+cord : NORTH
+corda : COMMA ; NORTH
+cordelia : NORTH ; FLEECE ; HAPPY
+cordoba : COMMA ; NORTH ; GOAT
+core : FORCE
+coreferential : DRESS ; GOAT
+coreligionist : GOAT ; KIT
+corfu : NORTH
+corgi : NORTH ; HAPPY
+cork : NORTH
+corkscrews : GOOSE ; NORTH
+corn : NORTH
+corncob : LOT ; NORTH
+corner : NORTH ; LETTER
+cornflower : MOUTH ; NORTH ; LETTER
+cornish : NORTH ; KIT
+cornstarch : START ; NORTH
+cornucopia : FOOT ; NORTH ; GOAT ; HAPPY
+cornus : NORTH
+cornwall : THOUGHT ; NORTH
+coronary : (CLOTH) ; SQUARE ; HAPPY
+coronavirus : GOAT ; LETTER ; COMMA ; PRICE
+coroner : (CLOTH) ; LETTER
+corporal : NORTH
+corporate : LETTER ; NORTH
+corporeal : NORTH ; HAPPY
+corpse : NORTH
+correlate : (CLOTH) ; FACE
+correspond : (CLOTH) ; NORTH
+corridors : NORTH ; KIT
+corrosion : GOAT
+corruption : STRUT
+corsage : PALM ; NORTH
+corsair : SQUARE ; NORTH
+corse : NORTH
+corset : NORTH
+corsica : COMMA ; NORTH ; KIT
+cortado : PALM ; NORTH ; GOAT
+cortez : DRESS ; NORTH
+corvette : NORTH ; DRESS
+corvina : NORTH ; FLEECE
+corvine : NORTH ; PRICE
+corwen : NORTH
+cosmetic : LOT ; DRESS ; KIT
+cosmetologist : LOT ; DRESS ; KIT
+cosmo : LOT ; GOAT
+cosmogeny : LOT ; DRESS ; HAPPY
+cosmographer : LOT ; BATH ; LETTER
+cosmology : LOT  ; HAPPY
+cosmos : (LOT) ; (GOAT)
+cost : CLOTH
+costarring : START ; GOAT ; KIT
+costume : GOOSE ; LOT
+cothi : HAPPY
+cotswold : GOAT ; LOT
+couch : MOUTH
+couchette : GOOSE ; DRESS
+cougar : GOOSE ; LETTER
+cough : CLOTH
+could : FOOT ; COMMA
+council : MOUTH
+council-chamber : FACE ; LETTER ; MOUTH
+countermeasure : DRESS ; MOUTH ; LETTER
+countermove : GOOSE ; MOUTH ; LETTER
+counterpart : LETTER ; MOUTH ; START
+counterpoint : CHOICE ; MOUTH ; LETTER
+counterpoise : CHOICE ; MOUTH ; LETTER
+counterrevolutionary : DRESS ; MOUTH ; LETTER ; GOOSE ; SQUARE ; HAPPY
+countersign : PRICE ; MOUTH ; LETTER
+countersunk : STRUT ; MOUTH ; LETTER
+country : STRUT ; HAPPY
+country-house : MOUTH ; STRUT ; HAPPY
+countryside : PRICE ; STRUT ; HAPPY
+countrywide : HAPPY ; STRUT ; PRICE
+county : MOUTH ; HAPPY
+couple : STRUT
+courage : STRUT ; KIT
+courageous : FACE ; STRUT
+courbet : CURE ; KIT
+courgette : FORCE ; DRESS
+courier : FOOT ; CURE
+courland : CURE
+course : FORCE
+court : FORCE
+courtelle : FORCE ; DRESS
+courtier : FORCE ; HAPPY ; LETTER
+courtyard : START ; FORCE
+courvoisier : CURE ; PALM ; HAPPY
+cousin : STRUT ; KIT
+cousins : STRUT ; KIT
+couture : GOOSE ; CURE
+couturier : GOOSE ; CURE ; HAPPY
+couvade : PALM ; GOOSE
+cover : STRUT ; LETTER
+cover-charge : STRUT ; LETTER ; START
+cover-up : STRUT ; LETTER
+coverage : STRUT ; LETTER
+coverall : STRUT ; LETTER
+covet : STRUT ; KIT
+covey : HAPPY ; STRUT
+covid-19 : KIT ; GOAT ; PRICE ; FLEECE
+cow : MOUTH
+cowan : MOUTH
+cowbell : MOUTH ; DRESS
+cowberry : MOUTH ; DRESS ; HAPPY
+cowbind : MOUTH ; PRICE
+cowbird : MOUTH ; NURSE
+cowboy : CHOICE ; MOUTH
+cowboys : CHOICE ; MOUTH
+cowcatcher : MOUTH ; TRAP ; LETTER
+cowell : MOUTH
+cowgill : MOUTH ; KIT
+cowgirl : MOUTH ; NURSE
+cowl : MOUTH
+cowley : MOUTH ; HAPPY
+cowling : MOUTH ; KIT
+cowman : MOUTH
+cowpat : MOUTH ; TRAP
+cowpoke : MOUTH ; GOAT
+cowpox : MOUTH ; LOT
+cowrie : MOUTH ; HAPPY
+cows : MOUTH
+cowsheds : MOUTH ; DRESS
+coy : CHOICE
+coyer : CHOICE ; LETTER
+coypu : CHOICE ; GOOSE
+cozens : STRUT
+crackdown : MOUTH ; TRAP
+cracker-barrel : TRAP ; LETTER
+cradle : FACE
+craft : BATH
+craignure : FACE ; CURE
+craquelure : CURE ; TRAP
+crash : TRAP
+crashes : TRAP
+crathorn : FACE ; NORTH
+crawfish : THOUGHT ; KIT
+crawford : THOUGHT
+crayfish : FACE ; KIT
+crayford : FACE
+craze : FACE
+crazy : FACE ; HAPPY
+creak : FLEECE
+cream : FLEECE
+create : FACE ; FLEECE
+creative : KIT ; FLEECE ; FACE
+creativity : FACE ; FLEECE ; KIT ; HAPPY
+creature : FLEECE ; LETTER
+credit : DRESS ; KIT
+creek : FLEECE
+creep : FLEECE
+crematorium : FORCE ; HAPPY
+creolization : NEAR ; PRICE ; FACE
+crepe-paper : FACE ; LETTER
+cressida : COMMA ; DRESS ; KIT
+creutzfeldt-jakob : CHOICE ; DRESS ; TRAP
+crew : GOOSE
+crewcut : STRUT ; GOOSE
+crib : KIT
+cricket : KIT
+crime : PRICE
+crisis : KIT ; PRICE
+criteria : PRICE ; NEAR ; HAPPY
+critic : KIT
+critique : FLEECE ; KIT
+croatia : FACE ; COMMA ; GOAT
+crochet : GOAT ; FACE
+crocodile : PRICE ; LOT
+croft : STRUT ; CLOTH
+crook : FOOT
+crop : LOT
+cross : CLOTH
+cross-check : DRESS ; CLOTH
+crossbeam : FLEECE ; CLOTH
+crosstalk : THOUGHT ; CLOTH
+crouch : MOUTH
+crow : GOAT
+crowd : MOUTH
+crowed : GOAT
+crowfoot : GOAT ; FOOT
+crown : MOUTH
+crowther : MOUTH ; LETTER
+croydon : CHOICE
+crucial : GOOSE
+cruciferous : GOOSE ; KIT ; LETTER
+crude : GOOSE
+cruel : GOOSE
+cruise : GOOSE
+crunchie : HAPPY ; STRUT
+crusader : GOOSE ; FACE ; LETTER
+crush : STRUT
+crustacean : STRUT ; FACE
+crutches : STRUT
+crybaby : FACE ; PRICE ; HAPPY
+cryptocurrency : STRUT ; KIT ; GOAT ; HAPPY
+cuba : GOOSE ; COMMA
+cube : GOOSE
+cubeb : DRESS ; GOOSE
+cubic : GOOSE ; KIT
+cubicle : GOOSE ; KIT
+cubisitic : GOOSE ; KIT
+cuckoos : GOOSE
+cucumber : STRUT ; GOOSE ; LETTER
+cudbear : SQUARE ; STRUT
+cuddle : STRUT
+cudgel : STRUT
+cue : GOOSE
+cuff : STRUT
+cuff-links : STRUT ; KIT
+cufic : GOOSE ; KIT
+cul-de-sac : TRAP ; STRUT
+cult : STRUT
+cultural : STRUT ; LETTER
+culture : STRUT ; LETTER
+cumberbatch : TRAP ; LETTER ; STRUT
+cumbernauld : THOUGHT ; STRUT ; LETTER
+cumbria : STRUT ; HAPPY
+cumulative : GOOSE ; KIT
+cup : STRUT
+cupboard : STRUT ; FORCE
+cupid : GOOSE ; KIT
+cupidity : GOOSE ; KIT ; HAPPY
+cuppa : COMMA ; STRUT
+cupric : GOOSE ; KIT
+curate : FACE ; CURE
+curated : CURE ; FACE
+curatorial : FORCE ; CURE ; HAPPY
+curb : NURSE
+cure : CURE
+cured : CURE
+curfew : GOOSE ; NURSE
+curiosity : CURE ; HAPPY ; CLOTH ; KIT
+curly : NURSE ; HAPPY
+curmudgeon : STRUT ; NURSE
+currency : STRUT ; HAPPY
+current : STRUT ; COMMA
+currently : STRUT ; HAPPY
+curry : STRUT ; HAPPY
+curry-powder : MOUTH ; STRUT ; HAPPY ; LETTER
+curve : NURSE
+curwen : NURSE
+curzon : NURSE
+cushing : FOOT ; KIT
+cushion : FOOT
+custodial : STRUT ; GOAT ; HAPPY
+custodian : STRUT ; GOAT ; HAPPY
+custody : STRUT ; HAPPY
+customer : STRUT ; LETTER
+customization : STRUT ; PRICE ; FACE
+customized : STRUT ; PRICE
+customs : STRUT
+cut : STRUT
+cut-and-cover : STRUT ; LETTER
+cut-out : MOUTH ; STRUT
+cute : GOOSE
+cuthbert : STRUT ; NURSE
+cutie : HAPPY ; GOOSE
+cutlery : STRUT ; LETTER ; HAPPY
+cwm : FOOT
+cyber : LETTER ; PRICE
+cyborg : PRICE ; NORTH
+cycle : PRICE
+cycling : PRICE ; KIT
+cyclorama : GOAT ; PRICE ; PALM
+cynosure : CURE ; KIT
+cyprus : PRICE
+cyrus : PRICE
+czarina : START ; FLEECE
+dacha : COMMA ; TRAP
+dachau : MOUTH ; TRAP
+dachshund : FOOT ; TRAP
+dad : TRAP
+dada : PALM ; TRAP
+daesh : DRESS
+daft : BATH
+dahrendorf : NORTH ; TRAP
+daily : FACE ; HAPPY
+daimler : FACE ; LETTER
+dairy : SQUARE ; HAPPY
+dairy-farm : START ; SQUARE ; HAPPY
+daisy : FACE ; HAPPY
+daith : FACE
+dakota : COMMA ; GOAT
+dal : PALM
+dale : FACE
+dali : PALM ; HAPPY
+dalmatian : FACE
+daly : FACE
+dame : FACE
+damian : FACE ; HAPPY
+damon : FACE
+dancer : BATH ; LETTER
+dandelion : PRICE ; TRAP
+dandruff : STRUT ; TRAP
+danger : FACE ; LETTER
+dangerous : FACE ; LETTER
+darcy : START ; HAPPY
+dare : SQUARE
+daredevil : DRESS ; SQUARE
+daresay : SQUARE ; FACE
+darfield : START ; FLEECE
+daring : SQUARE ; KIT
+darjeeling : START ; FLEECE ; KIT
+dark : START
+darling : START ; KIT
+dartmoor : FORCE ; CURE
+darts : START
+darwen : START
+darwin : START ; KIT
+darwinian : START ; KIT
+darwinism : START ; KIT
+dashboard : FORCE ; TRAP
+dasyure : CURE ; TRAP
+data : (BATH) ; COMMA ; (FACE)
+database : FACE ; BATH
+date : FACE ; PALM
+daub : THOUGHT
+daughter : THOUGHT ; LETTER
+daunting : THOUGHT ; KIT
+dauphin : THOUGHT ; KIT
+dauphine : THOUGHT ; FLEECE
+dave : FACE
+davey : HAPPY ; FACE
+david : FACE ; KIT
+davie : HAPPY ; FACE
+davies : FACE ; HAPPY
+davis : FACE ; KIT
+dawn : THOUGHT
+dawson : THOUGHT
+day-care : SQUARE ; FACE
+day-return : FACE ; NURSE
+daybed : FACE ; DRESS
+daybreak : FACE
+daycare : FACE ; SQUARE
+daydream : FLEECE ; FACE
+daylight : PRICE ; FACE
+dayroom : FACE ; GOOSE
+days : FACE
+daytime : FACE ; PRICE
+daytona : FACE ; GOAT
+dazzle : TRAP
+de-stalinization : PALM ; FLEECE ; KIT ; PRICE ; FACE
+dead : DRESS
+dealership : LETTER ; FLEECE ; KIT
+dean : FLEECE
+deanna : COMMA ; FLEECE ; TRAP
+dear : NEAR
+dearer : NEAR ; LETTER
+dearie : NEAR ; HAPPY
+dearly : NEAR ; HAPPY
+dearness : NEAR
+dearth : NURSE
+deary : NEAR ; HAPPY
+death : DRESS
+deathwatch : LOT ; DRESS
+debate : FACE ; COMMA
+debauch : THOUGHT
+debauchee : HAPPY ; THOUGHT
+debbie : DRESS ; HAPPY
+debit : DRESS ; KIT
+deborah : DRESS ; COMMA
+debued : GOOSE ; FACE
+debut : FACE ; GOOSE
+debutante : PALM ; GOOSE
+debutz : GOOSE ; FACE
+decade : FACE ; DRESS
+decaf : TRAP; FLEECE
+december : DRESS ; LETTER
+decision : KIT
+declare : SQUARE
+declared : SQUARE
+declares : SQUARE
+decors : NORTH
+decoys : CHOICE ; FLEECE
+decreolize : NEAR ; FLEECE ; PRICE ; FACE
+deemed : FLEECE
+deep : FLEECE
+deer : NEAR
+deerskin : NEAR ; KIT
+deerstalker : THOUGHT ; NEAR ; LETTER
+default : COMMA ; FLEECE
+defeat : FLEECE ; COMMA
+defence : COMMA ; DRESS
+defend : COMMA ; DRESS
+definitely : DRESS ; KIT ; HAPPY
+definition : DRESS ; KIT
+defloration : FORCE ; FLEECE ; FACE
+defraudation : THOUGHT ; FLEECE ; FACE
+degrade : KIT ; FACE
+degree : FLEECE ; COMMA
+deimos : FACE ; CLOTH
+delayed : FACE
+delays : FACE
+deli : HAPPY ; DRESS
+deliberate : KIT
+delicious : KIT ; (COMMA)
+delighted : PRICE ; KIT
+deliver : KIT ; LETTER
+delivery : LETTER ; COMMA ; KIT ; HAPPY
+deloitte : CHOICE
+delta : COMMA ; DRESS
+deluge : GOOSE ; DRESS
+delusion : GOOSE
+deluxe : STRUT
+dematerialization : NEAR ; FLEECE ; HAPPY ; PRICE ; FACE
+dementia : COMMA ; DRESS
+demigod : LOT ; DRESS ; KIT
+demimondaine : THOUGHT ; DRESS ; LOT ; FACE
+democrat : TRAP ; DRESS
+democratic : COMMA ; DRESS ; TRAP ; KIT
+demodulation : LOT ; FLEECE ; FACE
+demure : CURE
+den : DRESS
+denaturize : FACE ; FLEECE ; CURE ; PRICE
+deneb : DRESS
+denies : PRICE
+denmark : START ; DRESS 
+deoribonucleic : GOOSE ; FLEECE ; LOT ; FACE ; KIT
+department : START ; COMMA
+departure : START ; LETTER
+depend : COMMA ; DRESS
+deploy : CHOICE
+deployed : CHOICE
+deployment : CHOICE
+deport : FORCE
+depositing : LOT ; KIT
+depressurization : DRESS ; FLEECE ; LETTER ; PRICE ; FACE
+depth-charge : START ; DRESS
+deputy : DRESS ; FOOT ; HAPPY
+derailed : FACE ; FLEECE
+derby : HAPPY ; NURSE
+derision : KIT
+derive : PRICE
+dermabrasion : FACE ; NURSE
+derriere : SQUARE ; DRESS
+derwent : START ; DRESS
+describe : PRICE
+deserve : NURSE
+design : PRICE ; COMMA
+designer : PRICE ; LETTER
+desirable : COMMA ; PRICE
+desire : PRICE ; COMMA
+desktop : LOT ; DRESS
+desmond : DRESS
+despite : PRICE ; COMMA
+destabilization : FACE ; FLEECE ; PRICE
+destroy : CHOICE
+destroyed : CHOICE
+destroyer : CHOICE ; LETTER
+destroys : CHOICE
+detail : FACE ; FLEECE
+deter : NURSE
+determined : NURSE
+detour : CURE ; FLEECE
+detoured : CURE ; FLEECE
+detouring : CURE ; FLEECE ; KIT
+detours : CURE ; FLEECE
+detroit : CHOICE
+deutschmark : CHOICE ; START
+develop : COMMA ; DRESS
+developer : LETTER ; DRESS
+development : DRESS ; COMMA
+device : COMMA ; PRICE
+devon : DRESS
+devotion : GOAT ; KIT
+devourer : MOUTH ; KIT ; LETTER
+dew-worm : GOOSE ; NURSE
+dhal : PALM
+di : PRICE
+diablo : TRAP ; HAPPY ; GOAT
+diadem : DRESS ; PRICE
+diaghilev : DRESS ; HAPPY ; TRAP
+diagnosis : GOAT ; PRICE ; KIT
+dialogue : LOT ; PRICE
+diamante : NEAR ; FACE
+diana : COMMA ; PRICE ; TRAP
+diarist : COMMA ; PRICE ; KIT
+diary : PRICE ; LETTER ; COMMA ; HAPPY
+diatribe : PRICE
+diaz : TRAP ; FLEECE
+dicast : TRAP ; PRICE
+did : KIT
+die : PRICE
+diecast : BATH ; PRICE
+died : PRICE
+dies : PRICE
+diet : PRICE
+differ : LETTER ; KIT
+different : KIT ; LETTER
+difficult : KIT
+diffusion : GOOSE ; KIT
+diffusivity : GOOSE ; KIT ; HAPPY
+dig : KIT
+digbeth : DRESS ; KIT
+digest : PRICE ; DRESS
+digested : PRICE ; DRESS
+digestion : PRICE ; DRESS
+digestive : PRICE ; DRESS ; KIT
+digital : KIT
+diglossia : PRICE ; CLOTH ; HAPPY
+dignity : KIT ; HAPPY
+digressed : PRICE ; DRESS
+digression : PRICE ; DRESS
+dilemma : COMMA ; PRICE ; DRESS
+dilithium : KIT ; HAPPY
+diminution : GOOSE ; KIT
+dimitri : FLEECE ; HAPPY ; KIT
+dina : COMMA ; PRICE
+dingaan : PALM ; KIT
+dining-room : GOOSE ; PRICE ; KIT
+dinner : LETTER ; KIT
+dinosaur : PRICE ; NORTH
+dinothere : NEAR ; PRICE
+diploma : GOAT ; COMMA ; KIT
+director : DRESS ; LETTER ; (PRICE)
+directorial : FORCE ; PRICE ; DRESS ; HAPPY
+direst : PRICE ; COMMA
+dirty : NURSE ; HAPPY
+disable : FACE ; KIT
+disagreement : FLEECE ; KIT
+disallow : KIT ; MOUTH
+disappear : NEAR ; KIT
+disappeared : NEAR ; KIT
+disappointed : CHOICE ; KIT
+disaster : KIT ; BATH ; LETTER
+disclaimer : FACE ; LETTER ; KIT
+disclosure : GOAT ; LETTER ; KIT
+discourse : FORCE ; KIT
+discover : STRUT ; LETTER ; KIT
+discreet : FLEECE ; KIT
+discuss : STRUT ; KIT
+discussion : STRUT ; KIT
+disgorge : NORTH ; KIT
+disguise : PRICE ; KIT
+dishforth : FORCE ; KIT
+dishtowel : MOUTH ; KIT
+disk-drive : PRICE ; KIT
+disobliges : PRICE ; KIT
+disobligingly : PRICE ; KIT ; HAPPY
+dispatch : TRAP ; KIT
+displays : FACE ; KIT
+displeasure : LETTER ; KIT ; DRESS
+dispute : GOOSE ; KIT
+disruption : STRUT ; KIT
+dissuasion : FACE ; KIT
+distance : KIT
+distort : NORTH ; KIT
+distortion : NORTH ; KIT
+distribute : GOOSE ; KIT
+distributed : FOOT ; KIT
+distribution : KIT ; GOOSE
+distributor : KIT ; FOOT ; LETTER
+disturbing : NURSE ; KIT
+ditch : KIT
+dithering : KIT ; LETTER
+diva : COMMA ; FLEECE
+dive : PRICE
+diversion : NURSE ; (PRICE) ; LETTER
+diversity : NURSE ; (PRICE) ; LETTER
+diving : PRICE ; KIT
+division : KIT
+divorce : FORCE ; (COMMA) ; KIT
+diy : PRICE
+djs : FACE ; FLEECE
+do : GOAT ; GOOSE ; COMMA
+do-or-die : PRICE ; GOOSE ; NORTH
+do-si-do : GOAT ; HAPPY
+document : LOT ; FOOT ; DRESS
+documentary : FOOT ; LOT ; DRESS ; HAPPY
+documents : DRESS ; LOT ; FOOT
+docuseries : NEAR ; LOT ; GOOSE ; HAPPY
+dodge : LOT
+does : COMMA ; GOAT
+dog : LOT ; CLOTH
+dog-eared : NEAR ; LOT ; CLOTH
+dog-end : DRESS ; LOT ; CLOTH
+doge : GOAT
+dogfood : LOT ; GOOSE
+doggie : HAPPY ; LOT ; CLOTH
+dogleg : LOT ; DRESS
+dogwatch : LOT
+doha : PALM ; GOAT
+doig : CHOICE
+doing : GOOSE ; KIT
+doit : CHOICE
+dolby : HAPPY ; GOAT
+doll : LOT
+dollar : LOT ; LETTER
+domain : GOAT ; FACE
+dombey : HAPPY ; LOT
+dominica : FLEECE ; COMMA ; KIT
+donate : GOAT ; FACE
+doncaster : TRAP LOT ; LETTER
+done : STRUT
+donegal : THOUGHT ; LOT
+donna : COMMA ; LOT
+donut : STRUT ; GOAT
+doo-wop : GOOSE ; LOT
+doodlebug : STRUT ; GOOSE
+doom : GOOSE
+door : FORCE
+doorhandle : FORCE ; TRAP
+doorjamp : FORCE ; TRAP
+doorknob : LOT ; FORCE
+doorplate : FACE ; FORCE
+doorway : NORTH ; FORCE ; FACE
+dopey : HAPPY ; GOAT
+dora : FORCE
+dordogne : CHOICE ; NORTH
+dorothy : COMMA ; NORTH ; HAPPY
+dorset : NORTH ; KIT
+dosh : LOT 
+doss : CLOTH
+dot : LOT
+doth : STRUT
+doting : GOAT ; KIT
+double : STRUT
+double-clutch : STRUT
+double-time : STRUT ; PRICE
+doubt : MOUTH
+douchebag : GOOSE ; TRAP
+doug : STRUT
+dough : GOAT
+doughnut : STRUT ; GOAT
+douglas : STRUT
+dourine : CURE ; FLEECE
+douro : CURE ; GOAT
+dovercourt : FORCE ; GOAT ; LETTER
+dow-jones : MOUTH ; GOAT
+dowdy : MOUTH ; HAPPY
+dowel : MOUTH
+down : MOUTH
+downbeat : FLEECE ; MOUTH
+downdraft : BATH ; MOUTH
+download : GOAT ; MOUTH
+downpour : FORCE ; MOUTH
+downstairs : SQUARE ; MOUTH
+downtown : MOUTH
+doyle : CHOICE
+dracula : FOOT ; TRAP
+draft : BATH
+drag : TRAP
+dragon : TRAP
+drama : PALM ; COMMA
+dramatic : TRAP ; KIT
+drapes : FACE
+drastic : BATH ; KIT
+drawback : THOUGHT ; TRAP
+drawling : THOUGHT ; KIT
+drawn : THOUGHT
+draws : THOUGHT
+drawstring : THOUGHT ; KIT
+drayton : FACE
+dreadlocks : LOT ; DRESS
+dream : FLEECE
+dreariest : NEAR ; HAPPY
+dreary : NEAR ; HAPPY
+dressing-gown : MOUTH ; DRESS ; KIT
+dreyfus : FACE
+drive : PRICE
+drive-in : PRICE ; KIT
+driven : KIT
+driver : LETTER ; PRICE
+droitwich : CHOICE ; KIT
+drop : LOT
+drove : GOAT
+drudgery : STRUT ; LETTER ; HAPPY
+drug : STRUT
+drum-major : STRUT ; FACE ; LETTER
+drunk : STRUT
+drunken : STRUT
+dry-clean : PRICE ; FLEECE
+dry-walling : PRICE ; THOUGHT
+dual : GOOSE
+dubbed : STRUT
+dubious : GOOSE ; HAPPY
+dublin : STRUT ; KIT
+dubois : GOOSE ; PALM
+dubonnet : GOOSE ; LOT ; FACE
+duce : GOOSE
+duchesne : GOOSE ; FACE
+duchess : DRESS ; STRUT
+duck-egg : DRESS ; STRUT
+duckworth : LETTER ; STRUT
+dude : GOOSE
+dudgeon : STRUT
+dudley : STRUT ; HAPPY
+due : GOOSE
+duffey : HAPPY ; STRUT
+duffy : STRUT ; HAPPY
+dug : STRUT
+dukakis : GOOSE ; PALM
+duke : GOOSE
+duluth : GOOSE
+dumaine : GOOSE ; FACE
+dumfries : STRUT ; PRICE
+dundee : STRUT ; HAPPY
+dune : GOOSE
+dunlop : LOT ; STRUT
+duolingo : GOAT ; GOOSE ; KIT
+duos : GOAT ; GOOSE
+duplex : GOOSE ; DRESS
+duplicitous : GOOSE ; KIT
+durham : STRUT
+during : CURE ; KIT
+dusk : STRUT
+dusseldorf : NORTH ; (GOOSE) ; (FOOT)
+dust-wrapper : TRAP ; STRUT ; LETTER
+dutch : STRUT
+duterte : SQUARE ; GOOSE
+duthie : HAPPY ; GOOSE
+duthy : STRUT ; HAPPY
+duty : GOOSE ; HAPPY
+duvalier : GOOSE ; TRAP ; HAPPY
+duvets : FACE ; GOOSE
+dwarf : NORTH
+dwarfism : NORTH ; KIT
+dwarves : NORTH
+dye : PRICE
+dye-works : PRICE ; NURSE
+dyestuffs : STRUT ; PRICE
+dynamic : PRICE ; TRAP ; KIT
+e-cigarette : DRESS ; FLEECE ; KIT
+each : FLEECE
+eager : FLEECE ; LETTER
+eagle : FLEECE
+eaglet : FLEECE ; KIT
+eames : (FLEECE) ; (FACE)
+eamon : FACE
+ear : NEAR
+earflap : NEAR ; TRAP
+earful : NEAR
+earl : NURSE
+earlier : NURSE ; HAPPY ; LETTER
+earliest : NURSE ; HAPPY
+earlobe : NEAR ; GOAT
+early : NURSE ; HAPPY
+earmuff : STRUT ; NEAR
+earn : NURSE
+earphones : NEAR ; GOAT
+earplug : STRUT ; NEAR
+earring : NEAR ; KIT
+ears : NEAR
+earshot : NEAR ; LOT
+earth : NURSE
+eartha : COMMA ; NURSE
+earthenware : NURSE ; SQUARE
+earthly : NURSE ; HAPPY
+earthquake : FACE ; NURSE
+earthworm : NURSE
+earwax : NEAR ; TRAP
+earwig : NEAR ; KIT
+earworm : NEAR ; NURSE
+east-southeast : MOUTH ; FLEECE
+eastbourne : FORCE ; CURE ; FLEECE
+eastcheap : FLEECE
+eastern : LETTER ; FLEECE
+eastwood : FOOT ; FLEECE
+easy : HAPPY ; FLEECE
+eat : FLEECE
+eating-place : FACE ; FLEECE ; KIT
+ebay : FLEECE ; FACE
+ebbtide : DRESS ; PRICE
+ebony : DRESS ; HAPPY
+eco-friendly : GOAT ; FLEECE ; DRESS ; HAPPY
+ecological : LOT ; FLEECE ; KIT
+economic : (DRESS) ; (FLEECE) ; LOT ; KIT
+economics : LOT ; (FLEECE) ; (DRESS) ; KIT
+economy : HAPPY ; LOT
+ecorche : NORTH ; FACE
+ecorse : NORTH
+ectoplasm : TRAP ; DRESS ; GOAT
+ed : DRESS
+eddie : HAPPY ; DRESS
+edge : DRESS
+edging-shears : NEAR ; DRESS ; KIT
+edgware : DRESS ; SQUARE
+edgy : HAPPY ; DRESS
+edible : KIT ; DRESS
+edinburgh : DRESS ; STRUT ; COMMA
+edition : KIT
+editor : KIT ; DRESS ; LETTER
+editorial : FORCE ; DRESS ; HAPPY
+editorialization : FORCE ; DRESS ; KIT ; HAPPY ; PRICE ; FACE
+editors : LETTER ; DRESS ; KIT
+education : DRESS ; FACE
+edward : LETTER ; DRESS
+eerie : NEAR ; HAPPY
+eeyore : FORCE ; FLEECE
+effendi : DRESS ; HAPPY
+effie : HAPPY ; DRESS
+effort : DRESS ; LETTER
+effusions : GOOSE
+egerton : DRESS ; LETTER
+egg : DRESS
+egocentric : FLEECE ; GOAT ; DRESS ; KIT
+egoism : FLEECE ; GOAT ; KIT
+egress : FLEECE ; DRESS
+egypt : KIT ; FLEECE
+eid : FLEECE
+eight : FACE
+eighteen : FACE ; FLEECE
+eighth : FACE
+eileen : (FLEECE) ; PRICE
+eirsat-1 : SQUARE ; TRAP ; STRUT
+eisenhower : MOUTH ; PRICE ; LETTER
+either : LETTER ; (FLEECE) ; (PRICE)
+elastic : TRAP ; KIT
+elba : COMMA ; DRESS
+elbowroom : GOAT ; DRESS ; GOOSE
+elderflower : MOUTH ; DRESS ; LETTER
+elderly : LETTER ; DRESS ; HAPPY
+electrocardiogram : GOAT ; DRESS ; START ; HAPPY ; TRAP
+electrocution : GOOSE ; DRESS ; GOAT
+electrolier : NEAR ; DRESS ; GOAT
+electrolux : STRUT ; GOAT ; DRESS
+electrolytic : GOAT ; DRESS ; LOT ; KIT
+electronics : DRESS ; LOT ; KIT
+electroshock : GOAT ; DRESS ; LOT
+eleemosynary : DRESS ; (FLEECE) ; CLOTH ; LETTER ; HAPPY
+elena : (DRESS) ; (FACE) ; COMMA
+elijah : (PRICE)
+elim : FLEECE
+elision : KIT
+elite : FLEECE
+eliza : COMMA ; PRICE
+elizabeth : COMMA ; KIT
+ellesmere : NEAR ; DRESS
+elocution : GOOSE ; DRESS
+elope : KIT ; GOAT
+elsa : COMMA ; DRESS
+elsewhere : DRESS ; SQUARE
+email : FLEECE ; FACE
+embarcadero : DRESS ; START ; SQUARE ; GOAT
+embodied : LOT ; HAPPY
+embouchure : CURE ; GOOSE ; LOT
+embrace : FACE ; DRESS
+embrasure : FACE
+embroidered : CHOICE ; DRESS ; LETTER
+emerge : NURSE
+emergency : NURSE ; HAPPY
+emma : DRESS ; COMMA
+emmanuel : GOOSE ; DRESS ; TRAP
+emmentaler : PALM ; START ; DRESS ; LETTER
+emoji : GOAT ; HAPPY
+emotion : GOAT
+empanada : PALM ; DRESS
+empathy : COMMA ; DRESS ; HAPPY
+emperor : LETTER ; DRESS
+empire : PRICE ; DRESS
+employ : CHOICE ; DRESS
+employee : FLEECE ; DRESS ; CHOICE
+employer : CHOICE ; DRESS ; LETTER
+employment : CHOICE ; DRESS
+emporium : FORCE ; HAPPY
+enable : FACE
+enarthrosis : START ; GOAT ; KIT
+encephalitis : DRESS ; PRICE
+encephalomyelitis : PRICE ; DRESS ; GOAT
+enchilada : PALM ; DRESS ; KIT
+enchiladas : PALM ; DRESS ; KIT
+enclave : FACE ; DRESS
+enclosure : GOAT ; LETTER
+encore : FORCE . LOT
+encourage : STRUT / NURSE
+encouraged : (STRUT) ; (NURSE)
+encroach : GOAT
+end : DRESS
+endgame : FACE ; DRESS
+endometriosis : FLEECE ; DRESS ; GOAT ; HAPPY ; KIT
+endorsement : NORTH ; DRESS
+endosmosis : LOT ; DRESS ; GOAT ; KIT
+endothermic : GOAT ; DRESS ; NURSE ; KIT
+endowment : MOUTH ; DRESS
+enduring : CURE ; KIT
+energise : LETTER ; DRESS ; PRICE
+energize : PRICE ; LETTER ; DRESS
+energy : HAPPY ; LETTER ; DRESS
+engage : FACE ; DRESS
+engagement : FACE ; DRESS
+engels : DRESS
+engineer : NEAR ; DRESS ; KIT
+engineering : NEAR ; DRESS ; KIT
+engineers : NEAR ; DRESS ; KIT
+england : COMMA ; KIT
+englewood : DRESS ; FOOT
+engorge : NORTH
+enjoy : CHOICE
+enjoyable : CHOICE
+enjoyed : CHOICE
+enjoyment : CHOICE
+enlarge : START
+enough : STRUT
+ensemble : LOT
+ensued : GOOSE ; KIT
+ensured : CURE ; KIT
+ent : DRESS
+enter : DRESS ; LETTER
+enterprise : PRICE ; LETTER ; DRESS
+entertainment : DRESS ; LETTER ; FACE
+enthusiasm : TRAP ; GOOSE ; DRESS ; HAPPY
+enthusiastic : DRESS ; GOOSE ; HAPPY ; TRAP ; KIT
+entire : PRICE ; LETTER
+entirely : PRICE ; LETTER ; HAPPY
+entitled : PRICE
+entourage : PALM ; LOT ; LETTER
+entrepreneur : CURE ; LOT
+entrepreneurial : CURSE ; DRESS ; HAPPY
+entrepreneurs : NURSE ; LOT
+envelope : GOAT ; (DRESS) ; (LOT)
+environment : PRICE
+environmental : PRICE ; DRESS
+envoys : CHOICE ; (DRESS) ; (LOT)
+envy : HAPPY ; DRESS
+enzyme : PRICE ; DRESS
+eosinophil : GOAT ; FLEECE ; KIT
+epic : DRESS ; KIT
+epicure : CURE ; DRESS ; KIT
+epicurus : GOOSE ; DRESS ; KIT
+epidemiology : FLEECE ; DRESS ; KIT ; HAPPY ; LOT
+epilepsy : DRESS ; KIT ; HAPPY
+episode : DRESS ; GOAT ; KIT
+epoxy : LOT ; HAPPY
+epsilon : DRESS
+equal : FLEECE
+equation : FACE
+equatorial : FORCE ; DRESS ; HAPPY
+era : COMMA ; KIT/FLEECE
+erasmus : TRAP
+erasure : FACE ; LETTER
+ere : SQUARE
+erfurt : SQUARE ; NURSE
+ergonomic : NURSE ; LOT ; KIT
+ergot : NURSE ; GOAT
+erie : NEAR ; HAPPY
+erlangen : SQUARE ; TRAP
+erosion : GOAT
+error : LETTER ; DRESS
+errors : DRESS ; LETTER
+erythromycin : KIT ; GOAT ; PRICE
+escape : FACE
+escort : NORTH ; FORCE ; DRESS
+esmeralda : COMMA ; DRESS ; LETTER
+especially : DRESS ; COMMA ; HAPPY
+essay : DRESS ; FACE
+essays : FACE ; DRESS
+established : TRAP ; KIT
+estate : FACE
+estcourt : FORCE ; DRESS
+esteem : FLEECE
+esterhazy : PALM ; DRESS ; LETTER ; HAPPY
+estonia : DRESS ; GOAT ; HAPPY
+etcetera : DRESS ; COMMA
+etched : DRESS
+ethanol : DRESS ; LOT
+ether : LETTER ; FLEECE
+ethical : DRESS ; KIT
+ethiopia : GOAT ; FLEECE ; HAPPY
+ethnic : DRESS ; KIT
+ethnicity : DRESS ; KIT ; HAPPY
+ethnography : DRESS ; LOT ; HAPPY
+etiquette : DRESS ; KIT
+etta : COMMA ; DRESS
+eucalyptus : GOOSE ; KIT
+euclidean : GOOSE ; KIT
+eugene : GOOSE ; FLEECE
+eugenics : GOOSE ; DRESS ; KIT
+eulogy : GOOSE ; HAPPY
+eumenides : GOOSE ; DRESS ; KIT ; FLEECE
+euphemia : GOOSE ; FLEECE ; HAPPY
+euphemism : GOOSE ; KIT
+euphoney : GOOSE ; HAPPY
+euphonies : GOOSE ; HAPPY
+euphonium : GOOSE ; GOAT ; HAPPY
+euphoria : GOOSE ; FORCE ; HAPPY
+euphrates : GOOSE ; FACE ; FLEECE
+euphues : GOOSE ; FLEECE
+euphuisms : GOOSE ; KIT
+eurasia : COMMA ; CURE ; FACE
+eurasian : FACE ; CURE
+euro : CURE ; GOAT
+eurocheque : GOAT ; CURE ; DRESS
+europa : GOAT ; COMMA ; CURE
+europe : COMMA ; CURE
+european : FLEECE ; NEAR ; CURE
+euros : GOAT ; CURE
+eurovision : KIT ; CURE ; GOAT
+eva : COMMA ; FACE/FLEECE
+evaluation : GOOSE ; TRAP ; FACE
+evangelion : TRAP ; FLEECE ; DRESS
+evasion : FACE
+event : DRESS
+ever : DRESS ; LETTER
+everchanging : LETTER ; DRESS ; FACE ; KIT
+everglades : FACE ; LETTER ; DRESS
+evergreen : FLEECE ; LETTER ; DRESS
+evermore : FORCE ; DRESS ; LETTER
+everton : DRESS ; LETTER
+every : DRESS ; HAPPY
+everybody : LOT ; DRESS ; HAPPY
+everyone : DRESS ; STRUT ; HAPPY
+everything : DRESS ; HAPPY ; KIT
+everywhere : SQUARE ; HAPPY ; DRESS
+evidence : DRESS ; KIT
+ewe : GOOSE
+exaggerated : TRAP ; DRESS ; LETTER ; FACE
+excellent : COMMA ; DRESS
+except : DRESS
+exchange : FACE ; DRESS
+excision : KIT ; DRESS
+exciting : PRICE ; DRESS
+exclude : GOOSE ; DRESS
+exclusive : GOOSE ; DRESS ; KIT 
+exclusivity : GOOSE ; KIT ; HAPPY ; DRESS
+excursion : NURSE ; DRESS
+execute : GOOSE ; DRESS
+execution : GOOSE ; DRESS
+executive : FOOT ; DRESS ; KIT
+exemplar : START ; DRESS
+exercise : PRICE ; LETTER ; DRESS
+exhaust : THOUGHT ; DRESS
+exhibit : KIT ; DRESS
+exhibition : KIT ; DRESS
+exhort : NORTH ; DRESS
+exmoor : FORCE ; CURE ; DRESS
+exogenous : LOT ; DRESS
+expat : TRAP ; DRESS
+experience : NEAR ; COMMA ; DRESS ; HAPPY
+explain : FACE ; DRESS
+exploit : CHOICE ; DRESS
+exploitation : CHOICE ; DRESS ; FACE
+exploitative : CHOICE ; DRESS ; KIT
+explore : FORCE ; DRESS
+explorer : LETTER ; DRESS ; FORCE
+explosion : GOAT ; DRESS
+export : FORCE ; DRESS
+exposed : GOAT ; DRESS
+expository : LOT ; DRESS ; KIT ; FORCE
+exposure : GOAT ; LETTER ; DRESS
+external : NURSE ; DRESS
+extort : NORTH ; DRESS
+extortion : NORTH ; DRESS
+extra : COMMA ; DRESS
+extraterritoriality : FORCE ; DRESS ; LETTER ; KIT ; HAPPY ; TRAP
+extreme : FLEECE ; DRESS
+extrusion : GOOSE ; DRESS
+exudes : GOOSE ; DRESS
+exuviae : GOOSE ; DRESS ; FACE
+eye : PRICE
+eye-baths : BATH ; PRICE
+eye-catching : TRAP ; PRICE ; KIT
+eye-shadow : TRAP ; PRICE ; GOAT
+eyebath : BATH ; PRICE
+eyebrow : MOUTH ; PRICE
+eyebrows : MOUTH ; PRICE
+eyeglasses : PRICE ; BATH
+eyelashes : TRAP ; PRICE
+eyes : PRICE
+eyeshade : PRICE ; FACE
+eyeshot : PRICE ; LOT
+eyesight : PRICE
+eyewash : PRICE ; LOT
+eyewitness : PRICE ; KIT
+fa : PALM
+fab : TRAP
+faber : FACE ; LETTER 
+fabulous : TRAP ; FOOT
+facade : PALM
+face : FACE
+face-cream : FACE ; FLEECE
+face-powder : FACE ; MOUTH
+facebook : FOOT ; FACE
+facial : FACE
+fact : TRAP
+factorial : TRAP ; FORCE ; HAPPY
+fail-safe : FACE
+failed : FACE
+fair : SQUARE
+fair-minded : SQUARE ; PRICE
+fair-weather : DRESS ; SQUARE ; LETTER
+fairbairn : SQUARE
+fairbanks : TRAP ; SQUARE
+fairbrother : SQUARE ; STRUT
+fairchild : SQUARE ; PRICE
+fairclough : STRUT ; SQUARE
+fairer : SQUARE ; LETTER
+fairest : SQUARE
+fairfax : SQUARE ; TRAP
+fairfield : SQUARE ; FLEECE
+fairford : SQUARE
+fairground : SQUARE ; MOUTH 
+fairing : SQUARE
+fairlight : SQUARE ; PRICE
+fairly : SQUARE ; HAPPY
+fairman : SQUARE
+fairmont : SQUARE
+fairness : SQUARE ; DRESS
+fairport : SQUARE ; FORCE
+fairs : SQUARE
+fairway : SQUARE ; FACE
+fairy : SQUARE ; HAPPY
+fairytale : SQUARE ; FACE 
+faith : FACE
+faithful : FACE ; STRUT
+faithless : FACE ; DRESS
+fake : FACE
+falcon : THOUGHT/TRAP
+fallow-deer : TRAP ; GOAT ; NEAR
+fallowfield : TRAP ; GOAT ; FLEECE
+falls : THOUGHT
+false : THOUGHT
+falsifiablity : PRICE ; KIT ; HAPPY
+fame : FACE
+families : TRAP
+family : TRAP ; HAPPY
+famous : FACE ; COMMA
+fantastic : TRAP ; KIT
+fantasy : HAPPY ; COMMA ; BATH
+far : START
+far-famed : START ; FACE
+far-fetched : START ; DRESS
+far-flung : START ; STRUT
+far-seeing : START ‘ FLEECE 
+farage : START ; 
+faraway : START ; COMMA ; FACE
+fare-stage : SQUARE ; FACE
+fares : SQUARE
+farewell : DRESS ; SQUARE
+farfetched : START ; DRESS
+faring : SQUARE
+farmer : START ; LETTER
+farmhouse : START ; MOUTH
+faro : START ; GOAT
+farrago : PALM ; GOAT
+farther : START ; LETTER
+farthest : START 
+farthing : START
+farthingale : START
+fascia : COMMA ; (TRAP) ; (FACE)
+fascistic : TRAP ; KIT
+fashion : TRAP
+fast : BATH
+fast-forward : BATH NORTH
+faster : BATH ; LETTER 
+fastest : BATH
+fat : TRAP
+fate : FACE
+father : PALM ; START ; LETTER
+father-in-law : PALM ; THOUGHT
+fatherhood : PALM ; FOOT
+fathering : PALM
+fatherland : PALM
+fatherless : PALM ; DRESS
+fatherly : PALM ; HAPPY
+fathom : TRAP
+fatigue : FLEECE
+fauci : MOUTH ; HAPPY
+favour : FACE ; LETTER
+favourite : FACE 
+fawcett : THOUGHT
+fawkes : THOUGHT
+fear : NEAR
+feared : NEAR
+fearful : NEAR ; STRUT
+fearfully : NEAR ;STRUT
+fearing : NEAR
+fearless : NEAR ; DRESS
+fears : NEAR
+fearsome : NEAR
+feat : FLEECE
+feather : DRESS ; LETTER 
+feature : FLEECE ; LETTER
+february : DRESS ; HAPPY
+fedora : FORCE
+feeble : FLEECE
+feed : FLEECE
+feedback : FLEECE ; TRAP
+feet : FLEECE
+feijoa : FACE
+fellow-feeling : DRESS ; GOAT ; FLEECE
+fellows : GOAT
+fellowship : GOAT ; KIT
+female : FLEECE ; FACE
+fer-de-lance : SQUARE ; BATH
+ferdinand : NURSE
+fergie : NURSE ; HAPPY
+ferguson : NURSE
+fernando : LETTER ; BATH ; GOAT
+ferrari : START ; HAPPY
+ferruginous : DRESS ; GOOSE
+festival : DRESS ; KIT
+fetch : DRESS
+feud : GOOSE
+fever : FLEECE ; LETTER
+few : GOOSE
+fewer : GOOSE ; LETTER
+ffolkes : GOAT
+fiat : (TRAP) ; FLEECE
+fiberglass : PRICE ; NURSE ; BATH
+fibre : PRICE
+fibromyalgia : GOAT ; PRICE
+fibrosis : PRICE ; GOAT 
+fierce : NEAR
+fiercely : NEAR ; HAPPY
+fifa : FLEECE ; COMMA
+fife : PRICE
+fifi : FLEECE ; HAPPY
+fifth : KIT
+fifty : KIT ; HAPPY
+fight : PRICE
+figure : KIT ; (LETTER)
+figurine : KIT ; FLEECE
+figurines : KIT ; FLEECE
+fiji : FLEECE ; HAPPY
+file : PRICE
+film : KIT
+final : PRICE
+finale : PALM ; HAPPY
+finally : PRICE ; HAPPY
+finance : TRAP ; PRICE
+financial : PRICE ; TRAP
+financially : PRICE ; TRAP ; HAPPY
+find : PRICE
+fine-tooth : PRICE ; GOOSE
+fined : PRICE
+finger : KIT ; LETTER
+finish : KIT
+fiona : FLEECE ; GOAT ; COMMA
+fir : NURSE
+fire : PRICE ; LETTER
+fire-alarm : PRICE ; LETTER ; START
+fire-brigade : PRICE ; LETTER ; FACE
+fire-escape : PRICE ; LETTER ; FACE
+firearm : PRICE ; LETTER ; START
+fireplug : PRICE ; LETTER ; STRUT
+firepower : PRICE ; LETTER ; MOUTH
+fireproof : PRICE ; LETTER ; GOOSE
+firestorm : PRICE ; LETTER ; NORTH
+firetrap : PRICE ; LETTER ;TRAP
+firewatcher : PRICE ; LOT ; LETTER
+firm : NURSE
+firmware : NURSE ; SQUARE
+first : NURSE
+first-born : NURSE ; NORTH
+firth : NURSE
+fish : KIT
+fisherman : KIT ; LETTER
+fishing-rod : KIT ; LOT
+fishmonger : KIT ; STRUT
+fissure : KIT ; LETTER
+fisticuffs : KIT ; STRUT
+fitness : KIT ; COMMA
+five : PRICE
+five-star : PRICE ; START
+fjord : NORTH
+flag : TRAP
+flagstaff : TRAP ; BATH
+flair : SQUARE
+flamenco : DRESS ; GOAT
+flames : FACE
+flanagan TRAP ; COMMA
+flare : SQUARE
+flare-path : SQUARE ; BATH
+flared : SQUARE
+flash : TRAP
+flashback : TRAP
+flashmob : TRAP ; LOT
+flask : BATH
+flat : TRAP
+flatshare : TRAP ; SQUARE
+flaunts : THOUGHT
+flawed : THOUGHT
+flaws : THOUGHT
+flea : FLEECE
+fleabag : FLEECE ; TRAP
+fleet : FLEECE
+fleetwood : FLEECE ; FOOT
+flesh-wound : DRESS ; GOOSE
+fletcher : DRESS ; LETTER
+fleur : NURSE
+flight : PRICE
+flip-flops : KIT ; LOT
+float : GOAT
+flood : STRUT
+flood-tide : STRUT ; PRICE
+floodgate : STRUT ; FACE
+floodlight : STRUT ; PRICE
+floor : FORCE
+floor-walker : FORCE ; THOUGHT ; LETTER
+floored : FORCE
+flooring : FORCE
+flora : FORCE ; COMMA
+floral : FORCE
+flores : DRESS
+florid : CLOTH
+florida : CLOTH
+florin : CLOTH
+florist : CLOTH
+floss : CLOTH
+flour : MOUTH ; LETTER
+flourish : (STRUT) ; (NURSE)
+flow : GOAT
+flowchart : GOAT ; START 
+flowed : GOAT
+flower : MOUTH ; LETTER
+flower-girl : LETTER ; NURSE
+flows : GOAT
+floyd : CHOICE
+fluent : GOOSE
+fluffy : STRUT ; HAPPY
+flugelhorn : GOOSE ; NORTH
+fluke : GOOSE
+flush : STRUT
+fly : PRICE
+fly-fishing : PRICE ; KIT
+flycatcher : PRICE ; TRAP ; LETTER
+flysheet : PRICE ; FLEECE
+flyweights : PRICE ; FACE
+flywheel : PRICE ; FLEECE
+focaccia : PALM
+focus : GOAT ; STRUT
+fog : CLOTH
+fogey : GOAT ; HAPPY
+foggy : LOT ; HAPPY
+foil : CHOICE
+folio : GOAT ; FLEECE
+folk : GOAT
+folkestone : GOAT
+folklore : GOAT ; FORCE
+folksy : GOAT ; HAPPY
+folktale : GOAT ; FACE
+follow : LOT ; GOAT
+follow-up : LOT ; GOAT ; STRUT
+followed : LOT ; GOAT
+follows : LOT ; GOAT
+fontaine : LOT ; FACE
+food : GOOSE
+foodie : GOOSE ; HAPPY
+foodstuffs : GOOSE ; STRUT
+fool : GOOSE
+foolproof : GOOSE
+foot : FOOT
+football : FOOT ; THOUGHT
+footballer : FOOT ; THOUGHT ; LETTER
+footbath : FOOT ; BATH
+footfaults : FOOT ; THOUGHT
+footloose : FOOT ; GOOSE
+footpath : FOOT ; BATH
+footpaths : FOOT ; BATH
+footprint : FOOT ; KIT
+footsie : FOOT ; HAPPY
+footstep : DRESS ; FOOT
+footwear : FOOT ; SQUARE
+for : NORTH/LETTER
+forbear : SQUARE ; NORTH
+forbears : NORTH ; SQUARE
+forbes : NORTH
+forbidden : NORTH ; KIT ; LETTER
+force : FORCE
+force-land : FORCE
+force-landed : FORCE
+force-landing : FORCE
+forceps : FORCE ; DRESS
+ford : FORCE
+fordyce : FORCE ; PRICE
+fore : FORCE
+forecast : BATH ; FORCE
+foreclosure : FORCE ; GOAT
+forecourt : FORCE
+forefathers : FORCE ; PALM ; LETTER
+forefront : STRUT ; FORCE
+foregather : FORCE ; TRAP
+forehead : FORCE ; DRESS
+foreman : FORCE
+foremost : GOAT ; FORCE
+forename : FORCE ; FACE
+forenoon : FORCE ; GOOSE
+foreplay : FORCE ; FACE
+foreswear : FORCE  ; SQUARE
+forewarned : FORCE ; NORTH
+foreword : FORCE ; NURSE
+forfar : FORCE ; LETTER
+forfeit : NORTH ; KIT
+forgather : NORTH ; TRAP ; LETTER
+forgathering : NORTH ; TRAP ; LETTER
+forge : FORCE
+forget : DRESS ; LETTER
+forgive : LETTER ; KIT
+forgo : NORTH ; GOAT
+forgoing : NORTH ; GOAT 
+forgotten : NORTH ; LOT
+fork : NORTH
+forklift : NORTH ; KIT 
+format : TRAP ; NORTH
+formation : NORTH ; FACE 
+former : NORTH ; LETTER
+formula : FOOT ; NORTH
+forswear : NORTH ; SQUARE
+forswore : NORTH
+fort : FORCE
+forth : FORCE
+forthwith : FORCE ; KIT
+fortnite : FORCE ; PRICE
+fortuitous : NORTH ; GOOSE
+fortuitously : NORTH ; GOOSE ; HAPPY
+fortunes : NORTH ; GOOSE
+forward : NORTH ; LETTER
+fosse : CLOTH ; HAPPY
+foster : CLOTH ; LETTER
+foster-brother : CLOTH ; STRUT ; LETTER
+foster-father : PALM ; CLOTH ; LETTER
+foster-mother : STRUT ; CLOTHER LETTER
+fothergill : LOT ; LETTER ; KIT
+fought : THOUGHT
+foul : MOUTH
+foul-mouthed : MOUTH
+foul-spoken : MOUTH ; GOAT
+fouling : MOUTH
+found : MOUTH
+foundation : MOUTH
+founder : MOUTH ; LETTER
+four : FORCE
+four-wheeler : FORCE ; FLEECE
+foureyes : FORCE ; PRICE
+fourier : FOOT ; FLEECE ; LETTER
+fourleaves : FORCE ; FLEECE
+fourletter : FORCE ; LETTER
+fourpart : FORCE ; START
+foursquare : FORCE ; SQUARE
+fourth : FORCE
+fowl : MOUTH
+foxglove : LOT ; STRUT
+foyle : CHOICE
+fragile : TRAP ; (PRICE)
+fragments : TRAP
+fragrance : FACE
+frame : FACE
+framework : FACE ; NURSE
+francesca : BATH ; DRESS ; COMMA
+franchise : BATH ; PRICE
+frank : TRAP
+frankie : TRAP ; HAPPY
+fraser : FACE ; LETTER
+fraud : THOUGHT
+fraudster : THOUGHT ; LETTER
+fraudulence : THOUGHT 
+fraudulent : THOUGHT
+frazer : FACE ; LETTER 
+freak : FLEECE
+free : FLEECE
+freebee : FLEECE ; HAPPY
+freeborn : FLEECE ; NORTH
+freedom : FLEECE
+freehold : FLEECE ; GOAT
+freeman : FLEECE
+freemason : FLEECE ; FACE 
+freestyle : FLEECE ; PRICE
+freezer : FLEECE ; LETTER
+freight : FACE
+frequent : FLEECE
+frere : SQUARE
+fresh : DRESS
+freud : CHOICE
+friday : PRICE ; FACE 
+friedrich : FLEECE
+frisbee : KIT ; HAPPY
+fro : GOAT
+frog : CLOTH
+froggy : LOT ; HAPPY
+frogmarch : LOT ; START 
+from : COMMA
+front : STRUT
+frontrunner : STRUT ; LETTER
+frost : CLOTH
+froth : CLOTH
+frozen : GOAT 
+fructose : STRUT ; GOAT
+frugal : GOOSE
+frugality : GOOSE ; HAPPY
+fruit : GOOSE
+frustrate : STRUT ; FACE 
+frustration : STRUT ; FACE
+fuchsia : COMMA
+fuddy-duddy : STRUT
+fudge : STRUT
+fudgesicle : STRUT ; KIT
+fuel : GOOSE
+fugacious : GOOSE ; FACE
+fugitive : GOOSE ; KIT 
+fugue : GOOSE
+fujitsu : GOOSE ; KIT 
+fulfilment : FOOT ; KIIT
+fulham : FOOT
+full : FOOT
+full-length : FOOT ; DRESS
+full-time : FOOT ; PRICE 
+fully : FOOT ; HAPPY
+fun : STRUT
+fun-loving : STRUT
+funchal : FOOT
+function : STRUT
+funeral : GOOSE ; NURSE
+funereal : GOOSE ; NURSE ; FLEECE
+funfairs : STRUT ; SQUARE
+fungal : STRUT
+funky : STRUT ; HAPPY
+fur : NURSE
+furious : CURE ; HAPPY
+furniture : KIT ; LETTER
+furry : NURSE ; HAPPY
+furth : NURSE
+further : LETTER ; NURSE
+furtherer : NURSE ; LETTER
+furthering : NURSE
+furthermore : FORCE ; NURSE
+furthest : NURSE
+furuncle : STRUT ; NURSE
+fury : CURE ; HAPPY 
+fuschia : GOOSE
+fusilier : GOOSE ; NEAR
+fusion : GOOSE
+fussbudget : STRUT
+futura : GOOSE ; NURSE
+future : GOOSE ; LETTER
+futureless : GOOSE ; LETTER ; DRESS
+futurespeak : GOOSE ; LETTER ; FLEECE
+futurism : GOOSE ; LETTER ; KIT
+futurist : GOOSE ; LETTER ; KIT 
+futuristic : GOOSE ; LETTER ; KIT
+futurities : GOOSE ; LETTER ; KIT ; HAPPY
+futurologist : GOOSE ; LETTER ; LOT ; KIT
+fuzz : STRUT
+fuzzy : STRUT ; HAPPY
+fuzzy-wuzzy : STRUT ; HAPPY
+gable : FACE
+gabon : TRAP
+gabriel : FACE ; HAPPY
+gadget : TRAP
+gadzooks : GOOSE
+gaelic : FACE ; KIT
+gaga : PALM
+gail : FACE
+gaiman : FACE
+gains : FACE
+gairloch : SQUARE
+gala : COMMA ; (TRAP)
+galactose : GOAT ; TRAP
+galatians : FACE
+galaxy : TRAP ; COMMA ; HAPPY
+gale : FACE
+galere : SQUARE
+gallagher : TRAP ; COMMA
+galleria : TRAP ; NEAR
+gallery : TRAP ; LETTER ; COMMA ; HAPPY
+galloway : TRAP ; COMMA ; FACE
+gallowglass : TRAP ; GOAT ; BATH
+galore : FORCE
+gamer : FACE ; LETTER
+games : FACE
+gamey : FACE ; HAPPY
+gaming : FACE
+gang : TRAP
+gap : TRAP
+garage : START ; (TRAP)
+garbage : START
+garbanzo : START ; BATH
+garcia : NEAR ; (START) ; (COMMA)
+garda : START ; COMMA
+garden : START
+gardner : START ; LETTER 
+gareth : TRAP ; COMMA
+garfield : START ; FLEECE
+garfish : START ; KIT
+gargantua : START ; GOOSE
+gargantuan : START ; GOOSE
+gargoyle : START ; CHOICE
+garlic : START ; KIT
+garner : START ; LETTER
+garth : START
+garvin : START
+gary : TRAP ; HAPPY
+gas : TRAP
+gas-guzzler : TRAP ; STRUT ; LETTER
+gas-oven : TRAP ; STRUT
+gascoigne : CHOICE
+gasmask : TRAP ; BATH
+gastropub : TRAP ; GOAT ; STRUT
+gate-crasher : TRAP ; FACE
+gateleg : FACE ; DRESS
+gather : TRAP ; LETTER
+gathering : TRAP ; LETTER
+gaucho : MOUTH
+gauge : FACE
+gave : FACE
+gavin : TRAP
+gawain : PALM
+gawp : THOUGHT
+gaydon : FACE
+gayle : FACE
+gays : FACE
+gaza : PALM ; COMMA
+gaze : FACE
+gazebo : FLEECE ; GOAT
+gazette : COMMA ; DRESS
+gear : NEAR
+gear-case : NEAR ; FACE
+geared : NEAR
+gearing : NEAR
+gears : NEAR
+gearshift : NEAR ; KIT
+gee-gee : HAPPY
+geek : FLEECE
+geiger : PRICE ; LETTER
+geisha : FACE
+gemini : DRESS; PRICE
+gemma : DRESS ; COMMA
+gendarme : START
+generation : LETTER ; FACE ; COMMA
+geneva : FLEECE ; COMMA
+genie : FLEECE ; HAPPY
+genito-urinary : DRESS ; GOAT ; GOOSE ; SQUARE ; HAPPY
+genre : THOUGHT ; COMMA
+genuine : DRESS ; GOOSE ; (PRICE)
+geoffrey : DRESS ; HAPPY
+geometric : NEAR ; FLEECE ; DRESS
+geopark : FLEECE ; GOAT ; START
+georg : NORTH
+georgette : NORTH ; DRESS
+georgia : NORTH 
+georgie : NORTH ; HAPPY
+georgina : NORTH ; FLEECE 
+geothermal : FLEECE ; GOAT ; NURSE
+gerber : NURSE ; LETTER
+gere : NEAR
+germany : HAPPY ; NURSE
+gerontological : LOT
+gerrard : START
+gertrude : NURSE ; GOOSE
+gestalt : BATH ; COMMA
+gestapo : PALM ; GOAT
+gesundheit : FOOT ; PRICE
+get : DRESS
+get-together : DRESS ; LETTER
+getaway : DRESS ; COMMA ; FACE
+getcha : DRESS
+gethsemane : DRESS ; FACE
+getty : DRESS ; HAPPY
+ghana : PALM ; COMMA
+ghastlier : BATH ; LETTER
+ghastliest : BATH
+ghastly : BATH ; HAPPY
+ghia : NEAR
+ghosts : GOAT
+giant : PRICE
+gift : KIT
+gig : KIT
+gigantic : PRICE ; TRAP ; KIT
+gilmour : KIT ; FORCE
+gilroy : KIT ; CHOICE
+ginger : KIT ; LETTER
+ginseng : DRESS
+giraffe : BATH
+girl : NURSE
+girlfriend : DRESS ; NURSE
+girth : NURSE
+gite : FLEECE
+giuseppe : FOOT ; DRESS
+give : KIT
+glaisher : FACE ; LETTER
+glaister : FACE ; LETTER
+glamorgan : NORTH
+glamour : TRAP ; LETTER
+glasgow : TRAP ; GOAT
+glass : BATH
+glassware : BATH  ; SQUARE
+glaswegian : TRAP ; FLEECE
+glauber : MOUTH ; LETTER
+glaucoma : THOUGHT ; GOAT
+gleam : FLEECE
+glebe : FLEECE
+global : GOAT
+globe : GOAT
+gloria : FORCE ; HAPPY
+glorious : FORCE ; HAPPY
+glory : FORCE ; HAPPY
+glossy : CLOTH ; HAPPY
+gloucester : CLOTH ; DRESS ; LETTER
+gloucestershire : CLOTH  ; LETTER
+glover : STRUT ; LETTER
+gloves : STRUT
+glow : GOAT
+glow-worm : GOAT ; NURSE
+glowed : GOAT
+glower : MOUTH ; LETTER
+glows : GOAT
+glucose : GOOSE ; GOAT
+gluten : GOOSE
+glycol : PRICE ;  LOT
+gnocchi : HAPPY
+go : GOAT
+go-ahead : GOAT ; DRESS
+go-by : GOAT ; PRICE
+go-go : GOAT
+goal : GOAT
+goalkeeper : GOAT ; FLEECE
+goatsbeard : GOAT ; NEAR
+god-awful : LOT ; THOUGHT
+god-fearing : LOT ; NEAR
+godfather : LOT ; PALM ; LETTER
+godiva : LOT ; FLEECE ; COMMA
+godmother : LOT ; STRUT ; LETTER
+goes : GOAT
+golborne : FORCE
+gold : GOAT
+gold-dust : GOAT ; STRUT
+gold-rush : GOAT ; STRUT
+goldblum : GOAT ; GOOSE
+golf : THOUGHT
+golf-club : THOUGHT ; STRUT
+golf-course : THOUGHT ; FORCE
+golfer : THOUGHT ; LETTER
+golgi : GOAT ; HAPPY
+gomez : DRESS ; GOAT
+gonadotrophin : GOAT
+gong : CLOTH
+good : FOOT
+good-for-nothing : FOOT ; LETTER ; STRUT
+good-time : FOOT ; PRICE
+goodies : FOOT ; HAPPY
+goodman : FOOT
+goodwife : FOOT ; PRICE
+goodyear : FOOT ; NEAR
+goofy : GOOSE ; HAPPY
+google : GOOSE
+googolplex : GOOSE ; DRESS
+goose : GOOSE
+goosebumps : GOOSE ;  STRUT
+gooseflesh : GOOSE ; DRESS
+gopher : GOAT ; LETTER
+gorbachev : NORTH
+gorblimey : NORTH ; PRICE ; HAPPY
+gore : FORCE
+gorge : NORTH
+gorging : NORTH
+gorse : NORTH
+gory : FORCE ; HAPPY
+gosh : LOT
+gossip : LOT ; KIT 
+got : LOT
+gotcha : LOT ; COMMA
+gouache : PALM
+gouge : MOUTH
+gourd : CURE
+gourlay : CURE ; FACE
+gourmand : CURE
+gourmet : CURE ; FACE 
+governance : STRUT ; LETTER
+government : STRUT ; LETTER
+gow : MOUTH
+gower : MOUTH ; LETTER
+gowrie : MOUTH ; HAPPY
+goya : CHOICE
+goyt : CHOICE
+grab : TRAP
+grace : FACE
+gracie : FACE ; HAPPY
+gracious : FACE
+grade : FACE
+gradual : TRAP
+graduate : TRAP/FACE ; GOOSE
+graffiti : FLEECE ; HAPPY ; COMMA
+grammar : TRAP ; LETTER
+granddad : TRAP
+granddaughter : TRAP ; THOUGHT
+grandee : TRAP ; HAPPY
+grandfather : TRAP ; PALM ; LETTER
+grandma : TRAP ; PALM
+grandmother : TRAP ; STRUT ; LETTER
+grandpa : TRAP ; PALM
+grandson : TRAP ; STRUT
+granta : BATH ; COMMA
+grantors : BATH ; NORTH
+grapefruit : FACE ; GOOSE
+graph : (BATH) ; (TRAP)
+grapheme : BATH/TRAP ; FLEECE
+graphene : BATH/TRAP ; FLEECE
+graphics : TRAP ; KIT
+graphology : TRAP ; BATH ; LOT ; HAPPY
+grass : BATH
+grassroots : BATH ; GOOSE
+graupel : MOUTH
+grave : FACE
+gravity : TRAP ; HAPPY
+graybeard : FACE ; NEAR
+grayson : FACE
+graze : FACE
+greatly : FACE ; HAPPY
+grebe : FLEECE
+greek : FLEECE
+greenbaum : FLEECE ; MOUTH
+greenhouse : FLEECE ; MOUTH
+greenstreet : FLEECE
+greenstuffs : FLEECE ; STRUT
+greensward : FLEECE ; NORTH
+greet : FLEECE
+gregorian : FORCE
+gregory : DRESS ; HAPPY
+grenada : FACE ; COMMA
+grenadier : FACE ; NEAR
+gretchen : DRESS
+grew : GOOSE
+greybeard : FACE ; NEAR
+grierson : NEAR
+gripe : PRICE
+grippe : (FLEECE) ; (PRICE)
+grocery : GOAT ; LETTER ; COMMA
+groin : CHOICE
+groom : GOOSE
+groove : GOOSE
+grosbeak : GOAT ; FLEECE
+grosgrain : GOAT ; FACE
+gross : GOAT
+grosvenor : GOAT ; LETTER
+groucho : MOUTH ; GOAT
+ground : MOUTH
+groundsheet : MOUTH ; FLEECE
+group : GOOSE
+grove : GOAT
+grovelling : LOT
+grow : GOAT
+growl : MOUTH
+grown : GOAT
+grown-up : GOAT ; STRUT
+grows : GOAT
+growth : GOAT
+grudge : STRUT
+gruff : STRUT
+gruyere : SQUARE
+guacamole : GOOSE ; PALM ; GOAT ; FACE
+guadeloupe : GOOSE ; PALM
+guam : PALM
+guarantee : (FLEECE) ; (HAPPY) ; TRAP
+guarantors : NORTH ; TRAP 
+guard : START
+guardian : START ; COMMA
+guatemala : PALM ; COMMA
+guava : PALM
+gucci : GOOSE ; HAPPY
+gudgeon : STRUT
+guernsey : HAPPY ; NURSE
+guidance : PRICE
+guide : PRICE
+guideline : PRICE
+guido : FLEECE ; GOAT
+guinea : KIT ; HAPPY
+guineapig : KIT ; FLEECE
+guinevere : NEAR
+guitar : START
+guitarist : START
+guitaristic : START ; KIT
+gujarat : FOOT
+gujarati : PALM ; (FOOT)
+gujerat : FOOT
+gulf : STRUT
+gumboil : STRUT ; CHOICE
+gun-carriage :STRUT ; TRAP
+gunpowder : STRUT ; MOUTH ; LETTER
+gunslinger : LETTER ; STRUT ; KIT
+gupta : FOOT
+guru : GOOSE
+gush : STRUT
+gustav : FOOT ; PALM
+gustave : FOOT ; PALM
+gut : STRUT
+guthrie : STRUT ; HAPPY
+guy : PRICE
+guys : PRICE
+gwyneth : KIT ; COMMA
+gwyther : PRICE ; LETTER
+gymkhana : KIT ; PALM
+gymnastic : KIT ; BATH
+ha : PALM/TRAP
+haberdasher : TRAP ; LETTER
+habit : TRAP ; KIT
+habitat : TRAP ; KIT
+hacek : PALM ; DRESS
+had : TRAP ; COMMA
+hagan : FACE
+hague : FACE
+hah : PALM
+haha : PALM
+hahn : PALM
+haifa : PRICE ; COMMA
+hail : FACE
+hail-fellow-well-met : GOAT ; FACE ; DRESS
+hair : SQUARE
+hair-dye : PRICE ; SQUARE
+hair-shirt : SQUARE ; NURSE
+hair-slide : SQUARE ; PRICE
+hair-trigger : SQUARE ; KIT ; LETTER
+hairball : SQUARE ; THOUGHT
+hairbrush : STRUT ; SQUARE
+haircut : STRUT ; SQUARE
+hairdo : SQUARE ; GOOSE
+hairdresser : SQUARE ; DRESS ; LETTER
+hairdressing : SQUARE ; DRESS ; KIT
+haired : SQUARE
+hairgrip : SQUARE ; KIT
+hairless : SQUARE
+hairlike : SQUARE ; KIT
+hairline : SQUARE ; PRICE
+hairnet : SQUARE ; DRESS
+hairpiece : SQUARE ; FLEECE
+hairpin : SQUARE ; KIT
+hairsplitting : SQUARE ; KIT
+hairspring : SQUARE ; KIT
+hairstreak : FLEECE ; SQUARE
+hairstyle : SQUARE ; PRICE
+hairstylist : SQUARE ; PRICE ; KIT
+haiti : FACE ; HAPPY
+haitian : FACE
+hakim : FLEECE ; (TRAP)
+halal : PALM
+hale : FACE
+halesowen : FACE  ; GOAT
+half : BATH
+half-a-dozen : STRUT ; BATH
+half-brother : STRUT ; BATH ; LETTER
+half-hearted : BATH ; PALM
+half-heartedly : BATH ; PALM ; HAPPY
+half-hour : BATH ; MOUTH ; LETTER
+half-life : BATH ; PRICE
+half-measures : DRESS ; BATH ; LETTER
+half-price : BATH ; PRICE
+half-sister : BATH ; KIT ; LETTER
+half-time : PRICE ; BATH
+halftime : BATH ; PRICE
+halftone : BATH ; GOAT
+halftrack : BATH ; TRAP
+halftruth : GOOSE ; BATH
+hall : THOUGHT
+halle : HAPPY ; TRAP
+hallmark : START ; THOUGHT
+halo : FACE ; GOAT
+halothane : GOAT ; FACE
+halt : THOUGHT
+haltere : NEAR ; THOUGHT/TRAP
+halves : BATH
+hamilton : TRAP
+hamish : FACE ; KIT
+hammer : LETTER ; TRAP
+hammerbeam : FLEECE ; TRAP ; LETTER
+hamsa : COMMA ; TRAP
+hamstrung : STRUT ; TRAP
+hand-cream : FLEECE ; TRAP
+hand-organ : NORTH ; TRAP
+handbag : TRAP
+handball : THOUGHT ; TRAP
+handbrake : FACE ; TRAP
+handcuffs : STRUT ; TRAP
+handful : FOOT ; TRAP
+handicap : TRAP ; HAPPY
+handkerchief : (KIT) ; LETTER ; (FLEECE) ; TRAP
+handover : GOAT ; TRAP ; LETTER
+handsaws : THOUGHT ; TRAP
+hang : TRAP
+hangar : LETTER ; TRAP
+hanger : LETTER ; TRAP
+hanna-barbera : START ; TRAP ; SQUARE
+hanoi : CHOICE ; TRAP
+hanukkah : PALM ; COMMA ; TRAP
+happened : TRAP
+happy : TRAP ; HAPPY
+happy-go-lucky : GOAT ; TRAP ; HAPPY ; STRUT
+harare : START ; HAPPY
+harbor : LETTER ; START
+harbour : START ; LETTER
+harcourt : FORCE ; START
+hard : START
+hardcastle : BATH ; START
+hardcore : START ; FORCE
+hardcover : STRUT ; START ; LETTER
+harder : START ; LETTER
+hardware : SQUARE ; START
+hardy : START ; HAPPY
+hare : SQUARE
+harelip : SQUARE ; KIT
+harewood : SQUARE ; FOOT
+harfleur : START ; LETTER
+harford : START ; LETTER
+hargeaves : START ; FLEECE
+harlem : START
+harley-davidson : FACE ; START ; HAPPY ; KIT
+harlot : START ; GOAT
+harlow : START ; GOAT
+harm : START
+harmonica : START ; LOT ; KIT
+harmony : START ; HAPPY
+harness : START
+harp : START
+harpenden : START
+harper : START ; LETTER
+harpoon : START ; GOOSE
+harpsichord : FORCE ; KIT ; NORTH
+harris : TRAP ; KIT
+harrison : TRAP ; KIT
+harry : TRAP ; HAPPY
+harsh : START
+harshest : START ; KIT
+hart : START
+harvard : START
+harvest : START ; KIT
+harvester : START ; KIT ; LETTER
+harvey : START ; HAPPY
+harwell : START ; DRESS
+harwood : START ; FOOT
+has : TRAP ; COMMA
+has-been : TRAP ; FLEECE/KIT
+hasbro : TRAP ; GOAT
+hashimoto : FLEECE ; GOAT ; TRAP
+hatchback : TRAP
+hate : FACE
+hathern : TRAP ; LETTER
+hathersage : TRAP ; LETTER
+haulm : THOUGHT
+haunted : THOUGHT
+hausa : MOUTH ; COMMA
+have : TRAP ; COMMA
+have-not : LOT ; TRAP/COMMA
+haven : FACE
+haw-haws : THOUGHT
+hawaii : COMMA ; PRICE ; HAPPY
+hawarden : FACE ; NORTH
+hawfinch : THOUGHT ; KIT
+hawick : CHOICE ; KIT
+hawk : THOUGHT
+hawkins : THOUGHT ; KIT
+hawksmoor : FORCE ; CURE
+haworth : LETTER ; MOUTH
+hawthorne : THOUGHT ; NORTH
+hayden : FACE
+haydon : FACE
+hayes : FACE
+hayfork : NORTH ; FACE
+hayley : FACE ; HAPPY
+hayman : FACE
+haymarket : START ; FACE
+hayrick : FACE ; KIT
+haystack : FACE ; TRAP
+hayward : FACE ; NORTH
+haywire : FACE ; PRICE ; LETTER
+haywood : FACE ; FOOT
+hazard : TRAP
+hazel : FACE
+hazelnut : STRUT ; FACE
+he : FLEECE
+head : DRESS
+headache : FACE ; DRESS
+headboard : FORCE ; DRESS
+headgear : NEAR ; DRESS
+headhunter : STRUT ; DRESS ; LETTER
+headline : PRICE ; DRESS
+headquarters : DRESS ; LETTER ; FORCE
+headscarf : START ; DRESS
+headscarves : START ; DRESS
+headset : DRESS
+health : DRESS
+healthcare : DRESS ; SQUARE
+healthy : HAPPY ; DRESS
+heap : FLEECE
+hear : NEAR
+heard : NURSE
+hearer : NEAR ; LETTER
+hears : NEAR
+hearsay : NEAR ; FACE
+heart : START
+heart-warming : NORTH ; START ; KIT
+heartbeat : FLEECE ; START
+hearth : START
+hearthrug : STRUT ; START
+hearthstone : START ; GOAT
+heartthrob : LOT ; START
+heat : FLEECE
+heather : DRESS ; LETTER
+heatwave : FACE ; FLEECE
+heavy : DRESS ; HAPPY
+heavyweight : HAPPY ; DRESS ; FACE
+hebdomadal : DRESS ; LOT
+hebrew : FLEECE ; GOOSE
+hebrides : DRESS ; FLEECE
+heckmondwike : PRICE ; DRESS
+hectares : SQUARE ; DRESS
+hecuba : FOOT ; DRESS
+hedgehog : LOT ; DRESS
+hedges : DRESS
+heehaws : THOUGHT ; FLEECE
+heidegger : DRESS ; PRICE ; LETTER
+heidi : PRICE ; HAPPY
+height : PRICE
+heighway : FACE
+heinis : PRICE
+heinkel : PRICE
+heir : SQUARE
+heirloom : GOOSE ; SQUARE
+heirship : SQUARE ; KIT
+held : DRESS
+helena : COMMA ; DRESS
+helicopter : LOT ; DRESS ; KIT ; LETTER
+hello : DRESS ; GOAT
+help : DRESS
+helpmeet : FLEECE ; DRESS
+hemisphere : NEAR ; DRESS ; KIT
+hemispheres : NEAR ; DRESS ; KIT
+hemsworth : LETTER ; DRESS
+henri : HAPPY ; DRESS
+her : NURSE
+heraldic : DRESS ; KIT ; TRAP
+herbaceous : FACE
+herbal : NURSE
+herbert : NURSE
+hercules : FOOT ; NURSE
+herd : NURSE
+here : NEAR
+hereford : NURSE ; DRESS ; NORTH
+hereto : NEAR ; GOOSE
+heretofore : GOOSE ; NEAR ; FORCE
+herewith : NEAR ; KIT
+heritage : DRESS ; KIT
+hermann : NURSE
+hermitage : PALM ; SQUARE ; NURSE ; KIT
+hernandez : DRESS ; TRAP
+hero : NEAR ; GOAT
+hero-worship : GOAT ; NEAR ; KIT
+heroes : GOAT ; NEAR
+herrenvolk : GOAT ; DRESS
+hers : NURSE
+herschel : NURSE
+hersey : HAPPY ; NURSE
+hervey : HAPPY ; NURSE
+heterogeneity : GOAT ; DRESS ; LETTER ; FACE ; HAPPY
+hetherington : DRESS ; KIT ; LETTER
+heyford : FACE ; NORTH
+heyward : FACE ; NORTH
+heywood : FACE ; FOOT
+hi : PRICE
+hi-fi : PRICE
+hiawatha : COMMA ; PRICE
+hibachi : PALM ; HAPPY ; KIT
+hibernian : PRICE ; NURSE
+hiccup : STRUT ; KIT
+hidden : KIT
+hide : PRICE
+high : PRICE
+high-class : BATH ; PRICE
+high-density : PRICE ; DRESS ; KIT ; HAPPY
+high-falutin : PRICE ; GOOSE ; KIT
+high-fidelity : PRICE ; KIT ; DRESS ; HAPPY
+high-flier : PRICE ; LETTER
+high-flown : PRICE ; GOAT
+high-flyers : PRICE ; LETTER
+high-flying : PRICE ; KIT
+high-grade : PRICE ; FACE
+high-keyed : PRICE ; FLEECE
+high-level : DRESS ; PRICE
+high-minded : PRICE
+high-mindedly : PRICE ; HAPPY
+high-mindedness : PRICE
+high-necked : PRICE ; DRESS
+high-pass : PRICE ; BATH
+high-pitched : PRICE ; KIT
+high-powered : PRICE ; MOUTH ; LETTER
+high-pressure : PRICE ; LETTER ; DRESS
+high-priced : PRICE
+high-principled : PRICE ; KIT
+high-profile : PRICE ; GOAT
+high-ranking : PRICE ; TRAP ; KIT
+high-res : PRICE ; DRESS
+high-rise : PRICE
+high-risk : PRICE ; KIT
+high-sounding : PRICE ; MOUTH ; KIT
+high-speed : PRICE ; FLEECE
+high-spirited : PRICE ; KIT
+high-strung : PRICE ; STRUT
+higham : PRICE
+highball : PRICE ; THOUGHT
+highballs : PRICE ; THOUGHT
+highborn : PRICE ; NORTH
+highboy : PRICE ; CHOICE
+highbrow : PRICE ; MOUTH
+highbury : PRICE ; HAPPY
+highclere : NEAR ; PRICE
+higher : PRICE ; LETTER
+highest : PRICE
+highflown : PRICE ; GOAT
+highgate : FACE ; PRICE
+highjack : PRICE ; TRAP
+highjacking : PRICE ; TRAP ; KIT
+highlander : PRICE ; TRAP ; LETTER
+highlands : PRICE
+highlight : PRICE
+highlighting : PRICE ; KIT
+highlights : PRICE
+highly : PRICE ; HAPPY
+highly-strung : PRICE ; HAPPY ; STRUT
+highroad : PRICE ; GOAT
+highs : PRICE
+highway : PRICE ; FACE
+highwayman : FACE ; PRICE ; TRAP
+highwaymen : PRICE ; DRESS
+hijab : KIT ; (TRAP)
+hijack : PRICE ; TRAP
+hiking : PRICE ; KIT
+hilarious : SQUARE ; KIT ; HAPPY
+hill : KIT
+hilltop : LOT ; KIT
+hindi : HAPPY ; KIT
+hindmarsh : START ; PRICE
+hindsight : PRICE
+hindustani : GOOSE ; KIT ; PALM ; HAPPY
+hip : KIT
+hip-baths : BATH ; KIT
+hip-flask : BATH ; KIT
+hip-hop : KIT ; LOT
+hip-huggers : STRUT ; KIT ; LETTER
+hippie : HAPPY ; KIT
+hiraeth : PRICE ; FLEECE
+hire : PRICE ; LETTER
+hirwain : NEAR ; PRICE
+his : KIT
+hislop : LOT ; KIT
+histamine : FLEECE ; KIT
+historian : FORCE ; KIT ; HAPPY
+historic : (CLOTH) ; KIT
+historical : (CLOTH) ; KIT
+history : KIT ; HAPPY
+hit : KIT
+hitachi : PALM ; HAPPY ; KIT
+hither : KIT ; LETTER
+hiv : FACE ; PRICE ; FLEECE
+hluhluwe : FOOT ; GOOSE ; FACE
+ho : GOAT
+hoar : FORCE
+hoard : FORCE
+hoarder : FORCE ; LETTER
+hoarding : FORCE ; KIT
+hoarier : FORCE ; HAPPY ; LETTER
+hoariest : FORCE ; HAPPY
+hoarsely : FORCE ; HAPPY
+hoarseness : FORCE
+hoarser : FORCE ; LETTER
+hoarsest : FORCE
+hoary : FORCE ; HAPPY
+hobart : START ; GOAT
+hobbledehoys : CHOICE ; LOT
+hobby : LOT ; HAPPY
+hobnob : LOT
+hobsbawm : THOUGHT ; LOT
+hockey : HAPPY ; LOT
+hodgepodge : LOT
+hodges : LOT
+hoe : GOAT
+hog : CLOTH
+hogarth : GOAT ; START
+hogarthian : GOAT ; START ; HAPPY
+hogwarts : NORTH ; LOT
+hogweed : FLEECE ; LOT
+hoick : CHOICE
+hoist : CHOICE
+holbeach : FLEECE ; LOT
+hold : GOAT
+hole : GOAT
+holidaymaker : FACE ; LOT ; KIT ; LETTER
+holidays : FACE ; KIT ; LOT
+holistic : GOAT ; KIT
+holloway : COMMA ; LOT ; FACE
+hollowware : GOAT ; LOT ; SQUARE
+hollywood : FOOT ; HAPPY ; LOT
+holmes : GOAT
+holmfirth : GOAT ; NURSE
+holmwood : GOAT ; FOOT
+holocaust : THOUGHT ; LOT
+holroyd : CHOICE ; LOT
+holy : GOAT
+hombre : LOT
+home : GOAT
+home-cured : CURE ; GOAT
+home-made : FACE ; GOAT
+homecoming : STRUT ; GOAT ; KIT
+homelike : PRICE ; GOAT
+homemade : GOAT ; FACE
+homeopath : TRAP ; GOAT ; HAPPY
+homeopathic : TRAP ; GOAT ; HAPPY ; KIT
+homestead : DRESS ; GOAT
+homework : GOAT ; NURSE
+homey : HAPPY ; GOAT
+homogenized : LOT ; PRICE
+homosexual : GOAT ; DRESS ; GOOSE
+homozygous : PRICE ; LOT
+honda : LOT ; COMMA
+honduras : LOT ; CURE
+honey : HAPPY ; STRUT
+honeybee : HAPPY ; STRUT ; FLEECE
+honeymoon : GOOSE ; STRUT ; HAPPY
+honeysuckle : STRUT ; HAPPY
+honeywell : HAPPY ; STRUT ; DRESS
+honor : LETTER ; LOT
+honour : LETTER ; LOT
+hooch : GOOSE
+hood : FOOT
+hoodie : HAPPY ; FOOT
+hook : FOOT
+hoopla : PALM ; GOOSE
+hoops : GOOSE
+hoosier : LETTER ; GOOSE
+hoover : GOOSE ; LETTER
+hope : GOAT
+hopi : HAPPY ; GOAT
+hopscotch : LOT
+horatio : FACE ; HAPPY
+horde : FORCE
+horeb : DRESS
+hormonal : NORTH ; GOAT
+horn : NORTH
+hornbeam : FLEECE ; NORTH
+horne : NORTH
+hornsea : HAPPY ; NORTH
+horny : NORTH ; HAPPY
+horologium : GOAT ; LOT ; HAPPY
+horoscope : GOAT ; NORTH
+horrible : (CLOTH) ; KIT
+horrid : (CLOTH) ; KIT
+horrify : (CLOTH) ; KIT ; HAPPY
+horror : (CLOTH) ; LETTER
+horse : NORTH
+horse-chestnut : NORTH ; DRESS ; STRUT
+horseflesh : DRESS ; NORTH
+horsemeat : FLEECE ; NORTH
+horsepower : MOUTH ; NORTH ; LETTER
+horseshoes : GOOSE ; NORTH
+horsey : HAPPY ; NORTH
+horticulture : STRUT ; NORTH ; KIT ; LETTER
+horwood : NORTH ; FOOT
+hosiery : NEAR ; GOAT ; LETTER ; HAPPY
+host : GOAT
+hot : LOT
+hotchkiss : LOT ; KIT
+hotchpotch : LOT
+hotdog : LOT
+hotel : DRESS ; GOAT
+hotline : LOT ; PRICE
+hotpoint : CHOICE ; LOT
+houdini : GOOSE ; FLEECE
+hough : STRUT
+houmous : FOOT
+hour : MOUTH ; LETTER
+hourglass : BATH ; MOUTH
+houri : CURE ; HAPPY
+hours : LETTER ; MOUTH
+house-proud : MOUTH
+house-warming : NORTH ; MOUTH ; KIT
+housefather : PALM ; MOUTH ; LETTER
+household : GOAT ; MOUTH
+housekeeping : FLEECE ; MOUTH ; KIT
+houseleek : FLEECE ; MOUTH
+houses : MOUTH
+housewife : PRICE ; MOUTH
+housewives : PRICE ; MOUTH
+housing : MOUTH ; KIT
+hove : GOAT
+hovercraft : BATH ; STRUT ; LETTER
+how : MOUTH
+how-do-you-do : MOUTH ; GOOSE
+howard : MOUTH ; LETTER
+howbeit : MOUTH ; FLEECE
+howdy : MOUTH ; HAPPY
+howe : MOUTH
+howell : MOUTH
+however : DRESS ; LETTER ; MOUTH
+howl : MOUTH
+howland : MOUTH
+howling : MOUTH ; KIT
+howsoever : MOUTH ; GOAT ; DRESS ; LETTER
+howth : GOAT
+html : DRESS ; FLEECE
+huawei : PALM ; FACE
+hub : STRUT
+hubbub : STRUT
+hubristic : GOOSE ; KIT
+huddersfield : STRUT ; LETTER ; FLEECE
+huddle : STRUT
+hudson : STRUT
+hue : GOOSE
+hued : GOOSE
+huff : STRUT
+huffington : STRUT ; KIT
+hufflepuff : STRUT
+hug : STRUT
+huge : GOOSE
+hugely : GOOSE ; HAPPY
+hugger-mugger : STRUT ; LETTER
+huguenot : GOOSE ; LOT
+hula : GOOSE
+hula-hoop : GOOSE
+hull : STRUT
+human : GOOSE
+humane : GOOSE ; FACE
+humanity : GOOSE ; TRAP ; KIT ; HAPPY
+humanoid : CHOICE ; GOOSE
+humberside : STRUT ; PRICE ; LETTER
+humbug : STRUT
+humbuggery : STRUT ; LETTER ; HAPPY
+humdrum : STRUT
+humectant : GOOSE ; DRESS
+humid : GOOSE ; KIT
+humidify : GOOSE ; KIT ; HAPPY
+humidity : GOOSE ; KIT ; HAPPY
+humiliation : GOOSE ; KIT ; HAPPY ; FACE
+hummel : FOOT ; STRUT
+hummus : FOOT ; STRUT
+humoconsumer : LETTER ; GOOSE ; GOAT
+humour : GOOSE ; LETTER
+hundreds : COMMA ; STRUT
+hung : STRUT
+hungarian : STRUT ; SQUARE ; HAPPY
+hungary : STRUT ; HAPPY
+hunger : LETTER ; STRUT
+hunger-march : START ; STRUT ; LETTER
+hungry : STRUT ; HAPPY
+hunk : STRUT
+hunter-gatherer : TRAP ; STRUT ; LETTER
+huntington : STRUT ; KIT
+hurdle : NURSE
+hurley : HAPPY ; NURSE
+hurricane : STRUT ; FACE ; KIT
+hurry : STRUT ; HAPPY
+hurt : NURSE
+husband : STRUT
+husbandman : STRUT
+husbandry : STRUT ; HAPPY
+hush : STRUT
+hussar : FOOT ; START
+hut : STRUT
+hutch : STRUT
+hutchings : STRUT ; KIT
+hutchinson : STRUT ; KIT
+hutton : STRUT
+huzzah : FOOT ; (STRUT) ; (COMMA) ; PALM
+hybrid : PRICE ; KIT
+hybridity : PRICE ; KIT ; HAPPY
+hyde : PRICE
+hyderabad : TRAP ; PRICE ; LETTER
+hydrocortisone : GOAT ; PRICE ; NORTH ; KIT
+hydrofoil : CHOICE ; PRICE
+hydrographer : LOT ; PRICE ; BATH ; GOAT
+hygeia : PRICE ; FLEECE
+hygiene : FLEECE ; PRICE
+hygienic : PRICE ; FLEECE ; KIT
+hygienist : PRICE ; FLEECE ; KIT
+hygrometer : PRICE ; GOAT ; FLEECE ; LETTER
+hyperbole : PRICE ; LETTER ; HAPPY
+hyperglycaemia : LETTER ; PRICE ; FLEECE ; HAPPY
+hyperglycemia : PRICE ; LETTER ; FLEECE ; HAPPY
+hyperthyroid : LETTER ; PRICE ; CHOICE
+hypha : COMMA ; PRICE
+hyphen : PRICE
+hypocaust : THOUGHT ; PRICE ; GOAT
+hypoglycaemia : GOAT ; PRICE ; FLEECE ; HAPPY
+hypoglycemia : GOAT ; PRICE ; FLEECE ; HAPPY
+hypothalamus : GOAT ; TRAP
+hypothesis : LOT ; PRICE ; FLEECE ; KIT
+hypoxia : PRICE ; LOT ; HAPPY
+hyundai : PRICE ; (GOOSE) ; (FOOT)
+iago : PALM ; FLEECE
+iain : NEAR ; FLEECE
+ian : FLEECE ; NEAR
+ianthe : HAPPY ; PRICE ; TRAP
+iata : PALM ; PRICE
+iatrogenic : GOAT ; PRICE ; DRESS ; KIT
+iberian : PRICE ; FLEECE ; HAPPY
+ibidem : DRESS ; KIT
+ibis : PRICE ; kit
+ibiza : COMMA ; PRICE ; FLEECE
+ibo : FLEECE ; GOAT
+ibrahim : FLEECE ; KIT
+ibuprofen : GOAT ; GOOSE ; PRICE
+ice : PRICE
+ice-cream : PRICE ; FLEECE
+ice-lollies : PRICE ; LOT ; HAPPY
+icecream : FLEECE ; PRICE
+icecube : GOOSE ; PRICE
+iceland : PRICE
+icelandic : PRICE ; TRAP ; KIT
+icon : LOT ; PRICE
+iconic : PRICE ; LOT ; KIT
+iconoclasm : TRAP ; PRICE ; LOT
+iconoclastic : BATH ; PRICE ; LOT ; TRAP ; KIT
+ida : COMMA ; FLEECE
+idea : PRICE ; NEAR
+ideal : PRICE ; NEAR
+ideally : PRICE ; NEAR ; HAPPY
+idem : DRESS ; PRICE
+identify : PRICE ; DRESS ; KIT ; HAPPY
+identity : PRICE ; DRESS ; KIT ; HAPPY
+if : KIT
+iggy : HAPPY ; KIT
+iglesias : FACE ; KIT ; HAPPY ; TRAP
+igloo : GOOSE ; KIT
+ignite : PRICE ; KIT
+ignore : FORCE ; KIT
+igor : FLEECE ; PRICE
+iguana : PALM ; KIT
+ijo : FLEECE ; GOAT
+ikea : FLEECE ; PRICE ; NEAR
+ikebana : FACE ; KIT ; PALM
+ill-natured : FACE ; KIT ; NURSE
+illegal : KIT ; FLEECE
+illegible : DRESS ; KIT
+illinois : CHOICE ; KIT
+illuminati : GOOSE ; KIT ; PALM ; HAPPY
+illusion : GOOSE ; KIT
+illusionist : GOOSE ; KIT
+image : KIT
+imaginary : TRAP ; KIT ; SQUARE ; HAPPY
+imagination : TRAP ; KIT ; FACE
+imagine : TRAP ; KIT
+imam : PALM ; KIT
+imbued : GOOSE ; KIT
+imma : PRICE ; COMMA
+immature : CURE ; KIT
+immemorial : FORCE ; KIT ; HAPPY
+immersion : NURSE ; KIT
+immersive : NURSE ; KIT
+immune : GOOSE ; KIT
+immunology : FOOT ; KIT ; GOOSE ; LOT ; HAPPY
+immure : CURE ; KIT
+impact : TRAP ; KIT
+impaired : SQUARE ; KIT
+impairment : SQUARE ; KIT
+impala : PALM ; KIT
+impartial : START ; KIT
+impasse : BATH ; KIT ; TRAP
+impeach : FLEECE ; KIT
+impecuniosity : GOOSE ; KIT ; HAPPY ; CLOTH
+imperfect : NURSE ; KIT ; DRESS
+imperfection : KIT ; LETTER ; DRESS
+imperfectly : NURSE ; KIT ; DRESS ; HAPPY
+imperial : NEAR ; KIT ; HAPPY
+implementation : DRESS ; KIT ; FACE
+implore : FORCE ; KIT
+implored : FORCE ; KIT
+implosion : GOAT ; KIT
+import : FORCE ; KIT
+impossible : LOT ; KIT
+impoverished : LOT ; KIT
+impregnated : DRESS ; KIT ; FACE
+impression : DRESS ; KIT
+improv : LOT ; KIT
+improve : GOOSE ; KIT
+improvidently : LOT ; KIT ; DRESS ; HAPPY
+impudence : FOOT ; KIT
+impulse : STRUT ; KIT
+impunity : GOOSE ; KIT ; HAPPY
+in-car : START ; KIT
+in-depth : DRESS ; KIT
+in-house : MOUTH ; KIT
+in-laws : THOUGHT ; KIT
+in-patient : FACE ; KIT
+inaccurate : FOOT ; KIT ; TRAP
+inamorato : PALM ; KIT ; TRAP ; NORTH ; GOAT
+inappropriate : GOAT ; KIT ; HAPPY
+inaugural : FOOT ; THOUGHT ; KIT
+inauguration : FOOT ; THOUGHT ; KIT ; FACE
+inauspicious : THOUGHT ; KIT
+inauthentic : THOUGHT ; KIT ; DRESS
+inbetween : FLEECE ; KIT
+inbox : LOT ; KIT
+inca : COMMA ; KIT
+incarnation : START ; KIT ; FACE
+incision : KIT
+inclosure : GOAT ; KIT ; LETTER
+inclusion : GOOSE ; KIT
+inclusive : GOOSE ; KIT
+inclusivity : GOOSE ; KIT ; HAPPY
+incognito : LOT ; KIT ; FLEECE ; GOAT
+income : STRUT ; KIT
+incoming : STRUT ; KIT
+incommunicado : PALM ; KIT ; GOOSE ; GOAT
+incorporeal : NORTH ; KIT ; NEAR
+incredible : DRESS ; KIT
+incrustation : STRUT ; KIT ; FACE
+incubation : FOOT ; KIT ; FACE
+incubus : FOOT ; KIT
+inculcate : STRUT ; KIT ; FACE
+incunabulum : FOOT ; KIT ; TRAP
+incur : NURSE ; KIT
+incurred : NURSE ; KIT
+incurring : NURSE ; KIT
+indaba : PALM ; KIT
+indentify : PRICE ; KIT ; DRESS ; HAPPY
+index : DRESS ; KIT
+india-rubber : STRUT ; HAPPY ; KIT ; LETTER
+indie : HAPPY ; KIT
+indirect : KIT ; PRICE ; DRESS
+individual : KIT ; GOOSE
+indochina : GOAT ; KIT ; PRICE
+indonesia : COMMA ; KIT ; GOAT ; FLEECE
+indoor : FORCE ; KIT
+indubitably : GOOSE ; KIT ; HAPPY
+induce : GOOSE ; KIT
+induction : STRUT ; KIT
+industrial : STRUT ; KIT ; HAPPY
+inebriate : FLEECE ; KIT ; HAPPY ; FACE
+inertia : COMMA ; NURSE ; KIT
+infer : NURSE ; KIT
+inferring : NURSE ; KIT
+infers : NURSE ; KIT
+inflammable : KIT ; TRAP
+influence : GOOSE ; KIT
+influencer : LETTER ; KIT ; GOOSE
+influenza : COMMA ; KIT ; GOOSE ; DRESS
+influx : STRUT ; KIT
+informal : NORTH ; KIT
+information : FACE ; LETTER ; KIT
+informed : NORTH ; KIT
+infrastructure : STRUT ; KIT ; LETTER
+infusion : GOOSE ; KIT
+ing : DRESS ; PRICE ; FLEECE
+ingathering : TRAP ; KIT ; LETTER
+inger : LETTER ; KIT
+inglenook : FOOT ; KIT
+ingratiate : FACE ; KIT ; HAPPY
+ingredient : FLEECE ; KIT ; HAPPY
+initialabout : COMMA ; KIT ; MOUTH
+injurious : CURE ; KIT ; HAPPY
+inkjet : DRESS ; KIT
+inlays : FACE ; KIT
+inlet : DRESS ; KIT
+inner : LETTER ; KIT
+innovation : COMMA ; KIT ; FACE
+innovative : COMMA ; KIT ; FACE
+inopportune : LETTER ; KIT ; LOT ; GOOSE
+inorganic : NORTH ; KIT ; TRAP
+input : FOOT ; KIT
+inquiries : PRICE ; KIT ; HAPPY
+inquiry : PRICE ; KIT ; HAPPY
+inrush : STRUT ; KIT
+insane : FACE ; KIT
+insert : NURSE ; KIT
+insertion : NURSE ; KIT
+inshore : FORCE ; KIT
+inside : PRICE ; KIT
+insight : PRICE ; KIT
+insignia : KIT ; HAPPY
+insincere : NEAR ; KIT
+insincerely : NEAR ; KIT ; HAPPY
+insole : GOAT ; KIT
+insomuch : STRUT ; KIT ; GOAT
+inspire : PRICE ; KIT
+inspiring : PRICE ; KIT
+instagram : TRAP ; COMMA ; KIT
+install : THOUGHT ; KIT
+installation : COMMA ; KIT ; FACE
+instantiation : BATH ; KIT ; TRAP ; HAPPY ; FACE
+instead : DRESS ; KIT
+institution : GOOSE ; KIT
+institutionalization : GOOSE ; KIT ; PRICE ; FACE
+instruction : STRUT ; KIT
+instructor : STRUT ; KIT ; LETTER
+insubstantial : BATH ; KIT ; STRUT ; TRAP
+insult : STRUT ; KIT
+integrity : DRESS ; KIT ; HAPPY
+integumentary : FOOT ; KIT ; DRESS ; HAPPY
+intel : DRESS ; KIT
+intellectual : GOOSE ; KIT ; DRESS
+inter : NURSE ; KIT
+interchange : FACE ; LETTER ; KIT
+interchangeable : LETTER ; KIT ; FACE
+intercollegiate : LETTER ; KIT ; FLEECE ; HAPPY
+intercom : LOT ; LETTER ; KIT
+intercontinental : LETTER ; KIT ; LOT ; DRESS
+intercourse : FORCE ; LETTER ; KIT
+interest : DRESS ; KIT
+interface : FACE ; LETTER ; KIT
+interfere : NEAR ; KIT ; LETTER
+interference : LETTER ; KIT ; NEAR
+interfering : NEAR ; KIT ; LETTER
+interferon : LETTER ; KIT ; NEAR
+interior : NEAR ; KIT ; HAPPY ; LETTER
+interject : LETTER ; KIT ; DRESS
+interlaken : PALM ; KIT ; LETTER
+interlingua : COMMA ; KIT ; LETTER 
+interlocutor : FOOT ; KIT ; LETTER ; LOT
+intermediate : LETTER ; KIT ; FLEECE ; HAPPY
+intern : NURSE ; KIT
+internal : NURSE ; KIT
+international : TRAP ; LETTER ; KIT
+internationale : TRAP ; KIT ; LETTER
+internet : DRESS ; LETTER ; KIT
+interplay : LETTER ; KIT ; FACE
+interpret : NURSE ; KIT
+interpretation : FACE ; KIT ; NURSE
+interpreter : LETTER ; NURSE ; KIT
+interracial : FACE ; KIT ; LETTER
+interval : LETTER ; KIT
+intervene : LETTER ; KIT ; FLEECE
+intervention : LETTER ; KIT ; DRESS
+interview : GOOSE ; LETTER ; KIT
+interviewed : GOOSE ; KIT ; LETTER
+interviews : GOOSE ; KIT ; LETTER
+into : GOOSE ; COMMA ; KIT
+intourist : CURE ; KIT
+intransigent : BATH ; KIT ; TRAP
+intrigue : FLEECE ; KIT
+introduce : GOOSE ; KIT
+introduction : STRUT ; COMMA ; KIT
+introit : CHOICE ; KIT
+intruder : GOOSE ; KIT ; LETTER
+intrusion : GOOSE ; KIT
+intrusive : GOOSE ; KIT
+intubate : GOOSE ; KIT ; FACE
+inundated : STRUT ; KIT ; FACE
+inure : CURE ; KIT
+invade : FACE ; KIT
+invariable : SQUARE ; KIT ; HAPPY
+invasion : FACE ; KIT
+inverness : LETTER ; KIT ; DRESS
+inverse : NURSE ; KIT
+investigation : KIT ; DRESS ; FACE
+invite : PRICE ; KIT
+invited : PRICE ; KIT
+inviting : PRICE ; KIT
+invoice : CHOICE ; KIT
+involve : LOT ; KIT
+iodine : (FLEECE) ; PRICE ; GOAT
+iolanthe : HAPPY ; PRICE ; GOAT ; TRAP
+iowa : COMMA ; PRICE ; GOAT
+ipad : TRAP ; PRICE
+iphone : GOAT ; PRICE
+ipod : LOT ; PRICE
+iran : BATH ; PRICE
+iraq : PALM ; KIT
+irate : PRICE ; FACE
+ireland : PRICE
+irene : (FLEECE) ; PRICE
+iris : PRICE ; KIT
+irish : PRICE ; KIT
+irkutsk : FOOT
+iron : PRICE
+ironic : PRICE ; LOT ; KIT
+ironmonger : STRUT ; PRICE ; LETTER
+irreducibility : GOOSE ; KIT ; STRUT ; HAPPY
+irresistable : KIT
+irrespective : KIT ; DRESS
+irrigation : KIT ; FACE
+irritation : KIT ; FACE
+irvine : PRICE ; NURSE
+irwell : NURSE ; DRESS
+irwin : NURSE ; KIT
+isabel : DRESS ; KIT
+isabella : COMMA ; KIT ; DRESS
+isham : PRICE
+ishiguro : GOOSE ; KIT ; GOAT
+islam : PALM ; KIT
+islamabad : TRAP ; PALM ; KIT
+island : COMMA ; PRICE
+isolated : PRICE ; FACE
+isopleth : DRESS ; PRICE ; LOT
+isopropyl : GOAT ; PRICE
+israeli : FACE ; HAPPY ; KIT
+issue : GOOSE ; KIT
+issued : GOOSE ; KIT
+issues : KIT ; GOOSE
+istanbul : TRAP ; FOOT ; KIT
+it : KIT
+italian : TRAP ; KIT
+italy : HAPPY ; COMMA ; KIT
+itching : KIT
+itchy : HAPPY ; KIT
+item : PRICE ; COMMA
+ithon : PRICE ; FLEECE ; LOT
+itinerary : PRICE ; KIT ; HAPPY
+itunes : GOOSE ; PRICE
+iud : PRICE ; GOOSE ; FLEECE
+ivan : PRICE
+iver : PRICE ; LETTER
+ivor : PRICE
+ivory : PRICE ; HAPPY
+ivy : PRICE ; HAPPY
+jabez : DRESS
+jacintha : COMMA ; KIT
+jack : TRAP
+jackanapes : FACE ; TRAP
+jackman : TRAP
+jacksnipe : PRICE ; TRAP
+jackson : TRAP ; (COMMA)
+jacob : FACE
+jacobean : NEAR ; TRAP
+jacquard : START ; TRAP
+jacuzzi : GOOSE ; HAPPY ; COMMA
+jade : FACE
+jaeger : FACE ; LETTER
+jaffa : TRAP ; COMMA
+jagger : TRAP ; LETTER
+jaguar : TRAP ; GOOSE ; START
+jail : FACE
+jaipur : PRICE ; CURE
+jake : FACE
+jalalabad : PALM ; TRAP
+jalfrezi : HAPPY ; TRAP ; FACE
+jam : TRAP
+jamaica : COMMA ; FACE
+james : FACE
+jameson : FACE
+jamie : FACE ; HAPPY
+jan : TRAP
+jane : FACE
+janitorial : FORCE ; TRAP ; KIT ; HAPPY
+january : TRAP ; HAPPY ; GOOSE ; SQUARE
+japan : TRAP ; COMMA
+japanese : TRAP ; FLEECE
+japhetic : FACE ; DRESS ; KIT
+jar : START
+jardiniere : SQUARE ; START ; KIT ; NEAR
+jarful : START
+jargon : START
+jarvis : START ; KIT
+jasmine : TRAP ; KIT
+jason : FACE
+java : PALM ; COMMA
+javascript : PALM ; COMMA ; KIT
+jawbone : THOUGHT ; GOAT
+jawbreaker : THOUGHT ; FACE ; LETTER
+jaws : THOUGHT
+jaycee : FACE ; HAPPY
+jaywalking : FACE ; THOUGHT ; KIT
+jaywick : FACE ; KIT
+jazz : TRAP
+jeans : FLEECE
+jebusite : FOOT ; DRESS ; PRICE
+jedi : PRICE ; DRESS
+jeep : FLEECE
+jeff : DRESS
+jeffrey : DRESS ; HAPPY
+jehovah : COMMA ; GOAT
+jemima : PRICE
+jenkins : DRESS ; KIT
+jenks : DRESS
+jenner : LETTER ; DRESS
+jennifer : LETTER ; DRESS ; KIT
+jephthah : COMMA ; DRESS
+jeremiah : DRESS ; PRICE
+jeremy : DRESS ; HAPPY
+jerome : GOAT
+jersey : HAPPY ; NURSE
+jerusalem : GOOSE
+jessica : COMMA ; DRESS ; KIT
+jessie : HAPPY ; DRESS
+jet : DRESS
+jewel : GOOSE
+jib : KIT
+jib-boom : GOOSE ; KIT
+jigsaw : KIT ; THOUGHT
+jigsaws : THOUGHT ; KIT
+jimmy : HAPPY ; KIT
+jipijapa : COMMA ; KIT ; PALM
+jitterbug : STRUT ; KIT ; LETTER
+jiujitsu : GOOSE ; KIT
+jive : PRICE
+jo : GOAT
+joan : GOAT
+job : LOT ; GOAT
+job-sharing : SQUARE ; LOT ; KIT
+jobcentre : DRESS ; LOT ; LETTER
+jockey : HAPPY ; LOT
+jodie : GOAT ; HAPPY
+jog : CLOTH
+john : LOT
+join : CHOICE
+joinery : CHOICE ; LETTER ; HAPPY
+joint : CHOICE
+jointly : CHOICE ; HAPPY
+joists : CHOICE
+jojo : GOAT
+jojoba : COMMA ; GOAT
+joke : GOAT
+jolie : GOAT ; HAPPY
+jonas : GOAT ; COMMA
+jonathan : COMMA ; LOT
+joppa : COMMA ; LOT
+jose : GOAT ; FACE
+josef : GOAT
+joseph : GOAT ; COMMA
+josh : LOT
+joules : GOOSE
+jourdain : CURE ; FACE
+journalism : COMMA ; NURSE ; KIT
+journalist : COMMA ; KIT ; NURSE
+journey : HAPPY ; NURSE
+jowl : MOUTH
+joy : CHOICE
+joy-bells : CHOICE ; DRESS
+joyce : CHOICE
+joyed : CHOICE
+joyful : CHOICE
+joyfully : CHOICE ; HAPPY
+joyfulness : CHOICE ; FOOT
+joyous : CHOICE
+joyride : CHOICE ; PRICE
+joyrides : CHOICE ; PRICE
+joys : CHOICE
+joystick : CHOICE ; KIT
+jpeg : DRESS ; FACE
+ju-jitsu : GOOSE ; KIT
+jubilant : GOOSE
+jubilee : GOOSE ; HAPPY
+judd : STRUT
+judea : GOOSE ; FLEECE
+judge : STRUT
+judgment : STRUT
+judgmental : STRUT ; DRESS
+judicial : GOOSE ; KIT
+judiciary : GOOSE ; KIT ; HAPPY
+judo : GOOSE ; GOAT
+jug : STRUT
+juggernaut : THOUGHT ; STRUT ; LETTER
+juice : GOOSE
+jujitsu : FOOT ; KIT ; GOOSE
+juju : GOOSE
+jujube : GOOSE
+jukebox : GOOSE ; LOT
+jules : GOOSE
+julian : GOOSE ; HAPPY
+julie : HAPPY ; GOOSE
+juliet : GOOSE ; HAPPY ; DRESS
+july : PRICE ; STRUT
+jump : STRUT
+jumpsuit : STRUT ; GOOSE
+junction : STRUT
+june : GOOSE
+jung : FOOT ; STRUT
+jungle : STRUT
+junior : GOOSE ; LETTER
+junk : STRUT
+junkie : STRUT ; HAPPY
+jurisdiction : CURE ; KIT
+jury : CURE ; HAPPY
+just : STRUT
+justice : STRUT ; KIT
+justify : STRUT ; PRICE ; KIT
+justin : STRUT ; KIT
+juvenile : GOOSE ; (PRICE) ; KIT
+juventus : GOOSE ; DRESS
+kabuki : GOOSE ; HAPPY
+kahn : PALM
+kaka : PALM
+kalahari : START ; HAPPY
+kama : PALM
+kamala : PALM ; COMMA
+kampala : PALM
+kanye : PALM ; FACE
+kaohsiung : FOOT ; MOUTH
+kappa : COMMA ; TRAP
+kaput : FOOT
+karachi : PALM ; HAPPY
+kardashian : TRAP ; START ; HAPPY
+karen : TRAP
+karl : START
+karma : START ; COMMA
+kasbah : PALM
+kasha : PALM
+kashmir : TRAP
+katana : PALM ; COMMA
+kate : FACE
+kathie : TRAP ; HAPPY
+kathleen : TRAP ; FLEECE
+kathryn : TRAP
+kathy : TRAP ; HAPPY
+katie : FACE ; HAPPY
+katy : FACE ; HAPPY
+kauri : MOUTH ; HAPPY
+kava : PALM
+kawasaki : PALM ; (MOUTH) ; HAPPY
+kayleigh : FACE ; HAPPY
+kazakhstan : TRAP ; PALM
+keanu : PALM ; GOOSE
+keegan : FLEECE
+keen : FLEECE
+keep : FLEECE
+keeper : FLEECE ; LETTER
+keepsake : FLEECE ; FACE
+keir : NEAR
+kelpie : DRESS ; HAPPY
+kept : DRESS
+kerb : NURSE
+kerr : NURSE
+kerry : DRESS ; HAPPY
+kershaw : NURSE ; THOUGHT
+ketchup : DRESS 
+kevin : DRESS
+kevlar : DRESS ; START
+kewpie : GOOSE ; HAPPY 
+key : FLEECE
+keyboard : FLEECE ; FORCE
+keychain : FLEECE ; FACE
+keyhole : FLEECE ; GOAT
+keynote : FLEECE ; GOAT
+keypad : FLEECE ; TRAP
+kfc : FACE ; DRESS ; FLEECE
+khaki : PALM ; HAPPY
+khan : PALM
+khoisan : CHOICE
+khrushchev : FOOT
+kia : NEAR
+kibbutz : KIT ; FOOT
+kibbutzim : KIT ; FOOT ; FLEECE
+kibosh : PRICE ; LOT
+kick-ass : KIT ; TRAP
+kickstarter : KIT ; START ; LETTER
+kidnap : KIT ; TRAP
+kidnapper : KIT ; TRAP ; LETTER
+kids : KIT
+killamarsh : KIT ; START
+killarney : KIT ; START ; HAPPY
+killed : KIT
+killer : KIT ; LETTER
+kilmarnock : KIT ; START
+kilogram : KIT ; GOAT ; TRAP
+kilograms : KIT ; GOAT ; COMMA
+kilos : FLEECE ; GOAT
+kilowatt : KIT/FLEECE ; COMMA ; LOT
+kilsyth : KIT ; PRICE
+kind : PRICE
+kinda : PRICE ; COMMA
+kindergarten : KIT ; START ; LETTER
+king-size : KIT ; PRICE
+kingdom : KIT ; COMMA
+kingswear : KIT ; NEAR
+kinship : KIT
+kirby : NURSE ; HAPPY
+kirghiz : NURSE ; KIT
+kirk : NURSE
+kirov : LOT
+kirsten : NEAR
+kiss : KIT
+kitchen : KIT
+kite : PRICE
+kitten : KIT
+klaus : MOUTH
+klavier : TRAP ; LETTER
+kludge : GOOSE
+klufi : GOOSE ; HAPPY
+knaresborough : SQUARE ; STRUT
+knead : FLEECE
+knebworth : DRESS ; LETTER
+knee : FLEECE
+knee-high : FLEECE ; PRICE
+knew : GOOSE
+knife : PRICE
+knife-edge : PRICE ; DRESS
+knight : PRICE
+knitwear : KIT ; SQUARE
+knives : PRICE
+knob : LOT
+knock : LOT
+knotweed : LOT ; FLEECE
+know : GOAT
+know-how : GOAT ; MOUTH
+knowledge : LOT ; KIT
+known : GOAT
+knows : GOAT
+knowsley : GOAT ; HAPPY
+knox : LOT
+knuckleduster : STRUT ; LETTER
+koala : PALM ; COMMA
+kochi : GOAT ; HAPPY
+kodak : GOAT
+kohlrabi : PALM ; HAPPY
+koisan : PALM
+kojak : GOAT
+komodo : GOAT
+konrad : LOT ; TRAP
+kookaburra : STRUT ; FOOT
+kooky : GOOSE ; HAPPY 
+koran : PALM
+korea : FLEECE ; NEAR ; LETTER ; COMMA
+korean : NEAR
+kosher : GOAT ; LETTER
+kowloon : MOUTH ; GOOSE
+kramer : FACE ; LETTER
+krefeld : FACE ; DRESS
+kreutzer : CHOICE ; LETTER
+kruger : GOOSE ; LETTER
+krugerrand : GOOSE ; LETTER
+krupp : FOOT
+kuccha : COMMA ; STRUT
+kudzu : FOOT
+kung : FOOT
+kunming : FOOT
+kuril : FOOT ; LOT
+kurt : NURSE
+kurus : FOOT
+kurzweil : NURSE ; PRICE
+kutcher : FOOT ; LETTER
+kuwait : FACE
+kuwaiti : FACE
+kyle : PRICE
+kylie : PRICE ; HAPPY
+kyrgyzstan : NURSE
+la : PALM
+laager : PALM ; LETTER
+lab : TRAP
+laban : PALM
+label : FACE
+labor : LETTER
+laborious : FORCE
+labour : FACE ; LETTER
+lace : FACE
+lackluster : TRAP ; STRUT ; LETTER
+lactobacillus : TRAP ; GOAT ; KIT 
+lactose : TRAP ; GOAT
+lada : PALM ; COMMA
+ladakh : PALM
+ladbrokes : TRAP ; FOOT
+laden : FACE
+lady : FACE ; HAPPY
+ladyboys : FACE ; HAPPY ; CHOICE
+ladybug : FACE ; HAPPY ; STRUT
+ladylike : FACE ; HAPPY ; PRICE
+lag : TRAP
+laid : FACE
+laid-back : FACE ; TRAP
+laing : TRAP 
+laisser-faire : FACE ; SQUARE
+lake : FACE
+lama : PALM
+lambda : TRAP ; COMMA
+lambert : TRAP ; LETTER
+lambeth : TRAP ; COMMA
+lamborghini : TRAP ; FLEECE ; NORTH ; HAPPY
+lampshade : TRAP ; FACE
+lancashire : TRAP ; COMMA ; LETTER
+lancaster : TRAP ; BATH ; LETTER
+land : TRAP
+landing-gear : TRAP ; NEAR
+landlady : TRAP ; FACE ; HAPPY
+landlord : TRAP ; NORTH ; FORCE
+landmark : TRAP ; START
+landscape : TRAP ; FACE
+landseer : TRAP ; NEAR
+landslide : TRAP ; PRICE
+lane : FACE
+lang : TRAP
+language : KIT ; TRAP
+languages : TRAP ; STRUT
+lao : MOUTH
+laos : MOUTH
+laotian : MOUTH
+laptop : TRAP ; LOT
+larch : START
+large : START
+large-scale : START ; FACE
+larger : START ; LETTER
+largesse : START
+largest : START 
+largo : START ; GOAT
+largs : START
+larissa : COMMA ; KIT
+lars : START
+larva : START
+larwood : START ; FOOT
+laryngectomee : TRAP ; DRESS ; HAPPY
+laryngectomy : TRAP ; DRESS ; HAPPY
+lasagna : PALM
+laser : FACE ; LETTER
+lassie : TRAP ; HAPPY
+lasso : TRAP ; GOAT
+last : BATH
+later : FACE ; LETTER
+latest : FACE ; COMMA
+lath : BATH
+latham : FACE
+lathe : FACE
+lather : BATH ; LETTER
+lathery : BATH ; LETTER ; HAPPY
+lathi : PALM ; HAPPY 
+lathom : FACE
+latin : TRAP 
+latina : (FLEECE) ; (TRAP)
+latitude : TRAP ; GOOSE
+latte : PALM ; FACE
+laudation : THOUGHT ; FACE
+lauded : THOUGHT
+laugh : BATH
+laughable : BATH
+laughed : BATH
+laughing : BATH
+laughingstock : BATH ; CLOTH
+laughter : BATH ; LETTER 
+launch : THOUGHT
+laundry : THOUGHT ; HAPPY 
+laura : NORTH ; COMMA
+laurasia : NORTH ; FACE
+laurel : (CLOTH)
+laurence : (CLOTH)
+laurie : CLOTH ; HAPPY
+lava : BATH ; COMMA
+laval : TRAP
+lavender : TRAP ; LETTER
+lavish : TRAP ; KIT
+lavrov : LOT
+lawford : THOUGHT
+lawgiver : THOUGHT ; KIT ; LETTER
+lawmaker : THOUGHT ; FACE ; LETTER
+lawn : THOUGHT
+lawrence : (CLOTH)
+lawson : THOUGHT
+lawsuit : THOUGHT ; GOOSE
+lawyer : CHOICE ; LETTER
+lay-by : FACE
+layla : FACE ; COMMA
+layout : FACE ; MOUTH
+layperson : FACE ; NURSE 
+lays : FACE
+layshaft : FACE 
+layton : FACE
+laze : FACE
+lazy : FACE ; HAPPY
+lea : FLEECE
+leach : FLEECE
+leader : FLEECE ; LETTER
+leaderboard : FLEECE ; FORCE ; LETTER
+leaders : FLEECE ; LETTER
+leadership : FLEECE ; LETTER ; KIT
+leading-rein : FLEECE ; FACE
+leaf-bud : FLEECE ; STRUT
+leafy : FLEECE ; HAPPY
+league : FLEECE
+leah : NEAR
+leak : FLEECE
+lean : FLEECE
+leap : FLEECE
+leap-year : FLEECE ; NEAR
+leap-years : FLEECE ; NEAR
+leapfrog : LOT ; FLEECE
+learn : NURSE
+leary : NEAR  ; HAPPY
+leather : DRESS ; LETTER
+leather-jacket : DRESS ; LETTER ; TRAP
+leatherette : DRESS ; LETTER
+leatherhead : DRESS ; LETTER
+lebanon : DRESS
+lebensraum : FACE ; MOUTH
+lecturer : DRESS ; NURSE ; LETTER
+led : DRESS
+ledger : DRESS ; LETTER
+leech : FLEECE
+leeds : FLEECE
+leek : FLEECE
+leer : NEAR
+leering : NEAR
+leery : NEAR ; HAPPY
+leetspeak : FLEECE
+left : DRESS
+left-winger : DRESS ; KIT ; LETTER
+legacy : DRESS ; HAPPY ; COMMA
+legal : FLEECE
+legality : FLEECE ; TRAP ; HAPPY
+legato : PALM ; GOAT
+legend : DRESS
+legendary : DRESS ; SQUARE ; HAPPY
+leggings : DRESS
+legion : FLEECE
+legislation : DRESS ; FACE
+legislature : FACE ; FACE ; LETTER
+legit : COMMA ; KIT
+lego : DRESS ; GOAT
+legoland : DRESS ; GOAT ; TRAP
+legs : DRESS
+legume : GOOSE
+legwarmers : DRESS ; NORTH ; LETTERS
+lehigh : PRICE
+lehman : FACE
+leicestershire : DRESS ; LETTER
+leindorf : PRICE ; NORTH
+leipzig : PRICE 
+leisure : (DRESS) ; LETTER ; (FLEECE)
+leisurewear : (DRESS) ; SQUARE ; (FLEECE)
+lemesurier : DRESS ; LETTER
+lending-library : DRESS ; PRICE ; LETTER ; HAPPY
+length : DRESS
+lengthy : DRESS ; HAPPY
+leningrad : TRAP
+lenovo : GOAT
+leon : LOT
+leonardo : NEAR ; START
+leonhardt : NEAR
+leopard : DRESS ; LETTER
+leopold : GOAT
+leprechaun : DRESS ; THOUGHT
+leroy : CHOICE
+lerwick : NURSE
+lesbian : DRESS
+lesley : DRESS ; HAPPY
+leslie : DRESS ; HAPPY
+less : DRESS
+lesser : DRESS ; LETTER
+lesson : DRESS
+lessors : DRESS ; NORTH
+lestrade : PALM
+let : DRESS
+let-down : DRESS ; MOUTH
+letchworth : DRESS ; LETTER
+lethargy : DRESS ; LETTER ; HAPPY
+lethe : HAPPY
+letter : DRESS ; LETTER
+letters : DRESS ; LETTER
+leukemia : GOOSE ; FLEECE ; HAPPY
+levee : HAPPY
+level : DRESS
+levi : FLEECE ; PRICE
+levodopa : DRESS ; GOAT ; COMMA
+levy : DRESS ; HAPPY
+lewd : GOOSE
+lexeme : FLEECE
+leybourn : FACE ; FACE
+leyland : FACE
+leys : FACE
+leyton : FACE
+lhasa : PALM
+liaison : FACE ; (LOT)
+liam : NEAR
+liana : PALM
+libations : PRICE ; FACE
+libel : PRICE
+liberace : PALM
+liberal : KIT ; NURSE
+liberalism : KIT ; NURSE
+liberia : PRICE ; NEAR ; HAPPY
+liberty : KIT ; LETTER ; HAPPY
+libido : FLEECE ; GOAT 
+librarian : PRICE ; SQUARE ; HAPPY
+library : PRICE ; SQUARE ; HAPPY
+license : PRICE ; COMMA
+licentious : PRICE
+lichee : PRICE ; HAPPY
+lid : KIT
+lido : PRICE/FLEECE ; GOAT
+lie : PRICE
+liege : (FLEECE) ; (FACE)
+lies : PRICE
+life : PRICE
+life-raft : PRICE ; BATH
+life-size : PRICE 
+life-span : PRICE ; TRAP
+life-work : PRICE ; NURSE
+lifeblood : PRICE ; STRUT 
+lifeboat : PRICE ; GOAT
+lifelike : PRICE
+lifeline : PRICE
+lifelong : PRICE ; LOT
+lifesaver : PRICE ; FACE ; LETTER
+lifestyle : PRICE 
+lifetime : PRICE
+liffey : KIT ; HAPPY
+ligature : KIT ; COMMA ; LETTER
+light : PRICE
+light-year : PRICE ; NEAR
+lighthouse : PRICE ; MOUTH
+lightweight : PRICE ; FACE
+like : PRICE
+like-minded : PRICE
+likely : PRICE ; HAPPY
+likewise : PRICE
+lima : FLEECE ; COMMA
+lime : PRICE
+limelight : PRICE
+limestone : PRICE ; GOAT
+limey : PRICE ; HAPPY
+limoges : GOAT
+limousine : KIT ; GOAT ; FLEECE
+linda : KIT ; COMMA
+lindsey : KIT ; HAPPY
+line : PRICE
+line-up : PRICE ; STRUT
+linen-draper : KIT ; FACE ; LETTER
+lingerie : LETTER ; COMMA ; (FACE) ; (HAPPY) ; THOUGHT
+linotype : GOAT ; PRICE
+linseed : FLEECE
+lion : PRICE
+lip : KIT
+liposuction : PRICE ; GOAT ; STRUT
+lisa : FLEECE ; COMMA
+list : KIT
+list-price : KIT ; PRICE
+listen : KIT
+litchee : KIT ; PRICE
+litchi : PRICE ; HAPPY
+literature : COMMA ; (LETTER) ; KIT 
+lithe : PRICE
+lithograph : KIT ; GOAT ; BATH
+lithographer : KIT ; LOT ; LETTER
+litograph : KIT ; GOAT ; BATH
+litre : FLEECE
+litterbug : KIT ; LETTER ; STRUT
+little : KIT
+liturgy : KIT ; LETTER ; HAPPY
+lively : PRICE ; HAPPY
+liver : KIT ; LETTER
+liverpool : KIT ; LETTER ; GOOSE
+liverpudlian : KIT ; LETTER ; STRUT
+liversedge : KIT ; LETTER ; DRESS
+lives : PRICE
+livestock : PRICE ; LOT 
+living-room : KIT ; GOOSE
+living-space : KIT ; FACE
+lizzie : KIT ; HAPPY
+llama : PALM
+llanfairpwllgwyngyll : SQUARE
+lloyd : CHOICE
+lo : GOAT
+loach : GOAT
+load : GOAT
+loaf : GOAT
+loafers : GOAT ; LETTER
+loan : GOAT
+loathe : GOAT
+loathsome : GOAT ; STRUT
+lobby : LOT ; HAPPY
+lobo : GOAT
+lobscouse : MOUTH
+lobster : LOT
+local : GOAT
+locale : PALM ; GOAT
+locate : FACE
+location : FACE ; GOAT
+locking : LOT
+locknut : LOT ; STRUT
+lockyer : LOT ; LETTER
+locomotion : GOAT
+locoweed : GOAT ; FLEECE
+locution : GOAT ; GOOSE
+lodger : LOT ; LETTER
+lofoten : GOAT
+loft : CLOTH
+log : CLOTH
+log-cabin : LOT
+logan : GOAT
+logarithmic : LOT ; KIT
+logical : LOT 
+logistics : COMMA ; KIT
+logo : GOAT
+logon : LOT
+logos : GOAT
+logotype : LOT ; PRICE
+lohan : GOAT ; TRAP
+loin : CHOICE
+loitering : CHOICE ; LETTER
+loki : GOAT ; HAPPY
+lola : GOAT ; COMMA
+lolita : GOAT ; FLEECE
+lollipop : LOT ; FLEECE
+london : STRUT ; COMMA
+londonderry : STRUT ; DRESS ; HAPPY
+long : CLOTH
+long-standing : CLOTH ; TRAP
+long-time : CLOTH ; PRICE
+longer : CLOTH ; LETTER
+longhorn : CLOTH ; NORTH
+longitude : CLOTH ; GOOSE
+longleat : CLOTH ; FLEECE
+loofah : GOOSE ; COMMA
+look : FOOT
+look-alike : FOOT ; PRICE
+lookup : FOOT ; STRUT
+loom : GOOSE
+loop : GOOSE
+loose : GOOSE
+lop-eared : LOT ; NEAR
+lopez : DRESS ; GOAT
+lord : NORTH ; FORCE
+lore : FORCE
+loren : FORCE
+lorna : NORTH
+lorwerth : NORTH ; LETTER
+lose : GOOSE
+loser : GOOSE ; LETTER
+loss : CLOTH
+lost : CLOTH
+loth : GOAT
+lothario : GOAT ; START ; FLEECE ; GOAT
+lothian : GOAT ; HAPPY
+lotion : GOAT
+lotus : GOAT 
+loud : MOUTH
+loud-hailer : MOUTH ; FACE ; LETTER
+loudmouth : MOUTH
+loudspeaker : MOUTH ; FLEECE ; LETTER
+loughborough : STRUT
+louisa : GOOSE ; FLEECE ; COMMA
+lounge : MOUTH
+lourdes : CURE
+lousy : MOUTH ; HAPPY
+louth : MOUTH
+louvre : GOOSE ; COMMA
+love : STRUT
+love-affair : STRUT ; SQUARE
+love-affairs : STRUT ; SQUARE
+love-bird : STRUT ; NURSE
+love-child : STRUT ; PRICE
+love-letter : STRUT ; DRESS ; LETTER
+love-match : STRUT ; TRAP
+love-potion : STRUT ; GOAT
+lovely : STRUT ; HAPPY
+lover : STRUT ; LETTER
+loveseat : STRUT ; FLEECE
+lovey : STRUT ; HAPPY
+loving : STRUT
+low : GOAT
+low-cost : GOAT ; CLOTH
+low-down : GOAT ; MOUTH
+low-keyed : GOAT ; FLEECE
+low-profile : PRICE ; GOAT ; PRICE
+low-relief : GOAT ; FLEECE
+low-rise : GOAT ; PRICE
+low-spirited : GOAT ; KIT
+low-voltage : GOAT 
+low-water : GOAT ; THOUGHT ; LETTER
+lowbrow : MOUTH ; GOAT
+lowbrows : MOUTH ; GOAT
+lowlife : GOAT ; PRICE
+lowman : GOAT
+lowrie : MOUTH ; HAPPY
+lowry : MOUTH ; HAPPY
+lowther : MOUTH ; LETTER
+loyal : CHOICE
+loyalty : CHOICE ; HAPPY
+loyola : CHOICE
+luba : GOOSE ; COMMA
+lubricant : GOOSE
+lubricious : GOOSE ; STRUT
+lucerne : GOOSE ; NURSE
+lucia : GOOSE ; FLEECE
+lucidity : GOOSE ; KIT
+lucinda : GOOSE ; KIT
+luck : STRUT
+lucky : STRUT ; HAPPY
+lucrative : GOOSE 
+lucretia : GOOSE ; FLEECE ; HAPPY
+luddite : STRUT ; PRICE
+ludlow : STRUT ; GOAT
+ludwigshafen : STRUT ; KIT ; PALM 
+lufthansa : FOOT ; COMMA
+lug : STRUT
+luge : GOOSE
+luggage : STRUT
+luigi : STRUT ; FLEECE ; HAPPY
+lukewarm : GOOSE ; NORTH
+lulu : GOOSE
+lumbago : STRUT ; FACE ; GOAT
+lumberjack : STRUT ; LETTER ; TRAP
+lumberyard : STRUT ; LETTER ; START
+lumiere : GOOSE ; SQUARE
+luminaire : GOOSE ; SQUARE
+luminaires : GOOSE ; SQUARE
+luminous : GOOSE 
+lumpectomy : STRUT ; DRESS ; HAPPY
+luna : GOOSE ; COMMA
+lunch : STRUT
+lunch-time : STRUT ; PRICE
+lunette : GOOSE ; DRESS
+lung : STRUT
+lupus : GOOSE
+lurcher : NURSE ; LETTER
+lure : CURE
+lurid : CURE
+lusaka : PALM ; (GOOSE) ; (FOOT)
+luscious : STRUT
+lush : STRUT
+luther : GOOSE ; LETTER
+lutheran : GOOSE ; LETTER
+luxembourg : STRUT ; LETTER
+luxuriant : STRUT ; CURE
+luxuriate : STRUT
+luxurious : STRUT ; CURE
+luxury : STRUT ; LETTER ; COMMA ; HAPPY
+lyceum : PRICE ; NEAR
+lychee : PRICE ; HAPPY
+lye : PRICE
+lyrics : KIT
+ma : DRESS ; PALM
+maastricht : PALM ; KIT
+mabel : FACE
+macabre : PALM
+macafee : TRAP ; HAPPY
+macao : MOUTH
+macarthur : START ; LETTER
+macaws : THOUGHT
+macbeth : DRESS
+macbook : TRAP ; FOOT
+macduff : STRUT
+mace-bearer : FACE ; SQUARE ; LETTER
+macedonia : TRAP ; GOOSE ; HAPPY
+macgyver : PRICE ; LETTER
+machete : COMMA ; DRESS
+machine : FLEECE ; COMMA
+machine-gun : FLEECE ; STRUT
+macho : PALM ; GOAT
+macintosh : TRAP ; LOT
+mackenzie : DRESS ; HAPPY
+mackintosh : TRAP ; LOT
+maclean : FACE
+macleod : MOUTH
+macrocosm : LOT
+mad : TRAP
+madagascar : TRAP ; COMMA ; (LETTER)
+madame : PALM
+made : FACE
+made-to-measure : FACE ; DRESS ; LETTER
+made-up : STRUT ; FACE
+madeira : COMMA ; NEAR
+madonna : COMMA ; LOT
+madrid : COMMA ; KIT
+madurai : (FOOT) ; PRICE
+maecenas : PRICE
+maestro : PRICE ; GOAT
+maeve : FACE
+mafia : PALM ; (TRAP)
+mag : TRAP
+magazine : TRAP ; FLEECE
+mage : FACE
+magenta : COMMA ; DRESS
+maggie : TRAP ; HAPPY
+maghreb : DRESS
+magi : FACE ; HAPPY
+magic : TRAP ; KIT 
+magistrate : TRAP ; FACE
+maglev : DRESS
+magnesium : TRAP ; FLEECE ; HAPPY
+magnet : TRAP ; DRESS
+magnetic : TRAP ; DRESS ; KIT
+magnificent : KIT ; TRAP 
+magnitude : TRAP ; GOOSE
+magnolia : TRAP ; GOAT ; HAPPY
+magnum : TRAP 
+magyar : START
+mahler : PALM ; LETTER
+mahmoud : PALM
+mahood : FOOT
+maid : FACE
+maida : FACE ; COMMA
+maiden : FACE
+maidenhead : DRESS ; FACE
+maidstone : FACE ; GOAT
+mail : FACE
+main : FACE
+mainframe : FACE
+mainly : FACE ; HAPPY
+mainstays : FACE
+mainstream : FACE ; FLEECE
+maintain : FACE
+maintenance : FACE
+mainwaring : FACE ; SQUARE
+mairead : FACE
+maisie : FACE ; HAPPY
+maisonette : FACE ; DRESS
+maitland : FACE
+maize : FACE
+majestic : DRESS ; COMMA
+major : FACE ; LETTER
+major-general : LETTER ; DRESS
+majorca : COMMA ; FORCE
+majority : (CLOTH) ; COMMA ; HAPPY
+make : FACE
+make-up : STRUT ; FACE
+maker : FACE ; LETTER
+maladroit : TRAP ; CHOICE
+maladroitly : TRAP ; CHOICE
+maladroitness : CHOICE
+malaga : COMMA ; TRAP
+malaise : FACE
+malawi : PALM ; HAPPY
+malayalam : PALM ; FACE
+malaysia : COMMA ; (TRAP) ; (FACE)
+male : FACE
+mali : PALM ; HAPPY
+malibu : GOOSE ; TRAP ; KIT
+maligne : PRICE
+maligner : PRICE ; LETTER
+mall : THOUGHT
+mallaig : FACE
+mallorca : NORTH ; TRAP
+malta : THOUGHT ; COMMA
+maltese : LOT ; FLEECE
+malware : SQUARE ; TRAP
+mama : PALM ; TRAP
+mamba : COMMA ; TRAP
+mammee : HAPPY ; TRAP
+mammoth : COMMA ; TRAP
+man : TRAP
+man-hours : MOUTH ; TRAP
+management : TRAP ; COMMA
+manager : TRAP ; LETTER
+managua : COMMA ; TRAP
+manchester : DRESS ; TRAP ; LETTER
+mandela : COMMA ; TRAP ; DRESS
+mandelbaum : MOUTH ; TRAP
+manege : FACE ; TRAP
+manga : TRAP ; COMMA
+manhattan : TRAP
+manheim : PRICE ; TRAP
+manhunt : STRUT ; TRAP
+maniac : TRAP ; FACE ; HAPPY
+manicure : CURE ; TRAP ; KIT
+manicured : CURE ; TRAP ; KIT
+manifold : GOAT ; TRAP ; KIT
+manitoba : COMMA ; TRAP ; KI ; GOAT
+mankind : PRICE ; TRAP
+manner : LETTER ; TRAP
+manoeuvre : GOOSE ; LETTER
+manpower : MOUTH ; TRAP
+manual : GOOSE ; TRAP
+manufacture : LETTER ; TRAP ; FOOT
+manufacturer : FOOT ; LETTER ; COMMA ; TRAP
+manure : CURE
+manuscript : KIT ; TRAP ; FOOT
+many : DRESS ; HAPPY
+maori : MOUTH ; HAPPY
+map : TRAP
+maple : FACE
+mar : START
+mar-a-lago : PALM ; START
+mara : COMMA ; START
+marahishi : HAPPY ; TRAP ; FLEECE
+marathi : PALM ; TRAP ; HAPPY
+marathon : COMMA ; TRAP
+marble : START
+marcel : START ; DRESS
+marcella : START ; DRESS
+march : START
+marchant : START
+marchioness : START
+mare : SQUARE
+margaret : START ; KIT
+margarita : FLEECE ; START
+margate : START ; FACE
+marge : START
+margery : START ; LETTER ; HAPPY
+margie : HAPPY ; START
+margin : START ; KIT
+marginal : START ; KIT
+margolis : START ; GOAT ; KIT
+margot : START ; GOAT
+marguerite : START ; FLEECE
+marham : START
+maria : NEAR
+mariah : PRICE ; LETTER ; COMMA
+marigold : GOAT ; TRAP ; KIT
+marijuana : PALM ; TRAP ; KIT
+marimba : COMMA ; TRAP ; KIT
+marina : FLEECE ; LETTER ; COMMA
+marine : FLEECE ; LETTER ; COMMA
+mario : TRAP ; HAPPY ; GOAT
+marissa : COMMA ; KIT
+maritime : PRICE ; TRAP ; KIT
+mariupol : LOT ; TRAP ; HAPPY
+marius : TRAP ; HAPPY
+marjorie : START ; HAPPY
+mark : START
+marker : START ; LETTER
+market : START ; KIT
+marketing : START ; KIT
+markov : LOT ; START
+marl : START
+marlene : START ; FLEECE
+marlovian : START ; GOAT ; HAPPY
+marlow : START ; GOAT
+marmaduke : GOOSE ; START
+marmalade : FACE ; START
+maroon : GOOSE
+marple : START
+marriage : TRAP ; KIT
+marriott : TRAP ; HAPPY
+marrowfat : GOAT ; TRAP
+mars : START
+marsala : START ; TRAP
+marsden : START
+marsh : START
+marshal : START
+marshall : START
+marsham : START
+marston : START
+marsupial : START ; GOOSE ; HAPPY
+mart : START
+marten : START
+martha : START ; COMMA
+martial : START
+martian : START
+martin : START ; KIT
+martina : START ; FLEECE
+martinez : DRESS ; START ; FLEECE
+martini : START ; FLEECE
+martinique : FLEECE ; START
+martius : START ; HAPPY
+marvel : START
+marvellous : START
+marvin : START ; KIT
+marwick : START ; KIT
+mary : SQUARE ; HAPPY
+marzipan : START ; KIT ; TRAP
+mascot : LOT ; TRAP
+maserati : PALM ; HAPPY ; (TRAP) ; LETTER ; HAPPY
+mash : TRAP
+masha : PALM
+mashie : HAPPY ; TRAP
+masquerade : BATH ; TRAP ; LETTER ; FACE
+mass : TRAP
+massachusetts : COMMA ; TRAP ; GOOSE
+massage : TRAP ; PALM
+massapequa : COMMA ; TRAP ; FLEECE
+massey : HAPPY ; TRAP
+massifs : TRAP ; KIT
+massive : TRAP ; KIT
+master : BATH ; LETTER
+mastercard : BATH ; START ; LETTER
+masterpiece : BATH ; LETTER ; FLEECE
+masthead : DRESS ; TRAP
+match : TRAP
+match-point : TRAP ; CHOICE
+mate : FACE
+material : NEAR ; COMMA ; HAPPY
+maternity : NURSE ; KIT ; HAPPY
+matey : HAPPY ; FACE
+math : TRAP
+mathematics : TRAP ; KIT
+mather : FACE ; (TRAP) ; (LETTER)
+maths : TRAP
+matilda : COMMA ; KIT
+matlock : LOT ; TRAP
+matrix : FACE ; KIT
+matsushita : FOOT ; TRAP ; FLEECE
+matt : TRAP
+matter : TRAP ; LETTER
+matters : TRAP ; LETTER
+matthew : TRAP ; GOOSE
+matthews : GOOSE ; TRAP
+matthey : HAPPY ; TRAP
+mature : CURE ; COMMA
+maturity : CURE ; COMMA ; KIT ; HAPPY
+maugham : THOUGHT
+maumee : THOUGHT ; HAPPY
+maurer : MOUTH ; LETTER
+mausoleum : THOUGHT ; NEAR
+maverick : TRAP ; KIT
+mawddach : MOUTH ; TRAP
+max : TRAP
+maximum : TRAP ; KIT
+maxwell : DRESS ; TRAP
+may-bug : STRUT ; FACE
+maybe : FACE ; HAPPY
+maybug : FACE ; STRUT
+mayday : FACE
+mayfair : FACE ; SQUARE
+mayfield : FACE ; FLEECE
+mayflower : FACE ; MOUTH ; LETTER
+mayfly : FACE ; PRICE
+mayhem : DRESS ; FACE
+mayoral : SQUARE
+maypole : FACE ; GOAT
+mayst : FACE
+mayweather : DRESS ; FACE ; LETTER
+mazda : COMMA ; (TRAP)
+maze : FACE
+mcavoy : CHOICE ; TRAP
+mcbrearty : NEAR ; HAPPY
+mccarthy : START ; HAPPY
+mccarthyism : START ; HAPPY ; KIT
+mccartney : START ; HAPPY
+mcclure : CURE
+mccoy : CHOICE
+mccreadie : FLEECE ; HAPPY
+mcgillycuddy : STRUT ; KIT ; HAPPY
+mcgovern : STRUT ; LETTER
+mcgowan : MOUTH
+mcguffey : HAPPY ; STRUT
+mcilroy : CHOICE ; KIT
+mcilwraith : FACE ; TRAP
+mcintosh : LOT
+mcintyre : PRICE ; TRAP ; KIT
+mckenna : COMMA ; DRESS
+mckenzie : HAPPY ; DRESS
+mclean : FACE
+mcnamee : HAPPY ; TRAP
+mcqueen : FLEECE
+me : FLEECE
+mead : FLEECE
+meadows : GOAT ; DRESS
+meadowsweet : FLEECE ; GOAT ; DRESS
+meagan : DRESS
+meagre : FLEECE ; LETTER
+mealybug : STRUT ; FLEECE
+mean : FLEECE
+meaning : FLEECE ; KIT
+meaningful : FLEECE ; KIT
+meantime : PRICE ; FLEECE
+meanwhile : FLEECE ; PRICE
+measurable : DRESS ; LETTER
+measure : DRESS ; LETTER
+measurement : DRESS ; LETTER
+meat : FLEECE
+meatloaf : GOAT ; FLEECE
+medawar : LETTER ; DRESS
+medicaid : FACE ; DRESS ; KIT
+medical : DRESS ; KIT
+medicine : DRESS ; KIT
+mediterranean : DRESS ; FACE ; KIT ; NEAR
+medium : COMMA ; HAPPY ; FLEECE
+medusa : COMMA ; GOOSE
+medvedev : DRESS
+meerkat : NEAR ; TRAP
+meerschaum : NEAR ; MOUTH
+meet : FLEECE
+mega : COMMA ; DRESS
+megadeth : DRESS
+megan : DRESS
+meghan : DRESS
+melancholic : COMMA ; DRESS ; LOT ; KIT
+melancholy : COMMA ; DRESS ; LOT ; HAPPY
+melanie : HAPPY  ; DRESS
+melba : COMMA ; DRESS
+melbourne : LETTER/FORCE ; DRESS 
+melissa : COMMA ; KIT
+melodrama : PALM ; DRESS
+member : DRESS ; LETTER
+members : LETTER ; DRESS
+membership : DRESS ; LETTER ; KIT
+membrane : FACE ; DRESS
+memorial : FORCE ; HAPPY
+memorialize : FORCE ; HAPPY ; PRICE
+memories : DRESS ; LETTER ; COMMA
+men : DRESS
+mendeleev : DRESS ; FLEECE
+mendes : DRESS
+mendoza : COMMA ; DRESS ; GOAT
+menken : DRESS
+menopause : THOUGHT ; DRESS
+menswear : SQUARE ; DRESS
+menthol : LOT ; DRESS
+mentors : NORTH ; DRESS
+mentorship : NORTH ; DRESS ; KIT
+menu : DRESS ; GOOSE
+menus : GOOSE ; DRESS
+mercedes : FACE ; LETTER ; FLEECE
+merchandise : PRICE ; NURSE
+merchant : NURSE
+mercurial : GOOSE ; LETTER ; HAPPY
+mercury : FOOT ; NURSE ; HAPPY
+mercy : NURSE ; HAPPY
+mere : NEAR
+merely : NEAR ; HAPPY
+merengue : DRESS ; FACE
+merger : LETTER ; NURSE
+merino-sheep : GOAT ; FLEECE
+meritorious : FORCE ; DRESS ; KIT ; HAPPY
+merlin : NURSE ; KIT
+merlot : NURSE ; GOAT
+mermaid : NURSE ; FACE
+merrily : KIT ; DRESS ; HAPPY
+merseyside : PRICE ; NURSE ; FLEECE
+mesa : FACE ; COMMA
+mesenchyme : DRESS ; PRICE
+meshuga : FOOT ; DRESS
+mesmeric : DRESS ; KIT
+mesothelioma : GOAT ; DRESS ; FLEECE
+message : DRESS
+messenger : LETTER ; DRESS
+met : DRESS
+metal : DRESS
+metallic : DRESS ; TRAP ; KIT
+metallurgy : LETTER ; DRESS ; HAPPY
+metamorphoses : NORTH ; DRESS ; KIT
+metaphoric : (CLOTH) ; DRESS ; NORTH ; KIT
+metaphorical : (CLOTH) ; DRESS ; NORTH ; KIT
+metaphors : NORTH ; DRESS
+meth : DRESS
+methadone : DRESS ; GOAT
+metheglin : DRESS ; KIT
+method : DRESS ; COMMA
+methodical : KIT ; LOT
+methodist : DRESS ; KIT
+methodological : LOT ; DRESS ; KIT
+methodology : DRESS ; COMMA ; LOT
+metro : DRESS ; GOAT
+metropole : GOAT ; DRESS
+metropolitan : COMMA
+mew : GOOSE
+mewl : GOOSE
+mews : GOOSE
+meyerbeer : NEAR ; PRICE ; LETTER
+meynell : FACE
+mezuza : FOOT ; GOOSE
+mezzanine : FLEECE ; DRESS
+mia : NEAR
+miami : HAPPY ; PRICE ; TRAP
+mice : PRICE
+michael : PRICE
+michelle : KIT ; DRESS
+mickey : HAPPY ; PRICE
+micro-organisms : NORTH ; PRICE ; GOAT ; KIT
+microbe : GOAT ; PRICE
+microbial : PRICE ; PRICE
+microbiological : PRICE ; GOAT ; LOT
+microchip : GOAT ; PRICE ; KIT
+microcosm : LOT ; PRICE ; GOAT
+microcosmic : LOT ; PRICE ; GOAT ; KIT
+microfibre : GOAT ; PRICE ; LETTER
+microfiche : GOAT ; PRICE ; FLEECCE
+microfilm : GOAT ; PRICE ; KIT
+microgroove : GOOSE ; PRICE ; GOAT
+micromesh : DRESS ; PRICE ; GOAT
+micronesia : PRICE ; GOAT ; FLEECE
+microphone : PRICE ; COMMA ; GOAT
+microprocessor : GOAT ; PRICE ; LETTER
+microscopy : PRICE ; GOAT ; HAPPY
+microsoft : GOAT ; PRICE ; CLOTH
+microwave : PRICE ; (COMMA) ; FACE
+mid : KIT
+middle : KIT
+middle-aged : FACE ; KIT
+middlebury : DRESS ; KIT ; HAPPY
+middlemarch : START ; KIT
+midi : HAPPY ; KIT
+midlands : KIT
+midlothian : GOAT ; KIT ; HAPPY
+midnight : KIT ; PRICE
+midriff : KIT
+midwife : PRICE ; KIT
+midwives : PRICE ; KIT
+might : PRICE
+migraine : FACE ; PRICE
+migrant : PRICE
+migrated : PRICE ; FACE
+migration : PRICE ; FACE
+migratory : PRICE ; NORTH ; HAPPY
+mikado : PALM ; KIT ; GOAT
+mikayla : PRICE ; FACE
+mike : PRICE
+mikey : PRICE ; HAPPY
+milan : PALM ; KIT
+milano : PALM ; BATH ; KIT ; GOAT
+mileage : PRICE
+miles : PRICE
+milestone : GOAT ; PRICE
+miley : PRICE ; HAPPY
+milfoil : CHOICE ; KIT
+militia : COMMA ; KIT
+milk-powder : MOUTH ; KIT ; LETTER
+milkweed : FLEECE ; KIT
+millbank : TRAP ; KIT
+miller : LETTER ; KIT
+milligram : KIT ; TRAP
+millilitre : FLEECE ; KIT ; LETTER
+millilitres : KIT ; FLEECE ; LETTER
+millimeter : FLEECE ; KIT ; LETTER
+millimetre : FLEECE ; KIT ; LETTER

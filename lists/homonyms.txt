@@ -1,0 +1,209 @@
+bass 
+FACE: sound (guitar)
+TRAP: fish 
+bow
+GOAT: bend
+GOAT:  decorative knot
+MOUTH: front of ship
+congress 
+LOT, DRESS: assembly
+DRESS: gather
+does 
+GOAT: female deer
+STRUT:  performs
+lead (DRESS, FLEECE)
+DRESS: metal
+FLEECE: guide or direct
+live (KIT, PRICE)
+KIT: reside
+PRICE: broadcast
+minute (KIT, PRICE, GOOSE)
+KIT: unit of time
+PRICE: tiny
+Mow 
+GOAT : cut grass
+MOUTH: Grimace 
+read (DRESS, FLEECE)
+DRESS: comprehended 
+FLEECE: comprehend
+record (KIT, NORTH)
+DRESS: audio item
+NORTH: to film / song
+refuse 
+DRESS, GOOSE: waste material
+GOOSE:  decline
+row (GOAT, MOUTH)
+GOAT: paddle
+MOUTH: argument
+GOAT : line 
+seconds
+DRESS:  promotes
+DRESS:  minutes
+LOT: takes, 
+tear (SQUARE, NEAR)
+SQUARE: to rip or tear apart
+NEAR: to cry or weep
+wind (KIT, PRICE)
+KIT: air movement
+PRICE: twist or coil / curve 
+Attribute (TRAP, COMMA) 
+TRAP: quality
+COMMA: credit 
+Permit 
+NURSE: document
+KIT:  allow
+Perfect 
+NURSE, DRESS : hone
+NURSE, KIT : flawless
+Object 
+DRESS: disagree 
+LOT, DRESS : item
+Absent
+DRESS : withdraw 
+TRAP : gone
+Subject
+DRESS : dominate 
+STRUT : topic
+Progress
+DRESS : advance
+LOT : improvements
+Project
+DRESS : extend
+LOT : assignment
+Content
+DRESS : satisfied 
+LOT : subject-matter
+Entrance
+DRESS : arrive 
+BATH : attract
+Pasty 
+TRAP : pastry 
+FACE : Pale 
+Desert 
+NURSE : Leave
+DRESS: landscape 
+Recoil
+CHOICE : flinch 
+FLEECE, CHOICE : Noun version
+
+address  
+TRAP, DRESS : location  
+DRESS : speak to  
+combine  
+LOT, PRICE : machine (harvester)  
+PRICE : merge  
+
+compact  
+LOT, TRAP : small  
+TRAP : compress  
+
+compound  
+LOT, MOUTH : mixture  
+MOUTH : combine  
+conduct  
+LOT, STRUT : behavior  
+STRUT : lead  
+
+conflict  
+LOT, KIT : struggle  
+KIT : oppose  
+console  
+LOT, GOAT : device  
+GOAT : comfort  
+content  
+LOT, DRESS : substance / topic  
+DRESS : satisfied  
+contest  
+LOT, DRESS : competition  
+DRESS : challenge  
+contract  
+LOT, TRAP : agreement  
+TRAP : shrink  
+
+contrast  
+LOT, BATH : difference  
+BATH : compare  
+convert  
+LOT, NURSE : changed person  
+NURSE : change
+defect  
+FLEECE, DRESS : flaw  
+DRESS : abandon  
+detail  
+FLEECE, FACE : item of information  
+FACE : describe  
+digest  
+PRICE, DRESS : summary  
+DRESS: break down  
+escort  
+DRESS, NORTH : companion  
+NORTH : accompany  
+exploit  
+DRESS, CHOICE : heroic deed  
+CHOICE : take advantage of  
+export  
+DRESS, NORTH : product sold abroad  
+NORTH : send abroad  
+extract  
+DRESS, TRAP : removed part  
+TRAP : remove   
+invalid  
+KIT, TRAP : not valid  
+KIT : sick person  
+
+misconduct  
+KIT, LOT, STRUT : improper behavior  
+KIT, STRUT : act improperly 
+polish  
+LOT, KIT : shine  
+GOAT : from Poland   
+
+proceeds  
+GOAT, FLEECE : profits  
+FLEECE : continues  
+produce  
+GOAT, GOOSE : fruit/vegetables  
+GOOSE : create  
+
+protest  
+GOAT, DRESS : demonstration  
+DRESS : oppose  
+reject  
+FLEECE, DRESS : discarded thing  
+DRESS : discard  
+resume  
+DRESS, GOOSE, FACE : CV / document  
+GOOSE : continue  
+
+separate  
+DRESS : distinct  
+DRESS, FACE : divide  
+
+sewer  
+GOOSE : waste pipe  
+GOAT : one who sews  
+wound  
+GOOSE : injury  
+MOUTH : twisted (past of “wind”)  
+Coordinate
+GOOSE/GOAT NORTH: equal
+GOOSE/GOAT NORTH FACE: organise
+Aggregate
+TRAP: collection
+TRAP FACE: amass
+Invalid
+KIT: null
+TRAP: fragile
+Defects
+FLEECE DRESS: fault
+DRESS: travel 
+Offense
+DRESS: breach of law
+CLOTH DRESS: sports position
+Advocate
+TRAP: supporter
+TRAP (GOAT) FACE: endorse
+Aggregate
+TRAP: total
+TRAP FACE:  average
+
