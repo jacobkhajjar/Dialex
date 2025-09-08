@@ -3,7 +3,7 @@ import re
 from objects.consonants import Consonant, Action
 from objects.vowels import Vowel
 
-def guess_lexical_sets(word, phones, verbose):
+def guess_lexical_sets(word, phones):
     
     # loop over each phone
     for i, phone in enumerate(phones):
@@ -37,7 +37,7 @@ def guess_lexical_sets(word, phones, verbose):
                 elif not isinstance(next, Consonant):
                     vowel.lexical_set = "PALM"
                 else:
-                    vowel.lexical_set = check_uk_dict(word, phones, vowel, next, verbose) # type: ignore
+                    vowel.lexical_set = check_uk_dict(word, phones, vowel, next) # type: ignore
                 
                 if vowel.lexical_set == "ambiguous LOT or PALM":
                     if re.search(r"ot|otch", word):
@@ -61,7 +61,7 @@ def guess_lexical_sets(word, phones, verbose):
 
                     # if could be BATH, check MFA dict
                     if possible_bath:
-                        vowel.lexical_set = check_uk_dict(word, phones, vowel, next, verbose) # type: ignore
+                        vowel.lexical_set = check_uk_dict(word, phones, vowel, next) # type: ignore
                     else:
                         vowel.lexical_set = "TRAP"
 
@@ -100,7 +100,7 @@ def guess_lexical_sets(word, phones, verbose):
                         vowel.lexical_set = "THOUGHT"
 
                 # check MFA dict
-                vowel.lexical_set = check_uk_dict(word, phones, vowel, next, verbose) # type: ignore
+                vowel.lexical_set = check_uk_dict(word, phones, vowel, next) # type: ignore
                 
                 # try spelling rules if not in MFA dict
                 if vowel.lexical_set == "not in dict":
@@ -197,9 +197,7 @@ def guess_lexical_sets(word, phones, verbose):
                 else:
                     vowel.lexical_set = "commA"
 
-def check_uk_dict(word, phones, vowel, next, verbose):
-    if verbose:
-        print(f"UK dictionary needed to split GenAm merger...\n")
+def check_uk_dict(word, phones, vowel, next):
 
     lexical_set = ""
     
@@ -210,12 +208,8 @@ def check_uk_dict(word, phones, vowel, next, verbose):
         # check if word is in MFA dictionary
         try:
             transcriptions = lookup[word]
-            if verbose:
-                print(f"MFA entry found: {transcriptions}\n")
         except KeyError:
             lexical_set = "ambiguous"
-            if verbose:
-                print(f"{word} not in MFA dictionary\n")
         
         # split base on GenAm ARPA
         match vowel.arpa:
