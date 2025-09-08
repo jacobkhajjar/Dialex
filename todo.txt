@@ -1,9 +1,9 @@
 ~~ TO-DO ~~
-[] remove verbose args
+[X] remove verbose args
 [] refactor lexiguess to generate CSV
-[] create CSV class
-[] refactor to build CSV
+[X] create CSV class
+[X] refactor to build CSV
 [] implement confidence rating
 [] implement generated tag
-[] import lists
+[X] import lists
 [] generate new list from Google CSV

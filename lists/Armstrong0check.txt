@@ -1,5619 +1,5619 @@
-million : KIT ; COMMA
-millionaire : SQUARE
-millwall : THOUGHT
-milord : NORTH
-milwaukee : THOUGHT ; HAPPY
-mimi : FLEECE
-mincemeat : FLEECE
-mind : PRICE
-mine : PRICE
-minecraft : BATH
-miner : PRICE ; LETTER
-minerva : COMMA ; NURSE
-mini : HAPPY
-miniature : KIT
-minibus : STRUT
-minicab : TRAP
-miniseries : NEAR
-minister : LETTER
-minnie : HAPPY
-minogue : GOAT
-minor : PRICE ; LETTER
-minuet : GOOSE
-minutia : GOOSE
-miquelon : LOT
-miracle : KIT ; COMMA
-miranda : COMMA
-mirror : KIT ; LETTER
-mirth : NURSE
-mirthful : NURSE
-mirthless : NURSE
-misconduct : STRUT
-miserable : KIT
-misere : SQUARE
-mishmash : TRAP
-misinterpreted : NURSE
-misjudge : STRUT
-misleading : FLEECE
-mismatch : TRAP
-miss : KIT
-mission : KIT
-mississauga : THOUGHT ; COMMA
-missouri : CURE ; HAPPY
-missourian : CURE
-missus : KIT
-mistake : FACE
-mister : KIT
-misunderstand : STRUT
-misuse : GOOSE
-mithril : KIT
-mitsubishi : HAPPY
-mitzvah : COMMA
-mix : KIT
-mo : GOAT
-moab : TRAP
-mobbed : LOT
-mobile : GOAT ; (PRICE)
-mobility : GOAT
-mocha : COMMA
-mode : GOAT
-model : LOT
-modem : GOAT
-moderate : LOT
-modern : LETTER
-modest : LOT
-modicum : LOT
-modified : KIT ; LOT ; PRICE
-modify : PRICE
-modulate : LOT
-modulus : LOT
-moe : GOAT
-moggie : HAPPY
-mogul : GOAT
-mohair : SQUARE
-mohawk : THOUGHT
-moi : PALM
-moir : CHOICE
-moira : CHOICE
-moiseiwitsch : CHOICE
-moist : CHOICE
-moisture : CHOICE
-moisturizer : CHOICE
-moither : CHOICE
-mojave : PALM
-mojo : GOAT
-moldova : GOAT ; COMMA
-mollie : HAPPY
-mom : STRUT
-mombasa : LOT ; COMMA
-moment : GOAT
-mommy : HAPPY
-monaco : COMMA
-monarchy : LETTER
-monastic : BATH
-monaural : NORTH
-monday : STRUT
-money : STRUT ; HAPPY
-money-order : NORTH
-mongolia : GOAT
-mongoose : GOOSE
-monica : COMMA
-monique : FLEECE
-monitor : LOT
-monk : STRUT
-monkey : STRUT ; HAPPY
-monkey-puzzle : STRUT
-monochrome : GOAT
-monograph : BATH
-monographic : GOAT
-monolithic : KIT
-monologue : LOT
-mononucleosis : GOOSE
-monotheism : GOAT
-monotreme : FLEECE
-monroe : STRUT
-monsieur : NURSE
-monsoon : GOOSE
-montage : PALM
-monteith : LOT
-monteverdi : SQUARE
-month : STRUT
-monthly : STRUT ; HAPPY
-montserrat : TRAP
-monumental : FOOT
-moo-cow : MOUTH
-moo-cows : MOUTH
-mooch : GOOSE
-mood : GOOSE
-moodey : HAPPY
-moon : GOOSE
-moonbeam : FLEECE
-moonwalk : THOUGHT
-moor : FORCE ; CURE
-moore : FORCE
-moored : FORCE ; CURE
-moorfowl : MOUTH
-moorgame : CURE
-moorgate : CURE
-moorhen : FORCE
-mooring : FORCE
-moors : CURE
-moose : GOOSE
-moped : DRESS
-morag : TRAP
-moraic : FORCE
-moral : (CLOTH)
-moratorium : (CLOTH) ; FORCE
-morbid : NORTH
-morbidity : NORTH
-mordacity : NORTH
-more : FORCE
-moreover : FORCE
-mores : FACE
-morgan : NORTH
-morgue : NORTH
-moribund : (CLOTH)
-morn : NORTH
-morning : NORTH
-morph : NORTH
-morpha : COMMA
-morphed : NORTH
-morpheme : FLEECE
-morpheus : NORTH
-morphine : FLEECE ; NORTH
-morphing : NORTH
-morphogenesis : GOAT
-morphological : NORTH
-morris : (CLOTH)
-morrow : (CLOTH)
-mortality : NORTH
-mortgage : NORTH
-mortuary : NORTH
-mosaic : GOAT
-mosquito : FLEECE
-most : GOAT
-motel : GOAT
-moth : CLOTH
-mother : STRUT ; LETTER
-mother-in-law : STRUT
-mother-of-pearl : STRUT
-motherboard : FORCE ; LETTER
-motherese : STRUT
-motherhood : STRUT
-mothering : STRUT
-motherland : STRUT
-motherless : STRUT
-motherliness : STRUT
-motherwell : DRESS ; LETTER
-motif : GOAT
-motion : GOAT
-motivate : GOAT
-motocross : GOAT
-motor : GOAT ; LETTER
-motorbike : PRICE ; LETTER
-motorcycle : PRICE ; LETTER
-motorcyclist : PRICE
-motoring : LETTER ; COMMA
-motorola : GOAT ; COMMA
-motorway : LETTER
-mount : MOUTH
-mountain : MOUTH
-mountaineer : NEAR
-mourn : CURE
-mourning : CURE
-mouse : MOUTH
-mousehole : MOUTH
-moussaka : PALM ; (GOOSE) ; (FOOT)
-mousse : GOOSE
-mouth : MOUTH
-mouth-organ : NORTH
-mouth-to-mouth : MOUTH
-mouth-watering : THOUGHT ; MOUTH
-mouthed : MOUTH
-mouthful : MOUTH
-mouthing : MOUTH
-mouthpiece : MOUTH
-mouths : MOUTH
-mouthwash : MOUTH
-mouthy : MOUTH
-move : GOOSE
-movement : GOOSE
-movie : GOOSE ; HAPPY
-mow : GOAT ; MOUTH
-moxie : HAPPY
-moya : CHOICE
-moygashel : CHOICE
-mozambique : TRAP ; FLEECE ; GOAT
-mozart : START
-mp3 : DRESS
-mpeg : DRESS
-ms : KIT
-much : STRUT
-mucilage : GOOSE
-mucosity : GOOSE
-mucous : GOOSE
-mud : STRUT
-mud-bath : BATH
-mud-baths : BATH
-muddle : STRUT
-muddy : STRUT
-mudguards : STRUT
-mudpie : STRUT
-muffin : STRUT
-muffler : STRUT
-mug : STRUT
-mugabe : PALM ; GOOSE
-mugwump : STRUT
-mujaheddin : GOOSE
-mulcahy : STRUT
-muldoon : STRUT
-mule : GOOSE
-muleteer : GOOSE
-mulholland : STRUT
-multi- : STRUT
-multicolored : STRUT
-multimedia : STRUT
-multiple : KIT ; STRUT
-multiple-choice : CHOICE
-multipurpose : NURSE
-multistage : FACE
-multitask : BATH
-multitude : GOOSE
-mumbai : FOOT
-mumbo-jumbo : GOAT
-mummy : STRUT ; HAPPY
-mums : STRUT
-munda : FOOT
-mundane : STRUT
-municipal : GOOSE
-munitions : GOOSE
-munro : GOAT
-muppets : STRUT
-mural : CURE
-murcia : COMMA
-murder : LETTER ; NURSE
-murdered : LETTER
-murderer : LETTER
-murdoch : NURSE
-murgatroyd : CHOICE
-murphy : NURSE
-murray : STRUT
-muscle : STRUT
-muse : GOOSE
-museum : FLEECE ; GOOSE ; NEAR ; COMMA
-musgrave : STRUT
-musgrove : STRUT
-mush : STRUT
-mushroom : STRUT ; GOOSE
-mushy : STRUT ; HAPPY
-music : KIT ; GOOSE
-musician : GOOSE
-musk-deer : NEAR
-muskogee : HAPPY
-muslin : STRUT
-must : STRUT ; COMMA
-must-have : TRAP ; STRUT
-mustachio : PALM
-mustafa : COMMA ; (GOOSE) ; (FOOT)
-mustang : TRAP
-mutant : GOOSE
-mutation : GOOSE
-mute : GOOSE
-mutter : STRUT
-mutton : STRUT
-mutual : GOOSE
-mutuality : GOOSE
-mutually : GOOSE
-muzzle : STRUT
-muzzy : STRUT
-my : PRICE
-myanmar : NEAR ; START
-myeloid : CHOICE
-myriad : KIT
-myself : PRICE
-mysore : PRICE
-mystery : KIT
-mystique : FLEECE
-myth : KIT
-mythic : KIT
-mythical : KIT
-mytholmroyd : PRICE
-mythology : KIT
-mythos : KIT ; (LOT) ; (GOAT)
-naafi : HAPPY
-naan : PALM
-nabob : LOT
-nacho : PALM
-nadezhda : DRESS
-nadia : PALM
-nadirs : NEAR
-nag : TRAP
-naga : PALM
-nagasaki : PALM
-nagoya : CHOICE
-nah : PALM
-nahuatl : PALM
-nail-varnish : START
-nailbrush : STRUT
-nails : FACE
-nailsea : HAPPY
-nairn : SQUARE
-nairobi : GOAT ; PRICE ; HAPPY
-naish : FACE
-naismith : FACE
-naked : FACE
-name : FACE
-naomi : GOAT ; HAPPY
-napalm : PALM
-naphtha : COMMA
-naphthalic : TRAP
-napier : FACE
-naples : FACE
-napoli : HAPPY
-nappies : TRAP
-narcissus : START
-narcistic : START
-narcolepsy : DRESS
-narrow : TRAP
-narrow-minded : GOAT
-narrowly : GOAT
-narwhal : START
-nasa : COMMA
-nash : TRAP
-nashville : TRAP
-nasopharyngeal : TRAP
-nasty : BATH
-natalie : HAPPY
-natasha : PALM ; COMMA ; (TRAP)
-nathan : FACE
-national : TRAP
-nationwide : FACE ; PRICE
-native : FACE
-natural : TRAP
-nature : FACE ; LETTER
-naturist : FACE
-naturopath : TRAP
-naughty : THOUGHT
-nauru : MOUTH
-nauruan : MOUTH
-nauseating : THOUGHT
-nausicaa : THOUGHT
-nautical : THOUGHT
-nautilus : THOUGHT
-naval : FACE
-navigation : KIT ; TRAP ; FACE ; (COMMA)
-navy : FACE ; HAPPY
-nawab : PALM
-naysayer : FACE
-nazi : HAPPY ; (TRAP)
-neanderthal : PALM
-neap : FLEECE
-near : NEAR
-near-sighted : NEAR
-nearby : PRICE
-nearer : NEAR ; LETTER
-nearest : NEAR
-nearly : NEAR
-nearness : NEAR
-nearside : NEAR
-neat : FLEECE
-nebuchadnezzar : GOOSE
-necessary : DRESS
-neck-ties : PRICE
-neckerchief : LETTER
-neckwear : SQUARE
-nedifugous : FOOT
-need : FLEECE
-needle : FLEECE
-needlecraft : BATH
-needlepoint : CHOICE
-nefarious : SQUARE
-negative : DRESS
-negev : DRESS
-negligee : KIT
-neighbor : LETTER
-neighbour : FACE ; LETTER
-neighbourhood : FOOT
-neither : LETTER ; (FLEECE) ; (PRICE)
-neolithic : KIT
-neon : LOT ; FLEECE
-neoplasms : TRAP
-nepenthe : HAPPY
-nephew : GOOSE
-nephews : GOOSE
-neptune : GOOSE
-nerd : NURSE
-nerve : NURSE
-nervous : NURSE
-nest-egg : DRESS
-net : DRESS
-netball : THOUGHT
-nether : DRESS
-netherlands : DRESS ; LETTER
-netherton : DRESS
-network : DRESS
-neumann : CHOICE
-neurobiology : GOAT
-neurology : FOOT
-neuropathic : TRAP ; GOAT
-neuroscience : GOAT
-neutral : GOOSE
-nevada : PALM ; COMMA
-never : DRESS ; LETTER
-neverland : LETTER
-nevertheless : DRESS ; LETTER
-new : GOOSE
-newbie : GOOSE ; HAPPY
-newborn : GOOSE ; NORTH ; FORCE
-newcastle : BATH
-newcomer : STRUT ; GOOSE
-newer : GOOSE
-newfangled : GOOSE
-newfie : GOOSE ; HAPPY
-newfoundland : GOOSE
-newhaven : FACE
-newly : GOOSE
-newlywed : DRESS
-newlyweds : GOOSE ; HAPPY
-newmarket : START
-newport : FORCE
-news : GOOSE
-newsagent : FACE
-newsfeed : FLEECE
-newsflash : TRAP
-newsletter : DRESS ; GOOSE
-newspaper : FACE ; GOOSE ; LETTER
-newspapers : LETTER
-newspeak : FLEECE
-newsroom : GOOSE
-next : DRESS
-next-door : FORCE
-neymar : FACE ; START
-nhs : FACE
-nibble : KIT
-nibelung : FOOT
-nice : PRICE
-nicer : LETTER
-nick : KIT
-nicola : COMMA
-nicotine : FLEECE
-nietzsche : FLEECE
-nigel : PRICE
-nigella : PRICE ; COMMA
-niger-congo : PRICE
-nigeria : PRICE ; NEAR
-nigerian : PRICE
-nigh : PRICE
-night : PRICE
-night-time : PRICE
-night-watch : LOT
-nightclothes : GOAT
-nightclub : STRUT ; PRICE
-nighthawk : THOUGHT
-nightie : HAPPY
-nightingale : FACE
-nightlife : PRICE
-nightlight : PRICE
-nightmare : SQUARE
-nightmares : SQUARE
-nike : PRICE
-nilo-saharan : GOAT
-nimrod : LOT
-nina : COMMA
-nine : PRICE
-nirvana : PALM
-nitrochalk : GOAT
-nitroglycerin : GOAT
-nixdorf : NORTH
-no : GOAT
-no-fault : GOAT
-no-frills : GOAT
-no-good : GOAT
-no-one : GOAT
-no-show : GOAT
-no-win : GOAT
-nobel : GOAT
-noble : GOAT
-nobody : GOAT
-nodding : LOT
-node : GOAT
-nodule : LOT
-noise : CHOICE
-noiseless : CHOICE
-noisette : PALM
-noisy : HAPPY
-nolan : GOAT
-nomad : TRAP
-nomenclature : DRESS
-non-commercial : NURSE
-none : STRUT
-nonesuch : STRUT
-noodle : GOOSE
-nook : FOOT
-nootka : FOOT
-nor : NORTH
-nora : FORCE
-norah : FORCE
-norbert : NORTH
-noreen : (FLEECE)
-norfolk : NORTH ; COMMA
-norm : NORTH
-normalcy : NORTH
-normality : NORTH
-normalize : NORTH
-normally : NORTH
-norman : NORTH
-normandy : NORTH
-norovirus : PRICE
-north : NORTH
-northamptonshire : NORTH
-northanger : NORTH
-northbound : NORTH
-northcliffe : NORTH
-northeast : NORTH
-northern : LETTER
-northumberland : STRUT ; NORTH ; LETTER
-northwards : NORTH
-northwest : NORTH
-norvic : NORTH
-norwalk : THOUGHT ; NORTH
-norway : NORTH
-norwegian : FLEECE ; NORTH
-norwood : NORTH
-nos : GOAT
-nose : GOAT
-nosebleed : FLEECE
-nosedive : PRICE
-nosey : HAPPY
-noshing : LOT
-not : LOT
-notation : GOAT
-notch : LOT
-note : GOAT
-notebook : FOOT
-notepad : TRAP
-nothing : STRUT
-nothingness : STRUT
-notice : GOAT
-notifiable : PRICE
-notification : KIT ; FACE ; GOAT
-notified : PRICE
-notify : PRICE
-notion : GOAT
-notorious : GOAT ; FORCE
-notwithstanding : KIT ; LOT
-nougat : (PALM) ; GOOSE ; (COMMA)
-nourishing : STRUT
-nourishment : STRUT
-nous : MOUTH
-nova : GOAT ; COMMA
-novelette : LOT
-novella : GOAT
-november : DRESS ; GOAT ; LETTER
-novokuznetsk : FOOT
-novotel : DRESS ; GOAT
-now : MOUTH
-nowadays : MOUTH
-nowhere : GOAT ; SQUARE
-nowise : GOAT
-noyes : CHOICE
-nozzle : STRUT
-nsured : CURE
-nuance : PALM ; GOOSE
-nuclear : GOOSE
-nucleofugal : FOOT
-nucleus : GOOSE
-nude : GOOSE
-nudge : STRUT
-nugget : STRUT
-nuisance : GOOSE
-nuke : GOOSE
-null : STRUT
-number : STRUT ; LETTER
-numbers : LETTER
-numeracy : GOOSE
-numerical : GOOSE
-numerology : GOOSE
-numerous : GOOSE
-nun : STRUT
-nureyev : DRESS ; (CURE)
-nurse : NURSE
-nurseries : NURSE
-nursery : NURSE
-nursing : NURSE
-nursing-home : GOAT
-nurturing : NURSE
-nut : STRUT
-nuthatch : TRAP
-nutmeg : DRESS
-nutricious : GOOSE
-nutrient : GOOSE
-nutrition : GOOSE
-nylon : LOT
-oaf : GOAT
-oafish : GOAT
-oak : GOAT
-oasis : FACE
-oath : GOAT
-oaths : GOAT
-obama : PALM ; GOAT ; COMMA
-oban : GOAT
-obese : GOAT
-obesity : GOAT
-obey : GOAT
-obfuscation : STRUT
-obi : HAPPY
-obituary : KIT ; GOOSE ; COMMA
-objective : COMMA
-obligation : LOT
-oblige : PRICE
-oblique : FLEECE
-obscure : CURE
-observation : LOT ; LETTER
-observatory : NURSE
-observe : COMMA ; NURSE
-observer : LETTER ; COMMA ; NURSE
-obsession : DRESS ; COMMA
-obsolete : FLEECE
-obtain : COMMA
-obvious : LOT
-ocado : PALM
-occasion : FACE ; COMMA
-occasionally : COMMA
-occlusion : GOOSE
-occupation : FOOT ; (COMMA)
-occupied : PRICE
-occupy : LOT ; FOOT ; PRICE
-occur : COMMA ; NURSE
-occurred : NURSE
-occurrence : STRUT
-occurring : NURSE
-occurs : NURSE
-ocean : GOAT
-oceania : BATH
-oceanic : GOAT
-oceanside : GOAT
-octane : FACE
-octavia : LOT ; FACE
-october : LOT ; GOAT ; LETTER
-octothorpe : NORTH
-oddjob : LOT
-odds-on : LOT
-odell : GOAT
-odessa : GOAT ; COMMA
-odyssey : HAPPY
-oenology : FLEECE
-of : COMMA ; (LOT) ; (STRUT)
-off : CLOTH
-off-licence : PRICE
-off-putting : FOOT
-offence : COMMA
-offender : COMMA
-offending : COMMA
-offensive : COMMA
-offer : CLOTH ; LETTER
-offering : LETTER ; COMMA
-offers : LETTER
-office : CLOTH
-office-bearer : SQUARE
-officer : CLOTH ; LETTER
-official : KIT ; (COMMA)
-offline : PRICE
-offpeak : FLEECE
-offset : DRESS
-offshoot : GOOSE
-offshore : FORCE
-oft : CLOTH
-often : CLOTH
-ogilvie : HAPPY
-ogive : GOAT
-oglethorpe : NORTH
-oi : CHOICE
-oick : CHOICE
-oil : CHOICE
-oil-bearing : SQUARE
-oil-fired : CHOICE
-oink : CHOICE
-ointment : CHOICE
-oistrakh : PALM
-ojibwe : GOAT
-ok : GOAT
-okapi : PALM ; HAPPY
-okay : GOAT
-okefenokee : HAPPY
-oklahoma : GOAT ; COMMA
-old : GOAT
-older : GOAT ; LETTER
-oldham : GOAT
-oleoresin : GOAT
-olga : COMMA
-olive : KIT
-oliver : LETTER
-omaha : PALM
-oman : PALM ; GOAT
-omani : PALM
-omar : GOAT ; START
-ombudsman : LOT ; FOOT
-omega : GOAT ; COMMA
-omissions : COMMA
-omitted : COMMA
-omnium-gatherum : TRAP
-on : LOT ; CLOTH
-on-air : SQUARE
-once : STRUT
-oncoming : STRUT
-one : STRUT
-one-horse : NORTH
-one-stop : LOT
-online : LOT ; PRICE
-only : GOAT ; HAPPY
-onondaga : PALM
-onrushing : STRUT
-onshore : FORCE
-onslaught : THOUGHT
-ontario : SQUARE
-onto : COMMA
-onward : LETTER
-oops : FOOT
-oops-a-daisy : FOOT
-ooze : GOOSE
-opal : GOAT
-opaque : GOAT
-opel : GOAT
-open : GOAT ; COMMA
-open-air : SQUARE
-open-mouthed : MOUTH
-opera : LOT ; COMMA ; (LETTER)
-opera-house : MOUTH
-operation : LOT ; FACE
-operator : FACE
-opinion : COMMA
-opioid : CHOICE
-opponent : COMMA
-opportunistic : GOOSE ; LETTER
-opportunity : LOT ; LETTER
-opposition : KIT
-oprah : GOAT
-optician : LOT
-options : LOT
-oral : FORCE
-orality : FORCE
-orange : (CLOTH)
-orate : FORCE
-orating : FORCE
-oration : FORCE
-orator : (CLOTH)
-oratory : (CLOTH)
-orbicular : NORTH
-orbison : NORTH
-orbit : NORTH
-orbital : NORTH
-orchard : NORTH ; LETTER
-orchestra : NORTH ; COMMA
-orchid : NORTH
-ordained : NORTH
-ordeal : NORTH
-order : LETTER
-order-form : NORTH
-ordered : LETTER
-orders : LETTER
-oregon : (CLOTH)
-orff : NORTH
-orford : NORTH
-organ : NORTH
-organic : NORTH
-organically : NORTH
-organide : NORTH
-organism : NORTH
-organist : NORTH
-organization : PRICE ; NORTH
-organize : NORTH
-orgasm : TRAP ; NORTH
-orgiastic : BATH
-orgy : NORTH
-orientation : DRESS
-origami : PALM ; HAPPY
-origin : KIT ; (CLOTH)
-original : KIT
-originate : KIT
-orkney : NORTH
-orlando : NORTH
-orleans : NORTH ; (NEAR)
-ornament : NORTH
-ornate : NORTH
-oropharynx : TRAP ; GOAT
-orphan : NORTH
-orphanage : NORTH
-orpheus : NORTH
-orthodox : NORTH
-orthogenesis : NORTH
-orthogonal : NORTH
-orthographic : NORTH
-orthopaedic : NORTH
-orthopedic : NORTH
-orthoptera : NORTH
-orville : NORTH
-orwell : NORTH
-osaka : PALM ; GOAT ; COMMA
-osama : PALM
-osborne : FORCE
-oscar : LETTER
-osgood : LOT
-oshkosh : LOT
-osiris : GOAT
-osman : LOT
-osmond : LOT
-osmosis : LOT
-osmotherley : LOT
-osmunda : LOT
-osteoarthritis : START
-osteomyelitis : PRICE
-osteopath : TRAP
-osteoporosis : GOAT
-ostrich : KIT
-othello : COMMA
-other : STRUT ; LETTER
-others : LETTER
-otherwise : STRUT ; PRICE ; LETTER
-otherworldly : STRUT
-ouabain : PALM
-ouch : MOUTH
-ought : THOUGHT
-ourselves : MOUTH
-ouse : GOOSE
-ousted : MOUTH
-out : MOUTH
-out-of-pocket : LOT
-out-trays : FACE
-outbid : KIT ; MOUTH
-outboard : FORCE
-outbreak : FACE
-outcast : BATH
-outclass : BATH
-outcome : STRUT ; MOUTH
-outdoes : STRUT
-outdoor : MOUTH ; FORCE
-outing : MOUTH
-outlandish : MOUTH
-outlaws : THOUGHT
-outlet : DRESS ; MOUTH
-outline : MOUTH
-output : FOOT
-outrage : FACE ; MOUTH
-outrageous : FACE ; MOUTH
-outreach : FLEECE
-outside : PRICE ; MOUTH
-outsource : FORCE
-outstanding : MOUTH
-outwear : SQUARE
-outwith : KIT
-ova : COMMA
-oval : GOAT
-ovarian : GOAT
-ovation : GOAT
-oven : STRUT
-over : GOAT ; LETTER
-over-shadow : LETTER
-overall : THOUGHT ; GOAT
-overarching : START
-overbear : SQUARE
-overboard : FORCE ; LETTER
-overcareful : SQUARE
-overcast : LETTER
-overcharge : START ; LETTER
-overcoat : LETTER
-overcome : STRUT ; LETTER
-overcompensation : LOT
-overdoes : STRUT
-overdose : GOAT
-overdraft : BATH
-overdrive : PRICE
-overexposure : LETTER
-overgrown : LETTER
-overgrowth : GOAT
-overhang : TRAP
-overhaul : THOUGHT
-overhead : DRESS
-overjoyed : CHOICE ; LETTER
-overlap : TRAP
-overload : NORTH
-overlooking : FOOT ; LETTER
-overmuch : STRUT
-overnight : PRICE ; LETTER
-overpressure : DRESS ; LETTER
-overseas : GOAT ; LETTER
-overshoe : LETTER
-overshoes : GOOSE ; LETTER
-oversteer : NEAR
-overthrew : LETTER
-overthrow : LETTER
-overthrust : LETTER
-overtime : PRICE
-overture : LETTER
-overuse : GOOSE
-overvalued : GOOSE
-overview : GOAT ; LETTER
-overweight : FACE ; LETTER
-overwhelming : LETTER
-ovidian : LOT
-ovulating : LOT
-owe : GOAT
-owes : GOAT
-owl : MOUTH
-owlet : MOUTH
-own : GOAT
-owner : GOAT ; LETTER
-ox : LOT
-oxenford : FORCE
-oxford : LETTER
-oxime : FLEECE
-oyster : CHOICE
-oyster-catcher : TRAP
-ozark : START
-pa : PALM
-pablo : TRAP
-pace : FACE
-pacific : KIT ; COMMA
-pacifier : PRICE
-pacino : COMMA
-pack : TRAP
-package : TRAP
-packhorse : NORTH
-pad : TRAP
-padishahs : PALM
-padres : FACE
-pagan : FACE
-pageant : TRAP
-pagination : TRAP
-pahlavi : HAPPY
-paid : FACE
-paige : FACE
-pain : FACE
-paine : FACE
-paint : FACE
-paintbrush : STRUT
-painting : FACE
-pair : SQUARE
-paired : SQUARE
-pairing : SQUARE
-pairs : SQUARE
-paish : FACE
-paisley : FACE
-pajamas : PALM
-pakistan : PALM
-pakistani : HAPPY
-palace : KIT ; TRAP
-palatial : FACE
-palau : MOUTH
-pale : FACE
-palestine : PRICE
-palette-knife : PRICE
-palette-knives : PRICE
-pali : PALM
-pall-bearer : SQUARE
-palmer : LETTER
-palooka : GOOSE
-paltrow : TRAP
-pamela : COMMA
-panama : PALM
-pancake : FACE
-panda : COMMA
-pangbourne : FORCE
-panorama : PALM ; COMMA
-panther : LETTER
-pantomime : PRICE
-papa : PALM ; COMMA
-papabile : PALM
-paparazzi : HAPPY
-paper : LETTER
-paperback : TRAP ; LETTER
-papers : LETTER
-paperweight : FACE
-paperwork : LETTER
-papistic : FACE
-papua : TRAP
-par : START
-para : TRAP ; COMMA
-paracetamol : LOT
-parachute : GOOSE ; COMMA
-parade : FACE ; LETTER ; COMMA
-paradigm : PRICE
-paradise : TRAP ; PRICE ; COMMA
-paragraph : BATH
-paraguay : TRAP ; PRICE ; COMMA
-parakeet : FLEECE
-parallel : DRESS
-paramount : MOUTH
-paramour : FORCE ; CURE
-paramours : CURE
-paranoia : CHOICE
-paranoid : CHOICE
-paraphrase : FACE
-parasol : LOT
-parathyroid : CHOICE
-parboiled : CHOICE
-parcel : START
-parched : START
-parcheesi : START
-parchment : START
-parental : DRESS ; LETTER ; COMMA
-parents : SQUARE
-parfait : START
-parfitt : START
-paring : SQUARE
-paris : TRAP
-parish : TRAP
-park : START
-parka : COMMA
-parker : START ; LETTER
-parliament : START
-parlour : START
-parmigiano : PALM
-parnassus : START
-parnell : START
-parr : START
-parsley : START
-parslow : START
-parsnip : START
-parsons : START
-part : START
-part-time : PRICE
-parthenogenesis : GOAT ; START
-parthenon : START
-partial : START
-participation : START
-particle : START
-particular : KIT ; FOOT ; LETTER
-particularly : LETTER
-particulate : START
-partition : START
-partner : START ; LETTER
-partners : LETTER
-partnership : KIT ; START ; LETTER
-parturient : START
-parturition : START
-party : START ; HAPPY
-parvenus : START
-pascal : TRAP
-paschal : BATH
-pasha : PALM ; BATH ; COMMA
-pashto : STRUT
-pass : BATH
-passata : PALM
-passenger : TRAP ; LETTER
-passion : TRAP
-passport : FORCE
-past : BATH
-pasta : PALM ; (TRAP)
-paste : FACE
-pastor : COMMA
-pastoral : BATH
-patch : TRAP
-patchouli : COMMA
-patchy : HAPPY
-path : BATH
-pathetic : COMMA
-pathfinder : BATH
-pathing : BATH
-pathless : BATH
-pathological : TRAP
-pathology : COMMA
-pathos : FACE
-paths : BATH
-pathway : BATH
-patience : FACE
-patient : FACE
-patiently : FACE
-patios : GOAT
-patois : PALM
-patricia : COMMA
-patrick : TRAP
-pattern : LETTER
-paua : (MOUTH)
-paucity : THOUGHT
-paul : THOUGHT
-paula : THOUGHT ; COMMA
-pauline : (FLEECE)
-pauper : THOUGHT
-pause : THOUGHT
-pavement : FACE
-pavilion : COMMA
-paving : FACE
-pavlov : LOT
-pavlova : TRAP
-pawnee : THOUGHT
-pawpaws : THOUGHT
-paws : THOUGHT
-pay-claim : FACE
-payback : FACE
-paycheck : FACE
-payday : FACE
-paye : FACE
-payment : FACE
-payne : FACE
-paypal : TRAP ; FACE
-payphone : FACE
-payroll : FACE ; GOAT
-pays : FACE
-paysheet : FACE
-payslip : FACE
-pea : FLEECE
-peach : FLEECE
-peachey : HAPPY
-peachy : HAPPY
-peacock : LOT
-peafowl : MOUTH
-peak : FLEECE
-peanut : STRUT
-pear : SQUARE
-pearce : NEAR
-pearl : NURSE
-pearmain : SQUARE
-pearse : NEAR
-peart : NEAR
-peavey : HAPPY
-pebble : DRESS
-peculiar : GOOSE
-pecuniary : GOOSE
-pedgogy : LOT
-pedicure : CURE
-pedigree : HAPPY
-pee : HAPPY
-peek : FLEECE
-peep : FLEECE
-peeps : FLEECE
-peer : NEAR
-peerage : NEAR
-peering : NEAR
-peerless : NEAR
-peers : NEAR
-peg : DRESS
-peggy : HAPPY
-peirce : NEAR
-pembrey : DRESS
-penarth : START
-pengam : DRESS
-penguin : DRESS
-penicuik : FOOT
-peninsula : COMMA
-penknives : PRICE
-penny-farthing : START
-pennyworth : LETTER
-penthouse : MOUTH
-peony : NEAR
-people : FLEECE
-pepita : DRESS
-pepper : DRESS ; LETTER
-pepsi : HAPPY
-per : LETTER ; NURSE
-peradventure : NURSE
-percentage : LETTER
-perch : NURSE
-percussion : STRUT ; LETTER
-perestroika : CHOICE
-perez : DRESS
-perfect : DRESS ; LETTER ; NURSE
-perforated : NURSE
-perforation : NURSE
-perform : NORTH ; LETTER
-performance : NORTH ; LETTER
-performed : NORTH
-performer : NORTH ; LETTER
-performing : NORTH
-perfume : GOOSE ; LETTER ; NURSE
-perfusion : GOOSE
-pergola : NURSE
-pergolesi : SQUARE
-perhaps : TRAP
-pericarp : START
-perineal : NEAR
-perineum : NEAR
-period : NEAR ; COMMA
-periodical : LOT
-perkins : NURSE
-perks : NURSE
-permabear : SQUARE
-permanent : NURSE
-permission : LETTER
-permit : NURSE
-pernod : SQUARE
-peron : DRESS
-perpendicular : NURSE
-perpetrator : NURSE
-perpetual : DRESS ; LETTER
-perpetuate : DRESS
-perpetuity : NURSE
-perry : DRESS
-persecution : GOOSE
-persevere : NEAR
-persevering : NEAR
-persia : COMMA ; NURSE
-persian : NURSE
-persiflage : PALM
-person : NURSE
-personal : COMMA ; NURSE
-personality : TRAP ; NURSE
-personalized : PRICE
-personally : NURSE
-personnel : NURSE
-perspective : LETTER
-persuade : FACE
-persuasion : FACE
-perth : NURSE
-perthshire : NURSE
-peru : LETTER ; COMMA
-perugia : GOOSE
-perugino : FOOT
-perused : GOOSE
-peruvian : GOOSE
-pervasion : FACE
-pervasive : LETTER
-perverse : LETTER
-perversion : NURSE
-pesach : FACE ; (TRAP)
-peshawar : PALM ; COMMA
-peso : FACE
-pesos : GOAT
-pet : DRESS
-peter : LETTER
-peterborough : LETTER ; (COMMA)
-peterlee : HAPPY
-petipa : COMMA
-petite : FLEECE
-petrol : DRESS
-pettitoes : FLEECE
-pew : GOOSE
-pewter : GOOSE
-phantasm : TRAP
-phantasmagoria : TRAP
-pharisee : HAPPY
-pharma : COMMA
-pharmaceutical : GOOSE ; START
-pharmacy : START
-pharsalus : START
-phase : FACE
-phenobarbital : GOAT ; START
-phenomenon : LOT
-phew : GOOSE
-philharmonic : START
-philippa : COMMA
-philippe : FLEECE
-philippines : FLEECE
-philosopher : LETTER
-philosophy : HAPPY ; COMMA
-phlogistic : LOT
-phoebe : FLEECE
-phoebus : FLEECE
-phoenix : FLEECE
-phoneme : FLEECE
-photo : GOAT
-photo-reconnaissance : GOAT
-photocopy : GOAT
-photograph : BATH ; COMMA
-photographer : LETTER
-photographers : LETTER
-photographic : TRAP
-photography : HAPPY ; COMMA
-photogravure : CURE
-photonovel : LOT
-photos : GOAT
-photoshop : LOT ; GOAT
-phrase : FACE
-phwoar : FORCE
-phylogenetic : GOAT
-physical : KIT
-physician : KIT
-physiotherapist : GOAT
-physiotherapy-y : GOAT
-physique : FLEECE
-piacenza : COMMA
-piaf : TRAP
-piaget : TRAP
-piagetian : COMMA
-pianist : NEAR
-pianoforte : GOAT
-piazza : COMMA
-pibroch : FLEECE
-picadors : NORTH
-picasso : PALM
-pick : KIT
-pick-up : STRUT
-pictogram : GOAT
-pictorial : FORCE
-picture : KIT ; LETTER
-picture-galleries : TRAP
-piebald : THOUGHT
-pier : NEAR
-pierce : NEAR
-piercing : NEAR
-piercy : NEAR
-pig : KIT
-pigeon : KIT
-piggy : HAPPY
-pikachu : COMMA
-pike : PRICE
-pilates : PALM
-piles : PRICE
-pillow-fight : GOAT
-pillowcase : GOAT
-pillows : GOAT
-pillowslip : GOAT
-pilot : PRICE
-pilot-light : PRICE
-pima : FLEECE
-pinafore : FORCE
-pineapple : TRAP
-pinochet : GOAT
-pinpoint : CHOICE
-pinstripe : PRICE
-pint : PRICE
-pinterest : DRESS
-pioneer : NEAR
-pioneered : NEAR
-pioneering : NEAR
-pipal : FLEECE
-pipe : PRICE
-pipe-organ : NORTH
-pipedream : FLEECE
-pipeline : PRICE
-piper : LETTER
-pippa : COMMA
-pipsqueak : FLEECE
-pique : FLEECE
-piraeus : PRICE
-piranha : PALM
-pirates : PRICE
-pirit : KIT
-pisa : COMMA
-pistachio : PALM
-pitcairn : SQUARE
-pitch : KIT
-pitch-dark : START
-pitchfork : NORTH
-pith : KIT
-pithy : KIT
-pixar : START
-pixie : HAPPY
-pizza : COMMA
-pizzeria : NEAR
-pizzicato : PALM
-place : FACE
-placebo : FLEECE
-placeseeker : FLEECE
-plagiarism : FACE
-plague : FACE
-plaice : FACE
-plain : FACE
-plain-clothes : GOAT
-plaistow : FACE
-plan : TRAP
-plane : FACE
-planetarium : SQUARE
-planner : LETTER
-plant-louse : MOUTH
-plaque : PALM
-plasma : TRAP ; COMMA
-plaster : BATH
-plasterboard : FORCE
-plasterer : BATH
-plastering : BATH
-plastic : TRAP ; BATH
-plate : FACE
-platform : TRAP ; NORTH
-plattdeutsch : CHOICE
-plausible : THOUGHT
-play-reading : FACE
-playback : FACE
-playbill : FACE
-playboy : FACE ; CHOICE
-playboys : CHOICE
-players : LETTER
-playfair : FACE
-playfellow : FACE
-playford : FACE
-playful : FACE
-playground : FACE ; MOUTH
-playgroup : FACE
-playhouses : MOUTH
-playmate : FACE
-playmobil : FACE
-playpen : FACE
-playroom : FACE
-plays : FACE
-playstation : FACE
-playsuit : FACE
-playthings : FACE
-playtime : FACE ; PRICE
-playwright : FACE ; PRICE
-plaza : PALM ; COMMA
-plc : DRESS
-plea : FLEECE
-plead : FLEECE
-pleasant : DRESS
-pleasurable : DRESS
-pleasure : DRESS ; LETTER
-pleasure-boat : DRESS
-pleasure-grounds : DRESS
-pleated : FLEECE
-pledge : DRESS
-pledgor : DRESS ; NORTH
-plethora : DRESS
-pleydell : FACE
-plosion : GOAT
-plotted : LOT
-plough : MOUTH
-ploughboy : MOUTH
-ploughed : MOUTH
-ploughman : MOUTH
-ploughs : MOUTH
-ploughshares : MOUTH ; SQUARE
-plover : STRUT
-plow : MOUTH
-plowed : MOUTH
-plowright : MOUTH
-plows : MOUTH
-ploy : CHOICE
-plug : STRUT
-plug-in : STRUT
-plug-ugly : STRUT
-plum-pudding : STRUT
-plumbing : STRUT
-plus : STRUT
-plush : STRUT
-plymouth : COMMA
-plywood : PRICE
-pneumatic : GOOSE
-pneumonia : GOOSE
-pneumothorax : GOAT
-poach : GOAT
-poblanos : PALM
-pochette : LOT
-pocket-knife : PRICE
-podcast : BATH
-poddy-dodger : LOT
-podunk : STRUT
-pogey : HAPPY
-poignant : CHOICE
-poikilothermic : CHOICE
-poinsettia : CHOICE
-point : CHOICE
-poise : CHOICE
-poison : CHOICE
-poker : GOAT ; LETTER
-poland : GOAT
-polaroid : CHOICE
-pole : GOAT
-pole-vault : THOUGHT
-police : COMMA
-police-station : FACE
-policy : HAPPY
-polish : KIT ; LOT ; GOAT
-polite : PRICE
-political : KIT
-politics : KIT ; LOT
-polk : GOAT
-poll : GOAT
-pollard : START
-polo : GOAT
-polyanthathe : COMMA
-polycarbonate : START
-polycarp : START
-polyester : LOT
-polyethylene : DRESS
-polystyrene : FLEECE
-polytrauma : THOUGHT
-pomeroy : CHOICE
-pompeo : LOT
-pompey : HAPPY
-pontardulais : FACE
-poo : GOOSE
-pooch : GOOSE
-poodle : GOOSE
-pooh-bah : PALM
-pool : GOOSE
-poolside : PRICE
-pooper-scooper : GOOSE
-poor : CURE ; (FORCE)
-poor-spirited : FORCE
-poorer : CURE ; (FORCE)
-poorest : CURE ; (FORCE)
-pop : LOT
-pop-up : STRUT
-popcorn : NORTH
-pope : GOAT
-popular : LOT ; FOOT ; (LETTER)
-popularity : TRAP ; (COMMA)
-population : LOT ; FACE
-porbeagle : FLEECE
-porcelain : NORTH
-porch : NORTH ; FORCE
-porcupine : FOOT
-pore : FORCE
-pork : FORCE
-porn : NORTH
-pornography : NORTH
-porous : FORCE
-porpoise : NORTH
-porridge : (CLOTH)
-porsche : NORTH
-port : FORCE
-portable : COMMA
-porte-cochere : LOT
-portent : FORCE
-portfolio : FORCE
-portia : COMMA
-portiere : SQUARE
-portrait : FACE ; FORCE
-portsea : HAPPY
-portugal : COMMA
-poses : GOAT
-posey : HAPPY
-posh : LOT
-position : KIT
-positive : KIT
-positively : LOT
-positron : LOT
-posits : LOT
-possess : COMMA
-possessions : DRESS
-possible : LOT
-post : GOAT
-postal : GOAT
-postcard : START
-postcode : GOAT
-poster : GOAT
-postmaster : BATH
-potash : TRAP
-potatoes : GOAT
-potboiler : CHOICE
-potential : COMMA
-potion : GOAT
-pouch : MOUTH
-pouffes : GOOSE
-pounds : MOUTH
-pour : FORCE
-poured : FORCE
-pouring : FORCE
-pourparler : CURE
-poussette : GOOSE
-poverty : LETTER
-pow : MOUTH
-powder : MOUTH
-powderpuff : STRUT
-powell : MOUTH
-power : MOUTH
-power-point : CHOICE ; MOUTH
-powerful : LETTER
-powerhouse : MOUTH
-powerscourt : FORCE
-powwow : MOUTH
-powwowed : MOUTH
-powwowing : MOUTH
-powwows : MOUTH
-pozidriv : PRICE
-practice : TRAP
-practitioner : TRAP
-prada : PALM
-prado : PALM
-pragmatic : TRAP
-prairie : SQUARE ; HAPPY
-praise : FACE
-prakrit : PALM
-prank : TRAP
-prato : PALM
-prawns : THOUGHT
-prayer-book : SQUARE
-prayer-mat : SQUARE
-prayer-meeting : SQUARE
-prayer-rug : STRUT
-prayer-wheel : SQUARE
-prayers : SQUARE
-preach : FLEECE
-precarious : SQUARE
-precaution : THOUGHT
-precede : KIT
-precept : DRESS
-precious : DRESS
-precise : PRICE
-precision : KIT
-precocious : GOAT
-predict : KIT
-predigested : PRICE
-predominantly : LOT
-prefab : TRAP
-prefer : (KIT) ; (DRESS) ; NURSE
-preference : DRESS
-preferred : NURSE
-preferring : NURSE
-pregnancy : HAPPY
-pregnant : DRESS
-prejudge : STRUT
-prejudice : DRESS
-prelude : GOOSE
-premature : CURE ; COMMA
-premiered : SQUARE
-premieres : SQUARE
-premises : DRESS
-premium : FLEECE
-preoccupy : FOOT
-prep : DRESS
-prepaid : FACE
-preparation : DRESS
-prepare : SQUARE
-prepared : SQUARE
-prepares : SQUARE
-preparing : SQUARE
-prepuce : GOOSE
-prerecord : NORTH
-prescribe : PRICE
-presentation : DRESS
-preservation : LETTER
-preserve : NURSE
-president : KIT ; DRESS
-press : DRESS
-pressure : DRESS ; LETTER
-pressure-gauge : FACE
-prestige : DRESS
-prestigious : KIT ; DRESS
-presumably : GOOSE
-presume : GOOSE
-presupposition : STRUT
-pretorian : FORCE
-pretty : KIT
-preview : GOOSE
-previewed : GOOSE
-previewing : GOOSE
-previous : COMMA
-prezi : HAPPY
-price : PRICE
-pricey : HAPPY
-pride : PRICE
-prima : FLEECE ; COMMA
-primary : PRICE ; LETTER ; COMMA
-prime : PRICE
-primrose : GOAT
-principal : COMMA
-principle : COMMA
-prior : PRICE
-priority : (CLOTH)
-priory : PRICE
-prison : KIT
-prithee : KIT ; HAPPY
-privacy : HAPPY ; COMMA
-private : PRICE
-privately : PRICE
-privations : PRICE
-privilege : KIT
-prize : PRICE
-prize-money : STRUT
-pro : GOAT
-probably : LOT ; COMMA
-probate : GOAT
-probe : GOAT
-problem : LOT ; COMMA
-problematic : LOT
-problemo : LOT
-problems : COMMA
-procedural : FLEECE
-procedure : FLEECE ; LETTER
-proceeds : FLEECE
-process : DRESS ; COMMA ; (GOAT)
-processes : DRESS
-processor : LETTER
-proclaim : FACE
-procure : CURE
-prodigiously : KIT
-produce : GOAT ; GOOSE
-producer : LETTER
-product : STRUT ; COMMA
-production : STRUT ; COMMA
-productivity : KIT ; STRUT
-products : STRUT
-professional : DRESS ; COMMA
-professor : LETTER ; COMMA
-professorial : FORCE
-profile : GOAT ; PRICE
-profit-margin : START
-profit-sharing : SQUARE
-profusely : GOOSE
-profusion : GOOSE
-progenitor : GOAT
-progesterone : GOAT
-prognosis : LOT
-program : TRAP ; GOAT
-programmable : GOAT
-programme : TRAP ; GOAT
-progress : DRESS ; COMMA ; (GOAT)
-prohibit : KIT
-projective : GOAT
-prokofiev : DRESS
-prolapse : GOAT
-prologue : LOT
-prominent : LOT
-promote : GOAT ; COMMA
-promotion : GOAT
-prompt : LOT
-proof : GOOSE
-proofreading : GOOSE
-propaganda : COMMA
-proper : LETTER
-properly : LETTER
-property : LOT ; LETTER
-proposal : GOAT ; COMMA
-proposed : GOAT
-propranolol : GOAT
-propylene : FLEECE ; GOAT
-prorate : GOAT
-prorogation : GOAT
-prosciutto : COMMA
-prosecute : GOOSE
-prosecution : GOOSE
-prospect : DRESS
-prostitute : GOOSE
-protease : FACE
-protection : DRESS ; COMMA
-protein : FLEECE
-protest : DRESS ; GOAT
-prothalamion : GOAT
-prothero : LOT
-protocol : LOT
-prototype : PRICE
-protrusion : GOOSE
-protuberance : GOOSE
-proud : MOUTH
-prove : GOOSE
-provide : PRICE ; COMMA
-providence : LOT
-providentially : LOT
-provider : LETTER ; COMMA
-provision : KIT ; COMMA
-prowl : MOUTH
-proximity : LOT
-prudential : GOOSE
-prunella : GOOSE
-pruning-shears : NEAR
-prussia : STRUT ; COMMA
-pseudo- : GOOSE
-pseudonymous : GOOSE
-psychiatry : PRICE
-psychodrama : PALM
-psychological : PRICE
-psychologist : COMMA
-psychology : PRICE ; COMMA
-psychopath : TRAP
-psychosis : PRICE
-psychotherapeutic : DRESS
-psychotherapist : GOAT
-psychotherapy-y : GOAT
-psychotic : PRICE
-pub : STRUT
-puberty : GOOSE
-pubescent : GOOSE
-public : KIT ; STRUT
-publication : STRUT ; FACE
-publish : KIT ; STRUT
-publisher : STRUT
-puccini : GOOSE
-pudding : FOOT
-puddle : STRUT
-pudgy : STRUT
-puff : STRUT
-puff-puff : STRUT
-puffin : STRUT
-puffy : STRUT ; HAPPY
-pug : STRUT
-puget : GOOSE
-pugilism : GOOSE
-pugilist : GOOSE
-pugilistic : GOOSE
-pugnacious : STRUT
-pugnacity : STRUT
-puke : GOOSE
-pull : FOOT
-pulley : FOOT
-pullover : GOAT
-pulsar : STRUT ; START
-pulsates : STRUT
-pulsating : STRUT
-pulse : STRUT
-pulvinar : STRUT
-puma : GOOSE ; COMMA
-pump : STRUT
-pumpkin : STRUT
-pumps : STRUT
-punch-drunk : STRUT
-punctate : STRUT
-punctiliously : STRUT
-punctuate : STRUT
-puncture : STRUT
-punjab : PALM
-punjabi : PALM ; HAPPY
-punk : STRUT
-puny : GOOSE
-pup : STRUT
-pupa : GOOSE ; COMMA
-pupate : GOOSE
-pupation : GOOSE
-pupil : GOOSE
-puppet : STRUT
-puppy : STRUT ; HAPPY
-purchase : NURSE
-purchased : COMMA
-purchaser : LETTER
-pureblood : STRUT
-purgative : NURSE
-purgatory : NURSE
-purge : NURSE
-purifier : PRICE
-puritan : CURE
-puritanism : GOOSE
-purl : NURSE
-purple : NURSE
-purport : LETTER ; NURSE
-purpose : COMMA ; NURSE
-purposeful : NURSE
-purpura : FOOT ; NURSE
-purr : NURSE
-purring : NURSE
-purse : NURSE
-purse-proud : MOUTH
-pursuant : GOOSE
-pursue : GOOSE
-pursued : GOOSE
-pursuit : GOOSE
-purulent : GOOSE
-push : FOOT
-push-up : FOOT
-pushchair : SQUARE
-pushchairs : SQUARE
-pushkin : FOOT
-pushy : HAPPY
-pussycat : FOOT
-pussyfoot : FOOT
-put : FOOT
-put-down : FOOT
-put-on : LOT ; FOOT
-put-put : STRUT
-put-up : FOOT
-putsch : FOOT
-putt : STRUT
-putter : STRUT
-puzzle : STRUT
-pwllheli : FOOT
-pyjamas : PALM
-pyogenic : GOAT
-pyracantha : COMMA
-pyramid : KIT
-pyrenean : NEAR
-pytchley : PRICE
-pythagoras : PRICE
-pythagorean : PRICE
-pythagoreanism : PRICE
-python : PRICE
-pythonesque : PRICE
-pythoness : PRICE
-pyuria : PRICE
-qatar : START
-qatari : START
-qom : FOOT
-quaaludes : GOOSE
-quadrangle : TRAP
-quadratic : LOT
-quadruple : LOT
-qualified : PRICE
-qualifier : PRICE
-qualify : LOT ; PRICE
-quality : KIT ; HAPPY
-quantifiable : PRICE
-quarrel : (CLOTH)
-quarry : (CLOTH)
-quart : NORTH
-quarterly : LETTER
-quarterstaves : FACE
-quartz : NORTH
-quatrain : FACE
-quatrefoil : CHOICE
-quattrocento : GOAT
-quebracho : PALM
-quechua : DRESS
-queen : FLEECE
-queensferry : DRESS
-queer : NEAR
-queerest : NEAR
-queerly : NEAR
-queerness : NEAR
-query : NEAR
-question : DRESS
-questionnaire : SQUARE
-questionnaires : SQUARE
-questions : DRESS
-queue : GOOSE
-queue-jump : STRUT
-queued : GOOSE
-quibble : KIT
-quick : KIT
-quiet : PRICE ; COMMA
-quill-feather : DRESS
-quinoa : PALM
-quipu : FLEECE
-quirky : HAPPY ; NURSE
-quite : PRICE
-quiz : KIT
-quoits : CHOICE
-quotation : GOAT
-quote : GOAT
-quoth : GOAT
-quotient : GOAT
-quran : PALM
-qwaqwa : COMMA
-rabbit : TRAP
-rabbit-burrows : STRUT
-rabbit-hutch : STRUT
-rabble-rouser : MOUTH
-rabies : FACE
-rabindranath : BATH
-race : FACE
-racecourse : FORCE
-racehorse : NORTH
-racer : LETTER
-rachael : FACE
-rachelle : COMMA
-racial : FACE
-racing : FACE
-racism : FACE
-rada : PALM
-radar : FACE ; START
-radiation : FACE
-radiator : FACE
-radical : TRAP
-radio : FACE
-radiograph : GOAT
-radiological : LOT ; GOAT
-radios : GOAT
-radius : FACE
-raeburn : FACE
-raf : DRESS
-rafa : TRAP
-rafe : FACE
-rafflesia : TRAP
-raft : BATH
-rag : TRAP
-ragamuffin : STRUT
-rage : FACE
-ragtime : PRICE
-rahman : PALM
-rahway : THOUGHT
-raid : FACE
-raif : FACE
-raik : FACE
-rail : FACE
-railcard : START
-railings : FACE
-railway : FACE
-rain : FACE
-rainbow : FACE
-rainbows : GOAT
-rainwater : THOUGHT
-raise : FACE
-rajpuatana : PALM
-rake : FACE
-ramada : COMMA
-ramen : PALM
-ramirez : DRESS
-rampage : FACE
-ramsey : HAPPY
-ranch : BATH
-ranee : HAPPY
-range : FACE
-rank : TRAP
-ranking : TRAP
-rape : FACE
-rapeseed : FLEECE
-raphael : TRAP
-rapid : TRAP
-rapier-thrust : LETTER
-rare : SQUARE
-rarebit : SQUARE
-rarely : SQUARE
-rareness : SQUARE
-rarer : SQUARE
-rarest : SQUARE
-rascal : BATH
-rascality : BATH
-rashid : TRAP ; FLEECE
-raspberry : BATH
-rate : FACE
-rather : BATH ; LETTER
-ratio : FACE
-rationale : PALM
-ratios : GOAT
-rattan : TRAP
-raucous : THOUGHT
-raunchy : THOUGHT ; HAPPY
-rauschenberg : MOUTH
-rautavaara : START
-rauwolfia : THOUGHT
-rave : FACE
-raven : FACE
-raven-haired : SQUARE
-ravenclaw : COMMA
-ray-bans : FACE
-raybould : FACE
-rayburn : FACE
-rayleigh : FACE
-raymond : FACE
-rays : FACE
-razoo : PALM
-razor : FACE ; LETTER
-re-education : DRESS
-reach : FLEECE
-reader : LETTER
-ready : DRESS
-ready-to-wear : SQUARE
-reaffirmation : TRAP
-reagan : FACE
-real : NEAR
-real-time : PRICE
-realign : PRICE
-realistic : FLEECE ; NEAR
-reality : TRAP
-realize : PRICE ; NEAR
-really : HAPPY
-realpolitik : (FLEECE)
-realtor : NEAR
-ream : FLEECE
-reap : FLEECE
-rear : NEAR
-reared : NEAR
-rearing : NEAR
-rearward : NEAR
-reassurance : COMMA
-reassured : CURE
-rebecca : COMMA
-rebel : (KIT) ; (DRESS)
-reboot : GOOSE
-reborn : NORTH
-rebuke : GOOSE
-rebus : FLEECE
-recap : TRAP
-recent : COMMA
-reception : DRESS
-recession : DRESS
-rechargeable : START
-recife : COMMA
-recipe : COMMA
-recipient : KIT
-reclaim : FACE
-reclusive : GOOSE
-recognition : COMMA
-recognized : PRICE
-recoil : CHOICE
-recommend : COMMA
-recommendation : DRESS ; FACE ; COMMA
-reconnoitre : CHOICE
-record-breaking : FORCE
-recovered : STRUT
-recovering : STRUT
-recovery : STRUT
-recruit : GOOSE
-rectangle : TRAP
-rectifier : PRICE
-recurrent : STRUT
-recurring : NURSE
-recusant : FOOT
-recycling : PRICE
-red-hot : LOT
-redbourne : FORCE
-redcar : START
-redeployment : CHOICE
-redhead : DRESS
-redmayne : FACE
-reduce : GOOSE
-reduction : STRUT
-reebok : LOT ; FLEECE
-reed : FLEECE
-ref : DRESS
-refer : NURSE
-referable : NURSE
-reference : DRESS
-referral : NURSE
-referred : NURSE
-referring : NURSE
-refers : NURSE
-refine : PRICE
-reflux : STRUT
-reform : NORTH
-refresh : DRESS
-refrigerator : KIT
-refuge : GOOSE
-refugee : DRESS ; GOOSE ; HAPPY
-refund : STRUT
-refunds : STRUT
-refurbished : NURSE
-reg : DRESS
-regal : FLEECE
-regality : FLEECE
-regarding : START
-regatta : COMMA
-regency : FLEECE
-reggae : DRESS
-reggaeton : FACE
-reggie : HAPPY
-regime : FLEECE ; FACE
-regiment : DRESS
-region : FLEECE
-register : KIT ; DRESS ; LETTER
-registrar : START
-registry : DRESS
-regular : DRESS ; LETTER
-regularly : FOOT ; LETTER
-regulation : FOOT
-regulations : DRESS
-regulator : DRESS
-rehab : TRAP
-rehash : TRAP
-reichstag : PALM
-reid : FLEECE
-reigate : PRICE
-reiki : FACE ; HAPPY
-reincarnation : START
-reindeer : NEAR
-reject : FLEECE
-rejoice : CHOICE
-rejoin : CHOICE
-rejuvenate : GOOSE
-relate : FACE
-relationship : KIT
-relaunch : THOUGHT
-relaxation : TRAP
-relevant : COMMA
-reliable : PRICE ; COMMA
-religion : KIT
-relocate : GOAT
-reluctant : STRUT
-remain : FACE
-remake : FACE
-remarkable : START ; COMMA
-remaster : BATH
-rematch : TRAP
-remember : DRESS ; LETTER
-remodelled : LOT
-remorse : NORTH
-remote : GOAT
-remove : GOOSE
-remuneration : GOOSE
-rendezvous : GOOSE
-renegade : FACE
-renewal : GOOSE
-renovate : COMMA
-rent-a-mob : LOT
-reorganize : NORTH
-repagination : TRAP
-repaint : FLEECE
-repair : SQUARE
-repairable : SQUARE
-repaired : SQUARE
-repairer : SQUARE ; LETTER
-repairing : SQUARE
-repairman : SQUARE
-repairs : SQUARE
-repayment : FACE
-repercussion : STRUT
-replace : FACE
-replant : FLEECE ; BATH
-replica : COMMA
-replies : PRICE
-reply : PRICE
-report : FORCE
-reportage : PALM ; FORCE
-repose : GOAT
-represent : DRESS
-reproach : GOAT
-reproduce : GOOSE
-reproduction : STRUT
-reptiles : PRICE
-reptilian : DRESS
-republic : STRUT
-reputable : FOOT
-reputation : DRESS ; FOOT
-require : PRICE
-requiring : PRICE
-rescue : GOOSE
-rescued : GOOSE
-rescues : GOOSE
-research : NURSE
-resenthal : PALM
-reservation : LETTER
-reservations : DRESS
-reserve : NURSE
-reserved : NURSE
-reservoir : DRESS ; LETTER
-reset : DRESS
-residence : DRESS
-residual : KIT
-residue : DRESS ; GOOSE
-residues : GOOSE
-resign : PRICE
-resin : DRESS
-resist : KIT
-resolute : GOOSE
-resolution : DRESS ; GOOSE ; COMMA
-resolve : LOT
-resorb : NORTH
-resource : FORCE
-responds : LOT
-rest : DRESS
-rest-cure : CURE
-restaurant : LOT
-restauranteurs : NURSE
-restaurants : DRESS
-restaurateur : NURSE
-restock : LOT
-restore : FORCE
-result : STRUT
-resulted : STRUT
-resume : (KIT) ; (DRESS) ; GOOSE
-resumes : GOOSE
-resurfacing : NURSE
-retail : FACE
-retire : PRICE
-retiring : PRICE
-retouch : STRUT
-retreat : FLEECE
-retro : DRESS
-retrorocket : GOAT
-return : NURSE
-retweet : FLEECE
-reunite : GOOSE
-reuse : GOOSE
-reuters : CHOICE
-revaluation : TRAP
-revenue : DRESS ; GOOSE
-revenues : GOOSE
-revere : NEAR
-revered : NEAR
-revering : NEAR
-reverse : NURSE
-reversion : NURSE
-review : GOOSE
-reviews : GOOSE
-revisionism : KIT
-revive : PRICE
-revolution : DRESS ; GOOSE ; COMMA
-revue : GOOSE
-rh-positive : FACE
-rheims : FLEECE
-rhetorical : (CLOTH)
-rheumatic : GOOSE
-rheumatoid : GOOSE ; CHOICE
-rhodes : GOAT
-rhonda : COMMA
-rhubarb : GOOSE ; START
-rhumba : STRUT
-rhyme : PRICE
-rhythm : KIT
-rhythmic : KIT
-rib : KIT
-ribbon : KIT
-ribena : PRICE
-riboflavin : GOAT
-ricci : FLEECE ; HAPPY
-rice : PRICE
-rich : KIT
-richard : LETTER
-richer : KIT
-richey : HAPPY
-ricochet : COMMA
-ricoh : FLEECE
-ride : PRICE
-rider : PRICE
-ridge : KIT
-ridiculous : FOOT
-riefenstal : PALM
-riff-raff : TRAP
-riffe : PRICE
-rifle : PRICE
-rig : KIT
-riga : FLEECE ; COMMA
-right : PRICE
-right-angled : TRAP
-right-minded : PRICE
-right-winger : LETTER
-righteous : PRICE
-righteously : PRICE
-righteousness : PRICE
-rigid : KIT
-rigil : PRICE
-rigorous : KIT
-rihanna : COMMA ; (FLEECE) ; (HAPPY)
-rikki-tikki-tavi : HAPPY
-riley : PRICE
-rime : PRICE
-ringer : LETTER
-ringtone : GOAT
-rip : KIT
-rip-roaring : FORCE
-ripcord : FORCE
-ripe : PRICE
-rise : PRICE
-risen : KIT
-risk : KIT
-risky : HAPPY
-rita : FLEECE ; COMMA
-ritchie : HAPPY
-ritual : KIT
-river : KIT ; LETTER
-riverside : PRICE ; LETTER
-riviera : KIT ; SQUARE ; COMMA
-riyadh : TRAP
-ro-ro : GOAT
-roach : GOAT
-road : GOAT
-roadie : HAPPY
-roadrunner : STRUT
-roar : FORCE
-roared : FORCE
-roaring : FORCE
-roath : GOAT
-rob : LOT
-robe : GOAT
-robert : LOT ; LETTER
-robey : HAPPY
-robin : LOT
-robot : LOT ; GOAT
-robotic : GOAT
-robust : STRUT ; GOAT
-rochdale : FACE
-rock-climbing : PRICE
-rocker : LETTER
-rocking : LOT
-rocking-chair : SQUARE
-rocking-chairs : SQUARE
-rocking-horse : NORTH
-rocky : LOT
-rodrigo : LOT
-roe : GOAT
-roebuck : STRUT
-roedean : FLEECE
-roffey : HAPPY
-roger : LOT ; LETTER
-rogue : GOAT
-roland : GOAT
-role : GOAT
-rolex : GOAT
-roll : GOAT
-rolls-royce : CHOICE
-rom : LOT
-rom-com : LOT
-roma : COMMA
-roman : GOAT
-romance : TRAP ; GOAT
-romania : FACE
-romanova : COMMA
-romantic : GOAT
-rome : GOAT
-romeo : GOAT
-roof : GOOSE
-rooftop : LOT
-rooibos : LOT ; CHOICE
-rook : FOOT
-rookie : HAPPY
-room-mate : FACE
-roomba : COMMA
-rooster : GOOSE
-rope : GOAT
-rope-yarn : START
-ropewalk : THOUGHT
-ropey : HAPPY
-rort : NORTH
-rosario : START
-rose : GOAT
-roseanne : GOAT
-rosebud : STRUT
-rosette : GOAT
-rosewarne : NORTH
-rosewater : THOUGHT
-rosie : HAPPY
-rosin : LOT
-rossetti : DRESS ; COMMA
-rossi : HAPPY
-rosyth : PRICE
-rot : LOT
-rotation : GOAT
-rotgut : STRUT
-rothenstein : GOAT
-rotherhithe : LOT ; PRICE
-rothermere : LOT
-rothersthorpe : LOT
-rotherwick : LOT
-rothko : LOT
-rothman : LOT
-rothschild : LOT
-rotogravure : CURE
-rotterdam : TRAP
-rottingdean : FLEECE
-rouble : GOOSE
-rouge : GOOSE
-rough : STRUT
-rough-hewn : GOOSE
-rough-spoken : STRUT
-roughly : STRUT
-roulade : PALM
-round : MOUTH
-roundabout : MOUTH
-roundup : STRUT
-rourke : NORTH
-rouse : MOUTH
-routh : MOUTH
-routine : FLEECE ; GOOSE
-routledge : MOUTH
-rover : GOAT ; LETTER
-rowdy : MOUTH
-rowed : MOUTH
-rowing-club : STRUT
-rowntree : HAPPY
-rowridge : MOUTH
-rows : GOAT ; MOUTH
-roxy : LOT
-roy : CHOICE
-royal : CHOICE
-royalties : CHOICE
-royalty : CHOICE
-royston : CHOICE
-royton : CHOICE
-roz : LOT
-rub : STRUT
-rubber : STRUT ; LETTER
-rubbish : STRUT
-rube : GOOSE
-rubella : GOOSE
-rubicon : GOOSE
-rubidium : GOOSE
-rubric : GOOSE
-ruby : GOOSE
-rudd : STRUT
-rudder : STRUT
-ruddy : STRUT
-rude : GOOSE
-ruefully : GOOSE
-rues : GOOSE
-ruff : STRUT
-ruffle : STRUT
-rufus : GOOSE
-rug : STRUT
-rugby : STRUT ; HAPPY
-rugged : STRUT
-rugosity : GOOSE
-ruin : GOOSE
-rules : GOOSE
-rumba : COMMA
-rumor : LETTER
-rumor-mongers : STRUT
-rumours : GOOSE
-rump-steak : STRUT
-run : STRUT
-runaway : COMMA
-runcorn : FORCE
-runner : LETTER
-running : STRUT
-rupee : GOOSE ; HAPPY
-rupert : LETTER
-rural : CURE
-rush : STRUT
-rushmore : STRUT
-rusholme : GOAT
-rushton : STRUT
-russell : STRUT
-russia : COMMA
-russian : STRUT
-rusticity : STRUT
-ruth : GOOSE
-ruthenia : FOOT
-ruthenian : FOOT
-rutherford : STRUT
-ruthie : HAPPY
-ruthless : GOOSE
-rutland : STRUT
-ruze : GOOSE
-rwanda : COMMA
-ryan : PRICE
-ryanair : SQUARE
-saab : PALM
-saatchi : PALM
-saba : COMMA
-sabbath : COMMA
-sable : FACE
-sabotage : PALM
-sabre : FACE
-sacha : COMMA
-sachets : FACE
-sacred : FACE
-sacrifice : PRICE
-sacrificing : PRICE
-sad : TRAP
-sadduccee : HAPPY
-sade : PALM
-sadiq : TRAP ; FLEECE
-safari : START ; HAPPY ; COMMA
-safe : FACE
-safe-deposit : LOT
-safeguarding : FACE ; START
-safer : LETTER
-safety : FACE
-safety-catch : TRAP
-safety-pins : FACE
-safety-valve : FACE
-safeway : FACE
-safflower : MOUTH
-saffron : TRAP
-saga : PALM ; COMMA
-sagacious : FACE
-sage : FACE
-sagebrush : STRUT
-sagittarius : TRAP
-sahara : COMMA ; (SQUARE) ; (START)
-said : DRESS
-saigon : PRICE
-sail : FACE
-sailor : FACE
-saint : FACE
-saipan : PRICE
-saisho : FACE
-sake : FACE
-salaam : PALM
-salami : PALM
-salary : TRAP ; LETTER ; COMMA
-salbutamol : LOT
-sale : FACE
-salem : FACE
-salerno : SQUARE
-salish : FACE
-saliva : COMMA
-saloon : GOOSE
-salsa : COMMA
-salt : THOUGHT
-saltash : TRAP
-saltmarsh : START
-salute : GOOSE
-salvador : TRAP
-salvation : TRAP
-sam : TRAP
-samantha : COMMA
-samba : COMMA
-same : FACE
-samey : HAPPY
-samhain : PALM
-samothrace : GOAT
-samsonite : PRICE
-samsung : TRAP ; (STRUT) ; (FOOT)
-samuel : GOOSE
-samurai : PRICE
-sanchez : DRESS
-sandbank : TRAP
-sandcastle : BATH
-sandpiper : PRICE
-sandra : BATH ; COMMA
-sandstorm : NORTH
-sangfroid : PALM
-sangria : TRAP
-sanitise : PRICE
-sanitizer : LETTER
-sanitorium : FORCE
-sansa : COMMA
-santiago : PALM
-saoirse : NURSE
-sapphire : TRAP ; PRICE
-sara : SQUARE
-sarah : SQUARE ; COMMA
-saratoga : GOAT ; COMMA
-sarcasm : TRAP
-sardinia : START
-sargasso : START
-sargent : START
-sari : START ; HAPPY
-sark : START
-sars : START
-sartorial : FORCE
-sasha : PALM ; COMMA
-sat : TRAP
-satellite : PRICE ; COMMA
-satiate : FACE
-satiated : FACE
-satire : PRICE
-satisfaction : TRAP
-satisfy : PRICE
-satnav : TRAP
-saturday : TRAP ; LETTER
-sauce : THOUGHT
-saucer : THOUGHT
-saucy : THOUGHT
-sauerbraten : PALM
-sauerkraut : MOUTH
-sauna : COMMA
-sauron : MOUTH
-sausage : CLOTH
-savage : TRAP
-save : FACE
-saveloys : CHOICE
-saver : LETTER
-savoir-faire : PALM ; START
-savoir-vivre : PALM ; START
-savoy : CHOICE
-savvy : TRAP ; HAPPY
-saw-wort : THOUGHT
-saward : FACE
-sawbridge : THOUGHT
-sawbuck : THOUGHT
-sawdust : STRUT ; THOUGHT
-sawfish : THOUGHT
-sawmill : THOUGHT
-sawn : THOUGHT
-sawtooth : GOOSE
-sawyer : CHOICE
-saxe-coburg-gotha : GOAT ; COMMA
-say-so : FACE
-says : DRESS
-scabies : FACE
-scafell : PALM
-scaffold : GOAT
-scale : FACE
-scam : TRAP
-scampi : HAPPY
-scar : START
-scarborough : START ; (COMMA)
-scarcely : SQUARE
-scarcer : SQUARE
-scarcest : SQUARE
-scarcity : SQUARE
-scare : SQUARE
-scarecrow : SQUARE
-scared : SQUARE
-scaremonger : SQUARE
-scarf : START
-scarfe : START
-scaring : SQUARE
-scarlet : START
-scarlett : START
-scarpered : START
-scarves : START
-scary : SQUARE
-scathing : FACE
-scatterbrain : FACE
-scenarios : GOAT
-scene : FLEECE
-scenic : FLEECE
-schedule : DRESS
-schemata : FLEECE
-scheme : FLEECE
-scherzinger : LETTER
-scherzo : SQUARE
-schipa : FLEECE ; COMMA
-schofield : GOAT
-school : GOOSE
-schoolboy : CHOICE
-schoolboys : CHOICE
-schoolmarm : START
-schoolteacher : FLEECE
-schtup : FOOT
-schultz : FOOT
-schwa : PALM
-schwarzenegger : DRESS
-sci-fi : PRICE
-science : PRICE ; COMMA
-scientific : KIT
-scirocco : KIT
-scissor : LETTER
-scissors : KIT
-scoop : GOOSE
-scoot : GOOSE
-scooter : GOOSE
-scope : GOAT
-scorbutic : NORTH
-scorch : NORTH
-score : FORCE
-scoreboard : FORCE
-scorecard : START ; FORCE
-scorer : LETTER
-scorn : NORTH
-scotch : LOT
-scotch-tape : LOT
-scotland : COMMA
-scotsman : LOT
-scourer : MOUTH
-scouring : MOUTH
-scouse : MOUTH
-scout : MOUTH
-scrape : FACE
-scrapheap : FLEECE
-scratch : TRAP
-screech : FLEECE
-screech-owl : MOUTH
-screen : FLEECE
-screenshot : LOT
-screw : GOOSE
-screwball : GOOSE
-screwdriver : PRICE
-screwworm : GOOSE
-script : KIT
-scrooge : GOOSE
-scrub-brush : STRUT
-scrubs : STRUT
-scrum : STRUT
-scrutiny : GOOSE
-scuba : GOOSE ; COMMA
-scud : STRUT
-scuff : STRUT
-sculpted : STRUT
-sculpture : STRUT
-scunthorpe : NORTH
-scythe : PRICE
-sea : FLEECE
-sea-bathing : FACE
-sea-level : DRESS
-sea-lion : PRICE
-seabed : DRESS
-seaboard : FLEECE
-seaborg : NORTH
-seafarer : SQUARE
-seafaring : SQUARE
-seafood : GOOSE
-seaforth : NORTH ; FORCE
-seagreen : FLEECE
-seagull : STRUT
-seaham : NEAR
-seahorse : NORTH
-seam : FLEECE
-seamless : FLEECE
-seamus : FACE
-sean : THOUGHT
-search : NURSE
-search-party : NURSE
-searchlight : PRICE ; NURSE
-seared : NEAR
-sears : NEAR
-seashore : FORCE
-seaside : PRICE
-seat : FLEECE
-seaweed : FLEECE
-sebaceous : FACE
-sebring : FLEECE
-sebum : FLEECE
-secluded : GOOSE
-seclusion : GOOSE
-second : DRESS ; COMMA
-second-class : BATH
-second-hand : TRAP
-seconds : DRESS
-secret : KIT ; FLEECE
-secretariat : SQUARE
-secretary : DRESS ; COMMA
-section : DRESS
-sector : DRESS ; LETTER
-secure : CURE
-security : KIT ; CURE ; COMMA
-sedgemoor : FORCE ; CURE
-see : FLEECE
-see-through : GOOSE
-seed : FLEECE
-seeger : FLEECE
-seeing : FLEECE
-seek : FLEECE
-seem : FLEECE
-seen : FLEECE
-seer : NEAR
-seersucker : STRUT ; NEAR
-seesawed : THOUGHT
-seesaws : THOUGHT
-sega : FACE ; COMMA
-segment : DRESS
-segmental : DRESS
-segmented : DRESS
-seinfeld : DRESS
-seizure : LETTER
-select : KIT ; DRESS
-self : DRESS
-self-absorbed : NORTH
-self-assured : CURE
-self-congratulatory : TRAP
-self-employment : CHOICE
-self-righteous : PRICE
-self-sacrificing : PRICE
-self-service : NURSE
-selfie : HAPPY
-selfsame : FACE
-selina : COMMA
-sell : DRESS
-sell-out : MOUTH
-seller : DRESS ; LETTER
-sellotape : FACE
-selma : COMMA
-semaphore : FORCE
-semiautomatic : THOUGHT
-seminar : START
-semiquaver : FACE
-semivowel : MOUTH
-send : DRESS
-sender : LETTER
-senghenydd : DRESS
-senile : PRICE
-senior : FLEECE
-sensation : DRESS
-sense-organ : NORTH
-sensitivity : KIT
-sensor : LETTER
-sensorial : FORCE
-sent : DRESS
-separate : DRESS ; COMMA ; (LETTER)
-september : DRESS ; LETTER
-septennial : DRESS
-septet : DRESS
-sequel : FLEECE
-sequence : FLEECE
-sequin : FLEECE
-sequoia : CHOICE
-serape : PALM
-serbia : NURSE
-serbo-croat : TRAP ; GOAT
-sere : NEAR
-serene : (KIT) ; (DRESS) ; FLEECE
-serf : NURSE
-serge : NURSE
-sergeant : START
-sergei : NURSE
-sergey : NURSE
-series : NEAR
-serious : NEAR ; COMMA
-serpent : NURSE
-serpentine : NURSE
-serrano : PALM
-servant : NURSE
-server : LETTER ; NURSE
-service : KIT ; COMMA ; NURSE
-serving : NURSE
-session : DRESS
-set : DRESS
-set-to : DRESS
-set-up : DRESS ; STRUT
-seth : DRESS
-seurat : NURSE
-seven : DRESS
-sevenoaks : GOAT
-several : DRESS
-severe : NEAR ; COMMA
-severely : NEAR
-severer : NEAR
-severest : NEAR
-sew : GOAT
-sewed : GOAT
-sewn : GOAT
-sex : DRESS
-sex-starved : START
-sexploitation : CHOICE
-sexual : GOOSE
-seychelles : FACE
-seymour : FORCE
-shade : FACE
-shadow : TRAP
-shadows : GOAT
-shaeffer : FACE
-shaft : BATH
-shaggy : HAPPY
-shah : PALM
-shairp : SQUARE
-shaka : PALM
-shake : FACE
-shakespeare : FACE ; NEAR
-shakira : COMMA
-shall : TRAP
-shame : FACE
-shampoo : TRAP ; GOOSE
-shan : PALM
-shane : FACE
-shanghai : TRAP
-shape : FACE
-sharapova : COMMA
-share : SQUARE
-sharecropper : SQUARE
-shares : SQUARE
-shareware : SQUARE
-sharing : SQUARE
-sharjah : PALM ; START
-shark : START
-sharon : TRAP
-sharp : START
-sharpe : START
-sharpener : START
-sharples : START
-sharply : START
-sharpshooter : START
-shatterproof : GOOSE
-shaun : THOUGHT
-shave : FACE
-shaving-brush : STRUT
-shawm : THOUGHT
-shawn : THOUGHT
-shawnee : HAPPY
-shawshank : TRAP ; THOUGHT
-she : FLEECE
-she-devil : DRESS
-shear : NEAR
-sheard : SQUARE
-shearling : NEAR
-shearwater : NEAR
-sheba : FLEECE ; COMMA
-sheboygan : CHOICE
-sheen : FLEECE
-sheep : FLEECE
-sheer : NEAR
-sheerness : NEAR
-sheet : FLEECE
-sheeting : FLEECE
-sheffield : DRESS
-sheik : FACE
-sheikh : FACE
-sheila : COMMA
-shemozzle : LOT
-sherborne : NURSE
-sherbourne : CURE
-shere : NEAR
-sherlock : LOT ; NURSE
-sherman : NURSE
-sherpa : COMMA ; NURSE
-sherwin : NURSE
-sherwood : NURSE
-shibboleth : DRESS
-shift : KIT
-shijiazhuang : PALM
-shillibeer : NEAR
-shine : PRICE
-ship : KIT
-shipshape : FACE
-shiremoor : FORCE ; CURE
-shirley : NURSE
-shirt : NURSE
-shitload : GOAT
-shiva : COMMA
-shod : LOT
-shoe : GOOSE
-shoe-leather : DRESS
-shoeshine : GOOSE
-shogun : GOAT
-shook : FOOT
-shoot : GOOSE
-shop : LOT
-shop-boys : CHOICE
-shophar : GOAT
-shopkeeper : FLEECE
-shopper : LETTER
-shore : FORCE
-shoreline : FORCE
-short : NORTH
-short-circuit : NORTH
-short-crust : STRUT
-short-lived : FORCE
-shortcomings : STRUT
-shortcut : STRUT
-shoshanna : GOAT
-shoshone : GOAT
-shotgun : STRUT
-should : FOOT ; COMMA
-shoulder : LETTER
-shoulder-strap : TRAP
-shout : MOUTH
-shovel : STRUT
-show : GOAT
-show-jumping : GOAT
-show-stopping : GOAT
-show-window : GOAT
-showbiz : GOAT
-showboat : GOAT
-showcase : FACE ; GOAT
-showed : GOAT
-shower : MOUTH
-shower-baths : BATH
-showgirl : GOAT
-showground : GOAT
-showjumping : STRUT
-showman : GOAT
-shown : GOAT
-showroom : GOAT
-shows : GOAT
-shrew-mouse : MOUTH
-shrewsbury : GOAT
-shrink-wrap : TRAP
-shroud : MOUTH
-shrug : STRUT
-shrunk : STRUT
-shuffle : STRUT
-shufti : FOOT
-shush : FOOT
-shut : STRUT
-shutdown : STRUT
-shutter : STRUT
-shuttle : STRUT
-siberian : PRICE
-sibling : KIT
-sick : KIT
-side : PRICE
-sideboard : FORCE
-sidewalk : THOUGHT
-siegmund : FOOT
-sienna : COMMA
-sierra : SQUARE ; COMMA
-sigh : PRICE
-sighs : PRICE
-sight : PRICE
-sightseeing : PRICE
-sigma : COMMA
-sign : PRICE
-signage : PRICE
-signal : KIT
-signature : KIT ; COMMA
-significant : KIT
-signifies : PRICE
-signors : NORTH
-signposted : PRICE
-sigourney : FORCE
-silence : PRICE
-silent : PRICE
-silicone : GOAT
-siliqua : COMMA
-silky : HAPPY
-silver : KIT ; LETTER ; COMMA
-silverman : LETTER
-silverstone : GOAT
-silverware : SQUARE
-silvie : HAPPY
-simba : COMMA
-similar : LETTER ; COMMA
-similarly : LETTER
-simon : PRICE
-sinatra : PALM
-sincere : NEAR
-sincerely : NEAR
-sinclair : SQUARE
-sinead : FACE
-sinecure : CURE
-singapore : FORCE ; COMMA
-singer : (LETTER)
-sinhala : PALM
-siphon : PRICE
-sir : LETTER ; NURSE
-siracusa : COMMA
-sirloin : CHOICE ; NURSE
-sirs : NURSE
-sister : KIT
-sistine : FLEECE
-sit : KIT
-sitcom : LOT
-site : PRICE
-sittingbourne : FORCE
-situated : GOOSE
-situation : KIT ; GOOSE
-situationality : FACE
-six : KIT
-size : PRICE
-ska : PALM
-skateboard : FORCE
-skegness : DRESS
-skelmanthorpe : NORTH
-sketch : DRESS
-sketchers : DRESS
-skew : GOOSE
-skew-whiff : GOOSE
-skewbald : THOUGHT
-skewed : GOOSE
-skewer : GOOSE
-ski : FLEECE
-ski-jump : STRUT
-skibob : LOT ; FLEECE
-skies : PRICE
-skijoring : FLEECE
-skills : KIT
-skin-tight : PRICE
-skip : KIT
-skirt : NURSE
-skiwear : SQUARE
-skull : STRUT
-skuzzy : STRUT
-sky : PRICE
-sky-blue : PRICE
-sky-high : PRICE
-skydiving : PRICE
-skyjack : PRICE
-skylab : TRAP
-skylark : START
-skylight : PRICE
-skyline : PRICE
-skype : PRICE
-skyscraper : FACE ; LETTER
-skywalker : THOUGHT ; PRICE
-skyward : PRICE
-slade : FACE
-slagheap : FLEECE
-slapdash : TRAP
-slather : TRAP
-slave : FACE
-slazenger : TRAP
-sleek : FLEECE
-sleep : FLEECE
-sleepeezee : HAPPY
-sleeper : LETTER
-sleeping-bag : TRAP
-sleepwalking : THOUGHT
-sleepy : FLEECE
-sleet : FLEECE
-sleigh-bells : FACE
-sleight : PRICE
-sleipnir : FACE
-sleuth : GOOSE
-slice : PRICE
-slide : PRICE
-slight : PRICE
-sligo : PRICE
-slimmer : LETTER
-slinger : LETTER
-slip-coach : GOAT
-slipcover : STRUT
-slips : KIT
-slipstream : FLEECE
-slithered : KIT
-sliwa : COMMA
-sloe-gin : GOAT
-slog : CLOTH
-slogan : GOAT
-slogging : LOT
-slope : GOAT
-slotted : LOT
-slouch : MOUTH
-slouch-hat : MOUTH
-slovak : GOAT
-slovakia : COMMA
-slovenia : COMMA
-slovenly : STRUT
-slow-motion : GOAT
-slow-worm : GOAT
-slowcoach : GOAT
-slowly : GOAT
-slowpoke : GOAT
-slows : GOAT
-sludge : STRUT
-slug : STRUT
-slumdog : LOT
-slur : NURSE
-slurry : STRUT
-slurs : NURSE
-slush : STRUT
-slytherin : KIT
-small : THOUGHT
-smaller : LETTER
-smart : START
-smash : TRAP
-smear : NEAR
-smear-words : NEAR
-smee : HAPPY
-smethwick : DRESS
-smile : PRICE
-smith : KIT
-smithereens : KIT
-smithy : KIT ; HAPPY
-smog : CLOTH
-smoke : GOAT
-smoke-cured : CURE
-smoking : GOAT
-smooch : GOOSE
-smooth-tongued : STRUT
-smooths : GOOSE
-smorgasbord : NORTH
-smother : STRUT
-sms : DRESS
-smudge : STRUT
-smuggler : STRUT
-smurfs : NURSE
-smythe : PRICE
-snaefell : FACE
-snafu : TRAP
-snail : FACE
-snaith : FACE
-snake : FACE
-snap : TRAP
-snapdragon : TRAP
-snape : FACE
-snapshot : TRAP ; LOT
-snare-drum : STRUT ; SQUARE
-sneak : FLEECE
-sneaky : HAPPY
-sniper : PRICE
-sno-cat : TRAP
-snoop : GOOSE
-snooze : GOOSE
-snorkel : NORTH
-snort : NORTH
-snow : GOAT
-snow-capped : GOAT
-snow-covered : STRUT
-snow-white : GOAT ; PRICE
-snowboard : GOAT ; FORCE
-snowden : GOAT
-snowdonia : GOAT
-snowdrops : LOT
-snowfall : GOAT
-snowfield : GOAT
-snowflake : GOAT
-snowman : GOAT
-snowmelt : GOAT
-snowmobile : GOAT
-snowplough : MOUTH
-snowplow : MOUTH
-snows : GOAT
-snowshoes : GOAT
-snowstorm : GOAT
-snuff : STRUT
-snug : STRUT
-snuggle : STRUT
-so-so : GOAT
-soak : GOAT
-soap : GOAT
-soapsuds : STRUT
-soar : START ; FORCE
-soaraway : FORCE
-soared : FORCE
-soaring : FORCE
-sober : GOAT
-soccer : LETTER
-social : GOAT
-socialite : PRICE
-society : PRICE ; COMMA
-sociology : COMMA
-sociopath : TRAP
-soda : GOAT ; COMMA
-sodium : GOAT
-sofa : GOAT ; COMMA
-sofas : COMMA
-sofia : COMMA
-soft : CLOTH
-soft-boiled : CHOICE
-software : SQUARE
-soggy : LOT ; HAPPY
-soil : CHOICE
-solar : GOAT ; LETTER
-solaris : START
-sold : GOAT
-soldering-iron : PRICE
-soldier : LETTER
-sole : GOAT
-solenoid : CHOICE
-solid : KIT
-solitaire : SQUARE
-solitude : GOOSE
-solo : GOAT
-solomon : LOT
-solubility : FOOT
-solution : GOOSE
-solving : LOT
-soma : GOAT ; COMMA
-somali : PALM
-somalia : PALM
-sombrero : LOT
-some : STRUT ; COMMA
-somebody : STRUT
-somehow : STRUT ; MOUTH
-someone : STRUT
-somersault : THOUGHT
-somerset : DRESS ; STRUT ; LETTER
-somerville : LETTER
-something : STRUT
-sometimes : STRUT ; PRICE
-somewhat : LOT ; STRUT
-somewhere : STRUT ; SQUARE
-sommelier : LOT
-son : STRUT
-sonata : PALM
-song : CLOTH
-songwriter : PRICE
-sony : GOAT
-soon : GOOSE
-soot : FOOT
-sooth : GOOSE
-soothes : GOOSE
-soothsayer : GOOSE
-sophia : FLEECE ; NEAR
-sophie : GOAT ; HAPPY
-sophisticated : COMMA
-sophronia : GOAT
-sorbet : NORTH
-sorbitol : LOT ; NORTH
-sorbonne : NORTH
-sorcerer : LETTER
-sore : FORCE
-sorghum : NORTH
-sorrel : (CLOTH)
-sorrow : (CLOTH)
-sorrowful : GOAT
-sorry : (CLOTH)
-sort : NORTH
-sortie : HAPPY
-sotheby : STRUT
-soubrette : GOOSE
-souffle : GOOSE
-sought-after : THOUGHT
-soul : GOAT
-sound : MOUTH
-soundproofing : GOOSE
-soundtrack : TRAP
-soup : GOOSE
-sour : MOUTH
-source : FORCE
-sourdine : FORCE ; CURE
-sourer : MOUTH
-souring : MOUTH
-south : MOUTH
-southall : THOUGHT
-southampton : TRAP ; MOUTH
-southbound : MOUTH
-southeast : MOUTH
-southeastern : MOUTH
-southeastward : MOUTH
-southern : STRUT ; LETTER
-southerners : STRUT
-southey : HAPPY ; (STRUT) ; (MOUTH)
-southgate : MOUTH
-southpaws : THOUGHT
-southport : MOUTH ; FORCE
-southsea : HAPPY
-southward : MOUTH
-southwark : STRUT
-southwell : MOUTH
-southwest : MOUTH
-southwesterly : MOUTH
-souvenir : GOOSE
-souvenirs : NEAR
-souza : COMMA
-sovereign : LOT
-soviet : (GOAT) ; (LOT)
-sow : GOAT ; MOUTH
-sow-bread : MOUTH
-soy : CHOICE
-soya : CHOICE
-soybean : FLEECE ; CHOICE
-soyuz : GOOSE
-spa : PALM
-space : FACE
-space-heater : FLEECE
-spacefarer : SQUARE
-spacious : FACE
-spaghetti : HAPPY
-spain : FACE
-spalding : THOUGHT
-spandau : MOUTH
-spanish : TRAP
-spar : START
-spare : SQUARE
-spared : SQUARE
-sparely : SQUARE
-spareness : SQUARE
-spares : SQUARE
-sparing : SQUARE
-spark : START
-sparkler : START
-sparkling : START
-sparkplug : STRUT
-sparrows : GOAT
-sparse : START
-spasticity : TRAP
-spathe : FACE
-spatial : FACE
-speak : FLEECE
-speaker : FLEECE ; LETTER
-spear : NEAR
-spears : NEAR
-spearwort : NEAR
-special : DRESS
-specialist : DRESS ; (COMMA)
-speciality : DRESS ; (FLEECE) ; (HAPPY)
-specialized : PRICE
-specie : HAPPY
-specific : KIT ; COMMA
-specified : PRICE
-specify : PRICE
-spectacle : COMMA
-spectacular : DRESS ; FOOT ; LETTER ; (COMMA)
-speech : FLEECE
-speed : FLEECE
-speedometer : (FLEECE)
-speir : NEAR
-spencer : LETTER
-spennymoor : FORCE ; CURE
-spew : GOOSE
-spewed : GOOSE
-sphenoidal : FLEECE ; CHOICE
-sphere : NEAR
-spice : PRICE
-spicy : PRICE
-spiderweb : DRESS
-spike : PRICE
-spinoza : COMMA
-spiral : PRICE
-spiritual : KIT
-spirituality : KIT
-spirograph : GOAT
-spitfire : PRICE
-splash : TRAP
-splayfoot : FACE
-split : KIT
-sploshing : LOT
-splurge : NURSE
-spoiler : CHOICE
-spoilt : CHOICE
-spoke : GOAT
-spokespeople : FLEECE
-spokeswoman : FOOT
-sponsor : LETTER
-sponsorship : LETTER
-spoof : GOOSE
-spooky : GOOSE
-spoon : GOOSE
-spoor : CURE ; (FORCE)
-spoors : CURE
-spore : FORCE
-sport : FORCE
-sportswear : SQUARE
-spot-on : LOT
-spotlight : PRICE
-spotting : LOT
-spouse : MOUTH
-sprays : FACE
-spread : DRESS
-spreadsheet : FLEECE
-springer : LETTER
-springsteen : FLEECE
-springy : HAPPY
-spruce : GOOSE
-spuds : STRUT
-spur : NURSE
-spur-of-the-moment : NURSE
-spuriousness : GOOSE
-spurs : NURSE
-spy : PRICE
-spyglass : PRICE
-square : SQUARE
-square-shouldered : SQUARE
-square-toed : SQUARE
-squared : SQUARE
-squarely : SQUARE
-squareness : SQUARE
-squares : SQUARE
-squawk : THOUGHT
-squeaky : FLEECE
-squeaky-clean : FLEECE
-squeamish : FLEECE
-squeegee : FLEECE ; HAPPY
-squishy : HAPPY
-srebrenica : COMMA
-stab : TRAP
-stability : COMMA
-stabilize : FACE
-stable : FACE
-staccato : PALM
-stacey : HAPPY
-stacy : FACE
-stadium : FACE
-staff : BATH
-staffing : BATH
-stafford : TRAP
-staffordshire : TRAP
-stag : TRAP
-stage : FACE
-stagecoach : FACE ; GOAT
-stagger : TRAP
-stainforth : NORTH ; FORCE
-stainless : FACE
-stair : SQUARE
-stair-carpet : SQUARE ; START
-staircase : SQUARE
-stairs : SQUARE
-stairway : SQUARE
-stairwell : SQUARE
-stake : FACE
-stakeholder : FACE ; GOAT
-stale : FACE
-stalin : PALM
-stalking : THOUGHT
-stance : BATH
-stand-up : STRUT
-standard : TRAP ; LETTER
-standby : PRICE
-standee : HAPPY
-stansted : DRESS
-stanza : COMMA
-staple : FACE
-stapleton : FACE
-star : START
-star-gazer : FACE
-star-studded : STRUT
-starboard : START
-starbucks : STRUT ; START
-starch : START
-stardust : STRUT
-stares : SQUARE
-starfish : START
-staring : SQUARE
-starlet : START
-starring : START
-starship : START
-start : START
-starvation : START
-starved : START
-starveling : START
-starwort : START
-stash : TRAP
-state : FACE
-statement : FACE
-statham : FACE
-static : TRAP
-station : FACE
-stationery : FACE
-statistics : KIT ; COMMA
-statoil : CHOICE
-statue : TRAP ; GOOSE
-statues : GOOSE
-status : COMMA
-statutes : GOOSE
-statutory : TRAP
-stayed : FACE
-stays : FACE
-steadfast : BATH
-steak : FACE
-steakhouse : FACE ; MOUTH
-steam : FLEECE
-steam-heat : FLEECE
-steamer : FLEECE
-steatopygia : PRICE
-steep : FLEECE
-steer : NEAR
-steerage : NEAR
-steering : NEAR
-steering-gear : NEAR
-stegosaurus : NORTH
-steiger : PRICE
-stella : COMMA
-stendhal : PALM
-stentorian : FORCE
-stepbrother : STRUT
-stepdaughter : THOUGHT
-stepfather : PALM
-stephanie : DRESS
-stepmother : STRUT
-stepson : STRUT
-stereotype : PRICE
-sterling : NURSE
-stern : (NURSE) ; (SQUARE)
-steroids : CHOICE
-stethoscope : DRESS
-stevie : HAPPY
-steward : GOOSE
-stewart : LETTER
-stewed : GOOSE
-stick : KIT
-stick-in-the-mud : STRUT
-sticker : LETTER
-stigmata : PALM
-still : KIT
-still-life : PRICE
-stinger : LETTER
-stir : NURSE
-stir-fry : NURSE
-stirrer : NURSE
-stirs : NURSE
-stitch : KIT
-stivichal : PRICE
-stockhausen : MOUTH
-stockholm : GOAT
-stockjobber : LOT
-stockport : FORCE
-stodgy : LOT
-stogey : HAPPY
-stoke : GOAT
-stoke-on-trent : LOT
-stolen : GOAT
-stomach : STRUT ; COMMA
-stone : GOAT
-stonemason : FACE
-stood : FOOT
-stooges : GOOSE
-stool : GOOSE
-stop : LOT
-stopwatch : LOT
-store : FORCE
-storehouse : FORCE
-storeroom : FORCE
-storey : HAPPY
-stork : NORTH
-storm : NORTH
-storm-cloud : MOUTH
-stormtrooper : GOOSE
-stormzy : NORTH
-story : FORCE ; HAPPY
-stourmouth : MOUTH
-stout : MOUTH
-stove : GOAT
-stowmarket : GOAT
-strachey : FACE ; HAPPY
-stradey : HAPPY
-straight : FACE
-straight-forward : NORTH
-straightedge : DRESS
-straighten : FACE
-straightforward : FACE
-strain : FACE
-strait : FACE
-strange : FACE
-stranger : LETTER
-strap : TRAP
-strasbourg : TRAP
-strategic : FLEECE
-strategies : COMMA
-strategy : TRAP ; HAPPY ; COMMA
-strathclyde : TRAP
-strathcona : TRAP
-strathmore : TRAP
-strathspey : TRAP
-stratopause : THOUGHT
-stratosphere : NEAR
-stratospheres : NEAR
-strauss : MOUTH
-strawberry : THOUGHT
-straws : THOUGHT
-streak : FLEECE
-stream : FLEECE
-streamer : FLEECE
-streamline : FLEECE
-street : FLEECE
-strength : DRESS
-strenuous : GOOSE
-stress-marks : START
-stretch : DRESS
-stretcher : DRESS
-stretcher-bearer : SQUARE
-stretchy : HAPPY
-striker : PRICE ; LETTER
-striking : PRICE
-stringer : LETTER
-stringy : HAPPY
-strip : KIT
-stripe : PRICE
-strive : PRICE
-stroke : GOAT
-stroll : GOAT
-strong : CLOTH
-strongarm : START
-stronger : LETTER
-stronghold : GOAT
-strophe : GOAT ; HAPPY
-stroud : MOUTH
-strowger : MOUTH
-struck : STRUT
-structural : STRUT
-structure : STRUT ; LETTER
-struggle : STRUT
-struggling : STRUT
-strut : STRUT
-struth : GOOSE
-struthers : STRUT
-stuck : STRUT
-stud : STRUT
-student : GOOSE
-studios : GOAT
-study : STRUT ; HAPPY
-stuff : STRUT
-stuffing : STRUT
-stumble : STRUT
-stunk : STRUT
-stunning : STRUT
-stupa : COMMA
-stupendous : GOOSE
-stupid : GOOSE
-stupidity : GOOSE
-sturdy : NURSE
-stuttgart : START
-style : PRICE
-stylus : PRICE
-stymie : HAPPY
-suarez : DRESS ; START
-sub : STRUT
-subaqua : COMMA
-subassembly : DRESS
-subculture : STRUT
-subdivision : KIT
-subject : DRESS ; STRUT ; COMMA
-sublime : STRUT ; PRICE
-submariner : STRUT
-submerge : NURSE
-submit : KIT ; COMMA
-suborder : NORTH
-subscribe : PRICE ; COMMA
-subscription : KIT
-subsequently : STRUT
-subsoil : CHOICE
-substantial : BATH
-substantiate : BATH
-substitute : STRUT ; GOOSE
-substitution : GOOSE
-subterfuge : GOOSE
-subtitles : PRICE
-subtle : STRUT
-subtotal : GOAT
-subtype : PRICE
-suburban : NURSE
-subversion : NURSE
-subway : STRUT
-success : COMMA
-successor : LETTER
-succubus : FOOT
-such : STRUT
-sucrose : GOAT ; GOOSE
-sudan : GOOSE ; BATH
-sudbury : STRUT
-sudden : STRUT
-suddenly : STRUT
-sudoku : GOOSE
-suds : STRUT
-sue : GOOSE
-sued : GOOSE
-suede : FACE
-sues : GOOSE
-suffer : STRUT ; LETTER
-sufferer : STRUT ; LETTER
-suffering : STRUT
-sufficient : COMMA
-suffix : STRUT
-suffolk : STRUT ; COMMA
-suffusion : GOOSE
-sufi : GOOSE ; HAPPY
-sugar : FOOT ; LETTER
-sugar-beet : FOOT ; FLEECE
-sugarcane : FOOT ; FACE
-sugary : FOOT
-suggest : COMMA
-suggestion : COMMA
-suicide : GOOSE ; PRICE
-suing : GOOSE
-suit : GOOSE
-suitability : GOOSE
-suitable : COMMA
-suite : FLEECE
-sulawesi : GOOSE ; HAPPY
-sulfur : LETTER
-sulfuric : STRUT
-sullivan : STRUT
-sulpha : COMMA
-sultana : STRUT ; PALM
-sumatra : PALM ; GOOSE
-sumerian : GOOSE
-summary : STRUT ; LETTER ; COMMA
-summer : STRUT ; LETTER
-summit : STRUT
-sumo : GOOSE
-sun : STRUT
-sun-parlour : START
-sun-porch : FORCE
-sunbathe : FACE
-sunbathed : FACE
-sunbathing : FACE
-sunbeam : FLEECE
-sunbed : DRESS
-sunday : STRUT
-sunderland : LETTER
-sunflower : MOUTH
-sung : STRUT ; FOOT
-sunk : STRUT
-sunlight : PRICE
-sunni : FOOT
-sunrise : PRICE
-sunroof : GOOSE
-sunset : DRESS
-sunshade : FACE
-sunshine : PRICE
-super : GOOSE ; LETTER
-superb : GOOSE ; NURSE
-superbly : GOOSE ; NURSE
-supercargo : START
-supercharge : LETTER
-supercharger : START
-superego : FLEECE
-superfluous : NURSE
-supergirl : LETTER
-superglue : LETTER
-superhighway : PRICE
-superior : GOOSE ; NEAR
-superlative : GOOSE
-supermarket : START ; LETTER
-supernova : GOAT ; COMMA
-supersede : FLEECE
-superstar : START
-superstore : FORCE
-supervise : GOOSE ; LETTER
-supervision : KIT
-supervisor : LETTER
-supper : STRUT
-supplement : STRUT
-supplied : PRICE
-supplier : PRICE
-supplies : PRICE
-supply : PRICE ; COMMA
-support : FORCE ; COMMA
-supported : COMMA
-supposed : GOAT
-suppository : LOT
-supremacist : GOOSE
-supremacy : GOOSE
-supreme : FLEECE ; GOOSE
-supremo : GOOSE
-surbiton : NURSE
-surcharge : START ; NURSE
-surf : NURSE
-surface : NURSE
-surface-to-air : NURSE
-surfboard : NURSE
-surfer : LETTER
-surfing : NURSE
-surge : NURSE
-surgeon : NURSE
-surgery : NURSE
-surly : NURSE
-surname : FACE ; NURSE
-surpass : BATH ; LETTER
-surplus : NURSE
-surprise : PRICE ; (LETTER)
-surprisingly : LETTER
-surreal : NEAR
-surrey : STRUT ; HAPPY
-surrounding : MOUTH
-surveillance : FACE
-survey : LETTER ; NURSE
-surveys : FACE
-survive : PRICE ; LETTER
-sushi : GOOSE ; HAPPY
-susie : HAPPY
-suspect : DRESS ; STRUT
-sussex : STRUT
-susskind : FOOT
-sustainable : FACE
-sutherland : STRUT ; LETTER
-sutton : STRUT
-suture : GOOSE
-suzanne : GOOSE
-suzie : HAPPY
-suzuki : HAPPY ; COMMA
-svalbard : START
-svengali : DRESS
-swaddling-clothes : GOAT
-swallowed : GOAT
-swallows : GOAT
-swami : PALM
-swanee : HAPPY
-swansea : HAPPY
-swapo : PALM
-swaraj : PALM
-swarajist : PALM
-swarfega : NORTH
-swarthy : HAPPY
-swatch : LOT
-swazi : PALM
-swaziland : TRAP ; PALM
-swear : SQUARE
-swearer : SQUARE
-swearing : SQUARE
-swearword : SQUARE
-swedenborg : NORTH
-sweep : FLEECE
-sweeper : FLEECE
-sweet : FLEECE
-sweet-talk : THOUGHT
-sweetheart : FLEECE ; START
-sweetie : HAPPY
-swift : KIT
-swimming-baths : BATH
-swimming-trunks : STRUT
-swimwear : SQUARE
-swinger : LETTER
-swipe : PRICE
-swirl : NURSE
-switch : KIT
-switchboard : FORCE
-switchgear : NEAR
-switzerland : LETTER
-swivel : KIT
-swoop : GOOSE
-swoosh : GOOSE
-sword : FORCE
-sword-bearer : SQUARE
-swore : FORCE
-sworn : FORCE
-sycamore : FORCE
-sydney : HAPPY
-sykes : PRICE
-sympathy : HAPPY ; COMMA
-synagogue : LOT
-syndrome : GOAT
-synergy : LETTER
-synthesis : KIT
-syracuse : GOOSE
-system : KIT ; COMMA
-t-junction : STRUT
-tab : TRAP
-tabitha : COMMA
-table : FACE
-table-knife : PRICE
-table-talk : THOUGHT
-tablet : TRAP ; COMMA
-tableware : FACE ; SQUARE
-tabloid : CHOICE
-tabor : FACE
-tachograph : GOAT
-tadzhik : PALM
-tadzhikistan : PALM
-tag : TRAP
-tagalog : LOT
-tahiti : FLEECE
-taiga : PRICE
-tail : FACE
-tailgate : FACE
-tailor : FACE
-taipei : PRICE
-taiwan : PRICE
-taiwanese : PRICE
-taiyuan : PRICE
-tajik : (FLEECE)
-tajikistan : FLEECE ; (TRAP)
-tajine : TRAP
-take : FACE
-take-home : GOAT
-take-off : FACE
-take-up : STRUT
-takeaway : FACE ; COMMA
-takeover : GOAT
-tale : FACE
-talebearing : SQUARE
-talent : TRAP
-talgarth : START
-talitha : COMMA
-talk : THOUGHT
-talkie : HAPPY
-talking-points : CHOICE
-tall : THOUGHT
-tallahasee : HAPPY
-tallboys : CHOICE
-tallulah : GOOSE ; COMMA
-talmud : FOOT
-tambour : FORCE ; CURE
-tambours : CURE
-tame : FACE
-tamera : COMMA
-tameside : FACE
-tampa : COMMA
-tandoori : HAPPY
-tangier : NEAR
-tangy : HAPPY
-tank : TRAP
-tannoy : CHOICE
-tannoys : CHOICE
-tanzania : NEAR
-tanzanian : NEAR
-tap : TRAP
-tape : FACE
-tape-measure : DRESS
-taper : FACE
-tar : START
-tarboosh : GOOSE ; START
-target : START
-tarmac : START
-tarn : START
-tarnish : START
-tarp : START
-tarpaulin : START
-tarpon : START
-tarshish : START
-tarzan : START
-task : BATH
-task-force : BATH ; FORCE
-taskmaster : BATH
-tasmania : TRAP
-taste : FACE
-tasty : FACE
-tata : PALM
-tatham : FACE
-tattoo : TRAP ; GOOSE
-tattooed : GOOSE
-tatum : FACE
-tatung : FOOT
-tau : MOUTH
-taught : THOUGHT
-tauromachy : NORTH
-taurus : NORTH
-tavern : TRAP
-tavistock : LOT
-tax : TRAP
-taxi : HAPPY
-taxicab : TRAP
-tayberry : FACE
-taylor : FACE ; LETTER
-tayport : FACE
-tayside : FACE
-tea : FLEECE
-tea-bag : TRAP
-tea-time : PRICE
-tea-towel : MOUTH
-teach : FLEECE
-teacher : LETTER
-teague : FLEECE
-teak : FLEECE
-team : FLEECE
-teamed : FLEECE
-teamwork : FLEECE
-teapot : LOT
-tear : (NEAR)
-teardrop : NEAR
-tearful : NEAR
-tearing : SQUARE
-tears : NEAR
-tearsheet : SQUARE
-teary : NEAR
-teaser : LETTER
-teaspoon : GOOSE
-tech : DRESS
-techie : HAPPY
-technicolor : STRUT
-technique : DRESS ; FLEECE
-technology : DRESS ; HAPPY ; COMMA
-tecumseh : COMMA
-tee : FLEECE
-teeming : FLEECE
-teen : FLEECE
-teenage : FLEECE ; FACE
-teenager : LETTER
-teepee : HAPPY
-teifi : HAPPY
-telecast : BATH
-telegraph : KIT ; DRESS ; BATH
-telemark : START
-telemarketing : START
-telephone : DRESS ; GOAT
-television : KIT ; DRESS
-televisual : KIT
-tell : DRESS
-telltale : FACE
-telomeres : NEAR
-temperature : DRESS ; (LETTER) ; COMMA
-tempestuous : DRESS
-tempi : HAPPY
-temporary : DRESS ; LETTER ; COMMA
-temptation : DRESS
-tempura : DRESS
-tenderloin : CHOICE
-teniers : NEAR
-tennis : KIT
-tennis-court : FORCE
-tenochtitlan : LOT
-tent-peg : DRESS
-teresa : COMMA
-teriyaki : PALM
-term : NURSE
-termi : SQUARE
-terminal : NURSE
-termination : NURSE
-terpene : NURSE
-terrace : DRESS
-terrain : FACE ; LETTER ; COMMA
-terrestrial : KIT
-terrible : DRESS
-territorial : FORCE
-territoriality : FORCE
-terror : LETTER
-terrorism : DRESS
-terry : DRESS
-tertiary : NURSE
-tessa : COMMA
-test : DRESS
-test-drive : PRICE
-test-tube : GOOSE
-testimonial : GOAT
-tether : DRESS
-teutonic : GOOSE
-tewa : FACE ; COMMA
-texas : COMMA
-text : DRESS
-textile : PRICE
-thai : PRICE
-thailand : TRAP ; PRICE
-thames : DRESS
-than : TRAP ; COMMA
-thanks : TRAP
-that : TRAP ; COMMA
-thatcher : TRAP ; LETTER
-thaumaturge : THOUGHT
-thea : NEAR
-theatre : FLEECE ; COMMA
-thee : FLEECE
-theft : DRESS
-their : SQUARE
-them : DRESS ; COMMA
-theme : FLEECE
-themselves : DRESS
-then : DRESS ; COMMA
-theodore : FORCE
-theologian : GOAT
-theomorphic : NEAR
-theory : FLEECE ; LETTER ; COMMA
-therapeutic : GOOSE
-therapy : DRESS ; HAPPY ; COMMA
-there : SQUARE ; LETTER
-thereby : SQUARE
-therefore : SQUARE ; FORCE
-therefrom : SQUARE
-thereto : SQUARE
-therewith : SQUARE
-thermal : NURSE
-thermocouple : STRUT
-thermoplastic : GOAT
-thermostat : TRAP ; NURSE
-thesaurus : NORTH
-thigh : PRICE
-thigh-highs : PRICE
-thighbone : PRICE
-thighs : PRICE
-thingamabob : LOT
-thingie : HAPPY
-thingy : HAPPY
-think-tank : TRAP
-third : NURSE
-thirteen : (FLEECE)
-thirty : NURSE
-this : KIT
-thomas : LOT ; COMMA
-thong : CLOTH
-thorax : FORCE
-thorium : FORCE
-thorn : NORTH
-thorne : NORTH
-thornton : NORTH
-thoroughbred : STRUT
-thoroughfares : SQUARE
-thoroughly : STRUT
-thorpe : NORTH
-those : GOAT
-thoth : GOAT
-thou : MOUTH
-though : GOAT
-thought : THOUGHT
-thousands : MOUTH
-thread : DRESS
-threat : DRESS
-three : FLEECE
-threshing-floor : FORCE
-thriller : LETTER
-throat : GOAT
-thrombosis : LOT
-throng : CLOTH
-throttle : LOT
-through : GOOSE
-throughout : GOOSE ; MOUTH
-throughway : GOOSE
-throw : GOAT
-thrown : GOAT
-throws : GOAT
-thrush : STRUT
-thruway : GOOSE
-thucydides : GOOSE
-thud : STRUT
-thug : STRUT
-thule : HAPPY
-thumb : STRUT
-thumbnail : STRUT ; FACE
-thundercloud : MOUTH
-thunderstorm : NORTH
-thursday : NURSE
-thus : STRUT
-thyroid : CHOICE
-thyroxine : PRICE
-tiberias : PRICE
-ticket : KIT
-tidmarsh : START
-tie : PRICE
-tier : NEAR
-tierce : NEAR
-tierney : NEAR
-ties : PRICE
-tiger : PRICE ; LETTER
-tiger-lily : PRICE
-tight : PRICE
-tightrope : GOAT
-tigris : PRICE
-tijuana : PALM
-tiktok : LOT
-tile : PRICE
-timberlake : FACE ; LETTER
-timberyard : LETTER
-time : PRICE
-time-exposure : GOAT
-time-lapse : TRAP
-timeline : PRICE
-timeshare : SQUARE
-timesharing : SQUARE
-timetable : FACE ; PRICE
-timex : PRICE
-timisoara : START
-timor : FLEECE
-timothy : HAPPY ; COMMA
-tina : COMMA
-tintagel : TRAP
-tiny : PRICE ; HAPPY
-tip : KIT
-tiptoed : GOAT
-tirade : PRICE
-tirana : PALM
-tire : PRICE
-tired : PRICE
-tissue : GOOSE
-tissues : GOOSE
-titania : PALM
-titanic : PRICE
-titanium : PRICE
-tithe : PRICE
-tithe-barn : PRICE ; START
-title : PRICE
-title-page : FACE
-titmarsh : START
-titmouse : MOUTH
-tito : FLEECE
-tnt : DRESS
-to : GOOSE ; COMMA
-to-do : COMMA
-toast : GOAT
-toasting-fork : NORTH
-tobago : FACE
-tobey : HAPPY
-toby : GOAT
-toccata : PALM
-today : COMMA
-toddler : LOT
-toe : GOAT
-toe-rag : GOAT
-toffee : HAPPY
-tofu : GOAT
-toga : COMMA
-together : DRESS ; LETTER ; COMMA
-togetherness : DRESS
-togo : GOAT
-toil : CHOICE
-toilet : CHOICE
-toiletries : CHOICE
-toilette : PALM
-tokelau : MOUTH
-token : GOAT
-tokyo : GOAT
-told : GOAT
-toll : GOAT
-tolled : GOAT
-tolstoy : CHOICE
-tom : LOT
-tomatoes : GOAT
-tomb : GOOSE
-tombola : LOT
-tomboy : CHOICE
-tome : GOAT
-tomintoul : MOUTH
-tommie : HAPPY
-tomorrow : (CLOTH)
-tomtom : LOT
-tone : GOAT
-toneme : FLEECE
-tonga : COMMA
-tongs : CLOTH
-toni : HAPPY
-tonight : PRICE
-tonsure : LETTER
-tony : GOAT
-too : GOOSE
-took : FOOT
-toolbox : LOT
-tools : GOOSE
-tooth : GOOSE
-toothbrush : STRUT
-toothless : GOOSE
-toothpaste : FACE ; GOOSE
-toothsome : GOOSE
-tooting : GOOSE
-tootsie : FOOT
-top : LOT
-top-dog : LOT
-topaz : TRAP
-topic : LOT
-topnotch : LOT
-topsoil : CHOICE
-torch : NORTH
-torch-singer : NORTH
-tore : FORCE
-torment : NORTH
-torn : FORCE
-tornado : FACE ; NORTH
-torpedo : NORTH
-torpoint : CHOICE
-torpor : NORTH
-torque : NORTH
-torres : DRESS
-tors : NORTH
-torso : NORTH
-tort : NORTH
-tortuga : COMMA
-tortuous : NORTH
-torture : NORTH
-torturous : NORTH
-torus : FORCE
-torvalds : NORTH
-torvill : NORTH
-tory : FORCE
-toshiba : FLEECE ; COMMA
-toss : CLOTH
-total : GOAT
-totally : COMMA
-tote : GOAT
-toucan : GOOSE
-touch : (STRUT) ; (MOUTH)
-touch-and-go : STRUT
-touch-screen : STRUT
-touch-tone : STRUT
-touch-typing : STRUT
-touchdown : STRUT
-touchpad : TRAP ; STRUT
-touchscreen : FLEECE
-touchwood : STRUT
-touchy : STRUT
-tough : STRUT
-tougher : LETTER
-toughie : HAPPY
-toulouse-lautrec : GOOSE
-tour : (FORCE) ; CURE
-toured : CURE
-touring : FORCE ; CURE
-tourism : FORCE ; COMMA
-tourist : FORCE ; CURE
-touristic : FORCE ; CURE
-touristy : FORCE
-tourmaline : CURE
-tournament : FORCE ; CURE
-tournedos : CURE
-tours : CURE
-tout : MOUTH
-tow : GOAT
-towbar : START
-towed : GOAT
-towel : MOUTH
-tower : MOUTH
-town : MOUTH
-townee : HAPPY
-townspeople : FLEECE
-towpath : BATH
-towpaths : BATH
-towrope : GOAT
-toxoplasmosis : TRAP
-toy : CHOICE
-toy-boy : CHOICE
-toyota : GOAT ; COMMA
-toys : CHOICE
-toyshop : CHOICE
-tracey : HAPPY
-track : TRAP
-tracker : LETTER
-trade : FACE
-trademark : FACE ; START
-tradesman : FACE
-tradespeople : FLEECE
-traditional : KIT ; COMMA
-traffic : TRAP
-trafford : TRAP
-tragedy : TRAP
-tragic : TRAP
-trailblazer : FACE
-trailer : FACE ; LETTER
-train : FACE
-trainee : FLEECE
-trainer : LETTER
-trainers : FACE
-traipse : FACE
-trait : FACE
-traitor : FACE
-tranmere : NEAR
-transceiver : BATH
-transcend : BATH
-transcendence : BATH
-transcendentalist : BATH
-transcript : BATH
-transcription : BATH
-transept : DRESS
-transfer : BATH ; NURSE
-transferability : BATH
-transferable : NURSE
-transferase : BATH
-transference : BATH
-transferred : NURSE
-transferring : NURSE
-transfers : NURSE
-transfiguration : BATH
-transform : BATH
-transformation : BATH ; LETTER
-transformed : NORTH
-transformer : NORTH
-transformers : BATH
-transforming : NORTH
-transforms : NORTH
-transfusion : GOOSE ; BATH
-translation : BATH
-translucent : GOOSE
-transmigration : PRICE
-transparency : BATH
-transparent : TRAP ; BATH
-transpire : BATH
-transplant : BATH
-transponder : BATH
-transport : BATH ; FORCE
-transportation : BATH
-transposition : BATH
-transubstantiation : BATH
-transvaal : PALM
-transylvania : BATH
-trap-door : FORCE
-trapdoor : FORCE
-trapezoidal : CHOICE
-trash : TRAP
-trashy : HAPPY
-trattoria : NEAR
-trauma : THOUGHT ; COMMA
-traumatic : THOUGHT
-traumatize : THOUGHT
-travel : TRAP
-travelers : LETTER
-traveller : LETTER
-travelodge : LOT
-travis : TRAP
-travolta : COMMA
-trays : FACE
-trayvon : LOT
-treacherous : DRESS
-treachery : DRESS
-treasure : DRESS ; LETTER
-treasure-trove : DRESS
-treasurer : LETTER
-treasury : DRESS
-treat : FLEECE
-treatment : FLEECE
-treaty : FLEECE
-treble : DRESS
-trebuchet : GOOSE
-trefdraeth : PRICE
-trefoil : CHOICE
-tressure : LETTER
-triad : TRAP
-triangle : TRAP
-triathlon : TRAP
-tribal : PRICE
-tribunal : GOOSE ; PRICE
-tribune : GOOSE
-tributaries : FOOT
-tribute : KIT ; GOOSE
-triceratops : PRICE
-tricia : COMMA
-tried : PRICE
-tries : PRICE
-trifecta : PRICE
-trifoliate : PRICE
-trigeminal : PRICE
-trigger : KIT ; LETTER
-triglyceride : PRICE
-trigonic : PRICE
-trijet : PRICE
-trijugate : PRICE
-trilogy : HAPPY ; COMMA
-trimester : PRICE
-trinidad : TRAP
-trio : FLEECE
-trip : KIT
-tripadvisor : PRICE
-tripod : LOT ; PRICE
-trireme : FLEECE
-trishaw : PRICE
-triumph : PRICE
-triune : GOOSE ; PRICE
-trivago : PALM
-trivalent : PRICE
-triweekly : PRICE
-troika : CHOICE
-trojan : GOAT
-trolleybus : STRUT
-trombone : LOT
-trondheim : PRICE
-troop : GOOSE
-troop-carrier : TRAP
-trophy : GOAT ; HAPPY
-troth : GOAT
-troubadour : GOOSE ; FORCE
-trouble : STRUT
-troubleshooting : GOOSE
-trough : CLOTH
-trouser : LETTER
-trousers : MOUTH
-trout : MOUTH
-trowel : MOUTH
-troy : CHOICE
-truck : STRUT
-trudge : STRUT
-trudgen : STRUT
-true : GOOSE
-truer : GOOSE
-truffle : STRUT
-truffles : STRUT
-truism : GOOSE
-truly : GOOSE
-truncate : STRUT
-truncated : STRUT
-trunk : STRUT
-trunks : STRUT
-truro : CURE
-trust : STRUT
-trusted : STRUT
-trusts : STRUT
-trustworthy : HAPPY
-truth : GOOSE
-truths : GOOSE
-try : PRICE
-try-out : MOUTH
-tryptophan : GOAT
-tsarina : START
-tsunami : PALM ; GOOSE ; HAPPY
-tuareg : DRESS
-tub : STRUT
-tuba : GOOSE ; COMMA
-tube : GOOSE
-tuber : GOOSE
-tuberculosis : GOOSE
-tubthumping : STRUT
-tucson : GOOSE
-tufted : STRUT
-tug : STRUT
-tugendhat : PALM
-tuition : GOOSE
-tulip : GOOSE
-tulsa : COMMA
-tumbleweed : FLEECE
-tummy : STRUT
-tumour : GOOSE
-tumultuous : GOOSE
-tuna : GOOSE
-tune : GOOSE
-tungsten : STRUT
-tungusic : FOOT
-tunic : GOOSE
-tuning-fork : NORTH
-tunisia : GOOSE
-turbine : NURSE
-turbocharge : GOAT ; START
-turbojets : GOAT
-turbulent : NURSE
-turf : NURSE
-turgenev : DRESS
-turkey : HAPPY ; NURSE
-turkmenistan : DRESS ; NURSE
-turks : NURSE
-turmoil : CHOICE
-turn : NURSE
-turn-out : MOUTH
-turnaround : MOUTH
-turner : LETTER ; NURSE
-turning-point : CHOICE
-turnover : GOAT ; NURSE
-turnpike : PRICE
-turpin : NURSE
-turquoise : CHOICE ; NURSE
-turret : STRUT
-turtle : NURSE
-turtledove : STRUT
-turvey : HAPPY
-tush : FOOT
-tushie : HAPPY
-tuskegee : STRUT ; HAPPY
-tutor : GOOSE
-tutorial : GOOSE ; FORCE
-tutu : GOOSE
-tuvalu : PALM ; GOOSE
-tuxedo : STRUT
-tv : FLEECE
-twaites : FACE
-tweak : FLEECE
-tweed : FLEECE
-tweet : FLEECE
-twentieth : COMMA
-twenty-one : HAPPY
-twerking : NURSE
-twice : PRICE
-twilight : PRICE
-twist : KIT
-twitter : KIT ; LETTER
-two : GOOSE
-two-by-four : FORCE
-two-tone : GOAT
-two-way : GOOSE
-twofer : GOOSE
-twyford : PRICE
-tycoon : PRICE
-tyler : PRICE
-tynemouth : MOUTH
-type : PRICE
-typhoid : PRICE ; CHOICE
-typhoon : GOOSE ; PRICE
-typical : KIT
-typo : PRICE
-typography : PRICE
-tyrangiel : COMMA
-tyrannosaurus : NORTH
-tyre : PRICE
-tyrone : GOAT ; PRICE
-tzarina : START
-u-boat : GOOSE
-uber : LETTER
-ubiquity : GOOSE
-ubuntu : (FOOT) ; (GOOSE)
-uccello : GOOSE
-uchimura : FLEECE
-udder : STRUT
-uffizi : GOOSE
-ufo : DRESS
-uganda : GOOSE ; COMMA
-ugly : STRUT
-ugrian : GOOSE
-ukraine : FACE
-ukulele : GOOSE
-ulster : STRUT
-ulterior : STRUT
-ultimate : STRUT
-ultimately : STRUT
-ultra : COMMA
-ultra- : STRUT
-ultrahigh : PRICE
-uluant : GOOSE
-ulysses : GOOSE
-umami : HAPPY
-umbilical : STRUT
-umbrella : STRUT ; COMMA
-umlaut : MOUTH ; (GOOSE) ; (FOOT)
-umpire : PRICE
-umpiring : PRICE
-una : COMMA
-unacceptable : DRESS
-unanimous : GOOSE
-unasked : BATH
-unauthorized : THOUGHT
-unavailable : COMMA
-unaware : SQUARE
-unbearable : SQUARE
-unbiased : PRICE ; COMMA
-uncharacteristically : TRAP
-unclassifiable : PRICE
-uncle : STRUT
-unclear : NEAR
-uncork : NORTH
-uncouth : GOOSE
-uncovered : STRUT
-undamaged : TRAP
-undemocratic : DRESS
-under : STRUT ; LETTER
-underage : FACE
-underbrush : STRUT
-undercarriage : TRAP
-underclothing : GOAT
-undercover : STRUT ; LETTER
-undercurrent : STRUT
-undercut : STRUT
-underemployment : CHOICE
-underfloor : FORCE
-undergarments : START
-undergone : LETTER
-undergraduate : LETTER
-underground : MOUTH ; LETTER
-underneath : LETTER
-underpants : LETTER
-underpin : LETTER
-underscored : FORCE
-undersea : HAPPY
-undershirt : LETTER
-undershoot : LETTER
-undersigned : PRICE
-understand : STRUT ; LETTER
-understated : FACE ; LETTER
-understeer : NEAR
-understood : FOOT
-understudy : STRUT
-undertook : FOOT
-undervalue : LETTER
-underwater : THOUGHT ; LETTER
-underwear : SQUARE ; LETTER
-underwent : LETTER
-underwood : LETTER
-underworld : LETTER
-undoes : STRUT
-unduly : GOOSE
-unearth : NURSE
-unemployed : CHOICE
-unemployment : CHOICE
-unerring : NURSE
-unerringly : NURSE
-unesco : GOOSE
-unfair : SQUARE
-unfairly : SQUARE
-unfairness : SQUARE
-unfaithfulness : FACE
-unfathomable : TRAP
-unforeseen : FORCE
-unforgettable : LETTER
-unforthcoming : FORCE
-unfortunately : NORTH
-ungava : PALM
-ungoverned : STRUT
-uni : HAPPY
-unicef : DRESS
-unicode : GOOSE
-unicorn : GOOSE ; NORTH
-unicycle : GOOSE ; PRICE
-uniform : NORTH
-uninsured : CURE
-union : GOOSE ; (HAPPY) ; (COMMA)
-unique : FLEECE ; GOOSE
-uniroyal : CHOICE
-unisex : DRESS
-unison : GOOSE
-unit : GOOSE
-unitard : KIT
-unite : GOOSE
-united : PRICE
-universal : GOOSE ; NURSE
-university : KIT ; GOOSE ; HAPPY ; NURSE
-unlawful : THOUGHT
-unlikely : PRICE
-unmask : BATH
-unnecessary : DRESS
-unpaid : STRUT ; FACE
-unpainted : STRUT
-unparalleled : STRUT
-unplanned : STRUT
-unpleasant : DRESS
-unplugged : STRUT
-unpopular : STRUT
-unprecedented : STRUT
-unprepossessing : FLEECE
-unpresidential : DRESS
-unpublished : STRUT
-unpunctuality : STRUT
-unquestioned : STRUT
-unreliability : PRICE
-unrighteous : PRICE
-unrighteously : PRICE
-unruly : STRUT
-unsatisfactory : TRAP
-unsavory : STRUT
-unscathed : FACE
-unspoiled : CHOICE
-unsupervised : LETTER
-unsurpassed : LETTER
-until : KIT ; STRUT
-unto : COMMA
-untouchable : STRUT
-untouched : STRUT
-untruths : GOOSE
-unusual : STRUT ; GOOSE
-unveil : FACE
-unwillingly : STRUT
-unworthy : NURSE
-up : STRUT
-upbeat : FLEECE
-upcoming : STRUT
-update : STRUT ; FACE
-upgrade : STRUT ; FACE
-upkeep : FLEECE
-upload : STRUT
-upon : LOT ; COMMA
-upper : STRUT ; LETTER
-uppsala : FOOT ; PALM
-upraise : STRUT
-upright : STRUT ; PRICE
-uproar : FORCE
-uproarious : FORCE
-uproariously : STRUT
-upset : DRESS ; STRUT
-upspeak : FLEECE
-upstairs : STRUT ; SQUARE
-upton : STRUT
-upwards : STRUT
-ural-altaic : BATH
-uranium : FOOT
-urban : NURSE
-urbana : LETTER
-urbane : LETTER
-urchin : NURSE
-urdu : GOOSE ; NURSE
-urethane : KIT
-urged : NURSE
-urgent : NURSE
-uri : CURE
-urinary : CURE
-urine : CURE
-url : DRESS
-urogenital : GOAT
-urologist : CURE
-urology : CURE
-urticaria : NURSE
-uruguay : GOOSE ; CURE ; COMMA ; (PRICE)
-uruguayans : GOOSE
-urwin : NURSE
-us : DRESS ; STRUT ; COMMA
-usa : DRESS
-usage : GOOSE
-usborne : STRUT ; FORCE
-use : GOOSE
-useful : GOOSE
-user : GOOSE ; LETTER
-users : LETTER
-usher : STRUT
-usual : GOOSE
-usually : GOOSE
-usufruct : FOOT
-usurious : GOOSE
-usurpers : GOOSE
-usury : GOOSE
-utah : PALM
-utahan : PALM
-utensils : GOOSE
-uther : LETTER
-uthwatt : STRUT
-utility : GOOSE
-utilize : GOOSE
-utilized : PRICE
-utmost : STRUT ; GOAT
-utopia : GOOSE
-utter : STRUT
-utterly : LETTER
-uvula : GOOSE
-uvular : GOOSE
-uvularization : GOOSE
-uxorious : FORCE
-uyghur : FLEECE
-uzbek : FOOT
-uzbekistan : PALM ; (GOOSE) ; (FOOT)
-uzi : HAPPY
-uzziah : STRUT
-v-sign : PRICE
-vaal : PALM
-vacancy : FACE
-vaccine : FLEECE
-vacuum : GOOSE
-vagotomy : FACE
-vague : FACE
-vainglorious : FORCE
-vale : FACE
-valentine : PRICE
-valerie : HAPPY
-valid : KIT ; TRAP
-valley : TRAP ; HAPPY
-valuable : FOOT
-valuation : GOOSE
-value : TRAP ; GOOSE
-valued : GOOSE
-values : GOOSE
-vampire : PRICE
-van : TRAP
-vancouver : GOOSE
-vanessa : COMMA
-vanguard : START
-vanilla : COMMA
-vape : FACE
-vapour : FACE
-variable : SQUARE
-variance : SQUARE
-variation : SQUARE
-variety : PRICE ; LETTER ; COMMA
-various : SQUARE ; COMMA
-varnish : START
-varsity : START
-vary : SQUARE
-vasodilator : FACE
-vat : TRAP
-vaughan : THOUGHT
-vault : THOUGHT
-vauxhall : THOUGHT
-vaz : TRAP
-veered : NEAR
-vega : COMMA
-vegan : FLEECE
-vegetables : DRESS
-vegetarian : DRESS ; SQUARE
-veggie : HAPPY
-vehemence : NEAR
-vehicles : FLEECE
-veil : FACE
-veloce : GOAT
-velour : GOOSE
-vendee : HAPPY
-vendor : COMMA
-veneer : NEAR
-venezuela : FACE ; COMMA
-ventura : CURE ; COMMA
-vera : COMMA
-veranda : COMMA
-verbal : NURSE
-verde : NURSE
-verdi : SQUARE ; HAPPY
-verdict : NURSE
-verge : NURSE
-verifiable : PRICE
-verified : KIT ; DRESS ; PRICE
-verify : PRICE
-vermeer : NEAR
-vermont : LETTER
-veronica : COMMA
-verruca : GOOSE
-versailles : SQUARE
-versatile : NURSE ; (PRICE)
-verse : NURSE
-version : NURSE
-versus : LETTER ; COMMA ; NURSE
-vertical : NURSE
-very : DRESS ; HAPPY
-vespa : COMMA
-vespucci : GOOSE
-vexatious : FACE
-vhs : FACE
-viaduct : STRUT
-viagra : TRAP
-viber : PRICE
-vibraharp : START
-vibrant : PRICE
-vibrating : PRICE
-vibration : PRICE
-vibrato : PALM
-viburnum : PRICE
-vicarious : SQUARE
-vice : PRICE
-vice-chairperson : SQUARE
-vicenza : COMMA
-viceroy : CHOICE
-victim : KIT
-victoria : FORCE
-victorian : FORCE
-victorious : FORCE
-victory : KIT ; LETTER ; COMMA
-vidal : PALM
-vide : (FLEECE)
-video : KIT
-videos : GOAT
-vieira : SQUARE
-vienna : COMMA
-viennese : NEAR
-vietnam : PALM
-vietnamese : DRESS
-view : GOOSE
-viewed : GOOSE
-viewing : GOOSE
-viewpoint : CHOICE
-vigilant : KIT
-vigo : FLEECE
-viking : PRICE
-villa : KIT ; COMMA
-village : KIT
-villas : COMMA
-villein : FACE
-vintage : KIT
-violence : PRICE ; (COMMA)
-viper : PRICE
-virago : PALM
-viral : PRICE
-virgin : NURSE
-virginia : LETTER
-virginity : LETTER
-virgo : NURSE
-virology : PRICE
-virtual : GOOSE ; NURSE
-virtue : GOOSE ; NURSE
-virtues : GOOSE
-virtuoso : NURSE
-virus : PRICE
-visa : COMMA
-viscose : GOAT
-visible : KIT
-vision : KIT
-visit : KIT
-visor : LETTER
-vista : KIT ; COMMA
-visual : KIT ; GOOSE
-visualization : KIT
-visualize : PRICE
-vital : PRICE
-vitality : PRICE
-vitiligo : PRICE
-viva : COMMA
-vivace : PALM
-vivacious : FACE
-vivarium : PRICE
-vivid : KIT
-vizier : NEAR
-vladimir : TRAP
-vocab : TRAP
-vocal : GOAT
-vocational : GOAT
-vodafone : GOAT
-vodaphone : GOAT
-vogue : GOAT
-voice : CHOICE
-voice-over : CHOICE
-voicemail : CHOICE
-void : CHOICE
-voigt : CHOICE
-voile : CHOICE
-voivode : CHOICE
-voivodeship : CHOICE
-volcano : LOT ; FACE
-volga : COMMA
-volkswagen : TRAP ; GOAT
-volleyball : THOUGHT
-voluble : FOOT
-volume : GOOSE
-volumetric : FOOT
-volunteer : LOT ; NEAR
-volunteered : NEAR
-volunteers : NEAR
-vomit : LOT
-voodoo : GOOSE
-voracious : FACE
-voronezh : DRESS
-vosges : GOAT
-vote : GOAT
-vouch : MOUTH
-voucher : MOUTH
-vouchsafe : FACE ; MOUTH
-vow : MOUTH
-vowed : MOUTH
-vowel : MOUTH
-vowles : MOUTH
-vows : MOUTH
-voyager : CHOICE ; LETTER
-voyeur : NURSE
-voyeurism : NURSE
-voyeuristic : CHOICE
-vulgarity : STRUT
-vulnerable : STRUT
-vuvuzela : GOOSE
-wabash : TRAP ; THOUGHT
-wadded : LOT
-waddle : LOT
-wade : FACE
-wadi : HAPPY
-wafer : FACE
-wafer-thin : FACE ; LETTER
-wag : TRAP
-wage : FACE
-wagnerian : PALM
-wagstaff : BATH
-wah-wah : PALM
-waif : FACE
-wail : FACE
-waist : FACE
-waist-deep : FACE
-waist-high : FACE ; PRICE
-waistband : FACE
-waistline : FACE
-wait : FACE
-waiter : FACE
-waitress : FACE
-waitrose : FACE ; GOAT
-waiver : FACE
-wake : FACE
-waldorf : NORTH
-wales : FACE
-walk : THOUGHT
-walk-in : THOUGHT
-walkabout : MOUTH
-walker : LETTER
-walkie-talkie : THOUGHT
-walkway : THOUGHT
-wall : THOUGHT
-wallflower : MOUTH
-wallpaper : LETTER
-walmart : START
-walmesley : THOUGHT
-walnut : STRUT
-walrus : THOUGHT
-walsall : THOUGHT
-waltz : THOUGHT
-wanderlust : STRUT
-wandsworth : COMMA
-wanting : LOT
-war-torn : FORCE
-ward : NORTH
-wardell : NORTH
-warden : NORTH
-wardrobe : GOAT ; NORTH
-ware : SQUARE
-warehouse : MOUTH
-warehouses : MOUTH
-warehousing : MOUTH
-wares : SQUARE
-warfare : SQUARE
-warfarin : NORTH
-warhorse : NORTH
-waring : SQUARE
-warlike : NORTH
-warlock : NORTH
-warlord : NORTH
-warm-up : NORTH
-warmer : NORTH ; LETTER
-warming : NORTH
-warmonger : STRUT
-warmth : NORTH
-warned : NORTH
-warner : NORTH
-warning : NORTH
-warp : NORTH
-warrant : (CLOTH)
-warrantors : NORTH
-warren : (CLOTH)
-warrior : (CLOTH)
-wars : NORTH
-warsaw : NORTH
-wart : NORTH
-wartime : PRICE
-warwidow : NORTH
-wary : SQUARE
-wasabi : PALM ; HAPPY
-wash : CLOTH
-washbasin : FACE
-washing-machine : FLEECE
-wasp : LOT
-waste : FACE
-watch : LOT
-watchband : LOT
-watchdog : LOT
-watchfully : LOT
-water : THOUGHT ; LETTER
-water-bottle : LOT ; LETTER
-water-buffalo : STRUT
-water-closet : LOT
-water-tower : MOUTH
-watercolor : STRUT ; LETTER
-watercolour : LETTER
-watercourse : FORCE ; LETTER
-watercraft : BATH ; LETTER
-waterfall : THOUGHT ; LETTER
-waterfoul : MOUTH
-waterfront : STRUT ; LETTER
-watergate : LETTER
-waterloo : LETTER
-watermain : FACE
-waterproof : GOOSE
-watershed : LETTER
-waterspout : MOUTH
-waterways : LETTER
-wave : FACE
-wavelength : DRESS
-wawa : PALM
-way-out : MOUTH
-waybill : FACE
-wayfarer : FACE ; SQUARE
-wayfaring : SQUARE
-wayne : FACE
-ways : FACE
-wayside : FACE
-wayward : FACE
-weak : FLEECE
-wealthy : HAPPY
-wean : FLEECE
-weapons : DRESS
-wear : SQUARE
-wearable : SQUARE
-wearer : SQUARE
-weariest : NEAR
-wearing : SQUARE
-wears : SQUARE
-weary : NEAR
-weather : DRESS ; LETTER
-weather-chart : LETTER
-weather-map : TRAP
-weatherby : LETTER
-web : DRESS
-webb : DRESS
-webber : DRESS ; LETTER
-webcam : TRAP
-weber : FACE
-website : DRESS ; PRICE
-webster : DRESS
-wed : DRESS
-wedding : DRESS
-wedge : DRESS
-wedgwood : DRESS
-wednesday : DRESS
-wee : FLEECE
-weed : FLEECE
-week : FLEECE
-weekend : (FLEECE)
-weekenders : (FLEECE)
-weep : FLEECE
-weigela : PRICE
-weighbridge : FACE
-weighed : FACE
-weighs : FACE
-weight : FACE
-weightwatchers : LOT
-weir : NEAR
-weird : NEAR
-welcome : DRESS ; COMMA
-welfare : SQUARE
-well-being : DRESS
-well-known : GOAT
-well-meaning : FLEECE
-well-nigh : PRICE
-well-worn : FORCE
-weltschmerz : SQUARE
-wentworth : LETTER
-were : LETTER ; NURSE
-werewolf : FOOT ; SQUARE
-wesley : DRESS
-west : DRESS
-west-end : DRESS
-westbourne : FORCE ; CURE
-western : DRESS ; LETTER
-wet : DRESS
-wetherby : DRESS
-wetherspoon : DRESS
-weymouth : FACE
-whale : FACE
-wharf : NORTH
-wharfedale : NORTH
-wharves : NORTH
-whatever : DRESS ; LOT ; LETTER
-whatsapp : TRAP
-wheatear : NEAR
-wheelbarrow : TRAP
-wheelchair : SQUARE
-wheelchairs : SQUARE
-when : DRESS
-whenever : DRESS
-where : SQUARE
-whereabouts : MOUTH
-whereas : TRAP
-whereby : SQUARE
-wherefore : SQUARE
-wheresoever : SQUARE
-whereto : SQUARE
-wherever : LETTER
-wherewith : SQUARE
-wherewithall : SQUARE
-whether : DRESS ; LETTER
-whew : GOOSE
-which : KIT
-whichever : KIT
-while : PRICE
-whiplash : TRAP
-whirlpool : NURSE
-whitbread : DRESS
-white : PRICE
-whitebeard : NEAR
-whitechapel : TRAP
-whitefriars : PRICE
-whitehall : THOUGHT ; PRICE
-whitehead : DRESS
-whitehorse : NORTH
-whitey : HAPPY
-who : GOOSE
-whole : GOAT
-wholesale : FACE ; GOAT
-whom : GOOSE
-whoopee : FOOT ; HAPPY
-whoopi : FOOT
-whoops : FOOT
-whoosh : FOOT
-whore : FORCE
-whose : GOOSE
-why : PRICE
-wi-fi : PRICE
-widdershins : LETTER
-widdowson : GOAT
-wide : PRICE
-wide-body : LOT
-wider : PRICE ; LETTER
-widespread : DRESS
-widget : KIT
-widows : GOAT
-wiesbaden : PALM
-wife : PRICE
-wifi : PRICE
-wig : KIT
-wight : PRICE
-wiki : HAPPY
-wikileaks : FLEECE
-wilberforce : FORCE
-wild : PRICE
-wilde : PRICE
-wilderness : LETTER
-wildfire : PRICE
-wildfoul : MOUTH
-wildlife : PRICE
-wilhemshaven : PALM
-will : KIT
-william : COMMA
-willow-wren : GOAT
-willows : GOAT
-willpower : MOUTH
-wimborne : FORCE
-windcheater : FLEECE
-windermere : NEAR ; LETTER
-windfall : THOUGHT
-window-shop : GOAT
-windows : GOAT
-windowsill : GOAT
-windrush : STRUT
-windscreen : FLEECE
-windsor : LETTER
-windswept : DRESS
-wine : PRICE
-winger : LETTER
-wingnut : STRUT
-winnepesaukee : HAPPY
-winner : LETTER
-winnipeg : DRESS
-winter : LETTER
-wipe : PRICE
-wipers : PRICE
-wire : PRICE
-wire-cutters : STRUT
-wiredrawn : THOUGHT
-wireless : PRICE ; COMMA
-wiring : PRICE
-wirth : NURSE
-wisbech : FLEECE
-wisdom : KIT
-wise : PRICE
-wiseacre : FACE
-wish : KIT
-witch : KIT
-witch-haze : FACE
-witchcraft : BATH
-with : KIT
-withal : KIT
-withdrawal : THOUGHT
-withdrawn : THOUGHT
-withdraws : THOUGHT
-withers : KIT
-witherspoon : GOOSE ; LETTER
-within : KIT
-without : KIT ; MOUTH
-withstood : FOOT
-wives : PRICE
-wizard : KIT
-wo : GOAT
-woburn : GOAT
-woe : GOAT
-woeful : GOAT
-wolf : FOOT
-wolff : FOOT
-wolfgang : TRAP
-wolseley : FOOT
-wolstenholme : GOAT
-wolverhampton : FOOT
-wolverine : FOOT ; FLEECE
-woman : FOOT ; COMMA
-womenfolk : GOAT
-won : STRUT
-wonder : STRUT ; LETTER
-wonderful : STRUT ; LETTER
-wonderwall : LETTER
-wonga : COMMA
-wood : FOOT
-wood-pulp : STRUT
-woodcraft : BATH
-wooden : FOOT
-woodruff : STRUT
-woodstock : LOT ; FOOT
-woodwind : FOOT
-woof : FOOT
-woofer : FOOT ; LETTER
-wooferton : FOOT
-woolgatherer : TRAP
-woolgathering : TRAP
-woolwich : FOOT
-woomera : FOOT
-woops : FOOT
-woos : GOOSE
-wooster : FOOT
-wootton : FOOT
-worcester : FOOT
-worcestershire : LETTER
-word : NURSE
-wordsworth : LETTER ; NURSE
-wordsworthian : NURSE
-wore : FORCE
-work : NURSE
-work-sharing : SQUARE
-work-study : STRUT
-workbasket : BATH
-worker : LETTER
-workforce : FORCE
-workhorse : NORTH
-working-class : BATH
-workload : GOAT
-workout : MOUTH ; NURSE
-workplace : NURSE
-workshop : LOT ; NURSE
-world : NURSE
-world-weary : NEAR
-worldwide : PRICE ; NURSE
-worm-gear : NEAR
-worn : FORCE
-worries : STRUT
-worry : STRUT
-worrying : STRUT
-worrywart : NORTH
-worse : NURSE
-worship : NURSE
-worshipped : NURSE
-worshippers : NURSE
-worst : NURSE
-worth : NURSE
-worthiest : NURSE
-worthily : NURSE
-worthiness : NURSE
-worthing : NURSE
-worthington : NURSE
-worthless : NURSE
-worthwhile : PRICE ; NURSE
-worthy : HAPPY ; NURSE
-wotcha : COMMA
-would : FOOT ; COMMA
-wound : GOOSE
-woven : GOAT
-wow : MOUTH
-wraith : FACE
-wraiths : FACE
-wrap : TRAP
-wreak : FLEECE
-wretched : DRESS
-wright : PRICE
-wringer : LETTER
-wristwatch : LOT
-write : PRICE
-writhe : PRICE
-written : KIT
-wroclaw : TRAP
-wrong : CLOTH
-wrote : GOAT
-wroth : GOAT
-wrought : THOUGHT
-wrythe : PRICE
-wuppertal : FOOT ; PALM
-wuss : FOOT
-wuthering : STRUT
-wych : PRICE
-wyoming : GOAT
-wysiwyg : HAPPY
-x-rays : FACE
-xanthe : HAPPY
-xbox : LOT
-xenogears : NEAR
-xenosaga : PALM
-xerox : LOT
-xhosa : (THOUGHT) ; COMMA ; (GOAT)
-yacht-club : STRUT
-yahoo : GOOSE
-yahoos : GOOSE
-yahweh : PALM
-yale : FACE
-yamaha : PALM
-yankee : HAPPY
-yard : START
-yard-measure : DRESS
-yardarm : START
-yarmouth : START
-yarn : START
-yarwood : START
-yawp : THOUGHT
-yeadon : FACE
-year : NEAR
-yearling : NEAR
-yearlong : NEAR
-yearly : NEAR
-years : NEAR
-yeas : FACE
-yellow : DRESS
-yellow-flag : GOAT
-yellowknife : PRICE
-yellows : GOAT
-yellowstone : GOAT
-yellowwood : GOAT
-yeovil : GOAT
-yer : LETTER
-yes : DRESS
-yesterday : LETTER
-yesteryear : NEAR ; LETTER
-yet : DRESS
-yeti : HAPPY
-yew : GOOSE
-yippee : HAPPY
-ymca : DRESS
-yo : GOAT
-yoga : GOAT ; COMMA
-yogi : GOAT ; HAPPY
-yoichi : FLEECE
-yoicks : CHOICE
-yokohama : PALM
-yolanda : GOAT
-yolk : GOAT
-york : NORTH
-yorkie : HAPPY
-yorkshire : NORTH
-yoruba : COMMA
-you : GOOSE
-young : STRUT
-younger : STRUT ; LETTER
-youngest : STRUT
-younghusband : STRUT
-youngster : STRUT
-your : CURE ; LETTER ; (FORCE)
-yours : CURE
-yourself : FORCE ; (LETTER)
-youths : GOOSE
-youtube : GOOSE
-yowl : MOUTH
-ythan : PRICE
-yugoslav : PALM ; GOOSE
-yule : GOOSE
-yussuf : FOOT
-zageb : PALM
-zagreb : DRESS
-zambezi : HAPPY
-zanzibar : START
-zapata : PALM
-zaporozhye : GOAT ; COMMA
-zappa : COMMA
-zara : START ; COMMA
-zarzuela : START
-zebra : (DRESS) ; COMMA ; (FLEECE)
-zeebrugge : FOOT
-zeinab : TRAP
-zeitgeist : PRICE
-zelda : COMMA
-zellweger : DRESS
-zenith : KIT
-zero : NEAR
-zero-rated : GOAT
-zeroth : GOAT
-zeta : COMMA
-zeugma : GOOSE
-zhirkov : NEAR
-zhivago : PALM
-zhuzh : FOOT
-zhuzhed : FOOT
-zhuzhes : FOOT
-zhuzhing : FOOT
-zigzag : TRAP
-zimbabwe : PALM
-zimmerman : LETTER
-zipped : KIT
-zither : KIT
-zizzi : HAPPY
-zombie : HAPPY
-zone : GOAT
-zoo : GOOSE
-zoom : GOOSE
-zucchini : GOOSE
-zulu : GOOSE
-zulus : GOOSE
-zurich : GOOSE
-zwieback : FLEECE
-zygoma : PRICE
-zygopteran : PRICE
-zygosis : PRICE
+million KIT COMMA
+millionaire SQUARE
+millwall THOUGHT
+milord NORTH
+milwaukee THOUGHT HAPPY
+mimi FLEECE
+mincemeat FLEECE
+mind PRICE
+mine PRICE
+minecraft BATH
+miner PRICE LETTER
+minerva COMMA NURSE
+mini HAPPY
+miniature KIT
+minibus STRUT
+minicab TRAP
+miniseries NEAR
+minister LETTER
+minnie HAPPY
+minogue GOAT
+minor PRICE LETTER
+minuet GOOSE
+minutia GOOSE
+miquelon LOT
+miracle KIT COMMA
+miranda COMMA
+mirror KIT LETTER
+mirth NURSE
+mirthful NURSE
+mirthless NURSE
+misconduct STRUT
+miserable KIT
+misere SQUARE
+mishmash TRAP
+misinterpreted NURSE
+misjudge STRUT
+misleading FLEECE
+mismatch TRAP
+miss KIT
+mission KIT
+mississauga THOUGHT COMMA
+missouri CURE HAPPY
+missourian CURE
+missus KIT
+mistake FACE
+mister KIT
+misunderstand STRUT
+misuse GOOSE
+mithril KIT
+mitsubishi HAPPY
+mitzvah COMMA
+mix KIT
+mo GOAT
+moab TRAP
+mobbed LOT
+mobile GOAT (PRICE)
+mobility GOAT
+mocha COMMA
+mode GOAT
+model LOT
+modem GOAT
+moderate LOT
+modern LETTER
+modest LOT
+modicum LOT
+modified KIT LOT PRICE
+modify PRICE
+modulate LOT
+modulus LOT
+moe GOAT
+moggie HAPPY
+mogul GOAT
+mohair SQUARE
+mohawk THOUGHT
+moi PALM
+moir CHOICE
+moira CHOICE
+moiseiwitsch CHOICE
+moist CHOICE
+moisture CHOICE
+moisturizer CHOICE
+moither CHOICE
+mojave PALM
+mojo GOAT
+moldova GOAT COMMA
+mollie HAPPY
+mom STRUT
+mombasa LOT COMMA
+moment GOAT
+mommy HAPPY
+monaco COMMA
+monarchy LETTER
+monastic BATH
+monaural NORTH
+monday STRUT
+money STRUT HAPPY
+money-order NORTH
+mongolia GOAT
+mongoose GOOSE
+monica COMMA
+monique FLEECE
+monitor LOT
+monk STRUT
+monkey STRUT HAPPY
+monkey-puzzle STRUT
+monochrome GOAT
+monograph BATH
+monographic GOAT
+monolithic KIT
+monologue LOT
+mononucleosis GOOSE
+monotheism GOAT
+monotreme FLEECE
+monroe STRUT
+monsieur NURSE
+monsoon GOOSE
+montage PALM
+monteith LOT
+monteverdi SQUARE
+month STRUT
+monthly STRUT HAPPY
+montserrat TRAP
+monumental FOOT
+moo-cow MOUTH
+moo-cows MOUTH
+mooch GOOSE
+mood GOOSE
+moodey HAPPY
+moon GOOSE
+moonbeam FLEECE
+moonwalk THOUGHT
+moor FORCE CURE
+moore FORCE
+moored FORCE CURE
+moorfowl MOUTH
+moorgame CURE
+moorgate CURE
+moorhen FORCE
+mooring FORCE
+moors CURE
+moose GOOSE
+moped DRESS
+morag TRAP
+moraic FORCE
+moral (CLOTH)
+moratorium (CLOTH) FORCE
+morbid NORTH
+morbidity NORTH
+mordacity NORTH
+more FORCE
+moreover FORCE
+mores FACE
+morgan NORTH
+morgue NORTH
+moribund (CLOTH)
+morn NORTH
+morning NORTH
+morph NORTH
+morpha COMMA
+morphed NORTH
+morpheme FLEECE
+morpheus NORTH
+morphine FLEECE NORTH
+morphing NORTH
+morphogenesis GOAT
+morphological NORTH
+morris (CLOTH)
+morrow (CLOTH)
+mortality NORTH
+mortgage NORTH
+mortuary NORTH
+mosaic GOAT
+mosquito FLEECE
+most GOAT
+motel GOAT
+moth CLOTH
+mother STRUT LETTER
+mother-in-law STRUT
+mother-of-pearl STRUT
+motherboard FORCE LETTER
+motherese STRUT
+motherhood STRUT
+mothering STRUT
+motherland STRUT
+motherless STRUT
+motherliness STRUT
+motherwell DRESS LETTER
+motif GOAT
+motion GOAT
+motivate GOAT
+motocross GOAT
+motor GOAT LETTER
+motorbike PRICE LETTER
+motorcycle PRICE LETTER
+motorcyclist PRICE
+motoring LETTER COMMA
+motorola GOAT COMMA
+motorway LETTER
+mount MOUTH
+mountain MOUTH
+mountaineer NEAR
+mourn CURE
+mourning CURE
+mouse MOUTH
+mousehole MOUTH
+moussaka PALM (GOOSE) (FOOT)
+mousse GOOSE
+mouth MOUTH
+mouth-organ NORTH
+mouth-to-mouth MOUTH
+mouth-watering THOUGHT MOUTH
+mouthed MOUTH
+mouthful MOUTH
+mouthing MOUTH
+mouthpiece MOUTH
+mouths MOUTH
+mouthwash MOUTH
+mouthy MOUTH
+move GOOSE
+movement GOOSE
+movie GOOSE HAPPY
+mow GOAT MOUTH
+moxie HAPPY
+moya CHOICE
+moygashel CHOICE
+mozambique TRAP FLEECE GOAT
+mozart START
+mp3 DRESS
+mpeg DRESS
+ms KIT
+much STRUT
+mucilage GOOSE
+mucosity GOOSE
+mucous GOOSE
+mud STRUT
+mud-bath BATH
+mud-baths BATH
+muddle STRUT
+muddy STRUT
+mudguards STRUT
+mudpie STRUT
+muffin STRUT
+muffler STRUT
+mug STRUT
+mugabe PALM GOOSE
+mugwump STRUT
+mujaheddin GOOSE
+mulcahy STRUT
+muldoon STRUT
+mule GOOSE
+muleteer GOOSE
+mulholland STRUT
+multi- STRUT
+multicolored STRUT
+multimedia STRUT
+multiple KIT STRUT
+multiple-choice CHOICE
+multipurpose NURSE
+multistage FACE
+multitask BATH
+multitude GOOSE
+mumbai FOOT
+mumbo-jumbo GOAT
+mummy STRUT HAPPY
+mums STRUT
+munda FOOT
+mundane STRUT
+municipal GOOSE
+munitions GOOSE
+munro GOAT
+muppets STRUT
+mural CURE
+murcia COMMA
+murder LETTER NURSE
+murdered LETTER
+murderer LETTER
+murdoch NURSE
+murgatroyd CHOICE
+murphy NURSE
+murray STRUT
+muscle STRUT
+muse GOOSE
+museum FLEECE GOOSE NEAR COMMA
+musgrave STRUT
+musgrove STRUT
+mush STRUT
+mushroom STRUT GOOSE
+mushy STRUT HAPPY
+music KIT GOOSE
+musician GOOSE
+musk-deer NEAR
+muskogee HAPPY
+muslin STRUT
+must STRUT COMMA
+must-have TRAP STRUT
+mustachio PALM
+mustafa COMMA (GOOSE) (FOOT)
+mustang TRAP
+mutant GOOSE
+mutation GOOSE
+mute GOOSE
+mutter STRUT
+mutton STRUT
+mutual GOOSE
+mutuality GOOSE
+mutually GOOSE
+muzzle STRUT
+muzzy STRUT
+my PRICE
+myanmar NEAR START
+myeloid CHOICE
+myriad KIT
+myself PRICE
+mysore PRICE
+mystery KIT
+mystique FLEECE
+myth KIT
+mythic KIT
+mythical KIT
+mytholmroyd PRICE
+mythology KIT
+mythos KIT (LOT) (GOAT)
+naafi HAPPY
+naan PALM
+nabob LOT
+nacho PALM
+nadezhda DRESS
+nadia PALM
+nadirs NEAR
+nag TRAP
+naga PALM
+nagasaki PALM
+nagoya CHOICE
+nah PALM
+nahuatl PALM
+nail-varnish START
+nailbrush STRUT
+nails FACE
+nailsea HAPPY
+nairn SQUARE
+nairobi GOAT PRICE HAPPY
+naish FACE
+naismith FACE
+naked FACE
+name FACE
+naomi GOAT HAPPY
+napalm PALM
+naphtha COMMA
+naphthalic TRAP
+napier FACE
+naples FACE
+napoli HAPPY
+nappies TRAP
+narcissus START
+narcistic START
+narcolepsy DRESS
+narrow TRAP
+narrow-minded GOAT
+narrowly GOAT
+narwhal START
+nasa COMMA
+nash TRAP
+nashville TRAP
+nasopharyngeal TRAP
+nasty BATH
+natalie HAPPY
+natasha PALM COMMA (TRAP)
+nathan FACE
+national TRAP
+nationwide FACE PRICE
+native FACE
+natural TRAP
+nature FACE LETTER
+naturist FACE
+naturopath TRAP
+naughty THOUGHT
+nauru MOUTH
+nauruan MOUTH
+nauseating THOUGHT
+nausicaa THOUGHT
+nautical THOUGHT
+nautilus THOUGHT
+naval FACE
+navigation KIT TRAP FACE (COMMA)
+navy FACE HAPPY
+nawab PALM
+naysayer FACE
+nazi HAPPY (TRAP)
+neanderthal PALM
+neap FLEECE
+near NEAR
+near-sighted NEAR
+nearby PRICE
+nearer NEAR LETTER
+nearest NEAR
+nearly NEAR
+nearness NEAR
+nearside NEAR
+neat FLEECE
+nebuchadnezzar GOOSE
+necessary DRESS
+neck-ties PRICE
+neckerchief LETTER
+neckwear SQUARE
+nedifugous FOOT
+need FLEECE
+needle FLEECE
+needlecraft BATH
+needlepoint CHOICE
+nefarious SQUARE
+negative DRESS
+negev DRESS
+negligee KIT
+neighbor LETTER
+neighbour FACE LETTER
+neighbourhood FOOT
+neither LETTER (FLEECE) (PRICE)
+neolithic KIT
+neon LOT FLEECE
+neoplasms TRAP
+nepenthe HAPPY
+nephew GOOSE
+nephews GOOSE
+neptune GOOSE
+nerd NURSE
+nerve NURSE
+nervous NURSE
+nest-egg DRESS
+net DRESS
+netball THOUGHT
+nether DRESS
+netherlands DRESS LETTER
+netherton DRESS
+network DRESS
+neumann CHOICE
+neurobiology GOAT
+neurology FOOT
+neuropathic TRAP GOAT
+neuroscience GOAT
+neutral GOOSE
+nevada PALM COMMA
+never DRESS LETTER
+neverland LETTER
+nevertheless DRESS LETTER
+new GOOSE
+newbie GOOSE HAPPY
+newborn GOOSE NORTH FORCE
+newcastle BATH
+newcomer STRUT GOOSE
+newer GOOSE
+newfangled GOOSE
+newfie GOOSE HAPPY
+newfoundland GOOSE
+newhaven FACE
+newly GOOSE
+newlywed DRESS
+newlyweds GOOSE HAPPY
+newmarket START
+newport FORCE
+news GOOSE
+newsagent FACE
+newsfeed FLEECE
+newsflash TRAP
+newsletter DRESS GOOSE
+newspaper FACE GOOSE LETTER
+newspapers LETTER
+newspeak FLEECE
+newsroom GOOSE
+next DRESS
+next-door FORCE
+neymar FACE START
+nhs FACE
+nibble KIT
+nibelung FOOT
+nice PRICE
+nicer LETTER
+nick KIT
+nicola COMMA
+nicotine FLEECE
+nietzsche FLEECE
+nigel PRICE
+nigella PRICE COMMA
+niger-congo PRICE
+nigeria PRICE NEAR
+nigerian PRICE
+nigh PRICE
+night PRICE
+night-time PRICE
+night-watch LOT
+nightclothes GOAT
+nightclub STRUT PRICE
+nighthawk THOUGHT
+nightie HAPPY
+nightingale FACE
+nightlife PRICE
+nightlight PRICE
+nightmare SQUARE
+nightmares SQUARE
+nike PRICE
+nilo-saharan GOAT
+nimrod LOT
+nina COMMA
+nine PRICE
+nirvana PALM
+nitrochalk GOAT
+nitroglycerin GOAT
+nixdorf NORTH
+no GOAT
+no-fault GOAT
+no-frills GOAT
+no-good GOAT
+no-one GOAT
+no-show GOAT
+no-win GOAT
+nobel GOAT
+noble GOAT
+nobody GOAT
+nodding LOT
+node GOAT
+nodule LOT
+noise CHOICE
+noiseless CHOICE
+noisette PALM
+noisy HAPPY
+nolan GOAT
+nomad TRAP
+nomenclature DRESS
+non-commercial NURSE
+none STRUT
+nonesuch STRUT
+noodle GOOSE
+nook FOOT
+nootka FOOT
+nor NORTH
+nora FORCE
+norah FORCE
+norbert NORTH
+noreen (FLEECE)
+norfolk NORTH COMMA
+norm NORTH
+normalcy NORTH
+normality NORTH
+normalize NORTH
+normally NORTH
+norman NORTH
+normandy NORTH
+norovirus PRICE
+north NORTH
+northamptonshire NORTH
+northanger NORTH
+northbound NORTH
+northcliffe NORTH
+northeast NORTH
+northern LETTER
+northumberland STRUT NORTH LETTER
+northwards NORTH
+northwest NORTH
+norvic NORTH
+norwalk THOUGHT NORTH
+norway NORTH
+norwegian FLEECE NORTH
+norwood NORTH
+nos GOAT
+nose GOAT
+nosebleed FLEECE
+nosedive PRICE
+nosey HAPPY
+noshing LOT
+not LOT
+notation GOAT
+notch LOT
+note GOAT
+notebook FOOT
+notepad TRAP
+nothing STRUT
+nothingness STRUT
+notice GOAT
+notifiable PRICE
+notification KIT FACE GOAT
+notified PRICE
+notify PRICE
+notion GOAT
+notorious GOAT FORCE
+notwithstanding KIT LOT
+nougat (PALM) GOOSE (COMMA)
+nourishing STRUT
+nourishment STRUT
+nous MOUTH
+nova GOAT COMMA
+novelette LOT
+novella GOAT
+november DRESS GOAT LETTER
+novokuznetsk FOOT
+novotel DRESS GOAT
+now MOUTH
+nowadays MOUTH
+nowhere GOAT SQUARE
+nowise GOAT
+noyes CHOICE
+nozzle STRUT
+nsured CURE
+nuance PALM GOOSE
+nuclear GOOSE
+nucleofugal FOOT
+nucleus GOOSE
+nude GOOSE
+nudge STRUT
+nugget STRUT
+nuisance GOOSE
+nuke GOOSE
+null STRUT
+number STRUT LETTER
+numbers LETTER
+numeracy GOOSE
+numerical GOOSE
+numerology GOOSE
+numerous GOOSE
+nun STRUT
+nureyev DRESS (CURE)
+nurse NURSE
+nurseries NURSE
+nursery NURSE
+nursing NURSE
+nursing-home GOAT
+nurturing NURSE
+nut STRUT
+nuthatch TRAP
+nutmeg DRESS
+nutricious GOOSE
+nutrient GOOSE
+nutrition GOOSE
+nylon LOT
+oaf GOAT
+oafish GOAT
+oak GOAT
+oasis FACE
+oath GOAT
+oaths GOAT
+obama PALM GOAT COMMA
+oban GOAT
+obese GOAT
+obesity GOAT
+obey GOAT
+obfuscation STRUT
+obi HAPPY
+obituary KIT GOOSE COMMA
+objective COMMA
+obligation LOT
+oblige PRICE
+oblique FLEECE
+obscure CURE
+observation LOT LETTER
+observatory NURSE
+observe COMMA NURSE
+observer LETTER COMMA NURSE
+obsession DRESS COMMA
+obsolete FLEECE
+obtain COMMA
+obvious LOT
+ocado PALM
+occasion FACE COMMA
+occasionally COMMA
+occlusion GOOSE
+occupation FOOT (COMMA)
+occupied PRICE
+occupy LOT FOOT PRICE
+occur COMMA NURSE
+occurred NURSE
+occurrence STRUT
+occurring NURSE
+occurs NURSE
+ocean GOAT
+oceania BATH
+oceanic GOAT
+oceanside GOAT
+octane FACE
+octavia LOT FACE
+october LOT GOAT LETTER
+octothorpe NORTH
+oddjob LOT
+odds-on LOT
+odell GOAT
+odessa GOAT COMMA
+odyssey HAPPY
+oenology FLEECE
+of COMMA (LOT) (STRUT)
+off CLOTH
+off-licence PRICE
+off-putting FOOT
+offence COMMA
+offender COMMA
+offending COMMA
+offensive COMMA
+offer CLOTH LETTER
+offering LETTER COMMA
+offers LETTER
+office CLOTH
+office-bearer SQUARE
+officer CLOTH LETTER
+official KIT (COMMA)
+offline PRICE
+offpeak FLEECE
+offset DRESS
+offshoot GOOSE
+offshore FORCE
+oft CLOTH
+often CLOTH
+ogilvie HAPPY
+ogive GOAT
+oglethorpe NORTH
+oi CHOICE
+oick CHOICE
+oil CHOICE
+oil-bearing SQUARE
+oil-fired CHOICE
+oink CHOICE
+ointment CHOICE
+oistrakh PALM
+ojibwe GOAT
+ok GOAT
+okapi PALM HAPPY
+okay GOAT
+okefenokee HAPPY
+oklahoma GOAT COMMA
+old GOAT
+older GOAT LETTER
+oldham GOAT
+oleoresin GOAT
+olga COMMA
+olive KIT
+oliver LETTER
+omaha PALM
+oman PALM GOAT
+omani PALM
+omar GOAT START
+ombudsman LOT FOOT
+omega GOAT COMMA
+omissions COMMA
+omitted COMMA
+omnium-gatherum TRAP
+on LOT CLOTH
+on-air SQUARE
+once STRUT
+oncoming STRUT
+one STRUT
+one-horse NORTH
+one-stop LOT
+online LOT PRICE
+only GOAT HAPPY
+onondaga PALM
+onrushing STRUT
+onshore FORCE
+onslaught THOUGHT
+ontario SQUARE
+onto COMMA
+onward LETTER
+oops FOOT
+oops-a-daisy FOOT
+ooze GOOSE
+opal GOAT
+opaque GOAT
+opel GOAT
+open GOAT COMMA
+open-air SQUARE
+open-mouthed MOUTH
+opera LOT COMMA (LETTER)
+opera-house MOUTH
+operation LOT FACE
+operator FACE
+opinion COMMA
+opioid CHOICE
+opponent COMMA
+opportunistic GOOSE LETTER
+opportunity LOT LETTER
+opposition KIT
+oprah GOAT
+optician LOT
+options LOT
+oral FORCE
+orality FORCE
+orange (CLOTH)
+orate FORCE
+orating FORCE
+oration FORCE
+orator (CLOTH)
+oratory (CLOTH)
+orbicular NORTH
+orbison NORTH
+orbit NORTH
+orbital NORTH
+orchard NORTH LETTER
+orchestra NORTH COMMA
+orchid NORTH
+ordained NORTH
+ordeal NORTH
+order LETTER
+order-form NORTH
+ordered LETTER
+orders LETTER
+oregon (CLOTH)
+orff NORTH
+orford NORTH
+organ NORTH
+organic NORTH
+organically NORTH
+organide NORTH
+organism NORTH
+organist NORTH
+organization PRICE NORTH
+organize NORTH
+orgasm TRAP NORTH
+orgiastic BATH
+orgy NORTH
+orientation DRESS
+origami PALM HAPPY
+origin KIT (CLOTH)
+original KIT
+originate KIT
+orkney NORTH
+orlando NORTH
+orleans NORTH (NEAR)
+ornament NORTH
+ornate NORTH
+oropharynx TRAP GOAT
+orphan NORTH
+orphanage NORTH
+orpheus NORTH
+orthodox NORTH
+orthogenesis NORTH
+orthogonal NORTH
+orthographic NORTH
+orthopaedic NORTH
+orthopedic NORTH
+orthoptera NORTH
+orville NORTH
+orwell NORTH
+osaka PALM GOAT COMMA
+osama PALM
+osborne FORCE
+oscar LETTER
+osgood LOT
+oshkosh LOT
+osiris GOAT
+osman LOT
+osmond LOT
+osmosis LOT
+osmotherley LOT
+osmunda LOT
+osteoarthritis START
+osteomyelitis PRICE
+osteopath TRAP
+osteoporosis GOAT
+ostrich KIT
+othello COMMA
+other STRUT LETTER
+others LETTER
+otherwise STRUT PRICE LETTER
+otherworldly STRUT
+ouabain PALM
+ouch MOUTH
+ought THOUGHT
+ourselves MOUTH
+ouse GOOSE
+ousted MOUTH
+out MOUTH
+out-of-pocket LOT
+out-trays FACE
+outbid KIT MOUTH
+outboard FORCE
+outbreak FACE
+outcast BATH
+outclass BATH
+outcome STRUT MOUTH
+outdoes STRUT
+outdoor MOUTH FORCE
+outing MOUTH
+outlandish MOUTH
+outlaws THOUGHT
+outlet DRESS MOUTH
+outline MOUTH
+output FOOT
+outrage FACE MOUTH
+outrageous FACE MOUTH
+outreach FLEECE
+outside PRICE MOUTH
+outsource FORCE
+outstanding MOUTH
+outwear SQUARE
+outwith KIT
+ova COMMA
+oval GOAT
+ovarian GOAT
+ovation GOAT
+oven STRUT
+over GOAT LETTER
+over-shadow LETTER
+overall THOUGHT GOAT
+overarching START
+overbear SQUARE
+overboard FORCE LETTER
+overcareful SQUARE
+overcast LETTER
+overcharge START LETTER
+overcoat LETTER
+overcome STRUT LETTER
+overcompensation LOT
+overdoes STRUT
+overdose GOAT
+overdraft BATH
+overdrive PRICE
+overexposure LETTER
+overgrown LETTER
+overgrowth GOAT
+overhang TRAP
+overhaul THOUGHT
+overhead DRESS
+overjoyed CHOICE LETTER
+overlap TRAP
+overload NORTH
+overlooking FOOT LETTER
+overmuch STRUT
+overnight PRICE LETTER
+overpressure DRESS LETTER
+overseas GOAT LETTER
+overshoe LETTER
+overshoes GOOSE LETTER
+oversteer NEAR
+overthrew LETTER
+overthrow LETTER
+overthrust LETTER
+overtime PRICE
+overture LETTER
+overuse GOOSE
+overvalued GOOSE
+overview GOAT LETTER
+overweight FACE LETTER
+overwhelming LETTER
+ovidian LOT
+ovulating LOT
+owe GOAT
+owes GOAT
+owl MOUTH
+owlet MOUTH
+own GOAT
+owner GOAT LETTER
+ox LOT
+oxenford FORCE
+oxford LETTER
+oxime FLEECE
+oyster CHOICE
+oyster-catcher TRAP
+ozark START
+pa PALM
+pablo TRAP
+pace FACE
+pacific KIT COMMA
+pacifier PRICE
+pacino COMMA
+pack TRAP
+package TRAP
+packhorse NORTH
+pad TRAP
+padishahs PALM
+padres FACE
+pagan FACE
+pageant TRAP
+pagination TRAP
+pahlavi HAPPY
+paid FACE
+paige FACE
+pain FACE
+paine FACE
+paint FACE
+paintbrush STRUT
+painting FACE
+pair SQUARE
+paired SQUARE
+pairing SQUARE
+pairs SQUARE
+paish FACE
+paisley FACE
+pajamas PALM
+pakistan PALM
+pakistani HAPPY
+palace KIT TRAP
+palatial FACE
+palau MOUTH
+pale FACE
+palestine PRICE
+palette-knife PRICE
+palette-knives PRICE
+pali PALM
+pall-bearer SQUARE
+palmer LETTER
+palooka GOOSE
+paltrow TRAP
+pamela COMMA
+panama PALM
+pancake FACE
+panda COMMA
+pangbourne FORCE
+panorama PALM COMMA
+panther LETTER
+pantomime PRICE
+papa PALM COMMA
+papabile PALM
+paparazzi HAPPY
+paper LETTER
+paperback TRAP LETTER
+papers LETTER
+paperweight FACE
+paperwork LETTER
+papistic FACE
+papua TRAP
+par START
+para TRAP COMMA
+paracetamol LOT
+parachute GOOSE COMMA
+parade FACE LETTER COMMA
+paradigm PRICE
+paradise TRAP PRICE COMMA
+paragraph BATH
+paraguay TRAP PRICE COMMA
+parakeet FLEECE
+parallel DRESS
+paramount MOUTH
+paramour FORCE CURE
+paramours CURE
+paranoia CHOICE
+paranoid CHOICE
+paraphrase FACE
+parasol LOT
+parathyroid CHOICE
+parboiled CHOICE
+parcel START
+parched START
+parcheesi START
+parchment START
+parental DRESS LETTER COMMA
+parents SQUARE
+parfait START
+parfitt START
+paring SQUARE
+paris TRAP
+parish TRAP
+park START
+parka COMMA
+parker START LETTER
+parliament START
+parlour START
+parmigiano PALM
+parnassus START
+parnell START
+parr START
+parsley START
+parslow START
+parsnip START
+parsons START
+part START
+part-time PRICE
+parthenogenesis GOAT START
+parthenon START
+partial START
+participation START
+particle START
+particular KIT FOOT LETTER
+particularly LETTER
+particulate START
+partition START
+partner START LETTER
+partners LETTER
+partnership KIT START LETTER
+parturient START
+parturition START
+party START HAPPY
+parvenus START
+pascal TRAP
+paschal BATH
+pasha PALM BATH COMMA
+pashto STRUT
+pass BATH
+passata PALM
+passenger TRAP LETTER
+passion TRAP
+passport FORCE
+past BATH
+pasta PALM (TRAP)
+paste FACE
+pastor COMMA
+pastoral BATH
+patch TRAP
+patchouli COMMA
+patchy HAPPY
+path BATH
+pathetic COMMA
+pathfinder BATH
+pathing BATH
+pathless BATH
+pathological TRAP
+pathology COMMA
+pathos FACE
+paths BATH
+pathway BATH
+patience FACE
+patient FACE
+patiently FACE
+patios GOAT
+patois PALM
+patricia COMMA
+patrick TRAP
+pattern LETTER
+paua (MOUTH)
+paucity THOUGHT
+paul THOUGHT
+paula THOUGHT COMMA
+pauline (FLEECE)
+pauper THOUGHT
+pause THOUGHT
+pavement FACE
+pavilion COMMA
+paving FACE
+pavlov LOT
+pavlova TRAP
+pawnee THOUGHT
+pawpaws THOUGHT
+paws THOUGHT
+pay-claim FACE
+payback FACE
+paycheck FACE
+payday FACE
+paye FACE
+payment FACE
+payne FACE
+paypal TRAP FACE
+payphone FACE
+payroll FACE GOAT
+pays FACE
+paysheet FACE
+payslip FACE
+pea FLEECE
+peach FLEECE
+peachey HAPPY
+peachy HAPPY
+peacock LOT
+peafowl MOUTH
+peak FLEECE
+peanut STRUT
+pear SQUARE
+pearce NEAR
+pearl NURSE
+pearmain SQUARE
+pearse NEAR
+peart NEAR
+peavey HAPPY
+pebble DRESS
+peculiar GOOSE
+pecuniary GOOSE
+pedgogy LOT
+pedicure CURE
+pedigree HAPPY
+pee HAPPY
+peek FLEECE
+peep FLEECE
+peeps FLEECE
+peer NEAR
+peerage NEAR
+peering NEAR
+peerless NEAR
+peers NEAR
+peg DRESS
+peggy HAPPY
+peirce NEAR
+pembrey DRESS
+penarth START
+pengam DRESS
+penguin DRESS
+penicuik FOOT
+peninsula COMMA
+penknives PRICE
+penny-farthing START
+pennyworth LETTER
+penthouse MOUTH
+peony NEAR
+people FLEECE
+pepita DRESS
+pepper DRESS LETTER
+pepsi HAPPY
+per LETTER NURSE
+peradventure NURSE
+percentage LETTER
+perch NURSE
+percussion STRUT LETTER
+perestroika CHOICE
+perez DRESS
+perfect DRESS LETTER NURSE
+perforated NURSE
+perforation NURSE
+perform NORTH LETTER
+performance NORTH LETTER
+performed NORTH
+performer NORTH LETTER
+performing NORTH
+perfume GOOSE LETTER NURSE
+perfusion GOOSE
+pergola NURSE
+pergolesi SQUARE
+perhaps TRAP
+pericarp START
+perineal NEAR
+perineum NEAR
+period NEAR COMMA
+periodical LOT
+perkins NURSE
+perks NURSE
+permabear SQUARE
+permanent NURSE
+permission LETTER
+permit NURSE
+pernod SQUARE
+peron DRESS
+perpendicular NURSE
+perpetrator NURSE
+perpetual DRESS LETTER
+perpetuate DRESS
+perpetuity NURSE
+perry DRESS
+persecution GOOSE
+persevere NEAR
+persevering NEAR
+persia COMMA NURSE
+persian NURSE
+persiflage PALM
+person NURSE
+personal COMMA NURSE
+personality TRAP NURSE
+personalized PRICE
+personally NURSE
+personnel NURSE
+perspective LETTER
+persuade FACE
+persuasion FACE
+perth NURSE
+perthshire NURSE
+peru LETTER COMMA
+perugia GOOSE
+perugino FOOT
+perused GOOSE
+peruvian GOOSE
+pervasion FACE
+pervasive LETTER
+perverse LETTER
+perversion NURSE
+pesach FACE (TRAP)
+peshawar PALM COMMA
+peso FACE
+pesos GOAT
+pet DRESS
+peter LETTER
+peterborough LETTER (COMMA)
+peterlee HAPPY
+petipa COMMA
+petite FLEECE
+petrol DRESS
+pettitoes FLEECE
+pew GOOSE
+pewter GOOSE
+phantasm TRAP
+phantasmagoria TRAP
+pharisee HAPPY
+pharma COMMA
+pharmaceutical GOOSE START
+pharmacy START
+pharsalus START
+phase FACE
+phenobarbital GOAT START
+phenomenon LOT
+phew GOOSE
+philharmonic START
+philippa COMMA
+philippe FLEECE
+philippines FLEECE
+philosopher LETTER
+philosophy HAPPY COMMA
+phlogistic LOT
+phoebe FLEECE
+phoebus FLEECE
+phoenix FLEECE
+phoneme FLEECE
+photo GOAT
+photo-reconnaissance GOAT
+photocopy GOAT
+photograph BATH COMMA
+photographer LETTER
+photographers LETTER
+photographic TRAP
+photography HAPPY COMMA
+photogravure CURE
+photonovel LOT
+photos GOAT
+photoshop LOT GOAT
+phrase FACE
+phwoar FORCE
+phylogenetic GOAT
+physical KIT
+physician KIT
+physiotherapist GOAT
+physiotherapy-y GOAT
+physique FLEECE
+piacenza COMMA
+piaf TRAP
+piaget TRAP
+piagetian COMMA
+pianist NEAR
+pianoforte GOAT
+piazza COMMA
+pibroch FLEECE
+picadors NORTH
+picasso PALM
+pick KIT
+pick-up STRUT
+pictogram GOAT
+pictorial FORCE
+picture KIT LETTER
+picture-galleries TRAP
+piebald THOUGHT
+pier NEAR
+pierce NEAR
+piercing NEAR
+piercy NEAR
+pig KIT
+pigeon KIT
+piggy HAPPY
+pikachu COMMA
+pike PRICE
+pilates PALM
+piles PRICE
+pillow-fight GOAT
+pillowcase GOAT
+pillows GOAT
+pillowslip GOAT
+pilot PRICE
+pilot-light PRICE
+pima FLEECE
+pinafore FORCE
+pineapple TRAP
+pinochet GOAT
+pinpoint CHOICE
+pinstripe PRICE
+pint PRICE
+pinterest DRESS
+pioneer NEAR
+pioneered NEAR
+pioneering NEAR
+pipal FLEECE
+pipe PRICE
+pipe-organ NORTH
+pipedream FLEECE
+pipeline PRICE
+piper LETTER
+pippa COMMA
+pipsqueak FLEECE
+pique FLEECE
+piraeus PRICE
+piranha PALM
+pirates PRICE
+pirit KIT
+pisa COMMA
+pistachio PALM
+pitcairn SQUARE
+pitch KIT
+pitch-dark START
+pitchfork NORTH
+pith KIT
+pithy KIT
+pixar START
+pixie HAPPY
+pizza COMMA
+pizzeria NEAR
+pizzicato PALM
+place FACE
+placebo FLEECE
+placeseeker FLEECE
+plagiarism FACE
+plague FACE
+plaice FACE
+plain FACE
+plain-clothes GOAT
+plaistow FACE
+plan TRAP
+plane FACE
+planetarium SQUARE
+planner LETTER
+plant-louse MOUTH
+plaque PALM
+plasma TRAP COMMA
+plaster BATH
+plasterboard FORCE
+plasterer BATH
+plastering BATH
+plastic TRAP BATH
+plate FACE
+platform TRAP NORTH
+plattdeutsch CHOICE
+plausible THOUGHT
+play-reading FACE
+playback FACE
+playbill FACE
+playboy FACE CHOICE
+playboys CHOICE
+players LETTER
+playfair FACE
+playfellow FACE
+playford FACE
+playful FACE
+playground FACE MOUTH
+playgroup FACE
+playhouses MOUTH
+playmate FACE
+playmobil FACE
+playpen FACE
+playroom FACE
+plays FACE
+playstation FACE
+playsuit FACE
+playthings FACE
+playtime FACE PRICE
+playwright FACE PRICE
+plaza PALM COMMA
+plc DRESS
+plea FLEECE
+plead FLEECE
+pleasant DRESS
+pleasurable DRESS
+pleasure DRESS LETTER
+pleasure-boat DRESS
+pleasure-grounds DRESS
+pleated FLEECE
+pledge DRESS
+pledgor DRESS NORTH
+plethora DRESS
+pleydell FACE
+plosion GOAT
+plotted LOT
+plough MOUTH
+ploughboy MOUTH
+ploughed MOUTH
+ploughman MOUTH
+ploughs MOUTH
+ploughshares MOUTH SQUARE
+plover STRUT
+plow MOUTH
+plowed MOUTH
+plowright MOUTH
+plows MOUTH
+ploy CHOICE
+plug STRUT
+plug-in STRUT
+plug-ugly STRUT
+plum-pudding STRUT
+plumbing STRUT
+plus STRUT
+plush STRUT
+plymouth COMMA
+plywood PRICE
+pneumatic GOOSE
+pneumonia GOOSE
+pneumothorax GOAT
+poach GOAT
+poblanos PALM
+pochette LOT
+pocket-knife PRICE
+podcast BATH
+poddy-dodger LOT
+podunk STRUT
+pogey HAPPY
+poignant CHOICE
+poikilothermic CHOICE
+poinsettia CHOICE
+point CHOICE
+poise CHOICE
+poison CHOICE
+poker GOAT LETTER
+poland GOAT
+polaroid CHOICE
+pole GOAT
+pole-vault THOUGHT
+police COMMA
+police-station FACE
+policy HAPPY
+polish KIT LOT GOAT
+polite PRICE
+political KIT
+politics KIT LOT
+polk GOAT
+poll GOAT
+pollard START
+polo GOAT
+polyanthathe COMMA
+polycarbonate START
+polycarp START
+polyester LOT
+polyethylene DRESS
+polystyrene FLEECE
+polytrauma THOUGHT
+pomeroy CHOICE
+pompeo LOT
+pompey HAPPY
+pontardulais FACE
+poo GOOSE
+pooch GOOSE
+poodle GOOSE
+pooh-bah PALM
+pool GOOSE
+poolside PRICE
+pooper-scooper GOOSE
+poor CURE (FORCE)
+poor-spirited FORCE
+poorer CURE (FORCE)
+poorest CURE (FORCE)
+pop LOT
+pop-up STRUT
+popcorn NORTH
+pope GOAT
+popular LOT FOOT (LETTER)
+popularity TRAP (COMMA)
+population LOT FACE
+porbeagle FLEECE
+porcelain NORTH
+porch NORTH FORCE
+porcupine FOOT
+pore FORCE
+pork FORCE
+porn NORTH
+pornography NORTH
+porous FORCE
+porpoise NORTH
+porridge (CLOTH)
+porsche NORTH
+port FORCE
+portable COMMA
+porte-cochere LOT
+portent FORCE
+portfolio FORCE
+portia COMMA
+portiere SQUARE
+portrait FACE FORCE
+portsea HAPPY
+portugal COMMA
+poses GOAT
+posey HAPPY
+posh LOT
+position KIT
+positive KIT
+positively LOT
+positron LOT
+posits LOT
+possess COMMA
+possessions DRESS
+possible LOT
+post GOAT
+postal GOAT
+postcard START
+postcode GOAT
+poster GOAT
+postmaster BATH
+potash TRAP
+potatoes GOAT
+potboiler CHOICE
+potential COMMA
+potion GOAT
+pouch MOUTH
+pouffes GOOSE
+pounds MOUTH
+pour FORCE
+poured FORCE
+pouring FORCE
+pourparler CURE
+poussette GOOSE
+poverty LETTER
+pow MOUTH
+powder MOUTH
+powderpuff STRUT
+powell MOUTH
+power MOUTH
+power-point CHOICE MOUTH
+powerful LETTER
+powerhouse MOUTH
+powerscourt FORCE
+powwow MOUTH
+powwowed MOUTH
+powwowing MOUTH
+powwows MOUTH
+pozidriv PRICE
+practice TRAP
+practitioner TRAP
+prada PALM
+prado PALM
+pragmatic TRAP
+prairie SQUARE HAPPY
+praise FACE
+prakrit PALM
+prank TRAP
+prato PALM
+prawns THOUGHT
+prayer-book SQUARE
+prayer-mat SQUARE
+prayer-meeting SQUARE
+prayer-rug STRUT
+prayer-wheel SQUARE
+prayers SQUARE
+preach FLEECE
+precarious SQUARE
+precaution THOUGHT
+precede KIT
+precept DRESS
+precious DRESS
+precise PRICE
+precision KIT
+precocious GOAT
+predict KIT
+predigested PRICE
+predominantly LOT
+prefab TRAP
+prefer (KIT) (DRESS) NURSE
+preference DRESS
+preferred NURSE
+preferring NURSE
+pregnancy HAPPY
+pregnant DRESS
+prejudge STRUT
+prejudice DRESS
+prelude GOOSE
+premature CURE COMMA
+premiered SQUARE
+premieres SQUARE
+premises DRESS
+premium FLEECE
+preoccupy FOOT
+prep DRESS
+prepaid FACE
+preparation DRESS
+prepare SQUARE
+prepared SQUARE
+prepares SQUARE
+preparing SQUARE
+prepuce GOOSE
+prerecord NORTH
+prescribe PRICE
+presentation DRESS
+preservation LETTER
+preserve NURSE
+president KIT DRESS
+press DRESS
+pressure DRESS LETTER
+pressure-gauge FACE
+prestige DRESS
+prestigious KIT DRESS
+presumably GOOSE
+presume GOOSE
+presupposition STRUT
+pretorian FORCE
+pretty KIT
+preview GOOSE
+previewed GOOSE
+previewing GOOSE
+previous COMMA
+prezi HAPPY
+price PRICE
+pricey HAPPY
+pride PRICE
+prima FLEECE COMMA
+primary PRICE LETTER COMMA
+prime PRICE
+primrose GOAT
+principal COMMA
+principle COMMA
+prior PRICE
+priority (CLOTH)
+priory PRICE
+prison KIT
+prithee KIT HAPPY
+privacy HAPPY COMMA
+private PRICE
+privately PRICE
+privations PRICE
+privilege KIT
+prize PRICE
+prize-money STRUT
+pro GOAT
+probably LOT COMMA
+probate GOAT
+probe GOAT
+problem LOT COMMA
+problematic LOT
+problemo LOT
+problems COMMA
+procedural FLEECE
+procedure FLEECE LETTER
+proceeds FLEECE
+process DRESS COMMA (GOAT)
+processes DRESS
+processor LETTER
+proclaim FACE
+procure CURE
+prodigiously KIT
+produce GOAT GOOSE
+producer LETTER
+product STRUT COMMA
+production STRUT COMMA
+productivity KIT STRUT
+products STRUT
+professional DRESS COMMA
+professor LETTER COMMA
+professorial FORCE
+profile GOAT PRICE
+profit-margin START
+profit-sharing SQUARE
+profusely GOOSE
+profusion GOOSE
+progenitor GOAT
+progesterone GOAT
+prognosis LOT
+program TRAP GOAT
+programmable GOAT
+programme TRAP GOAT
+progress DRESS COMMA (GOAT)
+prohibit KIT
+projective GOAT
+prokofiev DRESS
+prolapse GOAT
+prologue LOT
+prominent LOT
+promote GOAT COMMA
+promotion GOAT
+prompt LOT
+proof GOOSE
+proofreading GOOSE
+propaganda COMMA
+proper LETTER
+properly LETTER
+property LOT LETTER
+proposal GOAT COMMA
+proposed GOAT
+propranolol GOAT
+propylene FLEECE GOAT
+prorate GOAT
+prorogation GOAT
+prosciutto COMMA
+prosecute GOOSE
+prosecution GOOSE
+prospect DRESS
+prostitute GOOSE
+protease FACE
+protection DRESS COMMA
+protein FLEECE
+protest DRESS GOAT
+prothalamion GOAT
+prothero LOT
+protocol LOT
+prototype PRICE
+protrusion GOOSE
+protuberance GOOSE
+proud MOUTH
+prove GOOSE
+provide PRICE COMMA
+providence LOT
+providentially LOT
+provider LETTER COMMA
+provision KIT COMMA
+prowl MOUTH
+proximity LOT
+prudential GOOSE
+prunella GOOSE
+pruning-shears NEAR
+prussia STRUT COMMA
+pseudo- GOOSE
+pseudonymous GOOSE
+psychiatry PRICE
+psychodrama PALM
+psychological PRICE
+psychologist COMMA
+psychology PRICE COMMA
+psychopath TRAP
+psychosis PRICE
+psychotherapeutic DRESS
+psychotherapist GOAT
+psychotherapy-y GOAT
+psychotic PRICE
+pub STRUT
+puberty GOOSE
+pubescent GOOSE
+public KIT STRUT
+publication STRUT FACE
+publish KIT STRUT
+publisher STRUT
+puccini GOOSE
+pudding FOOT
+puddle STRUT
+pudgy STRUT
+puff STRUT
+puff-puff STRUT
+puffin STRUT
+puffy STRUT HAPPY
+pug STRUT
+puget GOOSE
+pugilism GOOSE
+pugilist GOOSE
+pugilistic GOOSE
+pugnacious STRUT
+pugnacity STRUT
+puke GOOSE
+pull FOOT
+pulley FOOT
+pullover GOAT
+pulsar STRUT START
+pulsates STRUT
+pulsating STRUT
+pulse STRUT
+pulvinar STRUT
+puma GOOSE COMMA
+pump STRUT
+pumpkin STRUT
+pumps STRUT
+punch-drunk STRUT
+punctate STRUT
+punctiliously STRUT
+punctuate STRUT
+puncture STRUT
+punjab PALM
+punjabi PALM HAPPY
+punk STRUT
+puny GOOSE
+pup STRUT
+pupa GOOSE COMMA
+pupate GOOSE
+pupation GOOSE
+pupil GOOSE
+puppet STRUT
+puppy STRUT HAPPY
+purchase NURSE
+purchased COMMA
+purchaser LETTER
+pureblood STRUT
+purgative NURSE
+purgatory NURSE
+purge NURSE
+purifier PRICE
+puritan CURE
+puritanism GOOSE
+purl NURSE
+purple NURSE
+purport LETTER NURSE
+purpose COMMA NURSE
+purposeful NURSE
+purpura FOOT NURSE
+purr NURSE
+purring NURSE
+purse NURSE
+purse-proud MOUTH
+pursuant GOOSE
+pursue GOOSE
+pursued GOOSE
+pursuit GOOSE
+purulent GOOSE
+push FOOT
+push-up FOOT
+pushchair SQUARE
+pushchairs SQUARE
+pushkin FOOT
+pushy HAPPY
+pussycat FOOT
+pussyfoot FOOT
+put FOOT
+put-down FOOT
+put-on LOT FOOT
+put-put STRUT
+put-up FOOT
+putsch FOOT
+putt STRUT
+putter STRUT
+puzzle STRUT
+pwllheli FOOT
+pyjamas PALM
+pyogenic GOAT
+pyracantha COMMA
+pyramid KIT
+pyrenean NEAR
+pytchley PRICE
+pythagoras PRICE
+pythagorean PRICE
+pythagoreanism PRICE
+python PRICE
+pythonesque PRICE
+pythoness PRICE
+pyuria PRICE
+qatar START
+qatari START
+qom FOOT
+quaaludes GOOSE
+quadrangle TRAP
+quadratic LOT
+quadruple LOT
+qualified PRICE
+qualifier PRICE
+qualify LOT PRICE
+quality KIT HAPPY
+quantifiable PRICE
+quarrel (CLOTH)
+quarry (CLOTH)
+quart NORTH
+quarterly LETTER
+quarterstaves FACE
+quartz NORTH
+quatrain FACE
+quatrefoil CHOICE
+quattrocento GOAT
+quebracho PALM
+quechua DRESS
+queen FLEECE
+queensferry DRESS
+queer NEAR
+queerest NEAR
+queerly NEAR
+queerness NEAR
+query NEAR
+question DRESS
+questionnaire SQUARE
+questionnaires SQUARE
+questions DRESS
+queue GOOSE
+queue-jump STRUT
+queued GOOSE
+quibble KIT
+quick KIT
+quiet PRICE COMMA
+quill-feather DRESS
+quinoa PALM
+quipu FLEECE
+quirky HAPPY NURSE
+quite PRICE
+quiz KIT
+quoits CHOICE
+quotation GOAT
+quote GOAT
+quoth GOAT
+quotient GOAT
+quran PALM
+qwaqwa COMMA
+rabbit TRAP
+rabbit-burrows STRUT
+rabbit-hutch STRUT
+rabble-rouser MOUTH
+rabies FACE
+rabindranath BATH
+race FACE
+racecourse FORCE
+racehorse NORTH
+racer LETTER
+rachael FACE
+rachelle COMMA
+racial FACE
+racing FACE
+racism FACE
+rada PALM
+radar FACE START
+radiation FACE
+radiator FACE
+radical TRAP
+radio FACE
+radiograph GOAT
+radiological LOT GOAT
+radios GOAT
+radius FACE
+raeburn FACE
+raf DRESS
+rafa TRAP
+rafe FACE
+rafflesia TRAP
+raft BATH
+rag TRAP
+ragamuffin STRUT
+rage FACE
+ragtime PRICE
+rahman PALM
+rahway THOUGHT
+raid FACE
+raif FACE
+raik FACE
+rail FACE
+railcard START
+railings FACE
+railway FACE
+rain FACE
+rainbow FACE
+rainbows GOAT
+rainwater THOUGHT
+raise FACE
+rajpuatana PALM
+rake FACE
+ramada COMMA
+ramen PALM
+ramirez DRESS
+rampage FACE
+ramsey HAPPY
+ranch BATH
+ranee HAPPY
+range FACE
+rank TRAP
+ranking TRAP
+rape FACE
+rapeseed FLEECE
+raphael TRAP
+rapid TRAP
+rapier-thrust LETTER
+rare SQUARE
+rarebit SQUARE
+rarely SQUARE
+rareness SQUARE
+rarer SQUARE
+rarest SQUARE
+rascal BATH
+rascality BATH
+rashid TRAP FLEECE
+raspberry BATH
+rate FACE
+rather BATH LETTER
+ratio FACE
+rationale PALM
+ratios GOAT
+rattan TRAP
+raucous THOUGHT
+raunchy THOUGHT HAPPY
+rauschenberg MOUTH
+rautavaara START
+rauwolfia THOUGHT
+rave FACE
+raven FACE
+raven-haired SQUARE
+ravenclaw COMMA
+ray-bans FACE
+raybould FACE
+rayburn FACE
+rayleigh FACE
+raymond FACE
+rays FACE
+razoo PALM
+razor FACE LETTER
+re-education DRESS
+reach FLEECE
+reader LETTER
+ready DRESS
+ready-to-wear SQUARE
+reaffirmation TRAP
+reagan FACE
+real NEAR
+real-time PRICE
+realign PRICE
+realistic FLEECE NEAR
+reality TRAP
+realize PRICE NEAR
+really HAPPY
+realpolitik (FLEECE)
+realtor NEAR
+ream FLEECE
+reap FLEECE
+rear NEAR
+reared NEAR
+rearing NEAR
+rearward NEAR
+reassurance COMMA
+reassured CURE
+rebecca COMMA
+rebel (KIT) (DRESS)
+reboot GOOSE
+reborn NORTH
+rebuke GOOSE
+rebus FLEECE
+recap TRAP
+recent COMMA
+reception DRESS
+recession DRESS
+rechargeable START
+recife COMMA
+recipe COMMA
+recipient KIT
+reclaim FACE
+reclusive GOOSE
+recognition COMMA
+recognized PRICE
+recoil CHOICE
+recommend COMMA
+recommendation DRESS FACE COMMA
+reconnoitre CHOICE
+record-breaking FORCE
+recovered STRUT
+recovering STRUT
+recovery STRUT
+recruit GOOSE
+rectangle TRAP
+rectifier PRICE
+recurrent STRUT
+recurring NURSE
+recusant FOOT
+recycling PRICE
+red-hot LOT
+redbourne FORCE
+redcar START
+redeployment CHOICE
+redhead DRESS
+redmayne FACE
+reduce GOOSE
+reduction STRUT
+reebok LOT FLEECE
+reed FLEECE
+ref DRESS
+refer NURSE
+referable NURSE
+reference DRESS
+referral NURSE
+referred NURSE
+referring NURSE
+refers NURSE
+refine PRICE
+reflux STRUT
+reform NORTH
+refresh DRESS
+refrigerator KIT
+refuge GOOSE
+refugee DRESS GOOSE HAPPY
+refund STRUT
+refunds STRUT
+refurbished NURSE
+reg DRESS
+regal FLEECE
+regality FLEECE
+regarding START
+regatta COMMA
+regency FLEECE
+reggae DRESS
+reggaeton FACE
+reggie HAPPY
+regime FLEECE FACE
+regiment DRESS
+region FLEECE
+register KIT DRESS LETTER
+registrar START
+registry DRESS
+regular DRESS LETTER
+regularly FOOT LETTER
+regulation FOOT
+regulations DRESS
+regulator DRESS
+rehab TRAP
+rehash TRAP
+reichstag PALM
+reid FLEECE
+reigate PRICE
+reiki FACE HAPPY
+reincarnation START
+reindeer NEAR
+reject FLEECE
+rejoice CHOICE
+rejoin CHOICE
+rejuvenate GOOSE
+relate FACE
+relationship KIT
+relaunch THOUGHT
+relaxation TRAP
+relevant COMMA
+reliable PRICE COMMA
+religion KIT
+relocate GOAT
+reluctant STRUT
+remain FACE
+remake FACE
+remarkable START COMMA
+remaster BATH
+rematch TRAP
+remember DRESS LETTER
+remodelled LOT
+remorse NORTH
+remote GOAT
+remove GOOSE
+remuneration GOOSE
+rendezvous GOOSE
+renegade FACE
+renewal GOOSE
+renovate COMMA
+rent-a-mob LOT
+reorganize NORTH
+repagination TRAP
+repaint FLEECE
+repair SQUARE
+repairable SQUARE
+repaired SQUARE
+repairer SQUARE LETTER
+repairing SQUARE
+repairman SQUARE
+repairs SQUARE
+repayment FACE
+repercussion STRUT
+replace FACE
+replant FLEECE BATH
+replica COMMA
+replies PRICE
+reply PRICE
+report FORCE
+reportage PALM FORCE
+repose GOAT
+represent DRESS
+reproach GOAT
+reproduce GOOSE
+reproduction STRUT
+reptiles PRICE
+reptilian DRESS
+republic STRUT
+reputable FOOT
+reputation DRESS FOOT
+require PRICE
+requiring PRICE
+rescue GOOSE
+rescued GOOSE
+rescues GOOSE
+research NURSE
+resenthal PALM
+reservation LETTER
+reservations DRESS
+reserve NURSE
+reserved NURSE
+reservoir DRESS LETTER
+reset DRESS
+residence DRESS
+residual KIT
+residue DRESS GOOSE
+residues GOOSE
+resign PRICE
+resin DRESS
+resist KIT
+resolute GOOSE
+resolution DRESS GOOSE COMMA
+resolve LOT
+resorb NORTH
+resource FORCE
+responds LOT
+rest DRESS
+rest-cure CURE
+restaurant LOT
+restauranteurs NURSE
+restaurants DRESS
+restaurateur NURSE
+restock LOT
+restore FORCE
+result STRUT
+resulted STRUT
+resume (KIT) (DRESS) GOOSE
+resumes GOOSE
+resurfacing NURSE
+retail FACE
+retire PRICE
+retiring PRICE
+retouch STRUT
+retreat FLEECE
+retro DRESS
+retrorocket GOAT
+return NURSE
+retweet FLEECE
+reunite GOOSE
+reuse GOOSE
+reuters CHOICE
+revaluation TRAP
+revenue DRESS GOOSE
+revenues GOOSE
+revere NEAR
+revered NEAR
+revering NEAR
+reverse NURSE
+reversion NURSE
+review GOOSE
+reviews GOOSE
+revisionism KIT
+revive PRICE
+revolution DRESS GOOSE COMMA
+revue GOOSE
+rh-positive FACE
+rheims FLEECE
+rhetorical (CLOTH)
+rheumatic GOOSE
+rheumatoid GOOSE CHOICE
+rhodes GOAT
+rhonda COMMA
+rhubarb GOOSE START
+rhumba STRUT
+rhyme PRICE
+rhythm KIT
+rhythmic KIT
+rib KIT
+ribbon KIT
+ribena PRICE
+riboflavin GOAT
+ricci FLEECE HAPPY
+rice PRICE
+rich KIT
+richard LETTER
+richer KIT
+richey HAPPY
+ricochet COMMA
+ricoh FLEECE
+ride PRICE
+rider PRICE
+ridge KIT
+ridiculous FOOT
+riefenstal PALM
+riff-raff TRAP
+riffe PRICE
+rifle PRICE
+rig KIT
+riga FLEECE COMMA
+right PRICE
+right-angled TRAP
+right-minded PRICE
+right-winger LETTER
+righteous PRICE
+righteously PRICE
+righteousness PRICE
+rigid KIT
+rigil PRICE
+rigorous KIT
+rihanna COMMA (FLEECE) (HAPPY)
+rikki-tikki-tavi HAPPY
+riley PRICE
+rime PRICE
+ringer LETTER
+ringtone GOAT
+rip KIT
+rip-roaring FORCE
+ripcord FORCE
+ripe PRICE
+rise PRICE
+risen KIT
+risk KIT
+risky HAPPY
+rita FLEECE COMMA
+ritchie HAPPY
+ritual KIT
+river KIT LETTER
+riverside PRICE LETTER
+riviera KIT SQUARE COMMA
+riyadh TRAP
+ro-ro GOAT
+roach GOAT
+road GOAT
+roadie HAPPY
+roadrunner STRUT
+roar FORCE
+roared FORCE
+roaring FORCE
+roath GOAT
+rob LOT
+robe GOAT
+robert LOT LETTER
+robey HAPPY
+robin LOT
+robot LOT GOAT
+robotic GOAT
+robust STRUT GOAT
+rochdale FACE
+rock-climbing PRICE
+rocker LETTER
+rocking LOT
+rocking-chair SQUARE
+rocking-chairs SQUARE
+rocking-horse NORTH
+rocky LOT
+rodrigo LOT
+roe GOAT
+roebuck STRUT
+roedean FLEECE
+roffey HAPPY
+roger LOT LETTER
+rogue GOAT
+roland GOAT
+role GOAT
+rolex GOAT
+roll GOAT
+rolls-royce CHOICE
+rom LOT
+rom-com LOT
+roma COMMA
+roman GOAT
+romance TRAP GOAT
+romania FACE
+romanova COMMA
+romantic GOAT
+rome GOAT
+romeo GOAT
+roof GOOSE
+rooftop LOT
+rooibos LOT CHOICE
+rook FOOT
+rookie HAPPY
+room-mate FACE
+roomba COMMA
+rooster GOOSE
+rope GOAT
+rope-yarn START
+ropewalk THOUGHT
+ropey HAPPY
+rort NORTH
+rosario START
+rose GOAT
+roseanne GOAT
+rosebud STRUT
+rosette GOAT
+rosewarne NORTH
+rosewater THOUGHT
+rosie HAPPY
+rosin LOT
+rossetti DRESS COMMA
+rossi HAPPY
+rosyth PRICE
+rot LOT
+rotation GOAT
+rotgut STRUT
+rothenstein GOAT
+rotherhithe LOT PRICE
+rothermere LOT
+rothersthorpe LOT
+rotherwick LOT
+rothko LOT
+rothman LOT
+rothschild LOT
+rotogravure CURE
+rotterdam TRAP
+rottingdean FLEECE
+rouble GOOSE
+rouge GOOSE
+rough STRUT
+rough-hewn GOOSE
+rough-spoken STRUT
+roughly STRUT
+roulade PALM
+round MOUTH
+roundabout MOUTH
+roundup STRUT
+rourke NORTH
+rouse MOUTH
+routh MOUTH
+routine FLEECE GOOSE
+routledge MOUTH
+rover GOAT LETTER
+rowdy MOUTH
+rowed MOUTH
+rowing-club STRUT
+rowntree HAPPY
+rowridge MOUTH
+rows GOAT MOUTH
+roxy LOT
+roy CHOICE
+royal CHOICE
+royalties CHOICE
+royalty CHOICE
+royston CHOICE
+royton CHOICE
+roz LOT
+rub STRUT
+rubber STRUT LETTER
+rubbish STRUT
+rube GOOSE
+rubella GOOSE
+rubicon GOOSE
+rubidium GOOSE
+rubric GOOSE
+ruby GOOSE
+rudd STRUT
+rudder STRUT
+ruddy STRUT
+rude GOOSE
+ruefully GOOSE
+rues GOOSE
+ruff STRUT
+ruffle STRUT
+rufus GOOSE
+rug STRUT
+rugby STRUT HAPPY
+rugged STRUT
+rugosity GOOSE
+ruin GOOSE
+rules GOOSE
+rumba COMMA
+rumor LETTER
+rumor-mongers STRUT
+rumours GOOSE
+rump-steak STRUT
+run STRUT
+runaway COMMA
+runcorn FORCE
+runner LETTER
+running STRUT
+rupee GOOSE HAPPY
+rupert LETTER
+rural CURE
+rush STRUT
+rushmore STRUT
+rusholme GOAT
+rushton STRUT
+russell STRUT
+russia COMMA
+russian STRUT
+rusticity STRUT
+ruth GOOSE
+ruthenia FOOT
+ruthenian FOOT
+rutherford STRUT
+ruthie HAPPY
+ruthless GOOSE
+rutland STRUT
+ruze GOOSE
+rwanda COMMA
+ryan PRICE
+ryanair SQUARE
+saab PALM
+saatchi PALM
+saba COMMA
+sabbath COMMA
+sable FACE
+sabotage PALM
+sabre FACE
+sacha COMMA
+sachets FACE
+sacred FACE
+sacrifice PRICE
+sacrificing PRICE
+sad TRAP
+sadduccee HAPPY
+sade PALM
+sadiq TRAP FLEECE
+safari START HAPPY COMMA
+safe FACE
+safe-deposit LOT
+safeguarding FACE START
+safer LETTER
+safety FACE
+safety-catch TRAP
+safety-pins FACE
+safety-valve FACE
+safeway FACE
+safflower MOUTH
+saffron TRAP
+saga PALM COMMA
+sagacious FACE
+sage FACE
+sagebrush STRUT
+sagittarius TRAP
+sahara COMMA (SQUARE) (START)
+said DRESS
+saigon PRICE
+sail FACE
+sailor FACE
+saint FACE
+saipan PRICE
+saisho FACE
+sake FACE
+salaam PALM
+salami PALM
+salary TRAP LETTER COMMA
+salbutamol LOT
+sale FACE
+salem FACE
+salerno SQUARE
+salish FACE
+saliva COMMA
+saloon GOOSE
+salsa COMMA
+salt THOUGHT
+saltash TRAP
+saltmarsh START
+salute GOOSE
+salvador TRAP
+salvation TRAP
+sam TRAP
+samantha COMMA
+samba COMMA
+same FACE
+samey HAPPY
+samhain PALM
+samothrace GOAT
+samsonite PRICE
+samsung TRAP (STRUT) (FOOT)
+samuel GOOSE
+samurai PRICE
+sanchez DRESS
+sandbank TRAP
+sandcastle BATH
+sandpiper PRICE
+sandra BATH COMMA
+sandstorm NORTH
+sangfroid PALM
+sangria TRAP
+sanitise PRICE
+sanitizer LETTER
+sanitorium FORCE
+sansa COMMA
+santiago PALM
+saoirse NURSE
+sapphire TRAP PRICE
+sara SQUARE
+sarah SQUARE COMMA
+saratoga GOAT COMMA
+sarcasm TRAP
+sardinia START
+sargasso START
+sargent START
+sari START HAPPY
+sark START
+sars START
+sartorial FORCE
+sasha PALM COMMA
+sat TRAP
+satellite PRICE COMMA
+satiate FACE
+satiated FACE
+satire PRICE
+satisfaction TRAP
+satisfy PRICE
+satnav TRAP
+saturday TRAP LETTER
+sauce THOUGHT
+saucer THOUGHT
+saucy THOUGHT
+sauerbraten PALM
+sauerkraut MOUTH
+sauna COMMA
+sauron MOUTH
+sausage CLOTH
+savage TRAP
+save FACE
+saveloys CHOICE
+saver LETTER
+savoir-faire PALM START
+savoir-vivre PALM START
+savoy CHOICE
+savvy TRAP HAPPY
+saw-wort THOUGHT
+saward FACE
+sawbridge THOUGHT
+sawbuck THOUGHT
+sawdust STRUT THOUGHT
+sawfish THOUGHT
+sawmill THOUGHT
+sawn THOUGHT
+sawtooth GOOSE
+sawyer CHOICE
+saxe-coburg-gotha GOAT COMMA
+say-so FACE
+says DRESS
+scabies FACE
+scafell PALM
+scaffold GOAT
+scale FACE
+scam TRAP
+scampi HAPPY
+scar START
+scarborough START (COMMA)
+scarcely SQUARE
+scarcer SQUARE
+scarcest SQUARE
+scarcity SQUARE
+scare SQUARE
+scarecrow SQUARE
+scared SQUARE
+scaremonger SQUARE
+scarf START
+scarfe START
+scaring SQUARE
+scarlet START
+scarlett START
+scarpered START
+scarves START
+scary SQUARE
+scathing FACE
+scatterbrain FACE
+scenarios GOAT
+scene FLEECE
+scenic FLEECE
+schedule DRESS
+schemata FLEECE
+scheme FLEECE
+scherzinger LETTER
+scherzo SQUARE
+schipa FLEECE COMMA
+schofield GOAT
+school GOOSE
+schoolboy CHOICE
+schoolboys CHOICE
+schoolmarm START
+schoolteacher FLEECE
+schtup FOOT
+schultz FOOT
+schwa PALM
+schwarzenegger DRESS
+sci-fi PRICE
+science PRICE COMMA
+scientific KIT
+scirocco KIT
+scissor LETTER
+scissors KIT
+scoop GOOSE
+scoot GOOSE
+scooter GOOSE
+scope GOAT
+scorbutic NORTH
+scorch NORTH
+score FORCE
+scoreboard FORCE
+scorecard START FORCE
+scorer LETTER
+scorn NORTH
+scotch LOT
+scotch-tape LOT
+scotland COMMA
+scotsman LOT
+scourer MOUTH
+scouring MOUTH
+scouse MOUTH
+scout MOUTH
+scrape FACE
+scrapheap FLEECE
+scratch TRAP
+screech FLEECE
+screech-owl MOUTH
+screen FLEECE
+screenshot LOT
+screw GOOSE
+screwball GOOSE
+screwdriver PRICE
+screwworm GOOSE
+script KIT
+scrooge GOOSE
+scrub-brush STRUT
+scrubs STRUT
+scrum STRUT
+scrutiny GOOSE
+scuba GOOSE COMMA
+scud STRUT
+scuff STRUT
+sculpted STRUT
+sculpture STRUT
+scunthorpe NORTH
+scythe PRICE
+sea FLEECE
+sea-bathing FACE
+sea-level DRESS
+sea-lion PRICE
+seabed DRESS
+seaboard FLEECE
+seaborg NORTH
+seafarer SQUARE
+seafaring SQUARE
+seafood GOOSE
+seaforth NORTH FORCE
+seagreen FLEECE
+seagull STRUT
+seaham NEAR
+seahorse NORTH
+seam FLEECE
+seamless FLEECE
+seamus FACE
+sean THOUGHT
+search NURSE
+search-party NURSE
+searchlight PRICE NURSE
+seared NEAR
+sears NEAR
+seashore FORCE
+seaside PRICE
+seat FLEECE
+seaweed FLEECE
+sebaceous FACE
+sebring FLEECE
+sebum FLEECE
+secluded GOOSE
+seclusion GOOSE
+second DRESS COMMA
+second-class BATH
+second-hand TRAP
+seconds DRESS
+secret KIT FLEECE
+secretariat SQUARE
+secretary DRESS COMMA
+section DRESS
+sector DRESS LETTER
+secure CURE
+security KIT CURE COMMA
+sedgemoor FORCE CURE
+see FLEECE
+see-through GOOSE
+seed FLEECE
+seeger FLEECE
+seeing FLEECE
+seek FLEECE
+seem FLEECE
+seen FLEECE
+seer NEAR
+seersucker STRUT NEAR
+seesawed THOUGHT
+seesaws THOUGHT
+sega FACE COMMA
+segment DRESS
+segmental DRESS
+segmented DRESS
+seinfeld DRESS
+seizure LETTER
+select KIT DRESS
+self DRESS
+self-absorbed NORTH
+self-assured CURE
+self-congratulatory TRAP
+self-employment CHOICE
+self-righteous PRICE
+self-sacrificing PRICE
+self-service NURSE
+selfie HAPPY
+selfsame FACE
+selina COMMA
+sell DRESS
+sell-out MOUTH
+seller DRESS LETTER
+sellotape FACE
+selma COMMA
+semaphore FORCE
+semiautomatic THOUGHT
+seminar START
+semiquaver FACE
+semivowel MOUTH
+send DRESS
+sender LETTER
+senghenydd DRESS
+senile PRICE
+senior FLEECE
+sensation DRESS
+sense-organ NORTH
+sensitivity KIT
+sensor LETTER
+sensorial FORCE
+sent DRESS
+separate DRESS COMMA (LETTER)
+september DRESS LETTER
+septennial DRESS
+septet DRESS
+sequel FLEECE
+sequence FLEECE
+sequin FLEECE
+sequoia CHOICE
+serape PALM
+serbia NURSE
+serbo-croat TRAP GOAT
+sere NEAR
+serene (KIT) (DRESS) FLEECE
+serf NURSE
+serge NURSE
+sergeant START
+sergei NURSE
+sergey NURSE
+series NEAR
+serious NEAR COMMA
+serpent NURSE
+serpentine NURSE
+serrano PALM
+servant NURSE
+server LETTER NURSE
+service KIT COMMA NURSE
+serving NURSE
+session DRESS
+set DRESS
+set-to DRESS
+set-up DRESS STRUT
+seth DRESS
+seurat NURSE
+seven DRESS
+sevenoaks GOAT
+several DRESS
+severe NEAR COMMA
+severely NEAR
+severer NEAR
+severest NEAR
+sew GOAT
+sewed GOAT
+sewn GOAT
+sex DRESS
+sex-starved START
+sexploitation CHOICE
+sexual GOOSE
+seychelles FACE
+seymour FORCE
+shade FACE
+shadow TRAP
+shadows GOAT
+shaeffer FACE
+shaft BATH
+shaggy HAPPY
+shah PALM
+shairp SQUARE
+shaka PALM
+shake FACE
+shakespeare FACE NEAR
+shakira COMMA
+shall TRAP
+shame FACE
+shampoo TRAP GOOSE
+shan PALM
+shane FACE
+shanghai TRAP
+shape FACE
+sharapova COMMA
+share SQUARE
+sharecropper SQUARE
+shares SQUARE
+shareware SQUARE
+sharing SQUARE
+sharjah PALM START
+shark START
+sharon TRAP
+sharp START
+sharpe START
+sharpener START
+sharples START
+sharply START
+sharpshooter START
+shatterproof GOOSE
+shaun THOUGHT
+shave FACE
+shaving-brush STRUT
+shawm THOUGHT
+shawn THOUGHT
+shawnee HAPPY
+shawshank TRAP THOUGHT
+she FLEECE
+she-devil DRESS
+shear NEAR
+sheard SQUARE
+shearling NEAR
+shearwater NEAR
+sheba FLEECE COMMA
+sheboygan CHOICE
+sheen FLEECE
+sheep FLEECE
+sheer NEAR
+sheerness NEAR
+sheet FLEECE
+sheeting FLEECE
+sheffield DRESS
+sheik FACE
+sheikh FACE
+sheila COMMA
+shemozzle LOT
+sherborne NURSE
+sherbourne CURE
+shere NEAR
+sherlock LOT NURSE
+sherman NURSE
+sherpa COMMA NURSE
+sherwin NURSE
+sherwood NURSE
+shibboleth DRESS
+shift KIT
+shijiazhuang PALM
+shillibeer NEAR
+shine PRICE
+ship KIT
+shipshape FACE
+shiremoor FORCE CURE
+shirley NURSE
+shirt NURSE
+shitload GOAT
+shiva COMMA
+shod LOT
+shoe GOOSE
+shoe-leather DRESS
+shoeshine GOOSE
+shogun GOAT
+shook FOOT
+shoot GOOSE
+shop LOT
+shop-boys CHOICE
+shophar GOAT
+shopkeeper FLEECE
+shopper LETTER
+shore FORCE
+shoreline FORCE
+short NORTH
+short-circuit NORTH
+short-crust STRUT
+short-lived FORCE
+shortcomings STRUT
+shortcut STRUT
+shoshanna GOAT
+shoshone GOAT
+shotgun STRUT
+should FOOT COMMA
+shoulder LETTER
+shoulder-strap TRAP
+shout MOUTH
+shovel STRUT
+show GOAT
+show-jumping GOAT
+show-stopping GOAT
+show-window GOAT
+showbiz GOAT
+showboat GOAT
+showcase FACE GOAT
+showed GOAT
+shower MOUTH
+shower-baths BATH
+showgirl GOAT
+showground GOAT
+showjumping STRUT
+showman GOAT
+shown GOAT
+showroom GOAT
+shows GOAT
+shrew-mouse MOUTH
+shrewsbury GOAT
+shrink-wrap TRAP
+shroud MOUTH
+shrug STRUT
+shrunk STRUT
+shuffle STRUT
+shufti FOOT
+shush FOOT
+shut STRUT
+shutdown STRUT
+shutter STRUT
+shuttle STRUT
+siberian PRICE
+sibling KIT
+sick KIT
+side PRICE
+sideboard FORCE
+sidewalk THOUGHT
+siegmund FOOT
+sienna COMMA
+sierra SQUARE COMMA
+sigh PRICE
+sighs PRICE
+sight PRICE
+sightseeing PRICE
+sigma COMMA
+sign PRICE
+signage PRICE
+signal KIT
+signature KIT COMMA
+significant KIT
+signifies PRICE
+signors NORTH
+signposted PRICE
+sigourney FORCE
+silence PRICE
+silent PRICE
+silicone GOAT
+siliqua COMMA
+silky HAPPY
+silver KIT LETTER COMMA
+silverman LETTER
+silverstone GOAT
+silverware SQUARE
+silvie HAPPY
+simba COMMA
+similar LETTER COMMA
+similarly LETTER
+simon PRICE
+sinatra PALM
+sincere NEAR
+sincerely NEAR
+sinclair SQUARE
+sinead FACE
+sinecure CURE
+singapore FORCE COMMA
+singer (LETTER)
+sinhala PALM
+siphon PRICE
+sir LETTER NURSE
+siracusa COMMA
+sirloin CHOICE NURSE
+sirs NURSE
+sister KIT
+sistine FLEECE
+sit KIT
+sitcom LOT
+site PRICE
+sittingbourne FORCE
+situated GOOSE
+situation KIT GOOSE
+situationality FACE
+six KIT
+size PRICE
+ska PALM
+skateboard FORCE
+skegness DRESS
+skelmanthorpe NORTH
+sketch DRESS
+sketchers DRESS
+skew GOOSE
+skew-whiff GOOSE
+skewbald THOUGHT
+skewed GOOSE
+skewer GOOSE
+ski FLEECE
+ski-jump STRUT
+skibob LOT FLEECE
+skies PRICE
+skijoring FLEECE
+skills KIT
+skin-tight PRICE
+skip KIT
+skirt NURSE
+skiwear SQUARE
+skull STRUT
+skuzzy STRUT
+sky PRICE
+sky-blue PRICE
+sky-high PRICE
+skydiving PRICE
+skyjack PRICE
+skylab TRAP
+skylark START
+skylight PRICE
+skyline PRICE
+skype PRICE
+skyscraper FACE LETTER
+skywalker THOUGHT PRICE
+skyward PRICE
+slade FACE
+slagheap FLEECE
+slapdash TRAP
+slather TRAP
+slave FACE
+slazenger TRAP
+sleek FLEECE
+sleep FLEECE
+sleepeezee HAPPY
+sleeper LETTER
+sleeping-bag TRAP
+sleepwalking THOUGHT
+sleepy FLEECE
+sleet FLEECE
+sleigh-bells FACE
+sleight PRICE
+sleipnir FACE
+sleuth GOOSE
+slice PRICE
+slide PRICE
+slight PRICE
+sligo PRICE
+slimmer LETTER
+slinger LETTER
+slip-coach GOAT
+slipcover STRUT
+slips KIT
+slipstream FLEECE
+slithered KIT
+sliwa COMMA
+sloe-gin GOAT
+slog CLOTH
+slogan GOAT
+slogging LOT
+slope GOAT
+slotted LOT
+slouch MOUTH
+slouch-hat MOUTH
+slovak GOAT
+slovakia COMMA
+slovenia COMMA
+slovenly STRUT
+slow-motion GOAT
+slow-worm GOAT
+slowcoach GOAT
+slowly GOAT
+slowpoke GOAT
+slows GOAT
+sludge STRUT
+slug STRUT
+slumdog LOT
+slur NURSE
+slurry STRUT
+slurs NURSE
+slush STRUT
+slytherin KIT
+small THOUGHT
+smaller LETTER
+smart START
+smash TRAP
+smear NEAR
+smear-words NEAR
+smee HAPPY
+smethwick DRESS
+smile PRICE
+smith KIT
+smithereens KIT
+smithy KIT HAPPY
+smog CLOTH
+smoke GOAT
+smoke-cured CURE
+smoking GOAT
+smooch GOOSE
+smooth-tongued STRUT
+smooths GOOSE
+smorgasbord NORTH
+smother STRUT
+sms DRESS
+smudge STRUT
+smuggler STRUT
+smurfs NURSE
+smythe PRICE
+snaefell FACE
+snafu TRAP
+snail FACE
+snaith FACE
+snake FACE
+snap TRAP
+snapdragon TRAP
+snape FACE
+snapshot TRAP LOT
+snare-drum STRUT SQUARE
+sneak FLEECE
+sneaky HAPPY
+sniper PRICE
+sno-cat TRAP
+snoop GOOSE
+snooze GOOSE
+snorkel NORTH
+snort NORTH
+snow GOAT
+snow-capped GOAT
+snow-covered STRUT
+snow-white GOAT PRICE
+snowboard GOAT FORCE
+snowden GOAT
+snowdonia GOAT
+snowdrops LOT
+snowfall GOAT
+snowfield GOAT
+snowflake GOAT
+snowman GOAT
+snowmelt GOAT
+snowmobile GOAT
+snowplough MOUTH
+snowplow MOUTH
+snows GOAT
+snowshoes GOAT
+snowstorm GOAT
+snuff STRUT
+snug STRUT
+snuggle STRUT
+so-so GOAT
+soak GOAT
+soap GOAT
+soapsuds STRUT
+soar START FORCE
+soaraway FORCE
+soared FORCE
+soaring FORCE
+sober GOAT
+soccer LETTER
+social GOAT
+socialite PRICE
+society PRICE COMMA
+sociology COMMA
+sociopath TRAP
+soda GOAT COMMA
+sodium GOAT
+sofa GOAT COMMA
+sofas COMMA
+sofia COMMA
+soft CLOTH
+soft-boiled CHOICE
+software SQUARE
+soggy LOT HAPPY
+soil CHOICE
+solar GOAT LETTER
+solaris START
+sold GOAT
+soldering-iron PRICE
+soldier LETTER
+sole GOAT
+solenoid CHOICE
+solid KIT
+solitaire SQUARE
+solitude GOOSE
+solo GOAT
+solomon LOT
+solubility FOOT
+solution GOOSE
+solving LOT
+soma GOAT COMMA
+somali PALM
+somalia PALM
+sombrero LOT
+some STRUT COMMA
+somebody STRUT
+somehow STRUT MOUTH
+someone STRUT
+somersault THOUGHT
+somerset DRESS STRUT LETTER
+somerville LETTER
+something STRUT
+sometimes STRUT PRICE
+somewhat LOT STRUT
+somewhere STRUT SQUARE
+sommelier LOT
+son STRUT
+sonata PALM
+song CLOTH
+songwriter PRICE
+sony GOAT
+soon GOOSE
+soot FOOT
+sooth GOOSE
+soothes GOOSE
+soothsayer GOOSE
+sophia FLEECE NEAR
+sophie GOAT HAPPY
+sophisticated COMMA
+sophronia GOAT
+sorbet NORTH
+sorbitol LOT NORTH
+sorbonne NORTH
+sorcerer LETTER
+sore FORCE
+sorghum NORTH
+sorrel (CLOTH)
+sorrow (CLOTH)
+sorrowful GOAT
+sorry (CLOTH)
+sort NORTH
+sortie HAPPY
+sotheby STRUT
+soubrette GOOSE
+souffle GOOSE
+sought-after THOUGHT
+soul GOAT
+sound MOUTH
+soundproofing GOOSE
+soundtrack TRAP
+soup GOOSE
+sour MOUTH
+source FORCE
+sourdine FORCE CURE
+sourer MOUTH
+souring MOUTH
+south MOUTH
+southall THOUGHT
+southampton TRAP MOUTH
+southbound MOUTH
+southeast MOUTH
+southeastern MOUTH
+southeastward MOUTH
+southern STRUT LETTER
+southerners STRUT
+southey HAPPY (STRUT) (MOUTH)
+southgate MOUTH
+southpaws THOUGHT
+southport MOUTH FORCE
+southsea HAPPY
+southward MOUTH
+southwark STRUT
+southwell MOUTH
+southwest MOUTH
+southwesterly MOUTH
+souvenir GOOSE
+souvenirs NEAR
+souza COMMA
+sovereign LOT
+soviet (GOAT) (LOT)
+sow GOAT MOUTH
+sow-bread MOUTH
+soy CHOICE
+soya CHOICE
+soybean FLEECE CHOICE
+soyuz GOOSE
+spa PALM
+space FACE
+space-heater FLEECE
+spacefarer SQUARE
+spacious FACE
+spaghetti HAPPY
+spain FACE
+spalding THOUGHT
+spandau MOUTH
+spanish TRAP
+spar START
+spare SQUARE
+spared SQUARE
+sparely SQUARE
+spareness SQUARE
+spares SQUARE
+sparing SQUARE
+spark START
+sparkler START
+sparkling START
+sparkplug STRUT
+sparrows GOAT
+sparse START
+spasticity TRAP
+spathe FACE
+spatial FACE
+speak FLEECE
+speaker FLEECE LETTER
+spear NEAR
+spears NEAR
+spearwort NEAR
+special DRESS
+specialist DRESS (COMMA)
+speciality DRESS (FLEECE) (HAPPY)
+specialized PRICE
+specie HAPPY
+specific KIT COMMA
+specified PRICE
+specify PRICE
+spectacle COMMA
+spectacular DRESS FOOT LETTER (COMMA)
+speech FLEECE
+speed FLEECE
+speedometer (FLEECE)
+speir NEAR
+spencer LETTER
+spennymoor FORCE CURE
+spew GOOSE
+spewed GOOSE
+sphenoidal FLEECE CHOICE
+sphere NEAR
+spice PRICE
+spicy PRICE
+spiderweb DRESS
+spike PRICE
+spinoza COMMA
+spiral PRICE
+spiritual KIT
+spirituality KIT
+spirograph GOAT
+spitfire PRICE
+splash TRAP
+splayfoot FACE
+split KIT
+sploshing LOT
+splurge NURSE
+spoiler CHOICE
+spoilt CHOICE
+spoke GOAT
+spokespeople FLEECE
+spokeswoman FOOT
+sponsor LETTER
+sponsorship LETTER
+spoof GOOSE
+spooky GOOSE
+spoon GOOSE
+spoor CURE (FORCE)
+spoors CURE
+spore FORCE
+sport FORCE
+sportswear SQUARE
+spot-on LOT
+spotlight PRICE
+spotting LOT
+spouse MOUTH
+sprays FACE
+spread DRESS
+spreadsheet FLEECE
+springer LETTER
+springsteen FLEECE
+springy HAPPY
+spruce GOOSE
+spuds STRUT
+spur NURSE
+spur-of-the-moment NURSE
+spuriousness GOOSE
+spurs NURSE
+spy PRICE
+spyglass PRICE
+square SQUARE
+square-shouldered SQUARE
+square-toed SQUARE
+squared SQUARE
+squarely SQUARE
+squareness SQUARE
+squares SQUARE
+squawk THOUGHT
+squeaky FLEECE
+squeaky-clean FLEECE
+squeamish FLEECE
+squeegee FLEECE HAPPY
+squishy HAPPY
+srebrenica COMMA
+stab TRAP
+stability COMMA
+stabilize FACE
+stable FACE
+staccato PALM
+stacey HAPPY
+stacy FACE
+stadium FACE
+staff BATH
+staffing BATH
+stafford TRAP
+staffordshire TRAP
+stag TRAP
+stage FACE
+stagecoach FACE GOAT
+stagger TRAP
+stainforth NORTH FORCE
+stainless FACE
+stair SQUARE
+stair-carpet SQUARE START
+staircase SQUARE
+stairs SQUARE
+stairway SQUARE
+stairwell SQUARE
+stake FACE
+stakeholder FACE GOAT
+stale FACE
+stalin PALM
+stalking THOUGHT
+stance BATH
+stand-up STRUT
+standard TRAP LETTER
+standby PRICE
+standee HAPPY
+stansted DRESS
+stanza COMMA
+staple FACE
+stapleton FACE
+star START
+star-gazer FACE
+star-studded STRUT
+starboard START
+starbucks STRUT START
+starch START
+stardust STRUT
+stares SQUARE
+starfish START
+staring SQUARE
+starlet START
+starring START
+starship START
+start START
+starvation START
+starved START
+starveling START
+starwort START
+stash TRAP
+state FACE
+statement FACE
+statham FACE
+static TRAP
+station FACE
+stationery FACE
+statistics KIT COMMA
+statoil CHOICE
+statue TRAP GOOSE
+statues GOOSE
+status COMMA
+statutes GOOSE
+statutory TRAP
+stayed FACE
+stays FACE
+steadfast BATH
+steak FACE
+steakhouse FACE MOUTH
+steam FLEECE
+steam-heat FLEECE
+steamer FLEECE
+steatopygia PRICE
+steep FLEECE
+steer NEAR
+steerage NEAR
+steering NEAR
+steering-gear NEAR
+stegosaurus NORTH
+steiger PRICE
+stella COMMA
+stendhal PALM
+stentorian FORCE
+stepbrother STRUT
+stepdaughter THOUGHT
+stepfather PALM
+stephanie DRESS
+stepmother STRUT
+stepson STRUT
+stereotype PRICE
+sterling NURSE
+stern (NURSE) (SQUARE)
+steroids CHOICE
+stethoscope DRESS
+stevie HAPPY
+steward GOOSE
+stewart LETTER
+stewed GOOSE
+stick KIT
+stick-in-the-mud STRUT
+sticker LETTER
+stigmata PALM
+still KIT
+still-life PRICE
+stinger LETTER
+stir NURSE
+stir-fry NURSE
+stirrer NURSE
+stirs NURSE
+stitch KIT
+stivichal PRICE
+stockhausen MOUTH
+stockholm GOAT
+stockjobber LOT
+stockport FORCE
+stodgy LOT
+stogey HAPPY
+stoke GOAT
+stoke-on-trent LOT
+stolen GOAT
+stomach STRUT COMMA
+stone GOAT
+stonemason FACE
+stood FOOT
+stooges GOOSE
+stool GOOSE
+stop LOT
+stopwatch LOT
+store FORCE
+storehouse FORCE
+storeroom FORCE
+storey HAPPY
+stork NORTH
+storm NORTH
+storm-cloud MOUTH
+stormtrooper GOOSE
+stormzy NORTH
+story FORCE HAPPY
+stourmouth MOUTH
+stout MOUTH
+stove GOAT
+stowmarket GOAT
+strachey FACE HAPPY
+stradey HAPPY
+straight FACE
+straight-forward NORTH
+straightedge DRESS
+straighten FACE
+straightforward FACE
+strain FACE
+strait FACE
+strange FACE
+stranger LETTER
+strap TRAP
+strasbourg TRAP
+strategic FLEECE
+strategies COMMA
+strategy TRAP HAPPY COMMA
+strathclyde TRAP
+strathcona TRAP
+strathmore TRAP
+strathspey TRAP
+stratopause THOUGHT
+stratosphere NEAR
+stratospheres NEAR
+strauss MOUTH
+strawberry THOUGHT
+straws THOUGHT
+streak FLEECE
+stream FLEECE
+streamer FLEECE
+streamline FLEECE
+street FLEECE
+strength DRESS
+strenuous GOOSE
+stress-marks START
+stretch DRESS
+stretcher DRESS
+stretcher-bearer SQUARE
+stretchy HAPPY
+striker PRICE LETTER
+striking PRICE
+stringer LETTER
+stringy HAPPY
+strip KIT
+stripe PRICE
+strive PRICE
+stroke GOAT
+stroll GOAT
+strong CLOTH
+strongarm START
+stronger LETTER
+stronghold GOAT
+strophe GOAT HAPPY
+stroud MOUTH
+strowger MOUTH
+struck STRUT
+structural STRUT
+structure STRUT LETTER
+struggle STRUT
+struggling STRUT
+strut STRUT
+struth GOOSE
+struthers STRUT
+stuck STRUT
+stud STRUT
+student GOOSE
+studios GOAT
+study STRUT HAPPY
+stuff STRUT
+stuffing STRUT
+stumble STRUT
+stunk STRUT
+stunning STRUT
+stupa COMMA
+stupendous GOOSE
+stupid GOOSE
+stupidity GOOSE
+sturdy NURSE
+stuttgart START
+style PRICE
+stylus PRICE
+stymie HAPPY
+suarez DRESS START
+sub STRUT
+subaqua COMMA
+subassembly DRESS
+subculture STRUT
+subdivision KIT
+subject DRESS STRUT COMMA
+sublime STRUT PRICE
+submariner STRUT
+submerge NURSE
+submit KIT COMMA
+suborder NORTH
+subscribe PRICE COMMA
+subscription KIT
+subsequently STRUT
+subsoil CHOICE
+substantial BATH
+substantiate BATH
+substitute STRUT GOOSE
+substitution GOOSE
+subterfuge GOOSE
+subtitles PRICE
+subtle STRUT
+subtotal GOAT
+subtype PRICE
+suburban NURSE
+subversion NURSE
+subway STRUT
+success COMMA
+successor LETTER
+succubus FOOT
+such STRUT
+sucrose GOAT GOOSE
+sudan GOOSE BATH
+sudbury STRUT
+sudden STRUT
+suddenly STRUT
+sudoku GOOSE
+suds STRUT
+sue GOOSE
+sued GOOSE
+suede FACE
+sues GOOSE
+suffer STRUT LETTER
+sufferer STRUT LETTER
+suffering STRUT
+sufficient COMMA
+suffix STRUT
+suffolk STRUT COMMA
+suffusion GOOSE
+sufi GOOSE HAPPY
+sugar FOOT LETTER
+sugar-beet FOOT FLEECE
+sugarcane FOOT FACE
+sugary FOOT
+suggest COMMA
+suggestion COMMA
+suicide GOOSE PRICE
+suing GOOSE
+suit GOOSE
+suitability GOOSE
+suitable COMMA
+suite FLEECE
+sulawesi GOOSE HAPPY
+sulfur LETTER
+sulfuric STRUT
+sullivan STRUT
+sulpha COMMA
+sultana STRUT PALM
+sumatra PALM GOOSE
+sumerian GOOSE
+summary STRUT LETTER COMMA
+summer STRUT LETTER
+summit STRUT
+sumo GOOSE
+sun STRUT
+sun-parlour START
+sun-porch FORCE
+sunbathe FACE
+sunbathed FACE
+sunbathing FACE
+sunbeam FLEECE
+sunbed DRESS
+sunday STRUT
+sunderland LETTER
+sunflower MOUTH
+sung STRUT FOOT
+sunk STRUT
+sunlight PRICE
+sunni FOOT
+sunrise PRICE
+sunroof GOOSE
+sunset DRESS
+sunshade FACE
+sunshine PRICE
+super GOOSE LETTER
+superb GOOSE NURSE
+superbly GOOSE NURSE
+supercargo START
+supercharge LETTER
+supercharger START
+superego FLEECE
+superfluous NURSE
+supergirl LETTER
+superglue LETTER
+superhighway PRICE
+superior GOOSE NEAR
+superlative GOOSE
+supermarket START LETTER
+supernova GOAT COMMA
+supersede FLEECE
+superstar START
+superstore FORCE
+supervise GOOSE LETTER
+supervision KIT
+supervisor LETTER
+supper STRUT
+supplement STRUT
+supplied PRICE
+supplier PRICE
+supplies PRICE
+supply PRICE COMMA
+support FORCE COMMA
+supported COMMA
+supposed GOAT
+suppository LOT
+supremacist GOOSE
+supremacy GOOSE
+supreme FLEECE GOOSE
+supremo GOOSE
+surbiton NURSE
+surcharge START NURSE
+surf NURSE
+surface NURSE
+surface-to-air NURSE
+surfboard NURSE
+surfer LETTER
+surfing NURSE
+surge NURSE
+surgeon NURSE
+surgery NURSE
+surly NURSE
+surname FACE NURSE
+surpass BATH LETTER
+surplus NURSE
+surprise PRICE (LETTER)
+surprisingly LETTER
+surreal NEAR
+surrey STRUT HAPPY
+surrounding MOUTH
+surveillance FACE
+survey LETTER NURSE
+surveys FACE
+survive PRICE LETTER
+sushi GOOSE HAPPY
+susie HAPPY
+suspect DRESS STRUT
+sussex STRUT
+susskind FOOT
+sustainable FACE
+sutherland STRUT LETTER
+sutton STRUT
+suture GOOSE
+suzanne GOOSE
+suzie HAPPY
+suzuki HAPPY COMMA
+svalbard START
+svengali DRESS
+swaddling-clothes GOAT
+swallowed GOAT
+swallows GOAT
+swami PALM
+swanee HAPPY
+swansea HAPPY
+swapo PALM
+swaraj PALM
+swarajist PALM
+swarfega NORTH
+swarthy HAPPY
+swatch LOT
+swazi PALM
+swaziland TRAP PALM
+swear SQUARE
+swearer SQUARE
+swearing SQUARE
+swearword SQUARE
+swedenborg NORTH
+sweep FLEECE
+sweeper FLEECE
+sweet FLEECE
+sweet-talk THOUGHT
+sweetheart FLEECE START
+sweetie HAPPY
+swift KIT
+swimming-baths BATH
+swimming-trunks STRUT
+swimwear SQUARE
+swinger LETTER
+swipe PRICE
+swirl NURSE
+switch KIT
+switchboard FORCE
+switchgear NEAR
+switzerland LETTER
+swivel KIT
+swoop GOOSE
+swoosh GOOSE
+sword FORCE
+sword-bearer SQUARE
+swore FORCE
+sworn FORCE
+sycamore FORCE
+sydney HAPPY
+sykes PRICE
+sympathy HAPPY COMMA
+synagogue LOT
+syndrome GOAT
+synergy LETTER
+synthesis KIT
+syracuse GOOSE
+system KIT COMMA
+t-junction STRUT
+tab TRAP
+tabitha COMMA
+table FACE
+table-knife PRICE
+table-talk THOUGHT
+tablet TRAP COMMA
+tableware FACE SQUARE
+tabloid CHOICE
+tabor FACE
+tachograph GOAT
+tadzhik PALM
+tadzhikistan PALM
+tag TRAP
+tagalog LOT
+tahiti FLEECE
+taiga PRICE
+tail FACE
+tailgate FACE
+tailor FACE
+taipei PRICE
+taiwan PRICE
+taiwanese PRICE
+taiyuan PRICE
+tajik (FLEECE)
+tajikistan FLEECE (TRAP)
+tajine TRAP
+take FACE
+take-home GOAT
+take-off FACE
+take-up STRUT
+takeaway FACE COMMA
+takeover GOAT
+tale FACE
+talebearing SQUARE
+talent TRAP
+talgarth START
+talitha COMMA
+talk THOUGHT
+talkie HAPPY
+talking-points CHOICE
+tall THOUGHT
+tallahasee HAPPY
+tallboys CHOICE
+tallulah GOOSE COMMA
+talmud FOOT
+tambour FORCE CURE
+tambours CURE
+tame FACE
+tamera COMMA
+tameside FACE
+tampa COMMA
+tandoori HAPPY
+tangier NEAR
+tangy HAPPY
+tank TRAP
+tannoy CHOICE
+tannoys CHOICE
+tanzania NEAR
+tanzanian NEAR
+tap TRAP
+tape FACE
+tape-measure DRESS
+taper FACE
+tar START
+tarboosh GOOSE START
+target START
+tarmac START
+tarn START
+tarnish START
+tarp START
+tarpaulin START
+tarpon START
+tarshish START
+tarzan START
+task BATH
+task-force BATH FORCE
+taskmaster BATH
+tasmania TRAP
+taste FACE
+tasty FACE
+tata PALM
+tatham FACE
+tattoo TRAP GOOSE
+tattooed GOOSE
+tatum FACE
+tatung FOOT
+tau MOUTH
+taught THOUGHT
+tauromachy NORTH
+taurus NORTH
+tavern TRAP
+tavistock LOT
+tax TRAP
+taxi HAPPY
+taxicab TRAP
+tayberry FACE
+taylor FACE LETTER
+tayport FACE
+tayside FACE
+tea FLEECE
+tea-bag TRAP
+tea-time PRICE
+tea-towel MOUTH
+teach FLEECE
+teacher LETTER
+teague FLEECE
+teak FLEECE
+team FLEECE
+teamed FLEECE
+teamwork FLEECE
+teapot LOT
+tear (NEAR)
+teardrop NEAR
+tearful NEAR
+tearing SQUARE
+tears NEAR
+tearsheet SQUARE
+teary NEAR
+teaser LETTER
+teaspoon GOOSE
+tech DRESS
+techie HAPPY
+technicolor STRUT
+technique DRESS FLEECE
+technology DRESS HAPPY COMMA
+tecumseh COMMA
+tee FLEECE
+teeming FLEECE
+teen FLEECE
+teenage FLEECE FACE
+teenager LETTER
+teepee HAPPY
+teifi HAPPY
+telecast BATH
+telegraph KIT DRESS BATH
+telemark START
+telemarketing START
+telephone DRESS GOAT
+television KIT DRESS
+televisual KIT
+tell DRESS
+telltale FACE
+telomeres NEAR
+temperature DRESS (LETTER) COMMA
+tempestuous DRESS
+tempi HAPPY
+temporary DRESS LETTER COMMA
+temptation DRESS
+tempura DRESS
+tenderloin CHOICE
+teniers NEAR
+tennis KIT
+tennis-court FORCE
+tenochtitlan LOT
+tent-peg DRESS
+teresa COMMA
+teriyaki PALM
+term NURSE
+termi SQUARE
+terminal NURSE
+termination NURSE
+terpene NURSE
+terrace DRESS
+terrain FACE LETTER COMMA
+terrestrial KIT
+terrible DRESS
+territorial FORCE
+territoriality FORCE
+terror LETTER
+terrorism DRESS
+terry DRESS
+tertiary NURSE
+tessa COMMA
+test DRESS
+test-drive PRICE
+test-tube GOOSE
+testimonial GOAT
+tether DRESS
+teutonic GOOSE
+tewa FACE COMMA
+texas COMMA
+text DRESS
+textile PRICE
+thai PRICE
+thailand TRAP PRICE
+thames DRESS
+than TRAP COMMA
+thanks TRAP
+that TRAP COMMA
+thatcher TRAP LETTER
+thaumaturge THOUGHT
+thea NEAR
+theatre FLEECE COMMA
+thee FLEECE
+theft DRESS
+their SQUARE
+them DRESS COMMA
+theme FLEECE
+themselves DRESS
+then DRESS COMMA
+theodore FORCE
+theologian GOAT
+theomorphic NEAR
+theory FLEECE LETTER COMMA
+therapeutic GOOSE
+therapy DRESS HAPPY COMMA
+there SQUARE LETTER
+thereby SQUARE
+therefore SQUARE FORCE
+therefrom SQUARE
+thereto SQUARE
+therewith SQUARE
+thermal NURSE
+thermocouple STRUT
+thermoplastic GOAT
+thermostat TRAP NURSE
+thesaurus NORTH
+thigh PRICE
+thigh-highs PRICE
+thighbone PRICE
+thighs PRICE
+thingamabob LOT
+thingie HAPPY
+thingy HAPPY
+think-tank TRAP
+third NURSE
+thirteen (FLEECE)
+thirty NURSE
+this KIT
+thomas LOT COMMA
+thong CLOTH
+thorax FORCE
+thorium FORCE
+thorn NORTH
+thorne NORTH
+thornton NORTH
+thoroughbred STRUT
+thoroughfares SQUARE
+thoroughly STRUT
+thorpe NORTH
+those GOAT
+thoth GOAT
+thou MOUTH
+though GOAT
+thought THOUGHT
+thousands MOUTH
+thread DRESS
+threat DRESS
+three FLEECE
+threshing-floor FORCE
+thriller LETTER
+throat GOAT
+thrombosis LOT
+throng CLOTH
+throttle LOT
+through GOOSE
+throughout GOOSE MOUTH
+throughway GOOSE
+throw GOAT
+thrown GOAT
+throws GOAT
+thrush STRUT
+thruway GOOSE
+thucydides GOOSE
+thud STRUT
+thug STRUT
+thule HAPPY
+thumb STRUT
+thumbnail STRUT FACE
+thundercloud MOUTH
+thunderstorm NORTH
+thursday NURSE
+thus STRUT
+thyroid CHOICE
+thyroxine PRICE
+tiberias PRICE
+ticket KIT
+tidmarsh START
+tie PRICE
+tier NEAR
+tierce NEAR
+tierney NEAR
+ties PRICE
+tiger PRICE LETTER
+tiger-lily PRICE
+tight PRICE
+tightrope GOAT
+tigris PRICE
+tijuana PALM
+tiktok LOT
+tile PRICE
+timberlake FACE LETTER
+timberyard LETTER
+time PRICE
+time-exposure GOAT
+time-lapse TRAP
+timeline PRICE
+timeshare SQUARE
+timesharing SQUARE
+timetable FACE PRICE
+timex PRICE
+timisoara START
+timor FLEECE
+timothy HAPPY COMMA
+tina COMMA
+tintagel TRAP
+tiny PRICE HAPPY
+tip KIT
+tiptoed GOAT
+tirade PRICE
+tirana PALM
+tire PRICE
+tired PRICE
+tissue GOOSE
+tissues GOOSE
+titania PALM
+titanic PRICE
+titanium PRICE
+tithe PRICE
+tithe-barn PRICE START
+title PRICE
+title-page FACE
+titmarsh START
+titmouse MOUTH
+tito FLEECE
+tnt DRESS
+to GOOSE COMMA
+to-do COMMA
+toast GOAT
+toasting-fork NORTH
+tobago FACE
+tobey HAPPY
+toby GOAT
+toccata PALM
+today COMMA
+toddler LOT
+toe GOAT
+toe-rag GOAT
+toffee HAPPY
+tofu GOAT
+toga COMMA
+together DRESS LETTER COMMA
+togetherness DRESS
+togo GOAT
+toil CHOICE
+toilet CHOICE
+toiletries CHOICE
+toilette PALM
+tokelau MOUTH
+token GOAT
+tokyo GOAT
+told GOAT
+toll GOAT
+tolled GOAT
+tolstoy CHOICE
+tom LOT
+tomatoes GOAT
+tomb GOOSE
+tombola LOT
+tomboy CHOICE
+tome GOAT
+tomintoul MOUTH
+tommie HAPPY
+tomorrow (CLOTH)
+tomtom LOT
+tone GOAT
+toneme FLEECE
+tonga COMMA
+tongs CLOTH
+toni HAPPY
+tonight PRICE
+tonsure LETTER
+tony GOAT
+too GOOSE
+took FOOT
+toolbox LOT
+tools GOOSE
+tooth GOOSE
+toothbrush STRUT
+toothless GOOSE
+toothpaste FACE GOOSE
+toothsome GOOSE
+tooting GOOSE
+tootsie FOOT
+top LOT
+top-dog LOT
+topaz TRAP
+topic LOT
+topnotch LOT
+topsoil CHOICE
+torch NORTH
+torch-singer NORTH
+tore FORCE
+torment NORTH
+torn FORCE
+tornado FACE NORTH
+torpedo NORTH
+torpoint CHOICE
+torpor NORTH
+torque NORTH
+torres DRESS
+tors NORTH
+torso NORTH
+tort NORTH
+tortuga COMMA
+tortuous NORTH
+torture NORTH
+torturous NORTH
+torus FORCE
+torvalds NORTH
+torvill NORTH
+tory FORCE
+toshiba FLEECE COMMA
+toss CLOTH
+total GOAT
+totally COMMA
+tote GOAT
+toucan GOOSE
+touch (STRUT) (MOUTH)
+touch-and-go STRUT
+touch-screen STRUT
+touch-tone STRUT
+touch-typing STRUT
+touchdown STRUT
+touchpad TRAP STRUT
+touchscreen FLEECE
+touchwood STRUT
+touchy STRUT
+tough STRUT
+tougher LETTER
+toughie HAPPY
+toulouse-lautrec GOOSE
+tour (FORCE) CURE
+toured CURE
+touring FORCE CURE
+tourism FORCE COMMA
+tourist FORCE CURE
+touristic FORCE CURE
+touristy FORCE
+tourmaline CURE
+tournament FORCE CURE
+tournedos CURE
+tours CURE
+tout MOUTH
+tow GOAT
+towbar START
+towed GOAT
+towel MOUTH
+tower MOUTH
+town MOUTH
+townee HAPPY
+townspeople FLEECE
+towpath BATH
+towpaths BATH
+towrope GOAT
+toxoplasmosis TRAP
+toy CHOICE
+toy-boy CHOICE
+toyota GOAT COMMA
+toys CHOICE
+toyshop CHOICE
+tracey HAPPY
+track TRAP
+tracker LETTER
+trade FACE
+trademark FACE START
+tradesman FACE
+tradespeople FLEECE
+traditional KIT COMMA
+traffic TRAP
+trafford TRAP
+tragedy TRAP
+tragic TRAP
+trailblazer FACE
+trailer FACE LETTER
+train FACE
+trainee FLEECE
+trainer LETTER
+trainers FACE
+traipse FACE
+trait FACE
+traitor FACE
+tranmere NEAR
+transceiver BATH
+transcend BATH
+transcendence BATH
+transcendentalist BATH
+transcript BATH
+transcription BATH
+transept DRESS
+transfer BATH NURSE
+transferability BATH
+transferable NURSE
+transferase BATH
+transference BATH
+transferred NURSE
+transferring NURSE
+transfers NURSE
+transfiguration BATH
+transform BATH
+transformation BATH LETTER
+transformed NORTH
+transformer NORTH
+transformers BATH
+transforming NORTH
+transforms NORTH
+transfusion GOOSE BATH
+translation BATH
+translucent GOOSE
+transmigration PRICE
+transparency BATH
+transparent TRAP BATH
+transpire BATH
+transplant BATH
+transponder BATH
+transport BATH FORCE
+transportation BATH
+transposition BATH
+transubstantiation BATH
+transvaal PALM
+transylvania BATH
+trap-door FORCE
+trapdoor FORCE
+trapezoidal CHOICE
+trash TRAP
+trashy HAPPY
+trattoria NEAR
+trauma THOUGHT COMMA
+traumatic THOUGHT
+traumatize THOUGHT
+travel TRAP
+travelers LETTER
+traveller LETTER
+travelodge LOT
+travis TRAP
+travolta COMMA
+trays FACE
+trayvon LOT
+treacherous DRESS
+treachery DRESS
+treasure DRESS LETTER
+treasure-trove DRESS
+treasurer LETTER
+treasury DRESS
+treat FLEECE
+treatment FLEECE
+treaty FLEECE
+treble DRESS
+trebuchet GOOSE
+trefdraeth PRICE
+trefoil CHOICE
+tressure LETTER
+triad TRAP
+triangle TRAP
+triathlon TRAP
+tribal PRICE
+tribunal GOOSE PRICE
+tribune GOOSE
+tributaries FOOT
+tribute KIT GOOSE
+triceratops PRICE
+tricia COMMA
+tried PRICE
+tries PRICE
+trifecta PRICE
+trifoliate PRICE
+trigeminal PRICE
+trigger KIT LETTER
+triglyceride PRICE
+trigonic PRICE
+trijet PRICE
+trijugate PRICE
+trilogy HAPPY COMMA
+trimester PRICE
+trinidad TRAP
+trio FLEECE
+trip KIT
+tripadvisor PRICE
+tripod LOT PRICE
+trireme FLEECE
+trishaw PRICE
+triumph PRICE
+triune GOOSE PRICE
+trivago PALM
+trivalent PRICE
+triweekly PRICE
+troika CHOICE
+trojan GOAT
+trolleybus STRUT
+trombone LOT
+trondheim PRICE
+troop GOOSE
+troop-carrier TRAP
+trophy GOAT HAPPY
+troth GOAT
+troubadour GOOSE FORCE
+trouble STRUT
+troubleshooting GOOSE
+trough CLOTH
+trouser LETTER
+trousers MOUTH
+trout MOUTH
+trowel MOUTH
+troy CHOICE
+truck STRUT
+trudge STRUT
+trudgen STRUT
+true GOOSE
+truer GOOSE
+truffle STRUT
+truffles STRUT
+truism GOOSE
+truly GOOSE
+truncate STRUT
+truncated STRUT
+trunk STRUT
+trunks STRUT
+truro CURE
+trust STRUT
+trusted STRUT
+trusts STRUT
+trustworthy HAPPY
+truth GOOSE
+truths GOOSE
+try PRICE
+try-out MOUTH
+tryptophan GOAT
+tsarina START
+tsunami PALM GOOSE HAPPY
+tuareg DRESS
+tub STRUT
+tuba GOOSE COMMA
+tube GOOSE
+tuber GOOSE
+tuberculosis GOOSE
+tubthumping STRUT
+tucson GOOSE
+tufted STRUT
+tug STRUT
+tugendhat PALM
+tuition GOOSE
+tulip GOOSE
+tulsa COMMA
+tumbleweed FLEECE
+tummy STRUT
+tumour GOOSE
+tumultuous GOOSE
+tuna GOOSE
+tune GOOSE
+tungsten STRUT
+tungusic FOOT
+tunic GOOSE
+tuning-fork NORTH
+tunisia GOOSE
+turbine NURSE
+turbocharge GOAT START
+turbojets GOAT
+turbulent NURSE
+turf NURSE
+turgenev DRESS
+turkey HAPPY NURSE
+turkmenistan DRESS NURSE
+turks NURSE
+turmoil CHOICE
+turn NURSE
+turn-out MOUTH
+turnaround MOUTH
+turner LETTER NURSE
+turning-point CHOICE
+turnover GOAT NURSE
+turnpike PRICE
+turpin NURSE
+turquoise CHOICE NURSE
+turret STRUT
+turtle NURSE
+turtledove STRUT
+turvey HAPPY
+tush FOOT
+tushie HAPPY
+tuskegee STRUT HAPPY
+tutor GOOSE
+tutorial GOOSE FORCE
+tutu GOOSE
+tuvalu PALM GOOSE
+tuxedo STRUT
+tv FLEECE
+twaites FACE
+tweak FLEECE
+tweed FLEECE
+tweet FLEECE
+twentieth COMMA
+twenty-one HAPPY
+twerking NURSE
+twice PRICE
+twilight PRICE
+twist KIT
+twitter KIT LETTER
+two GOOSE
+two-by-four FORCE
+two-tone GOAT
+two-way GOOSE
+twofer GOOSE
+twyford PRICE
+tycoon PRICE
+tyler PRICE
+tynemouth MOUTH
+type PRICE
+typhoid PRICE CHOICE
+typhoon GOOSE PRICE
+typical KIT
+typo PRICE
+typography PRICE
+tyrangiel COMMA
+tyrannosaurus NORTH
+tyre PRICE
+tyrone GOAT PRICE
+tzarina START
+u-boat GOOSE
+uber LETTER
+ubiquity GOOSE
+ubuntu (FOOT) (GOOSE)
+uccello GOOSE
+uchimura FLEECE
+udder STRUT
+uffizi GOOSE
+ufo DRESS
+uganda GOOSE COMMA
+ugly STRUT
+ugrian GOOSE
+ukraine FACE
+ukulele GOOSE
+ulster STRUT
+ulterior STRUT
+ultimate STRUT
+ultimately STRUT
+ultra COMMA
+ultra- STRUT
+ultrahigh PRICE
+uluant GOOSE
+ulysses GOOSE
+umami HAPPY
+umbilical STRUT
+umbrella STRUT COMMA
+umlaut MOUTH (GOOSE) (FOOT)
+umpire PRICE
+umpiring PRICE
+una COMMA
+unacceptable DRESS
+unanimous GOOSE
+unasked BATH
+unauthorized THOUGHT
+unavailable COMMA
+unaware SQUARE
+unbearable SQUARE
+unbiased PRICE COMMA
+uncharacteristically TRAP
+unclassifiable PRICE
+uncle STRUT
+unclear NEAR
+uncork NORTH
+uncouth GOOSE
+uncovered STRUT
+undamaged TRAP
+undemocratic DRESS
+under STRUT LETTER
+underage FACE
+underbrush STRUT
+undercarriage TRAP
+underclothing GOAT
+undercover STRUT LETTER
+undercurrent STRUT
+undercut STRUT
+underemployment CHOICE
+underfloor FORCE
+undergarments START
+undergone LETTER
+undergraduate LETTER
+underground MOUTH LETTER
+underneath LETTER
+underpants LETTER
+underpin LETTER
+underscored FORCE
+undersea HAPPY
+undershirt LETTER
+undershoot LETTER
+undersigned PRICE
+understand STRUT LETTER
+understated FACE LETTER
+understeer NEAR
+understood FOOT
+understudy STRUT
+undertook FOOT
+undervalue LETTER
+underwater THOUGHT LETTER
+underwear SQUARE LETTER
+underwent LETTER
+underwood LETTER
+underworld LETTER
+undoes STRUT
+unduly GOOSE
+unearth NURSE
+unemployed CHOICE
+unemployment CHOICE
+unerring NURSE
+unerringly NURSE
+unesco GOOSE
+unfair SQUARE
+unfairly SQUARE
+unfairness SQUARE
+unfaithfulness FACE
+unfathomable TRAP
+unforeseen FORCE
+unforgettable LETTER
+unforthcoming FORCE
+unfortunately NORTH
+ungava PALM
+ungoverned STRUT
+uni HAPPY
+unicef DRESS
+unicode GOOSE
+unicorn GOOSE NORTH
+unicycle GOOSE PRICE
+uniform NORTH
+uninsured CURE
+union GOOSE (HAPPY) (COMMA)
+unique FLEECE GOOSE
+uniroyal CHOICE
+unisex DRESS
+unison GOOSE
+unit GOOSE
+unitard KIT
+unite GOOSE
+united PRICE
+universal GOOSE NURSE
+university KIT GOOSE HAPPY NURSE
+unlawful THOUGHT
+unlikely PRICE
+unmask BATH
+unnecessary DRESS
+unpaid STRUT FACE
+unpainted STRUT
+unparalleled STRUT
+unplanned STRUT
+unpleasant DRESS
+unplugged STRUT
+unpopular STRUT
+unprecedented STRUT
+unprepossessing FLEECE
+unpresidential DRESS
+unpublished STRUT
+unpunctuality STRUT
+unquestioned STRUT
+unreliability PRICE
+unrighteous PRICE
+unrighteously PRICE
+unruly STRUT
+unsatisfactory TRAP
+unsavory STRUT
+unscathed FACE
+unspoiled CHOICE
+unsupervised LETTER
+unsurpassed LETTER
+until KIT STRUT
+unto COMMA
+untouchable STRUT
+untouched STRUT
+untruths GOOSE
+unusual STRUT GOOSE
+unveil FACE
+unwillingly STRUT
+unworthy NURSE
+up STRUT
+upbeat FLEECE
+upcoming STRUT
+update STRUT FACE
+upgrade STRUT FACE
+upkeep FLEECE
+upload STRUT
+upon LOT COMMA
+upper STRUT LETTER
+uppsala FOOT PALM
+upraise STRUT
+upright STRUT PRICE
+uproar FORCE
+uproarious FORCE
+uproariously STRUT
+upset DRESS STRUT
+upspeak FLEECE
+upstairs STRUT SQUARE
+upton STRUT
+upwards STRUT
+ural-altaic BATH
+uranium FOOT
+urban NURSE
+urbana LETTER
+urbane LETTER
+urchin NURSE
+urdu GOOSE NURSE
+urethane KIT
+urged NURSE
+urgent NURSE
+uri CURE
+urinary CURE
+urine CURE
+url DRESS
+urogenital GOAT
+urologist CURE
+urology CURE
+urticaria NURSE
+uruguay GOOSE CURE COMMA (PRICE)
+uruguayans GOOSE
+urwin NURSE
+us DRESS STRUT COMMA
+usa DRESS
+usage GOOSE
+usborne STRUT FORCE
+use GOOSE
+useful GOOSE
+user GOOSE LETTER
+users LETTER
+usher STRUT
+usual GOOSE
+usually GOOSE
+usufruct FOOT
+usurious GOOSE
+usurpers GOOSE
+usury GOOSE
+utah PALM
+utahan PALM
+utensils GOOSE
+uther LETTER
+uthwatt STRUT
+utility GOOSE
+utilize GOOSE
+utilized PRICE
+utmost STRUT GOAT
+utopia GOOSE
+utter STRUT
+utterly LETTER
+uvula GOOSE
+uvular GOOSE
+uvularization GOOSE
+uxorious FORCE
+uyghur FLEECE
+uzbek FOOT
+uzbekistan PALM (GOOSE) (FOOT)
+uzi HAPPY
+uzziah STRUT
+v-sign PRICE
+vaal PALM
+vacancy FACE
+vaccine FLEECE
+vacuum GOOSE
+vagotomy FACE
+vague FACE
+vainglorious FORCE
+vale FACE
+valentine PRICE
+valerie HAPPY
+valid KIT TRAP
+valley TRAP HAPPY
+valuable FOOT
+valuation GOOSE
+value TRAP GOOSE
+valued GOOSE
+values GOOSE
+vampire PRICE
+van TRAP
+vancouver GOOSE
+vanessa COMMA
+vanguard START
+vanilla COMMA
+vape FACE
+vapour FACE
+variable SQUARE
+variance SQUARE
+variation SQUARE
+variety PRICE LETTER COMMA
+various SQUARE COMMA
+varnish START
+varsity START
+vary SQUARE
+vasodilator FACE
+vat TRAP
+vaughan THOUGHT
+vault THOUGHT
+vauxhall THOUGHT
+vaz TRAP
+veered NEAR
+vega COMMA
+vegan FLEECE
+vegetables DRESS
+vegetarian DRESS SQUARE
+veggie HAPPY
+vehemence NEAR
+vehicles FLEECE
+veil FACE
+veloce GOAT
+velour GOOSE
+vendee HAPPY
+vendor COMMA
+veneer NEAR
+venezuela FACE COMMA
+ventura CURE COMMA
+vera COMMA
+veranda COMMA
+verbal NURSE
+verde NURSE
+verdi SQUARE HAPPY
+verdict NURSE
+verge NURSE
+verifiable PRICE
+verified KIT DRESS PRICE
+verify PRICE
+vermeer NEAR
+vermont LETTER
+veronica COMMA
+verruca GOOSE
+versailles SQUARE
+versatile NURSE (PRICE)
+verse NURSE
+version NURSE
+versus LETTER COMMA NURSE
+vertical NURSE
+very DRESS HAPPY
+vespa COMMA
+vespucci GOOSE
+vexatious FACE
+vhs FACE
+viaduct STRUT
+viagra TRAP
+viber PRICE
+vibraharp START
+vibrant PRICE
+vibrating PRICE
+vibration PRICE
+vibrato PALM
+viburnum PRICE
+vicarious SQUARE
+vice PRICE
+vice-chairperson SQUARE
+vicenza COMMA
+viceroy CHOICE
+victim KIT
+victoria FORCE
+victorian FORCE
+victorious FORCE
+victory KIT LETTER COMMA
+vidal PALM
+vide (FLEECE)
+video KIT
+videos GOAT
+vieira SQUARE
+vienna COMMA
+viennese NEAR
+vietnam PALM
+vietnamese DRESS
+view GOOSE
+viewed GOOSE
+viewing GOOSE
+viewpoint CHOICE
+vigilant KIT
+vigo FLEECE
+viking PRICE
+villa KIT COMMA
+village KIT
+villas COMMA
+villein FACE
+vintage KIT
+violence PRICE (COMMA)
+viper PRICE
+virago PALM
+viral PRICE
+virgin NURSE
+virginia LETTER
+virginity LETTER
+virgo NURSE
+virology PRICE
+virtual GOOSE NURSE
+virtue GOOSE NURSE
+virtues GOOSE
+virtuoso NURSE
+virus PRICE
+visa COMMA
+viscose GOAT
+visible KIT
+vision KIT
+visit KIT
+visor LETTER
+vista KIT COMMA
+visual KIT GOOSE
+visualization KIT
+visualize PRICE
+vital PRICE
+vitality PRICE
+vitiligo PRICE
+viva COMMA
+vivace PALM
+vivacious FACE
+vivarium PRICE
+vivid KIT
+vizier NEAR
+vladimir TRAP
+vocab TRAP
+vocal GOAT
+vocational GOAT
+vodafone GOAT
+vodaphone GOAT
+vogue GOAT
+voice CHOICE
+voice-over CHOICE
+voicemail CHOICE
+void CHOICE
+voigt CHOICE
+voile CHOICE
+voivode CHOICE
+voivodeship CHOICE
+volcano LOT FACE
+volga COMMA
+volkswagen TRAP GOAT
+volleyball THOUGHT
+voluble FOOT
+volume GOOSE
+volumetric FOOT
+volunteer LOT NEAR
+volunteered NEAR
+volunteers NEAR
+vomit LOT
+voodoo GOOSE
+voracious FACE
+voronezh DRESS
+vosges GOAT
+vote GOAT
+vouch MOUTH
+voucher MOUTH
+vouchsafe FACE MOUTH
+vow MOUTH
+vowed MOUTH
+vowel MOUTH
+vowles MOUTH
+vows MOUTH
+voyager CHOICE LETTER
+voyeur NURSE
+voyeurism NURSE
+voyeuristic CHOICE
+vulgarity STRUT
+vulnerable STRUT
+vuvuzela GOOSE
+wabash TRAP THOUGHT
+wadded LOT
+waddle LOT
+wade FACE
+wadi HAPPY
+wafer FACE
+wafer-thin FACE LETTER
+wag TRAP
+wage FACE
+wagnerian PALM
+wagstaff BATH
+wah-wah PALM
+waif FACE
+wail FACE
+waist FACE
+waist-deep FACE
+waist-high FACE PRICE
+waistband FACE
+waistline FACE
+wait FACE
+waiter FACE
+waitress FACE
+waitrose FACE GOAT
+waiver FACE
+wake FACE
+waldorf NORTH
+wales FACE
+walk THOUGHT
+walk-in THOUGHT
+walkabout MOUTH
+walker LETTER
+walkie-talkie THOUGHT
+walkway THOUGHT
+wall THOUGHT
+wallflower MOUTH
+wallpaper LETTER
+walmart START
+walmesley THOUGHT
+walnut STRUT
+walrus THOUGHT
+walsall THOUGHT
+waltz THOUGHT
+wanderlust STRUT
+wandsworth COMMA
+wanting LOT
+war-torn FORCE
+ward NORTH
+wardell NORTH
+warden NORTH
+wardrobe GOAT NORTH
+ware SQUARE
+warehouse MOUTH
+warehouses MOUTH
+warehousing MOUTH
+wares SQUARE
+warfare SQUARE
+warfarin NORTH
+warhorse NORTH
+waring SQUARE
+warlike NORTH
+warlock NORTH
+warlord NORTH
+warm-up NORTH
+warmer NORTH LETTER
+warming NORTH
+warmonger STRUT
+warmth NORTH
+warned NORTH
+warner NORTH
+warning NORTH
+warp NORTH
+warrant (CLOTH)
+warrantors NORTH
+warren (CLOTH)
+warrior (CLOTH)
+wars NORTH
+warsaw NORTH
+wart NORTH
+wartime PRICE
+warwidow NORTH
+wary SQUARE
+wasabi PALM HAPPY
+wash CLOTH
+washbasin FACE
+washing-machine FLEECE
+wasp LOT
+waste FACE
+watch LOT
+watchband LOT
+watchdog LOT
+watchfully LOT
+water THOUGHT LETTER
+water-bottle LOT LETTER
+water-buffalo STRUT
+water-closet LOT
+water-tower MOUTH
+watercolor STRUT LETTER
+watercolour LETTER
+watercourse FORCE LETTER
+watercraft BATH LETTER
+waterfall THOUGHT LETTER
+waterfoul MOUTH
+waterfront STRUT LETTER
+watergate LETTER
+waterloo LETTER
+watermain FACE
+waterproof GOOSE
+watershed LETTER
+waterspout MOUTH
+waterways LETTER
+wave FACE
+wavelength DRESS
+wawa PALM
+way-out MOUTH
+waybill FACE
+wayfarer FACE SQUARE
+wayfaring SQUARE
+wayne FACE
+ways FACE
+wayside FACE
+wayward FACE
+weak FLEECE
+wealthy HAPPY
+wean FLEECE
+weapons DRESS
+wear SQUARE
+wearable SQUARE
+wearer SQUARE
+weariest NEAR
+wearing SQUARE
+wears SQUARE
+weary NEAR
+weather DRESS LETTER
+weather-chart LETTER
+weather-map TRAP
+weatherby LETTER
+web DRESS
+webb DRESS
+webber DRESS LETTER
+webcam TRAP
+weber FACE
+website DRESS PRICE
+webster DRESS
+wed DRESS
+wedding DRESS
+wedge DRESS
+wedgwood DRESS
+wednesday DRESS
+wee FLEECE
+weed FLEECE
+week FLEECE
+weekend (FLEECE)
+weekenders (FLEECE)
+weep FLEECE
+weigela PRICE
+weighbridge FACE
+weighed FACE
+weighs FACE
+weight FACE
+weightwatchers LOT
+weir NEAR
+weird NEAR
+welcome DRESS COMMA
+welfare SQUARE
+well-being DRESS
+well-known GOAT
+well-meaning FLEECE
+well-nigh PRICE
+well-worn FORCE
+weltschmerz SQUARE
+wentworth LETTER
+were LETTER NURSE
+werewolf FOOT SQUARE
+wesley DRESS
+west DRESS
+west-end DRESS
+westbourne FORCE CURE
+western DRESS LETTER
+wet DRESS
+wetherby DRESS
+wetherspoon DRESS
+weymouth FACE
+whale FACE
+wharf NORTH
+wharfedale NORTH
+wharves NORTH
+whatever DRESS LOT LETTER
+whatsapp TRAP
+wheatear NEAR
+wheelbarrow TRAP
+wheelchair SQUARE
+wheelchairs SQUARE
+when DRESS
+whenever DRESS
+where SQUARE
+whereabouts MOUTH
+whereas TRAP
+whereby SQUARE
+wherefore SQUARE
+wheresoever SQUARE
+whereto SQUARE
+wherever LETTER
+wherewith SQUARE
+wherewithall SQUARE
+whether DRESS LETTER
+whew GOOSE
+which KIT
+whichever KIT
+while PRICE
+whiplash TRAP
+whirlpool NURSE
+whitbread DRESS
+white PRICE
+whitebeard NEAR
+whitechapel TRAP
+whitefriars PRICE
+whitehall THOUGHT PRICE
+whitehead DRESS
+whitehorse NORTH
+whitey HAPPY
+who GOOSE
+whole GOAT
+wholesale FACE GOAT
+whom GOOSE
+whoopee FOOT HAPPY
+whoopi FOOT
+whoops FOOT
+whoosh FOOT
+whore FORCE
+whose GOOSE
+why PRICE
+wi-fi PRICE
+widdershins LETTER
+widdowson GOAT
+wide PRICE
+wide-body LOT
+wider PRICE LETTER
+widespread DRESS
+widget KIT
+widows GOAT
+wiesbaden PALM
+wife PRICE
+wifi PRICE
+wig KIT
+wight PRICE
+wiki HAPPY
+wikileaks FLEECE
+wilberforce FORCE
+wild PRICE
+wilde PRICE
+wilderness LETTER
+wildfire PRICE
+wildfoul MOUTH
+wildlife PRICE
+wilhemshaven PALM
+will KIT
+william COMMA
+willow-wren GOAT
+willows GOAT
+willpower MOUTH
+wimborne FORCE
+windcheater FLEECE
+windermere NEAR LETTER
+windfall THOUGHT
+window-shop GOAT
+windows GOAT
+windowsill GOAT
+windrush STRUT
+windscreen FLEECE
+windsor LETTER
+windswept DRESS
+wine PRICE
+winger LETTER
+wingnut STRUT
+winnepesaukee HAPPY
+winner LETTER
+winnipeg DRESS
+winter LETTER
+wipe PRICE
+wipers PRICE
+wire PRICE
+wire-cutters STRUT
+wiredrawn THOUGHT
+wireless PRICE COMMA
+wiring PRICE
+wirth NURSE
+wisbech FLEECE
+wisdom KIT
+wise PRICE
+wiseacre FACE
+wish KIT
+witch KIT
+witch-haze FACE
+witchcraft BATH
+with KIT
+withal KIT
+withdrawal THOUGHT
+withdrawn THOUGHT
+withdraws THOUGHT
+withers KIT
+witherspoon GOOSE LETTER
+within KIT
+without KIT MOUTH
+withstood FOOT
+wives PRICE
+wizard KIT
+wo GOAT
+woburn GOAT
+woe GOAT
+woeful GOAT
+wolf FOOT
+wolff FOOT
+wolfgang TRAP
+wolseley FOOT
+wolstenholme GOAT
+wolverhampton FOOT
+wolverine FOOT FLEECE
+woman FOOT COMMA
+womenfolk GOAT
+won STRUT
+wonder STRUT LETTER
+wonderful STRUT LETTER
+wonderwall LETTER
+wonga COMMA
+wood FOOT
+wood-pulp STRUT
+woodcraft BATH
+wooden FOOT
+woodruff STRUT
+woodstock LOT FOOT
+woodwind FOOT
+woof FOOT
+woofer FOOT LETTER
+wooferton FOOT
+woolgatherer TRAP
+woolgathering TRAP
+woolwich FOOT
+woomera FOOT
+woops FOOT
+woos GOOSE
+wooster FOOT
+wootton FOOT
+worcester FOOT
+worcestershire LETTER
+word NURSE
+wordsworth LETTER NURSE
+wordsworthian NURSE
+wore FORCE
+work NURSE
+work-sharing SQUARE
+work-study STRUT
+workbasket BATH
+worker LETTER
+workforce FORCE
+workhorse NORTH
+working-class BATH
+workload GOAT
+workout MOUTH NURSE
+workplace NURSE
+workshop LOT NURSE
+world NURSE
+world-weary NEAR
+worldwide PRICE NURSE
+worm-gear NEAR
+worn FORCE
+worries STRUT
+worry STRUT
+worrying STRUT
+worrywart NORTH
+worse NURSE
+worship NURSE
+worshipped NURSE
+worshippers NURSE
+worst NURSE
+worth NURSE
+worthiest NURSE
+worthily NURSE
+worthiness NURSE
+worthing NURSE
+worthington NURSE
+worthless NURSE
+worthwhile PRICE NURSE
+worthy HAPPY NURSE
+wotcha COMMA
+would FOOT COMMA
+wound GOOSE
+woven GOAT
+wow MOUTH
+wraith FACE
+wraiths FACE
+wrap TRAP
+wreak FLEECE
+wretched DRESS
+wright PRICE
+wringer LETTER
+wristwatch LOT
+write PRICE
+writhe PRICE
+written KIT
+wroclaw TRAP
+wrong CLOTH
+wrote GOAT
+wroth GOAT
+wrought THOUGHT
+wrythe PRICE
+wuppertal FOOT PALM
+wuss FOOT
+wuthering STRUT
+wych PRICE
+wyoming GOAT
+wysiwyg HAPPY
+x-rays FACE
+xanthe HAPPY
+xbox LOT
+xenogears NEAR
+xenosaga PALM
+xerox LOT
+xhosa (THOUGHT) COMMA (GOAT)
+yacht-club STRUT
+yahoo GOOSE
+yahoos GOOSE
+yahweh PALM
+yale FACE
+yamaha PALM
+yankee HAPPY
+yard START
+yard-measure DRESS
+yardarm START
+yarmouth START
+yarn START
+yarwood START
+yawp THOUGHT
+yeadon FACE
+year NEAR
+yearling NEAR
+yearlong NEAR
+yearly NEAR
+years NEAR
+yeas FACE
+yellow DRESS
+yellow-flag GOAT
+yellowknife PRICE
+yellows GOAT
+yellowstone GOAT
+yellowwood GOAT
+yeovil GOAT
+yer LETTER
+yes DRESS
+yesterday LETTER
+yesteryear NEAR LETTER
+yet DRESS
+yeti HAPPY
+yew GOOSE
+yippee HAPPY
+ymca DRESS
+yo GOAT
+yoga GOAT COMMA
+yogi GOAT HAPPY
+yoichi FLEECE
+yoicks CHOICE
+yokohama PALM
+yolanda GOAT
+yolk GOAT
+york NORTH
+yorkie HAPPY
+yorkshire NORTH
+yoruba COMMA
+you GOOSE
+young STRUT
+younger STRUT LETTER
+youngest STRUT
+younghusband STRUT
+youngster STRUT
+your CURE LETTER (FORCE)
+yours CURE
+yourself FORCE (LETTER)
+youths GOOSE
+youtube GOOSE
+yowl MOUTH
+ythan PRICE
+yugoslav PALM GOOSE
+yule GOOSE
+yussuf FOOT
+zageb PALM
+zagreb DRESS
+zambezi HAPPY
+zanzibar START
+zapata PALM
+zaporozhye GOAT COMMA
+zappa COMMA
+zara START COMMA
+zarzuela START
+zebra (DRESS) COMMA (FLEECE)
+zeebrugge FOOT
+zeinab TRAP
+zeitgeist PRICE
+zelda COMMA
+zellweger DRESS
+zenith KIT
+zero NEAR
+zero-rated GOAT
+zeroth GOAT
+zeta COMMA
+zeugma GOOSE
+zhirkov NEAR
+zhivago PALM
+zhuzh FOOT
+zhuzhed FOOT
+zhuzhes FOOT
+zhuzhing FOOT
+zigzag TRAP
+zimbabwe PALM
+zimmerman LETTER
+zipped KIT
+zither KIT
+zizzi HAPPY
+zombie HAPPY
+zone GOAT
+zoo GOOSE
+zoom GOOSE
+zucchini GOOSE
+zulu GOOSE
+zulus GOOSE
+zurich GOOSE
+zwieback FLEECE
+zygoma PRICE
+zygopteran PRICE
+zygosis PRICE

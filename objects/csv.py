@@ -4,7 +4,8 @@ class CSV:
     def __init__(
             self,
             word: str,
-            sets: str = "",
+            sets: str,
+            source: str,
             checked: int = 0,
             score: int = 0,
             synonyms: int = 1,
@@ -13,6 +14,7 @@ class CSV:
     ):
         self.word = word
         self.sets = sets
+        self.source = source
         self.checked = checked
         self.score = score
         self.synonyms = synonyms
