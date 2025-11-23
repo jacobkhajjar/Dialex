@@ -8,7 +8,6 @@ class Vowel(Phone):
     def __init__(self, arpa: str, fx: str, is_stressed):
          super().__init__(arpa, fx)
          self.is_stressed = is_stressed
-         self.lexical_set = ""
 
     # prints unstressed vowels in lowercase
     def __repr__(self):

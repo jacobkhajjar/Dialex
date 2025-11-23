@@ -36,7 +36,6 @@ emails
 excuse
 favourites
 fitting
-focuses
 formatting
 fortune
 fred
@@ -100,7 +99,6 @@ submitting
 sustainability
 swimming
 swing
-teeth
 tied
 trackbacks
 travelling

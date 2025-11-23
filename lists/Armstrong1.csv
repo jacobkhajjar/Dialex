@@ -1,4 +1,4 @@
-Word,Sets,Source,Checks,Score,Synonyms,Generated,Added
+Word,Sets,Source,Checks,Score,Homonyms,Generated,Added
 a-bomb,FACE LOT,Armstrong,2,0,False,False,2025-09-08
 a-level,DRESS FACE,Armstrong,2,0,False,False,2025-09-08
 aachen,PALM,Armstrong,2,0,False,False,2025-09-08
@@ -781,7 +781,6 @@ authoritative,(THOUGHT) FORCE FACE,Armstrong,2,0,False,False,2025-09-08
 authority,THOUGHT (CLOTH) FORCE HAPPY,Armstrong,2,0,False,False,2025-09-08
 autism,THOUGHT KIT,Armstrong,2,0,False,False,2025-09-08
 autistic,THOUGHT KIT,Armstrong,2,0,False,False,2025-09-08
-auto,THOUGHT GOAT,Armstrong,2,0,False,False,2025-09-08
 autobahn,THOUGHT GOAT PALM,Armstrong,2,0,False,False,2025-09-08
 autochanger,THOUGHT GOAT FACE LETTER,Armstrong,2,0,False,False,2025-09-08
 autoclave,THOUGHT GOAT FACE,Armstrong,2,0,False,False,2025-09-08

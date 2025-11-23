@@ -936,7 +936,6 @@ globally
 glue
 goldfish
 goldfishes
-gone
 goodbye
 goody
 govern

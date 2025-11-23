@@ -8,7 +8,7 @@ class CSV:
             source: str,
             checked: int = 0,
             score: int = 0,
-            synonyms: int = 1,
+            homonyms: int = 1,
             generated: bool = True,
             added: date = date.today()
     ):
@@ -17,6 +17,6 @@ class CSV:
         self.source = source
         self.checked = checked
         self.score = score
-        self.synonyms = synonyms
+        self.homonyms = homonyms
         self.generated = generated
         self.added = added

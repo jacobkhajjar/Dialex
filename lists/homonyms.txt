@@ -206,4 +206,3 @@ TRAP (GOAT) FACE: endorse
 Aggregate
 TRAP: total
 TRAP FACE:  average
-

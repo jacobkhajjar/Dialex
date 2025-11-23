@@ -1,4 +1,4 @@
-Word,Sets,Source,Checks,Score,Synonyms,Generated,Added
+Word,Sets,Source,Checks,Score,Homonyms,Generated,Added
 non,LOT,10000 list,3,0,False,False,2025-09-08
 electronic,DRESS LOT,10000 list,3,0,False,False,2025-09-08
 Com,LOT,10000 list,3,0,False,False,2025-09-08
@@ -43,10 +43,8 @@ fri,PRICE,10000 list,3,0,False,False,2025-09-08
 washington,CLOTH KIT,10000 list,3,0,False,False,2025-09-08
 foreign,LOT/NORTH KIT,10000 list,3,0,False,False,2025-09-08
 law,THOUGHT,10000 list,3,0,False,False,2025-09-08
-non,LOT,10000 list,3,0,False,False,2025-09-08
 war,NORTH,10000 list,3,0,False,False,2025-09-08
 holiday,LOT FACE,10000 list,3,0,False,False,2025-09-08
-electronic,DRESS LOT KIT,10000 list,3,0,False,False,2025-09-08
 corporation,NORTH FACE,10000 list,3,0,False,False,2025-09-08
 channel,TRAP,10000 list,3,0,False,False,2025-09-08
 fund,STRUT,10000 list,3,0,False,False,2025-09-08
@@ -664,7 +662,6 @@ kernel,NURSE,10000 list,3,0,False,False,2025-09-08
 gray,FACE,10000 list,3,0,False,False,2025-09-08
 antonio,TRAP GOAT FLEECE,10000 list,3,0,False,False,2025-09-08
 charged,START,10000 list,3,0,False,False,2025-09-08
-under,STRUT,10000 list,3,0,False,False,2025-09-08
 demo,DRESS GOAT,10000 list,3,0,False,False,2025-09-08
 greece,FLEECE,10000 list,3,0,False,False,2025-09-08
 swiss,KIT,10000 list,3,0,False,False,2025-09-08
@@ -984,7 +981,6 @@ healing,FLEECE KIT,10000 list,3,0,False,False,2025-09-08
 princess,KIT,10000 list,3,0,False,False,2025-09-08
 packet,TRAP,10000 list,3,0,False,False,2025-09-08
 spray,FACE,10000 list,3,0,False,False,2025-09-08
-bulletin,STRUT KIT,10000 list,3,0,False,False,2025-09-08
 thompson,LOT,10000 list,3,0,False,False,2025-09-08
 extend,DRESS,10000 list,3,0,False,False,2025-09-08
 subsequent,STRUT DRESS,10000 list,3,0,False,False,2025-09-08
@@ -1610,7 +1606,7 @@ citation,PRICE FACE,10000 list,3,0,False,False,2025-09-08
 proved,GOOSE,10000 list,3,0,False,False,2025-09-08
 dozen,STRUT,10000 list,3,0,False,False,2025-09-08
 benjamin,DRESS KIT,10000 list,3,0,False,False,2025-09-08
-teeth,FEET,10000 list,3,0,False,False,2025-09-08
+teeth,FLEECE,10000 list,3,0,False,False,2025-09-08
 cloth,CLOTH,10000 list,3,0,False,False,2025-09-08
 stamp,TRAP,10000 list,3,0,False,False,2025-09-08
 salmon,TRAP,10000 list,3,0,False,False,2025-09-08
