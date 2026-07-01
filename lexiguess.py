@@ -1,3 +1,4 @@
+import streamlit as st
 import argparse
 import json
 
@@ -13,10 +14,16 @@ args = parser.parse_args()
 verbose = args.verbose
 do_fx = args.fauxnetics
 
-def main():
+def lexiguess(entry):
+    result = []
+
     # user entry
-    entry = input("What word would you like to lexiguess?: ").lower()
-    entry = entry.split()
+    entry = entry.lower().split()
+
+    #disable old args
+    verbose = False
+    do_fx = False
+    override = False
 
     # define counters
     word_count = len(entry)
@@ -54,7 +61,7 @@ def main():
         try:
             tokens = lookup[word]
         except:
-            print(f'"{word}" not in CMU dictionary\n')
+            result.append(f'"{word}" not in CMU dictionary\n')
             i += 1
             continue
 
@@ -99,7 +106,7 @@ def main():
                 if verbose:
                     print(f"Best guess at lexical sets: {", ".join(lexical_sets)}\n")
                 else:
-                    print(f"{word}: {", ".join(lexical_sets)}")
+                    result.append(f"{word}: {", ".join(lexical_sets)}")
 
             if do_fx:
                 print(f"fauxnetic transcription (GenAm): {transcription.strip(".")}")
@@ -116,13 +123,11 @@ def main():
     if override:
         if verbose:
             print("Lexical sets in LS dictionary:")
-        print("\n".join(lexical_sets))
+        result.append("\n".join(lexical_sets))
     
     # footer
     if verbose:
         print("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         print("\nLexiguess complete!\n")
     
-    return
-
-main()
+    return result
