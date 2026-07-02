@@ -1,6 +1,5 @@
 from enum import Enum
 from objects.phones import Phone
-from config.fx import *
 
 class Action(Enum):
     STOP = "stop-plosive"
@@ -20,7 +19,7 @@ liquids = ["L", "R"]
 semivowels = ["W", "Y"]
 
 class Consonant(Phone):
-    def __init__(self, arpa: str, fx: str, is_voiced: bool, action: Action):
-        super().__init__(arpa, fx)
+    def __init__(self, arpa: str, is_voiced: bool, action: Action):
+        super().__init__(arpa)
         self.is_voiced = is_voiced
         self.action = action

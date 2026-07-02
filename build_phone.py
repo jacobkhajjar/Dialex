@@ -10,7 +10,6 @@ def build_phone(token):
 
 def build_vowel(token):
     arpa = token[:2] # removes stress int
-    fx = globals()[(f"fx_{arpa}")] # creates fx_ variable
 
     # check if stressed (default is True)
     if "0" in token:
@@ -18,13 +17,12 @@ def build_vowel(token):
     else:
         is_stressed = True
     
-    vowel = Vowel(arpa, fx, is_stressed)
+    vowel = Vowel(arpa, is_stressed)
 
     return vowel
 
 def build_consonant(token):
     arpa = token
-    fx = globals()[(f"fx_{arpa}")] # creates fx_ variable
 
     # check if voiced
     if arpa in unvoiced:
@@ -46,6 +44,6 @@ def build_consonant(token):
     elif arpa in semivowels:
         action = Action.SEMIVOWEL
 
-    consonant = Consonant(arpa, fx, is_voiced, action)
+    consonant = Consonant(arpa, is_voiced, action)
    
     return consonant

@@ -1,12 +1,8 @@
 import streamlit as st
-from lexiguess import lexiguess
 
-st.title("Lexical Set Guesser")
+pg = st.navigation([
+    st.Page("pages/home.py", title="Lexiguess", icon="🕵️", default=True),
+    st.Page("pages/about.py", title="How it Works")
+], position="top")
 
-entry = st.text_input("entry", label_visibility="hidden")
-
-if entry:
-    result = lexiguess(entry)
-    st.write("  \n  \n".join(result))
-else:
-    st.write("Type words above, separated by a space. Then press enter to see the lexical sets.")
+pg.run()

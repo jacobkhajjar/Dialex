@@ -1,18 +1,9 @@
 import streamlit as st
-import argparse
 import json
 
 from objects.vowels import Vowel
 from guess_lexical_sets import guess_lexical_sets
 from build_phone import build_phone
-
-parser = argparse.ArgumentParser()
-parser.add_argument('-v', '--verbose', action='store_true', help='Enable verbose output')
-parser.add_argument('-fx', '--fauxnetics', action='store_true', help='Enable fauxnetic transcription')
-args = parser.parse_args()
-
-verbose = args.verbose
-do_fx = args.fauxnetics
 
 def lexiguess(entry):
     result = []
@@ -22,8 +13,6 @@ def lexiguess(entry):
 
     #disable old args
     verbose = False
-    do_fx = False
-    override = False
 
     # define counters
     word_count = len(entry)
@@ -92,14 +81,6 @@ def lexiguess(entry):
                 if not override:
                     if isinstance(phone, Vowel) and phone.lexical_set not in lexical_sets:
                         lexical_sets.append(phone.lexical_set)
-
-                # build fauxnetic transcription if -fx
-                if do_fx:
-                    fauxnetic = phone.fx
-                    if isinstance(phone, Vowel) and not phone.is_stressed:
-                        fauxnetic = fauxnetic.lower() # unstressed vowels to lowercase
-                    transcription += fauxnetic + "."
-            
             
             # print results
             if not override:
@@ -107,9 +88,6 @@ def lexiguess(entry):
                     print(f"Best guess at lexical sets: {", ".join(lexical_sets)}\n")
                 else:
                     result.append(f"{word}: {", ".join(lexical_sets)}")
-
-            if do_fx:
-                print(f"fauxnetic transcription (GenAm): {transcription.strip(".")}")
             
             # check for homonyms
             if homonyms != len(tokens) - 1:
